@@ -5,7 +5,7 @@ import { prisma } from '@/lib/prisma';
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
     const session = await getServerSession(authOptions);
@@ -16,9 +16,10 @@ export async function GET(
       );
     }
 
+    const resolvedParams = await params;
     const caderno = await prisma.customList.findFirst({
       where: {
-        id: params.id,
+        id: resolvedParams.id,
         userId: session.user.id,
       },
     });
@@ -46,7 +47,7 @@ export async function GET(
 
 export async function PUT(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
     const session = await getServerSession(authOptions);
@@ -58,10 +59,11 @@ export async function PUT(
     }
 
     const { nome, descricao, questionCodes } = await request.json();
+    const resolvedParams = await params;
 
     const caderno = await prisma.customList.findFirst({
       where: {
-        id: params.id,
+        id: resolvedParams.id,
         userId: session.user.id,
       },
     });
@@ -75,7 +77,7 @@ export async function PUT(
 
     const cadernoAtualizado = await prisma.customList.update({
       where: {
-        id: params.id,
+        id: resolvedParams.id,
       },
       data: {
         nome: nome || caderno.nome,
@@ -100,7 +102,7 @@ export async function PUT(
 
 export async function DELETE(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
     const session = await getServerSession(authOptions);
@@ -111,9 +113,10 @@ export async function DELETE(
       );
     }
 
+    const resolvedParams = await params;
     const caderno = await prisma.customList.findFirst({
       where: {
-        id: params.id,
+        id: resolvedParams.id,
         userId: session.user.id,
       },
     });
@@ -127,7 +130,7 @@ export async function DELETE(
 
     await prisma.customList.delete({
       where: {
-        id: params.id,
+        id: resolvedParams.id,
       },
     });
 

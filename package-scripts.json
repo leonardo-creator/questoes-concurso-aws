@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "node scripts/process-questoes.mjs && next build",
+    "build:production": "npm run build && npm start",
+    "dev": "next dev",
+    "start": "next start",
+    "lint": "next lint",
+    "db:generate": "prisma generate",
+    "db:push": "prisma db push",
+    "db:studio": "prisma studio",
+    "process-data": "node scripts/process-questoes.mjs",
+    "setup": "npm run db:generate && npm run db:push && npm run process-data"
+  }
+}

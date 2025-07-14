@@ -1,0 +1,2457 @@
+[
+  {
+    "nome": "Academia de Polícia Civil de Minas Gerais",
+    "sigla": "ACADEPOL MG",
+    "descricao": "ACADEPOL - MG - Academia de Polícia Civil de Minas Gerais"
+  },
+  {
+    "nome": "ACAPLAM Consultoria e Assessoria Técnica e Estados e Municípios",
+    "sigla": "ACAPLAM",
+    "descricao": "ACAPLAM Consultoria e Assessoria Técnica e Estados e Municípios - ACAPLAM"
+  },
+  {
+    "nome": "Acesse Concursos LTDA ME",
+    "sigla": "Acesse",
+    "descricao": "Acesse Concursos LTDA ME - Acesse"
+  },
+  {
+    "nome": "ACP Informática",
+    "sigla": "ACP",
+    "descricao": "ACP Informática"
+  },
+  {
+    "nome": "ACPM - RJ",
+    "sigla": "ACPMRJ",
+    "descricao": "ACPM - RJ - ACPMRJ"
+  },
+  {
+    "nome": "ALPHA Prestação de serviços e empreendimentos",
+    "sigla": "ALPHA",
+    "descricao": "ALPHA Prestação de serviços e empreendimentos - ALPHA"
+  },
+  {
+    "nome": "Alternative Concursos",
+    "sigla": "Alternative",
+    "descricao": "Alternative Concursos - Alternative"
+  },
+  {
+    "nome": "ÁPICE Concursos Públicos",
+    "sigla": "APICE",
+    "descricao": "ÁPICE Concursos Públicos - ÁPICE"
+  },
+  {
+    "nome": "Apoio às residências em saúde",
+    "sigla": "ARES",
+    "descricao": "Apoio às residências em saúde - ARES"
+  },
+  {
+    "nome": "Aprender SC",
+    "sigla": "Aprender",
+    "descricao": "Aprender SC - Aprender"
+  },
+  {
+    "nome": "ASSCONPP Assessoria e Consultoria",
+    "sigla": "ASSCONPP",
+    "descricao": "ASSCONPP Assessoria e Consultoria - ASSCONPP"
+  },
+  {
+    "nome": "Assessoria Consultoria e Gestão",
+    "sigla": "CSC",
+    "descricao": "Assessoria Consultoria e Gestão - CSC"
+  },
+  {
+    "nome": "Assessoria e Consultoria Ltda",
+    "sigla": "ASTEC",
+    "descricao": "Assessoria e Consultoria Ltda - ASTEC"
+  },
+  {
+    "nome": "Assessoria e Consultoria Pública",
+    "sigla": "Planexcon",
+    "descricao": "Assessoria e Consultoria Pública - Planexcon"
+  },
+  {
+    "nome": "Assessoria e Gestão em Administração Eireli",
+    "sigla": "ASSEGE",
+    "descricao": "Assessoria e Gestão em Administração Eireli - ASSEGE"
+  },
+  {
+    "nome": "Assessoria e Gestão Integrada em Recursos Humanos S/C Ltda. ME",
+    "sigla": "AGIRH",
+    "descricao": "Assessoria e Gestão Integrada em Recursos Humanos S/C Ltda. ME - AGIRH"
+  },
+  {
+    "nome": "Assessoria em Organização de Concursos Públicos",
+    "sigla": "AOCP",
+    "descricao": "Assessoria em Organização de Concursos Públicos - AOCP"
+  },
+  {
+    "nome": "Assessoria, Consultoria Contábil, Previdenciária e Gestão de Pessoas",
+    "sigla": "ASCONPREV",
+    "descricao": "Assessoria, Consultoria Contábil, Previdenciária e Gestão de Pessoas - ASCONPREV"
+  },
+  {
+    "nome": "Associação Brasileira de Concursos Públicos",
+    "sigla": "ABCP",
+    "descricao": "Associação Brasileira de Concursos Públicos - ABCP"
+  },
+  {
+    "nome": "Associação Catarinense das Fundações Educacionais",
+    "sigla": "ACAFE",
+    "descricao": "Associação Catarinense das Fundações Educacionais- ACAFE"
+  },
+  {
+    "nome": "Associação Catarinense de Estudos e Pesquisas",
+    "sigla": "ACEP",
+    "descricao": "Associação Catarinense de Estudos e Pesquisas - ACEP"
+  },
+  {
+    "nome": "Associação Catarinense de Medicina",
+    "sigla": "ACM",
+    "descricao": "Associação Catarinense de Medicina - ACM"
+  },
+  {
+    "nome": "Associação dos Municípios do Alto Uruguai Catarinense",
+    "sigla": "AMAUC",
+    "descricao": "Associação dos Municípios do Alto Uruguai Catarinense - AMAUC"
+  },
+  {
+    "nome": "Associação dos Municípios do Extremo Oeste de Santa Catarina",
+    "sigla": "AMEOSC",
+    "descricao": "Associação dos Municípios do Extremo Oeste de Santa Catarina - AMEOSC"
+  },
+  {
+    "nome": "Associação Educacional Dom Bosco",
+    "sigla": "AEDB",
+    "descricao": "Associação Educacional Dom Bosco - AEDB"
+  },
+  {
+    "nome": "ATAME Grupo",
+    "sigla": "ATAME",
+    "descricao": "ATAME Grupo - ATAME"
+  },
+  {
+    "nome": "Atena Assessoria Educacional",
+    "sigla": "Atena",
+    "descricao": "ATENA"
+  },
+  {
+    "nome": "Centro de Educação Tecnológica do Amazonas",
+    "sigla": "CETAM",
+    "descricao": "Centro de Educação Tecnológica do Amazonas - CETAM"
+  },
+  {
+    "nome": "Centro de Educação Tecnológica do Estado do Ceará",
+    "sigla": "CENTEC",
+    "descricao": "Centro de Educação Tecnológica do Estado do Ceará - CENTEC"
+  },
+  {
+    "nome": "Centro de Estudos e Aperfeiçoamento Funcional",
+    "sigla": "CEAF",
+    "descricao": "Centro de Estudos e Aperfeiçoamento Funcional - CEAF"
+  },
+  {
+    "nome": "Centro de Extensão, Treinamento e Aperfeiçoamento Profissional Ltda",
+    "sigla": "CETAP",
+    "descricao": "Centro de Extensão, Treinamento e Aperfeiçoamento Profissional Ltda - CETAP"
+  },
+  {
+    "nome": "Centro de Instrução Almirante Graça Aranha - CIAGA",
+    "sigla": "CIAGA",
+    "descricao": "Centro de Instrução Almirante Graça Aranha - CIAGA - CIAGA"
+  },
+  {
+    "nome": "Centro de Instrução e Adaptação",
+    "sigla": "CIAAR",
+    "descricao": "Centro de Instrução e Adaptação- CIAAR"
+  },
+  {
+    "nome": "Centro de Processos Seletivos da Universidade Federal do Pará",
+    "sigla": "CEPS UFPA",
+    "descricao": "Centro de Processos Seletivos da Universidade Federal do Pará - CEPS UFPA"
+  },
+  {
+    "nome": "Centro de Produção da Universidade do Rio de Janeiro",
+    "sigla": "CEPUERJ",
+    "descricao": "Centro de Produção da Universidade do Rio de Janeiro- CEPUERJ"
+  },
+  {
+    "nome": "Centro de Produção da Universidade Federal do Rio de Janeiro",
+    "sigla": "CEPEURJ",
+    "descricao": "Centro de Produção da Universidade Federal do Rio de Janeiro - CEPEURJ"
+  },
+  {
+    "nome": "Centro de Seleção e de Promoção de Eventos UnB",
+    "sigla": "CESPE CEBRASPE",
+    "descricao": "Centro de Seleção e de Promoção de Eventos UnB - CESPE/CEBRASPE"
+  },
+  {
+    "nome": "Centro de Treinamento e Desenvolvimento",
+    "sigla": "CETREDE",
+    "descricao": "Centro de Treinamento e Desenvolvimento - CETREDE"
+  },
+  {
+    "nome": "Centro Federal de Educação Tecnológica de Minas Gerais - CEFET/MG",
+    "sigla": "CEFET MG",
+    "descricao": "Centro Federal de Educação Tecnológica de Minas Gerais - CEFET/MG - CEFET/MG"
+  },
+  {
+    "nome": "Centro Nacional de Monitoramento e Alertas de Desastres Naturais",
+    "sigla": "CEMADEN",
+    "descricao": "Cemaden"
+  },
+  {
+    "nome": "Centro Universitário Arthur Sá Earp Neto",
+    "sigla": "UNIFASE",
+    "descricao": "Centro Universitário Arthur Sá Earp Neto- UNIFASE"
+  },
+  {
+    "nome": "Centro Universitário Barriga Verde",
+    "sigla": "Unibave",
+    "descricao": "Centro Universitário Barriga Verde- Unibave"
+  },
+  {
+    "nome": "Centro Universitário de Brasília",
+    "sigla": "CEUB",
+    "descricao": "Centro Universitário de Brasília- CEUB"
+  },
+  {
+    "nome": "Centro Universitário de Mineiros",
+    "sigla": "UNIFIMES",
+    "descricao": "Centro Universitário de Mineiros - UNIFIMES"
+  },
+  {
+    "nome": "Centro Universitário de União da Vitória",
+    "sigla": "UNIUV",
+    "descricao": "Centro Universitário de União da Vitória - UNIUV"
+  },
+  {
+    "nome": "Centro Universitário Fundação Santo André",
+    "sigla": "FSA",
+    "descricao": "Centro Universitário Fundação Santo André - FSA"
+  },
+  {
+    "nome": "Centro Universitário Luterano de Palmas",
+    "sigla": "ULBRA",
+    "descricao": "Centro Universitário Luterano de Palmas - ULBRA"
+  },
+  {
+    "nome": "Cetro Concursos Públicos",
+    "sigla": "CETRO",
+    "descricao": "Cetro Concursos Públicos - CETRO"
+  },
+  {
+    "nome": "CMM Assessoria e Consultoria em Gestão Pública",
+    "sigla": "CMM",
+    "descricao": "CMM Assessoria e Consultoria em Gestão Pública - CMM"
+  },
+  {
+    "nome": "Comissão de Residência Multiprofissional",
+    "sigla": "COREMU UFG",
+    "descricao": "Comissão de Residência Multiprofissional - COREMU - UFG"
+  },
+  {
+    "nome": "Comissão de Residência Multiprofissional da Universidade Federal de Sergipe",
+    "sigla": "COREMU UFSE",
+    "descricao": "Comissão de Residência Multiprofissional"
+  },
+  {
+    "nome": "Comissão Executiva do Vestibular da Universidade Estadual do Ceará",
+    "sigla": "CEV UECE",
+    "descricao": "Comissão Executiva do Vestibular da Universidade Estadual do Ceará -CEV / UECE"
+  },
+  {
+    "nome": "Comissão Executiva do Vestibular da Universidade Regional do Cariri",
+    "sigla": "CEV URCA",
+    "descricao": "Comissão Executiva do Vestibular da Universidade Regional do Cariri - CEV - URCA"
+  },
+  {
+    "nome": "Comissão Executora de Concurso da Universidade Federal de Pernambuco",
+    "sigla": "CEC UFPE",
+    "descricao": "Comissão Executora de Concurso da Universidade Federal de Pernambuco - CEC UFPE"
+  },
+  {
+    "nome": "Comissão permanente de Concursos - UFAM",
+    "sigla": "COMPEC",
+    "descricao": "Comissão permanente de Concursos - UFAM - COMPEC"
+  },
+  {
+    "nome": "Comissão Permanente de Concursos da Universidade Estadual da Paraíba",
+    "sigla": "CPCON UEPB",
+    "descricao": "Comissão Permanente de Concursos da Universidade Estadual da Paraíba - CPCON UEPB"
+  },
+  {
+    "nome": "Comissão permanente de Seleção da Universidade Federal do Piauí",
+    "sigla": "COPESE UFPI",
+    "descricao": "Comissão permanente de Seleção da Universidade Federal do Piauí -COPESE/UFPI"
+  },
+  {
+    "nome": "Comissão Permanente de Seleção da Universidade Federal do Rio Grande do Sul",
+    "sigla": "UFRGS COPERSE",
+    "descricao": "Universidade Federal do Rio Grande do Sul - UFRGS"
+  },
+  {
+    "nome": "Comissão Permanente de Seleção da Universidade Federal do Tocantins",
+    "sigla": "COPESE UFT",
+    "descricao": "Comissão Permanente de Seleção da Universidade Federal do Tocantins - COPESE/UFT"
+  },
+  {
+    "nome": "Comissão Permanente de Vestibular da Universidade Federal de Santa Catarina",
+    "sigla": "COPERVE UFSC",
+    "descricao": "Comissão Permanente de Vestibular da Universidade Federal de Santa Catarina - COPERVE/UFSC"
+  },
+  {
+    "nome": "Comissão Permanente de Vestibular da Universidade Federal de Santa Maria",
+    "sigla": "COPERVE UFSM",
+    "descricao": "Comissão Permanente de Vestibular da Universidade Federal de Santa Maria - COPERVE-UFSM"
+  },
+  {
+    "nome": "Comissão Permanente do Vestibular da Universidade Federal do Rio Grande do Norte",
+    "sigla": "COMPERVE UFRN",
+    "descricao": "Comissão Permanente do Vestibular da Universidade Federal do Rio Grande do Norte - COMPERVE-UFRN"
+  },
+  {
+    "nome": "Comissão Permanente para os Vestibulares da Unicamp",
+    "sigla": "COMVEST",
+    "descricao": "Comissão Permanente para os Vestibulares da Unicamp - COMVEST"
+  },
+  {
+    "nome": "Companhia de Saneamento de Minas Gerais",
+    "sigla": "COPASA MG",
+    "descricao": "COPASA - MG - Companhia de Saneamento de Minas Gerais"
+  },
+  {
+    "nome": "CONCEPÇÃO Consultoria Técnica Especializada",
+    "sigla": "CONCEPCAO",
+    "descricao": "CONCEPÇÃO Consultoria Técnica Especializada - CONCEPCAO"
+  },
+  {
+    "nome": "Concursos Públicos e Assessorias EIRELI",
+    "sigla": "CONPASS",
+    "descricao": "Concursos Públicos e Assessorias EIRELI - CONPASS"
+  },
+  {
+    "nome": "CONESUL Fundação de Desenvolvimento",
+    "sigla": "CONESUL",
+    "descricao": "CONESUL Fundação de Desenvolvimento - CONESUL"
+  },
+  {
+    "nome": "Conrio Concursos",
+    "sigla": "Conrio",
+    "descricao": "Conrio Concursos - Conrio"
+  },
+  {
+    "nome": "Consel Concursos",
+    "sigla": "Consel",
+    "descricao": "Consel Concursos - Consel"
+  },
+  {
+    "nome": "Conselho Federal de Contabilidade",
+    "sigla": "CFC",
+    "descricao": "Conselho Federal de Contabilidade - CFC"
+  },
+  {
+    "nome": "Conselho Regional de Serviço Social da 7ª Região",
+    "sigla": "CRESS RJ",
+    "descricao": "Conselho Regional de Serviço Social da 7ª Região - CRESS RJ"
+  },
+  {
+    "nome": "Consórcio de Municípios do Agreste e Mata Sul do Estado de Pernambuco",
+    "sigla": "COMAGSUL",
+    "descricao": "Consórcio de Municípios do Agreste e Mata Sul do Estado de Pernambuco - COMAGSUL"
+  },
+  {
+    "nome": "Consórcio Intermunicipal de Especialidades",
+    "sigla": "CIESP",
+    "descricao": "Consórcio Intermunicipal de Especialidades - CIESP"
+  },
+  {
+    "nome": "Consultoria e Concursos",
+    "sigla": "IBRASP",
+    "descricao": "Consultoria e Concursos - IBRASP -"
+  },
+  {
+    "nome": "Consultoria e Planejamento em Administração Pública LTDA",
+    "sigla": "Consulplan",
+    "descricao": "Consultoria e Planejamento em Administração Pública LTDA - Consulplan"
+  },
+  {
+    "nome": "Consultoria Público-Privada",
+    "sigla": "Instituto CONSULPAM",
+    "descricao": "Consultoria Público-Privada - Instituto CONSULPAM"
+  },
+  {
+    "nome": "Consultoria Técnica e Planejamento LTDA",
+    "sigla": "Contemax",
+    "descricao": "Consultoria Técnica e Planejamento LTDA - Contemax"
+  },
+  {
+    "nome": "Contabilidade Municipal Administração Assessoria Jurídica",
+    "sigla": "COMAJ",
+    "descricao": "COMAJ - Contabilidade Municipal Administração Assessoria Jurídica"
+  },
+  {
+    "nome": "Coordenação de Seleção e Admissão da Universidade Estadual de Feira de Santana",
+    "sigla": "UEFS",
+    "descricao": "Coordenação de Seleção e Admissão da Universidade Estadual de Feira de Santana - UEFS"
+  },
+  {
+    "nome": "Coordenação Geral de Processos Seletivos da Universidade Federal de Juiz de Fora",
+    "sigla": "COPESE UFJF",
+    "descricao": "Coordenação Geral de Processos Seletivos da Universidade Federal de Juiz de Fora - COPESE/UFJF"
+  },
+  {
+    "nome": "Coordenadoria de Apoio a Instituições Públicas IMES",
+    "sigla": "CAIPIMES",
+    "descricao": "Coordenadoria de Apoio a Instituições Públicas IMES - CAIPIMES"
+  },
+  {
+    "nome": "Coordenadoria de Concurso e Exames Vestibulares",
+    "sigla": "CEV UFMT",
+    "descricao": "Coordenadoria de Concurso e Exames Vestibulares - CEV / UFMT"
+  },
+  {
+    "nome": "Coordenadoria de Concursos da Universidade Federal do Cariri",
+    "sigla": "CCV UFC",
+    "descricao": "Coordenadoria de Concursos da Universidade Federal do Cariri - CCV / UFC"
+  },
+  {
+    "nome": "Coordenadoria de Desenvolvimento de Pessoal da Pró-reitoria de Gestão de Pessoal da UFRB",
+    "sigla": "CDP UFRB",
+    "descricao": "Coordenadoria de Desenvolvimento de Pessoal da Pró-reitoria de Gestão de Pessoal da UFRB"
+  },
+  {
+    "nome": "Coordenadoria de Processos Seletivos da Universidade Estadual de Londrina",
+    "sigla": "COPS UEL",
+    "descricao": "Coordenadoria de Processos Seletivos da Universidade Estadual de Londrina - COPS UEL"
+  },
+  {
+    "nome": "Coordenadoria de Vestibulares e Concursos UDESC",
+    "sigla": "COVEST UDESC",
+    "descricao": "Coordenadoria de Vestibulares e Concursos UDESC - COVEST/UDESC"
+  },
+  {
+    "nome": "Corpo de Bombeiros Militar do Mato Grosso do Sul",
+    "sigla": "CBM MS",
+    "descricao": "Corpo de Bombeiros Militar do Mato Grosso do Sul - CBM MS"
+  },
+  {
+    "nome": "COVEST Comissão de Processos Seletivos e Treinamentos",
+    "sigla": "COVEST",
+    "descricao": "COVEST Comissão de Processos Seletivos e Treinamentos - COVEST"
+  },
+  {
+    "nome": "Crescer Consultorias",
+    "sigla": "Crescer",
+    "descricao": "Crescer Consultorias - Crescer"
+  },
+  {
+    "nome": "CRS - Polícia Militar de Minas Gerais",
+    "sigla": "CRS PMMG",
+    "descricao": "CRS - Polícia Militar de Minas Gerais - CRS - PMMG"
+  },
+  {
+    "nome": "Cursiva",
+    "sigla": "Cursiva",
+    "descricao": "Cursiva- Cursiva"
+  },
+  {
+    "nome": "Defensoria Pública do Estado do Rio de Janeiro",
+    "sigla": "DPE",
+    "descricao": "Defensoria Pública do Estado do Rio de Janeiro - DPE"
+  },
+  {
+    "nome": "Departamento de Água e Esgoto de Bauru",
+    "sigla": "DAE",
+    "descricao": "Departamento de Água e Esgoto de Bauru - DAE"
+  },
+  {
+    "nome": "Departamento de Ensino da Aeronáutica",
+    "sigla": "DEPENS",
+    "descricao": "Departamento de Ensino da Aeronáutica - DEPENS"
+  },
+  {
+    "nome": "Departamento de Trânsito de São Paulo",
+    "sigla": "DETRAN SP",
+    "descricao": "Departamento de Trânsito de São Paulo - DETRAN/SP"
+  },
+  {
+    "nome": "Desenvolvimento Institucional e de Carreiras - LTDA",
+    "sigla": "EMBRASIL",
+    "descricao": "Desenvolvimento Institucional e de Carreiras - LTDA- EMBRASIL"
+  },
+  {
+    "nome": "Directa Desenvolvimento Institucional e de Carreiras LTDA",
+    "sigla": "Directa",
+    "descricao": "Directa Desenvolvimento Institucional e de Carreiras LTDA - Directa"
+  },
+  {
+    "nome": "Diretoria de Concursos e Vestibulares",
+    "sigla": "CONVEST UNEMAT",
+    "descricao": "Diretoria de Concursos e Vestibulares - CONVEST/UNEMAT"
+  },
+  {
+    "nome": "Diretoria de Ensino da Aeronáutica",
+    "sigla": "DIRENS Aeronautica",
+    "descricao": "Diretoria de Ensino da Aeronáutica - DIRENS - Aeronáutica"
+  },
+  {
+    "nome": "Diretoria de Ensino da Marinha",
+    "sigla": "DIRENS Marinha",
+    "descricao": "Diretoria de Ensino da Marinha - DIRENS - Marinha"
+  },
+  {
+    "nome": "Diretoria de Ensino, Instrução e Pesquisa",
+    "sigla": "DEIP",
+    "descricao": "Diretoria de Ensino, Instrução e Pesquisa - DEIP"
+  },
+  {
+    "nome": "EDUCA Assessoria Educacional",
+    "sigla": "EDUCA",
+    "descricao": "EDUCA Assessoria Educacional - EDUCA"
+  },
+  {
+    "nome": "EDUSERV - Educação, Consultoria, Eventos e Serviços Ltda",
+    "sigla": "EDUSERV",
+    "descricao": "EDUSERV - Educação, Consultoria, Eventos e Serviços Ltda - EDUSERV"
+  },
+  {
+    "nome": "Empresa de Seleção Pública e Privada",
+    "sigla": "ESPP",
+    "descricao": "ESPP - Empresa de Seleção Pública e Privada"
+  },
+  {
+    "nome": "Empresa de Seleção Pública e Privada",
+    "sigla": "ESPP",
+    "descricao": "Empresa de Seleção Pública e Privada - ESPP"
+  },
+  {
+    "nome": "EPBAZI Organização & Métodos",
+    "sigla": "EPBAZI",
+    "descricao": "EPBAZI Organização & Métodos - EPBAZI"
+  },
+  {
+    "nome": "Escola de Administração Fazendária",
+    "sigla": "ESAF",
+    "descricao": "Escola de Administração Fazendária - ESAF"
+  },
+  {
+    "nome": "Escola de Especialistas de Aeronáutica",
+    "sigla": "EEAR",
+    "descricao": "Escola de Especialistas de Aeronáutica - EEAR"
+  },
+  {
+    "nome": "Escola de Formação Complementar do Exército",
+    "sigla": "EsFCEx",
+    "descricao": "Escola de Formação Complementar do Exército - EsFCEx"
+  },
+  {
+    "nome": "Escola de Sargentos das Armas",
+    "sigla": "ESA",
+    "descricao": "Escola de Sargentos das Armas - ESA"
+  },
+  {
+    "nome": "Escola de Saúde do Exército - EsSEx",
+    "sigla": "EsSEx",
+    "descricao": "Escola de Saúde do Exército - EsSEx - EsSEx"
+  },
+  {
+    "nome": "Escola de Saúde Pública da Paraíba",
+    "sigla": "ESP",
+    "descricao": "Escola de Saúde Pública da Paraíba - ESP"
+  },
+  {
+    "nome": "Escola de Saúde Pública do Ceará",
+    "sigla": "ESP CE",
+    "descricao": "Escola de Saúde Pública do Ceará - ESP/CE"
+  },
+  {
+    "nome": "Escola Judicial do Amapá",
+    "sigla": "EJAP",
+    "descricao": "Escola Judicial do Amapá - EJAP"
+  },
+  {
+    "nome": "Escola Judiciária do Estado do Piauí",
+    "sigla": "EJUD PI",
+    "descricao": "Escola Judiciária do Estado do Piauí - EJUD-PI"
+  },
+  {
+    "nome": "Escola Preparatória de Cadetes do Ar",
+    "sigla": "EPCAR",
+    "descricao": "Escola Preparatória de Cadetes do Ar - EPCAR"
+  },
+  {
+    "nome": "Escola Preparatória de Cadetes do Exército",
+    "sigla": "ESPCEX",
+    "descricao": "Escola Preparatória de Cadetes do Exército - ESPCEX"
+  },
+  {
+    "nome": "Evolução Consultoria",
+    "sigla": "Instituto Evo",
+    "descricao": "Evolução Consultoria - Instituto Evo"
+  },
+  {
+    "nome": "EXATUS / EXATUSPR Promotores de Eventos e Consultorias",
+    "sigla": "EXATUS EXATUSPR",
+    "descricao": "EXATUS / EXATUSPR Promotores de Eventos e Consultorias - EXATUS / EXATUSPR"
+  },
+  {
+    "nome": "Excelência Seleções e Concursos Públicos",
+    "sigla": "Excelencia",
+    "descricao": "Excelência Seleções e Concursos Públicos - Excelência"
+  },
+  {
+    "nome": "Exército Brasileiro",
+    "sigla": "Exercito",
+    "descricao": "Exército Brasileiro - Exército"
+  },
+  {
+    "nome": "FACET Concursos",
+    "sigla": "FACET",
+    "descricao": "FACET Concursos - FACET"
+  },
+  {
+    "nome": "Faculdade Alfa",
+    "sigla": "UNIALFA",
+    "descricao": "Faculdade Alfa - UNIALFA"
+  },
+  {
+    "nome": "Faculdade de Apoio à Tecnologia",
+    "sigla": "FAT",
+    "descricao": "Faculdade de Apoio à Tecnologia - FAT"
+  },
+  {
+    "nome": "Faculdade de Ciências Aplicadas e Sociais de Petrolina",
+    "sigla": "FACAPE",
+    "descricao": "Faculdade de Ciências Aplicadas e Sociais de Petrolina - FACAPE"
+  },
+  {
+    "nome": "Faculdade de Ciências Médicas da Universidade Estadual de Campinas",
+    "sigla": "FCM",
+    "descricao": "Faculdade de Ciências Médicas da Universidade Estadual de Campinas - FCM"
+  },
+  {
+    "nome": "FAFIPA Fundação de Apoio",
+    "sigla": "FAFIPA",
+    "descricao": "FAFIPA Fundação de Apoio - FAFIPA"
+  },
+  {
+    "nome": "Fênix Concursos",
+    "sigla": "Fenix",
+    "descricao": "Fênix Concursos - Fênix"
+  },
+  {
+    "nome": "FRAMINAS",
+    "sigla": "FRAMINAS FADECIT",
+    "descricao": "FRAMINAS - FRAMINAS / FADECIT"
+  },
+  {
+    "nome": "FUCAP Consultoria e Assessoria Pública",
+    "sigla": "FUCAP",
+    "descricao": "FUCAP Consultoria e Assessoria Pública - FUCAP"
+  },
+  {
+    "nome": "Funcionalismo Público Efetivo",
+    "sigla": "FUNCEFET",
+    "descricao": "Funcionalismo Público Efetivo - FUNCEFET -"
+  },
+  {
+    "nome": "Fundação AJURI",
+    "sigla": "AJURI",
+    "descricao": "Fundação AJURI - AJURI"
+  },
+  {
+    "nome": "Fundação Aroeira",
+    "sigla": "Fundacao Aroeira",
+    "descricao": "Fundação Aroeira- Fundação Aroeira"
+  },
+  {
+    "nome": "Fundação Benjamin Constant",
+    "sigla": "FAIBC",
+    "descricao": "FAIBC - Fundação Benjamin Constant"
+  },
+  {
+    "nome": "Fundação BIO-RIO",
+    "sigla": "BIO RIO",
+    "descricao": "Fundação BIO-RIO - BIO-RIO"
+  },
+  {
+    "nome": "Fundação Brasileira de Contabilidade",
+    "sigla": "FBC",
+    "descricao": "Fundação Brasileira de Contabilidade - FBC"
+  },
+  {
+    "nome": "Fundação Carlos Chagas",
+    "sigla": "FCC",
+    "descricao": "Fundação Carlos Chagas - FCC"
+  },
+  {
+    "nome": "Fundação Cearense de Pesquisa e Cultura",
+    "sigla": "FCPC",
+    "descricao": "Fundação Cearense de Pesquisa e Cultura- FCPC"
+  },
+  {
+    "nome": "Fundação Centro Estadual de Estatísticas, Pesquisas e Formação de Servidores Públicos do Rio de Janeiro",
+    "sigla": "CEPERJ",
+    "descricao": "Fundação Centro Estadual de Estatísticas, Pesquisas e Formação de Servidores Públicos do Rio de Janeiro - CEPERJ"
+  },
+  {
+    "nome": "Fundação CESGRANRIO",
+    "sigla": "CESGRANRIO",
+    "descricao": "Fundação CESGRANRIO - CESGRANRIO"
+  },
+  {
+    "nome": "Fundação de Amparo à Pesquisa e Exrensão Universitária",
+    "sigla": "FAPEU",
+    "descricao": "FAPEU - Fundação de Amparo à Pesquisa e Exrensão Universitária"
+  },
+  {
+    "nome": "Fundação de Amparo e Desenvolvimento da Pesquisa",
+    "sigla": "FADESP",
+    "descricao": "Fundação de Amparo e Desenvolvimento da Pesquisa - FADESP"
+  },
+  {
+    "nome": "Fundação de Apoio à Cultura, à Pesquisa e ao Desenvolvimento Institucional, Científico e Tecnológico",
+    "sigla": "CETREDE",
+    "descricao": "Fundação de Apoio à Cultura, à Pesquisa e ao Desenvolvimento Institucional, Científico e Tecnológico- CETREDE -"
+  },
+  {
+    "nome": "Fundação de Apoio à Cultura, Ensino, Pesquisa e Extensão de Alfenas",
+    "sigla": "FACEPE",
+    "descricao": "Fundação de Apoio à Cultura, Ensino, Pesquisa e Extensão de Alfenas - FACEPE"
+  },
+  {
+    "nome": "Fundação de Apoio à Educação e ao desenvolvimento Tecnológico do RN",
+    "sigla": "FUNCERN",
+    "descricao": "Fundação de Apoio à Educação e ao desenvolvimento Tecnológico do RN - FUNCERN"
+  },
+  {
+    "nome": "Fundação de Apoio à Educação e Desenvolvimento Tecnológico da Bahia",
+    "sigla": "CEFETBAHIA",
+    "descricao": "Fundação de Apoio à Educação e Desenvolvimento Tecnológico da Bahia- CEFETBAHIA"
+  },
+  {
+    "nome": "Fundação de Apoio à Educação e Desenvolvimento Tecnológico de Minas Gerais",
+    "sigla": "Fundacao CEFETMINAS",
+    "descricao": "Fundação de Apoio à Educação e Desenvolvimento Tecnológico de Minas Gerais - Fundação CEFETMINAS"
+  },
+  {
+    "nome": "Fundação de Apoio à educação, Pesquisae Desenvolvimento CientíficoTecnológico da Universidade Tecnológica Federal do Paraná",
+    "sigla": "FUNTEF",
+    "descricao": "Fundação de Apoio à educação, Pesquisae Desenvolvimento CientíficoTecnológico da Universidade Tecnológica Federal do Paraná - FUNTEF"
+  },
+  {
+    "nome": "Fundação de Apoio à Pesquisa ao Ensino e à Cultura",
+    "sigla": "FAPEC",
+    "descricao": "Fundação de Apoio à Pesquisa ao Ensino e à Cultura - FAPEC"
+  },
+  {
+    "nome": "Fundação de Apoio ã Pesquisa ao Ensino e à Cultura de MS",
+    "sigla": "FAPEMS",
+    "descricao": "Fundação de Apoio ã Pesquisa ao Ensino e à Cultura de MS - FAPEMS"
+  },
+  {
+    "nome": "Fundação de Apoio à Pesquisa e Extensão de São José do Rio Preto",
+    "sigla": "FAPERP",
+    "descricao": "Fundação de Apoio à Pesquisa e Extensão de São José do Rio Preto - FAPERP"
+  },
+  {
+    "nome": "Fundação de Apoio à Pesquisa e Extensão de Sergipe",
+    "sigla": "FAPESE",
+    "descricao": "Fundação de Apoio à Pesquisa e Extensão de Sergipe - FAPESE"
+  },
+  {
+    "nome": "Fundação de Apoio a Serviços Técnicos, Ensino e Fomento a Pesquisas - FASTEF",
+    "sigla": "FASTEF",
+    "descricao": "Fundação de Apoio a Serviços Técnicos, Ensino e Fomento a Pesquisas - FASTEF - FASTEF"
+  },
+  {
+    "nome": "Fundação de Apoio à UNESPAR",
+    "sigla": "UNESPAR",
+    "descricao": "Fundação de Apoio à UNESPAR - UNESPAR"
+  },
+  {
+    "nome": "Fundação de Apoio a Universidade Municipal de São Caetano do Sul",
+    "sigla": "FAUSCS",
+    "descricao": "Fundação de Apoio a Universidade Municipal de São Caetano do Sul - FAUSCS"
+  },
+  {
+    "nome": "Fundação de Apoio ao Desenvolvimento Científico do Vale do Piquiri",
+    "sigla": "FADCT",
+    "descricao": "Fundação de Apoio ao Desenvolvimento Científico do Vale do Piquiri - FADCT"
+  },
+  {
+    "nome": "Fundação de Apoio ao Desenvolvimento da Educação de Mato Grosso do Sul",
+    "sigla": "FADEMS",
+    "descricao": "FADEMS - Fundação de Apoio ao Desenvolvimento da Educação de Mato Grosso do Sul"
+  },
+  {
+    "nome": "Fundação de Apoio ao Desenvolvimento da UEL",
+    "sigla": "FAUEL",
+    "descricao": "Fundação de Apoio ao Desenvolvimento da UEL - FAUEL"
+  },
+  {
+    "nome": "Fundação de Apoio ao Desenvolvimento do Ensino Superior do Norte de Minas",
+    "sigla": "COTEC FADENOR",
+    "descricao": "Fundação de Apoio ao Desenvolvimento do Ensino Superior do Norte de Minas- COTEC - FADENOR"
+  },
+  {
+    "nome": "Fundação de Apoio ao Ensino, Extensão e Pesquisas de Alagoas",
+    "sigla": "FEPESA",
+    "descricao": "Fundação de Apoio ao Ensino, Extensão e Pesquisas de Alagoas - FEPESA"
+  },
+  {
+    "nome": "Fundação de Apoio ao Esino, Pesquisa, e Desenvolvimento da Polícia Civil do Estado do Rio de Janeiro",
+    "sigla": "FAEPOL",
+    "descricao": "FAEPOL - Fundação de Apoio ao Esino, Pesquisa, e Desenvolvimento da Polícia Civil do Estado do Rio de Janeiro"
+  },
+  {
+    "nome": "Fundação de Apoio da Universidade Federal do Rio Grande do Sul",
+    "sigla": "FAURGS",
+    "descricao": "Fundação de Apoio da Universidade Federal do Rio Grande do Sul - FAURGS"
+  },
+  {
+    "nome": "Fundação de Apoio e Desenvolvimento ao Ensino, Pesquisa e Extensão Universitária do Acre",
+    "sigla": "FUNDAPE",
+    "descricao": "Fundação de Apoio e Desenvolvimento ao Ensino, Pesquisa e Extensão Universitária do Acre - FUNDAPE"
+  },
+  {
+    "nome": "Fundação de Apoioao Desenvolvimento Unicentro",
+    "sigla": "FAU UNICENTRO",
+    "descricao": "Fundação de Apoioao Desenvolvimento Unicentro- FAU UNICENTRO"
+  },
+  {
+    "nome": "Fundação de Cultura e Apoio ao Ensino Pesquisa e Extensão",
+    "sigla": "FUNCEPE",
+    "descricao": "Fundação de Cultura e Apoio ao Ensino Pesquisa e Extensão- FUNCEPE"
+  },
+  {
+    "nome": "Fundação de desenvolvimento da pesquisa",
+    "sigla": "FUNDEP UFMG",
+    "descricao": "Fundação de desenvolvimento da pesquisa - FUNDEP / UFMG"
+  },
+  {
+    "nome": "Fundação de Ensino de Contagem",
+    "sigla": "FUNEC",
+    "descricao": "Fundação de Ensino de Contagem - FUNEC"
+  },
+  {
+    "nome": "Fundação de Ensino Superior de Goiatuba",
+    "sigla": "FESG",
+    "descricao": "Fundação de Ensino Superior de Goiatuba - FESG"
+  },
+  {
+    "nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+    "sigla": "FEPESE",
+    "descricao": "Fundação de Estudos e Pesquisas Socioeconômicos - FEPESE"
+  },
+  {
+    "nome": "Fundação de Estudos Superiores de administração e Gerência",
+    "sigla": "ESAG",
+    "descricao": "Fundação de Estudos Superiores de administração e Gerência - ESAG"
+  },
+  {
+    "nome": "Fundação de Saúde Pública de São Sebastião",
+    "sigla": "FSPSS",
+    "descricao": "Fundação de Saúde Pública de São Sebastião - FSPSS"
+  },
+  {
+    "nome": "Fundação Dom Cintra",
+    "sigla": "FDC",
+    "descricao": "Fundação Dom Cintra- FDC"
+  },
+  {
+    "nome": "Fundação Dracenense de Educação e Cultura",
+    "sigla": "FUNDEC",
+    "descricao": "Fundação Dracenense de Educação e Cultura- FUNDEC"
+  },
+  {
+    "nome": "Fundação Educacional Machado de Assis",
+    "sigla": "FEMA",
+    "descricao": "Fundação Educacional Machado de Assis - FEMA"
+  },
+  {
+    "nome": "Fundação Escola Superior do Ministério Público do Estado da Bahia",
+    "sigla": "FESMIP",
+    "descricao": "FESMIP - Fundação Escola Superior do Ministério Público do Estado da Bahia"
+  },
+  {
+    "nome": "Fundação Escola Superior do Ministério Público do Estado do RJ",
+    "sigla": "FEMPERJ",
+    "descricao": "Fundação Escola Superior do Ministério Público do Estado do RJ - FEMPERJ"
+  },
+  {
+    "nome": "Fundação Escola Superior do Ministério Público do RS",
+    "sigla": "FESMP RN",
+    "descricao": "FESMP - RN - Fundação Escola Superior do Ministério Público do RS"
+  },
+  {
+    "nome": "Fundação Escola Superior do Ministério Público do RS",
+    "sigla": "FESMP RN",
+    "descricao": "Fundação Escola Superior do Ministério Público do RS - FESMP - RN"
+  },
+  {
+    "nome": "Fundação Euclides da Cunha",
+    "sigla": "FEC",
+    "descricao": "Fundação Euclides da Cunha - FEC"
+  },
+  {
+    "nome": "Fundação Getúlio Vargas",
+    "sigla": "FGV",
+    "descricao": "Fundação Getúlio Vargas - FGV"
+  },
+  {
+    "nome": "Fundação Guimarães Rosa",
+    "sigla": "FGR",
+    "descricao": "Fundação Guimarães Rosa - FGR"
+  },
+  {
+    "nome": "Fundação Hospitalar do Estado de Minas Gerais",
+    "sigla": "FHEMIG",
+    "descricao": "FHEMIG - Fundação Hospitalar do Estado de Minas Gerais"
+  },
+  {
+    "nome": "Fundação Instituto Brasileiro de Direito Militar e Humanitário",
+    "sigla": "IBDMH",
+    "descricao": "Fundação Instituto Brasileiro de Direito Militar e Humanitário"
+  },
+  {
+    "nome": "Fundação João Goulart",
+    "sigla": "FJG",
+    "descricao": "Fundação João Goulart - FJG"
+  },
+  {
+    "nome": "Fundação João Pinheiro",
+    "sigla": "FJP",
+    "descricao": "FJP - Fundação João Pinheiro"
+  },
+  {
+    "nome": "Fundação José Pelúcio Ferreira",
+    "sigla": "FJPF",
+    "descricao": "Fundação José Pelúcio Ferreira - FJPF"
+  },
+  {
+    "nome": "Fundação Mariana Resende Costa",
+    "sigla": "FUMARC",
+    "descricao": "Fundação Mariana Resende Costa - FUMARC"
+  },
+  {
+    "nome": "Fundação para desenvolvimento de Recursos Humanos",
+    "sigla": "FDRH",
+    "descricao": "Fundação para desenvolvimento de Recursos Humanos - FDRH"
+  },
+  {
+    "nome": "Fundação para o Desenvolvimento da Ciência, Tecnologia e Inovação do Estado do Rio Grande do Norte",
+    "sigla": "FUNCITERN",
+    "descricao": "Fundação para o Desenvolvimento da Ciência, Tecnologia e Inovação do Estado do Rio Grande do Norte - FUNCITERN"
+  },
+  {
+    "nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+    "sigla": "VUNESP",
+    "descricao": "Fundação para o Vestibular da Universidade Estadual Paulista - VUNESP"
+  },
+  {
+    "nome": "Fundação Paraibana de Gestão em Saúde",
+    "sigla": "PB Saude",
+    "descricao": "Fundação Paraibana de Gestão em Saúde - PB Saúde"
+  },
+  {
+    "nome": "Fundação Professor Carlos Augusto Bittencourt",
+    "sigla": "FUNCAB",
+    "descricao": "Fundação Professor Carlos Augusto Bittencourt - FUNCAB"
+  },
+  {
+    "nome": "Fundação Renato Azeredo",
+    "sigla": "FRA",
+    "descricao": "Fundação Renato Azeredo"
+  },
+  {
+    "nome": "Fundação Sousândrade de Apoio ao Desenvolvimento da UFMA",
+    "sigla": "FSADU",
+    "descricao": "Fundação Sousândrade de Apoio ao Desenvolvimento da UFMA - FSADU"
+  },
+  {
+    "nome": "Fundação Universa",
+    "sigla": "FUNIVERSA",
+    "descricao": "Fundação Universa - FUNIVERSA"
+  },
+  {
+    "nome": "Fundação Universa",
+    "sigla": "Universa",
+    "descricao": "Fundação Universa - Universa"
+  },
+  {
+    "nome": "Fundação Universidade de Tocantis",
+    "sigla": "UNITINS",
+    "descricao": "Fundação Universidade de Tocantis - UNITINS"
+  },
+  {
+    "nome": "Fundação Universidade do Amazonas",
+    "sigla": "FUFAM",
+    "descricao": "Fundação Universidade do Amazonas - FUFAM"
+  },
+  {
+    "nome": "Fundação Universidade do Oeste de Santa Catarina",
+    "sigla": "Funoesc",
+    "descricao": "Fundação Universidade do Oeste de Santa Catarina - Funoesc"
+  },
+  {
+    "nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+    "sigla": "FUNDATEC",
+    "descricao": "Fundação Universidade Empresa de Tecnologia e Ciências- FUNDATEC"
+  },
+  {
+    "nome": "Fundação Universitária José Bonifácio",
+    "sigla": "FUJB",
+    "descricao": "FUJB - Fundação Universitária José Bonifácio"
+  },
+  {
+    "nome": "Fundação Universitária para o Vestibular da USP",
+    "sigla": "FUVEST",
+    "descricao": "Fundação Universitária para o Vestibular da USP - FUVEST"
+  },
+  {
+    "nome": "Fundação Vale do Piauí",
+    "sigla": "FUNVAPI",
+    "descricao": "Fundação Vale do Piauí - FUNVAPI"
+  },
+  {
+    "nome": "FUNDEP Gestão de Concursos",
+    "sigla": "FUNDEP",
+    "descricao": "FUNDEP Gestão de Concursos - FUNDEP"
+  },
+  {
+    "nome": "FUNDETEC - Fundação de Desenvolvimento Tecnológico do Cariri",
+    "sigla": "FUNDETEC",
+    "descricao": "Fundação de Desenvolvimento Tecnológico do Cariri"
+  },
+  {
+    "nome": "FUNECE",
+    "sigla": "FUNECE IEPRO",
+    "descricao": "FUNECE - FUNECE IEPRO"
+  },
+  {
+    "nome": "FUNRIO Fundação de Apoio a Pesquisa, Ensino e Assistência",
+    "sigla": "FUNRIO",
+    "descricao": "FUNRIO Fundação de Apoio a Pesquisa, Ensino e Assistência - FUNRIO"
+  },
+  {
+    "nome": "Ganzaroli Assessoria, Consultoria e Concursos",
+    "sigla": "Ganzaroli",
+    "descricao": "Ganzaroli Assessoria, Consultoria e Concursos - Ganzaroli"
+  },
+  {
+    "nome": "GERCON/ATACEL",
+    "sigla": "GERCON",
+    "descricao": "GERCON/ATACEL - GERCON"
+  },
+  {
+    "nome": "GPG Concursos",
+    "sigla": "GPG",
+    "descricao": "GPG Concursos"
+  },
+  {
+    "nome": "Grupo NBS Provas",
+    "sigla": "NBS",
+    "descricao": "Grupo NBS Provas - NBS"
+  },
+  {
+    "nome": "GS ASSESSORIA E CONSULTORIA",
+    "sigla": "GS",
+    "descricao": "GS ASSESSORIA E CONSULTORIA - GS"
+  },
+  {
+    "nome": "GUALIMP Assessoria e Consultoria Ltda",
+    "sigla": "GUALIMP",
+    "descricao": "GUALIMP Assessoria e Consultoria Ltda - GUALIMP"
+  },
+  {
+    "nome": "Hospital das Clínicas da Faculdade de Medicina de Botucatu",
+    "sigla": "HCFMB",
+    "descricao": "Hospital das Clínicas da Faculdade de Medicina de Botucatu - HCFMB"
+  },
+  {
+    "nome": "Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto",
+    "sigla": "FMRP USP",
+    "descricao": "Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto - FMRP - USP"
+  },
+  {
+    "nome": "Hospital Regional do Oeste",
+    "sigla": "HRO",
+    "descricao": "Hospital Regional do Oeste-HRO"
+  },
+  {
+    "nome": "IF/BA",
+    "sigla": "IFBA",
+    "descricao": "IF/BA - IFBA"
+  },
+  {
+    "nome": "Inaz do Pará Concursos",
+    "sigla": "INAZ do Para",
+    "descricao": "Inaz do Pará Concursos - INAZ do Pará"
+  },
+  {
+    "nome": "Inovaty Assessoria & Consultoria",
+    "sigla": "Inovaty",
+    "descricao": "Inovaty Assessoria & Consultoria - Inovaty"
+  },
+  {
+    "nome": "Instituto ACCESS",
+    "sigla": "ACCESS",
+    "descricao": "Instituto ACCESS - ACCESS"
+  },
+  {
+    "nome": "Instituto Americano de Desenvolvimento",
+    "sigla": "IADES",
+    "descricao": "Instituto Americano de Desenvolvimento - IADES"
+  },
+  {
+    "nome": "Instituto Ânima Concursos Públicos",
+    "sigla": "Instituto Anima",
+    "descricao": "Instituto Ânima Sociesc"
+  },
+  {
+    "nome": "Instituto Assistencial de Desenvolvimento Humano, Educacional e Desportivo",
+    "sigla": "IADHED",
+    "descricao": "Instituto Assistencial de Desenvolvimento Humano, Educacional e Desportivo - IADHED"
+  },
+  {
+    "nome": "Instituto Avança São Paulo",
+    "sigla": "Avanca SP",
+    "descricao": "Instituto Avança São Paulo - Avança SP"
+  },
+  {
+    "nome": "Instituto Brasil de Educação",
+    "sigla": "IBRAE",
+    "descricao": "Instituto Brasil de Educação"
+  },
+  {
+    "nome": "Instituto Brasil de Educação",
+    "sigla": "IBRAE",
+    "descricao": "Instituto Brasil de Educação - IBRAE"
+  },
+  {
+    "nome": "Instituto Brasileiro de Administração Municipal",
+    "sigla": "IBAM",
+    "descricao": "Instituto Brasileiro de Administração Municipal - IBAM"
+  },
+  {
+    "nome": "Instituto Brasileiro de Apoio e Desenvolvimento Executivo",
+    "sigla": "IBADE",
+    "descricao": "Instituto Brasileiro de Apoio e Desenvolvimento Executivo - IBADE"
+  },
+  {
+    "nome": "Instituto Brasileiro de Educação e Gestão",
+    "sigla": "IBEG",
+    "descricao": "Instituto Brasileiro de Educação e Gestão - IBEG"
+  },
+  {
+    "nome": "Instituto Brasileiro de Educação, Seleção e Tecnologia",
+    "sigla": "Instituto IBEST",
+    "descricao": "Instituto Brasileiro de Educação, Seleção e Tecnologia- Instituto IBEST"
+  },
+  {
+    "nome": "Instituto Brasileiro de Formação e Capacitação",
+    "sigla": "IBFC",
+    "descricao": "Instituto Brasileiro de Formação e Capacitação - IBFC"
+  },
+  {
+    "nome": "Instituto Brasileiro de Gestão e Pesquisa",
+    "sigla": "IBGP",
+    "descricao": "Instituto Brasileiro de Gestão e Pesquisa- IBGP"
+  },
+  {
+    "nome": "Instituto Brasileiro de Incentivo ao Desenvolvimento Organizacional Eireli",
+    "sigla": "IBDO",
+    "descricao": "Instituto Brasileiro de Incentivo ao Desenvolvimento Organizacional Eireli - IBDO"
+  },
+  {
+    "nome": "Instituto Brasileiro de Pesquisa Tecnologia Ensino e Ciência",
+    "sigla": "IBPTEC",
+    "descricao": "Instituto Brasileiro de Pesquisa Tecnologia Ensino e Ciência - IBPTEC"
+  },
+  {
+    "nome": "Instituto Brasileiro de Seleção Pública",
+    "sigla": "IBRASP",
+    "descricao": "Instituto Brasileiro de Seleção Pública - IBRASP"
+  },
+  {
+    "nome": "Instituto Brasileiro Educar Conquista",
+    "sigla": "IBEC",
+    "descricao": "Instituto Brasileiro Educar Conquista - IBEC"
+  },
+  {
+    "nome": "Instituto BRB",
+    "sigla": "IBRB",
+    "descricao": "Instituto BRB - IBRB"
+  },
+  {
+    "nome": "Instituto Brio Conhecimentos",
+    "sigla": "IBC Escola de carreiras",
+    "descricao": "Instituto Brio Conhecimentos - IBC Escola de carreiras"
+  },
+  {
+    "nome": "Instituto Carlos Augusto Bittencourt",
+    "sigla": "INCAB",
+    "descricao": "Instituto Carlos Augusto Bittencourt- INCAB"
+  },
+  {
+    "nome": "Instituto Cearense de Educação, Cultura e Ecologia",
+    "sigla": "ICECE",
+    "descricao": "Instituto Cearense de Educação, Cultura e Ecologia - ICECE"
+  },
+  {
+    "nome": "Instituto Darwin",
+    "sigla": "Darwin",
+    "descricao": "Instituto Darwin - Darwin"
+  },
+  {
+    "nome": "Instituto de Administração e Tecnologia",
+    "sigla": "ADM TEC",
+    "descricao": "Instituto de Administração e Tecnologia - ADM&TEC"
+  },
+  {
+    "nome": "Instituto de Apoio à Gestão e Educação",
+    "sigla": "IGEDUC",
+    "descricao": "Instituto de Apoio à Gestão e Educação - IGEDUC"
+  },
+  {
+    "nome": "Instituto de Apoio à Universidade de Pernambuco",
+    "sigla": "UPENET IAUPE",
+    "descricao": "Instituto de Apoio à Universidade de Pernambuco - UPENET/IAUPE"
+  },
+  {
+    "nome": "Instituto de Avaliação Nacional - IAN",
+    "sigla": "IAN",
+    "descricao": "Instituto de Avaliação Nacional - IAN - IAN"
+  },
+  {
+    "nome": "Instituto de Avaliação, Seleção e Pesquisa LTDA",
+    "sigla": "IASP",
+    "descricao": "Instituto de Avaliação, Seleção e Pesquisa LTDA - IASP"
+  },
+  {
+    "nome": "Instituto de Consultoria e Concursos",
+    "sigla": "ITAME",
+    "descricao": "Instituto de Consultoria e Concursos - ITAME"
+  },
+  {
+    "nome": "Instituto de Desenvolvimento ao Ensino e Pesquisa",
+    "sigla": "IDEP",
+    "descricao": "Instituto de Desenvolvimento ao Ensino e Pesquisa - IDEP"
+  },
+  {
+    "nome": "Instituto de Desenvolvimento e Capacitação",
+    "sigla": "IDCAP",
+    "descricao": "Instituto de Desenvolvimento e Capacitação - IDCAP"
+  },
+  {
+    "nome": "Instituto de Desenvolvimento Educacional, Cultural e Assistencial Nacional",
+    "sigla": "IDECAN",
+    "descricao": "Instituto de Desenvolvimento Educacional, Cultural e Assistencial Nacional - IDECAN"
+  },
+  {
+    "nome": "Instituto de Desenvolvimento Humano e Tecnológico",
+    "sigla": "IDHTEC",
+    "descricao": "Instituto de Desenvolvimento Humano e Tecnológico - IDHTEC"
+  },
+  {
+    "nome": "Instituto de Desenvolvimento Institucional Brasileiro",
+    "sigla": "IDIB",
+    "descricao": "Instituto de Desenvolvimento Institucional Brasileiro - IDIB"
+  },
+  {
+    "nome": "Instituto de Desenvolvimento Social e Tecnologia",
+    "sigla": "IDESG",
+    "descricao": "Instituto de Desenvolvimento Social e Tecnologia - IDESG"
+  },
+  {
+    "nome": "Instituto de Desenvolvimento Tecnológico do Centro-Oeste",
+    "sigla": "ITCO",
+    "descricao": "Instituto de Desenvolvimento Tecnológico do Centro-Oeste - ITCO"
+  },
+  {
+    "nome": "Instituto de Educação e Saúde Pública",
+    "sigla": "IESP",
+    "descricao": "Instituto de Educação e Saúde Pública - IESP"
+  },
+  {
+    "nome": "Instituto de Estudos Pesquisas e Desenvolvimento Municipal",
+    "sigla": "IDM IEPDM",
+    "descricao": "IDM / IEPDM - Instituto de Estudos Pesquisas e Desenvolvimento Municipal"
+  },
+  {
+    "nome": "Instituto de Estudos Superiores do Extremo Sul",
+    "sigla": "IESES",
+    "descricao": "Instituto de Estudos Superiores do Extremo Sul - IESES"
+  },
+  {
+    "nome": "Instituto de Gestão de Cidades",
+    "sigla": "IGECS",
+    "descricao": "Instituto de Gestão de Cidades - IGECS"
+  },
+  {
+    "nome": "Instituto de Gestão e Desenvolvimento Social Desenvolver Recursos Humanos",
+    "sigla": "IGDRH",
+    "descricao": "Instituto de Gestão e Desenvolvimento Social Desenvolver Recursos Humanos - IGDRH"
+  },
+  {
+    "nome": "Instituto de Gestão Estratégica de Saúde do Distrito Federal",
+    "sigla": "IGES DF",
+    "descricao": "Instituto de Gestão Estratégica de Saúde do Distrito Federal - IGES DF"
+  },
+  {
+    "nome": "Instituto de Marketing, Assessoria e Gestão de Imagem na Empresa Ltda",
+    "sigla": "Instituto Imagine",
+    "descricao": "Instituto de Marketing, Assessoria e Gestão de Imagem na Empresa Ltda - Instituto Imagine"
+  },
+  {
+    "nome": "Instituto de Pesquisa, Pós Graduação e Ensino de Cascavel",
+    "sigla": "IPPEC",
+    "descricao": "Instituto de Pesquisa, Pós Graduação e Ensino de Cascavel - IPPEC"
+  },
+  {
+    "nome": "Instituto de Pesquisas Econômicas",
+    "sigla": "IPEFAE",
+    "descricao": "Instituto de Pesquisas Econômicas - IPEFAE"
+  },
+  {
+    "nome": "Instituto de Planejamento e Apoio ao Desenvolvimento Tecnológico e Científico",
+    "sigla": "IPAD",
+    "descricao": "Instituto de Planejamento e Apoio ao Desenvolvimento Tecnológico e Científico - IPAD"
+  },
+  {
+    "nome": "Instituto de Tecnologia e Desenvolvimento Econômico e Social",
+    "sigla": "ITEDES",
+    "descricao": "ITEDES - Instituto de Tecnologia e Desenvolvimento Econômico e Social"
+  },
+  {
+    "nome": "Instituto Educacional de Ensino Saber",
+    "sigla": "IEDES",
+    "descricao": "Instituto Educacional de Ensino Saber - IEDES"
+  },
+  {
+    "nome": "Instituto Exata",
+    "sigla": "EXATA",
+    "descricao": "Instituto Exata - EXATA"
+  },
+  {
+    "nome": "Instituto Federal Brasilia",
+    "sigla": "IFB",
+    "descricao": "Instituto Federal Brasilia - IFB"
+  },
+  {
+    "nome": "Instituto Federal de Educação, Ciência e Tecnologia",
+    "sigla": "IFSUL",
+    "descricao": "Instituto Federal de Educação, Ciência e Tecnologia - IFSUL"
+  },
+  {
+    "nome": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso",
+    "sigla": "IFMT",
+    "descricao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso- IFMT"
+  },
+  {
+    "nome": "Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco",
+    "sigla": "IFPE",
+    "descricao": "Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - IFPE"
+  },
+  {
+    "nome": "Instituto Federal de Educação, Ciência e Tecnologia de Roraima",
+    "sigla": "IFRR",
+    "descricao": "Instituto Federal de Educação, Ciência e Tecnologia de Roraima - IFRR"
+  },
+  {
+    "nome": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+    "sigla": "IFSP",
+    "descricao": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP"
+  },
+  {
+    "nome": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+    "sigla": "IFES",
+    "descricao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo- IFES"
+  },
+  {
+    "nome": "Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul",
+    "sigla": "IFMS",
+    "descricao": "Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul - IFMS"
+  },
+  {
+    "nome": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+    "sigla": "IFRS",
+    "descricao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - IFRS"
+  },
+  {
+    "nome": "Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano",
+    "sigla": "IF SERTAO",
+    "descricao": "Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano- IF - SERTÃO"
+  },
+  {
+    "nome": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais – IFSULDEMINAS",
+    "sigla": "IFSULDEMINAS",
+    "descricao": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais – IFSULDEMINAS - IFSULDEMINAS"
+  },
+  {
+    "nome": "Instituto Federal de Educação, Ciência e Tecnologia do Tocantins",
+    "sigla": "IFTO",
+    "descricao": "Instituto Federal de Educação, Ciência e Tecnologia do Tocantins - IFTO"
+  },
+  {
+    "nome": "Instituto Federal de Goiás",
+    "sigla": "IFGO",
+    "descricao": "Instituto Federal de Goiás - IFGO"
+  },
+  {
+    "nome": "Instituto Federal de Minas Gerais",
+    "sigla": "IFMG",
+    "descricao": "Instituto Federal de Minas Gerais - IFMG"
+  },
+  {
+    "nome": "Instituto Federal de Santa Catarina",
+    "sigla": "IFSC",
+    "descricao": "Instituto Federal de Santa Catarina - IFSC"
+  },
+  {
+    "nome": "Instituto Federal de Sergipe",
+    "sigla": "IFSE",
+    "descricao": "Instituto Federal de Sergipe - IFSE"
+  },
+  {
+    "nome": "Instituto Federal do Ceará",
+    "sigla": "IFCE CEFET CE",
+    "descricao": "Instituto Federal do Ceará - IFCE / CEFET CE"
+  },
+  {
+    "nome": "Instituto Federal do Pará",
+    "sigla": "IFPA",
+    "descricao": "Instituto Federal do Pará - IFPA"
+  },
+  {
+    "nome": "Instituto Federal do Paraná",
+    "sigla": "IFPR",
+    "descricao": "Instituto Federal do Paraná - IFPR"
+  },
+  {
+    "nome": "Instituto Federal do Piauí - IF/PI",
+    "sigla": "IFPI",
+    "descricao": "Instituto Federal do Piauí - IF/PI - IFPI"
+  },
+  {
+    "nome": "Instituto FIP Concursos e Treinamentos",
+    "sigla": "FIP",
+    "descricao": "Instituto FIP Concursos e Treinamentos - FIP"
+  },
+  {
+    "nome": "Instituto INDEC",
+    "sigla": "INDEC",
+    "descricao": "Instituto INDEC - INDEC"
+  },
+  {
+    "nome": "Instituto Legatus",
+    "sigla": "Legatus",
+    "descricao": "Instituto Legatus - Legatus"
+  },
+  {
+    "nome": "Instituto Ludus",
+    "sigla": "Ludus",
+    "descricao": "Instituto Ludus - Ludus"
+  },
+  {
+    "nome": "Instituto Mais",
+    "sigla": "IMAIS",
+    "descricao": "Instituto Mais - IMAIS"
+  },
+  {
+    "nome": "Instituto Militar de Engenharia - IME",
+    "sigla": "IME",
+    "descricao": "Instituto Militar de Engenharia - IME - IME"
+  },
+  {
+    "nome": "Instituto Mineiro Educar & Sorrir",
+    "sigla": "IMESO",
+    "descricao": "Instituto Mineiro Educar & Sorrir - IMESO"
+  },
+  {
+    "nome": "Instituto Municipal de Desenvolvimento de Recursos Humanos",
+    "sigla": "IMPARH",
+    "descricao": "Instituto Municipal de Desenvolvimento de Recursos Humanos -IMPARH"
+  },
+  {
+    "nome": "Instituto Municipal de Ensino Superior de São Caetano do Sul",
+    "sigla": "IMES",
+    "descricao": "Instituto Municipal de Ensino Superior de São Caetano do Sul - IMES"
+  },
+  {
+    "nome": "Instituto Nacional de Concurso Público",
+    "sigla": "INCP",
+    "descricao": "Instituto Nacional de Concurso Público - INCP"
+  },
+  {
+    "nome": "Instituto Nacional de Educação, Pesquisa, Instrução e Segurança Pública",
+    "sigla": "Inep Brasil",
+    "descricao": "Instituto Nacional de Educação, Pesquisa, Instrução e Segurança Pública - Inep Brasil"
+  },
+  {
+    "nome": "Instituto Nacional de Engenharia, Arquitetura e Agronomia",
+    "sigla": "INEAA",
+    "descricao": "Instituto Nacional de Engenharia, Arquitetura e Agronomia - INEAA"
+  },
+  {
+    "nome": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira",
+    "sigla": "INEP ENEM",
+    "descricao": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP/ENEM"
+  },
+  {
+    "nome": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira",
+    "sigla": "INEP",
+    "descricao": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP"
+  },
+  {
+    "nome": "Instituto Nacional de Gestão, Educação, Tecnologia e Inovação",
+    "sigla": "INGETI",
+    "descricao": "INGETI - Instituto Nacional de Gestão, Educação, Tecnologia e Inovação"
+  },
+  {
+    "nome": "Instituto Nacional de Qualificação e Capacitação",
+    "sigla": "INQC",
+    "descricao": "Instituto Nacional de Qualificação e Capacitação - INQC"
+  },
+  {
+    "nome": "Instituto Nacional de Seleções, Concursos e Planejamento",
+    "sigla": "Secplan",
+    "descricao": "Instituto Nacional de Seleções, Concursos e Planejamento- Secplan"
+  },
+  {
+    "nome": "Instituto Nacional Especializado em Pesquisas e Apoio aos Municípios",
+    "sigla": "INEPAM",
+    "descricao": "Instituto Nacional Especializado em Pesquisas e Apoio aos Municípios - INEPAM"
+  },
+  {
+    "nome": "Instituto Nosso Rumo de Educação e Desenvolvimento Social",
+    "sigla": "NOSSO RUMO",
+    "descricao": "Instituto Nosso Rumo de Educação e Desenvolvimento Social - NOSSO RUMO"
+  },
+  {
+    "nome": "Instituto O Barriga Verde",
+    "sigla": "IOBV",
+    "descricao": "Instituto O Barriga Verde - IOBV"
+  },
+  {
+    "nome": "Instituto Oeste de Planejamento",
+    "sigla": "IOPLAN",
+    "descricao": "Instituto Oeste de Planejamento - IOPLAN"
+  },
+  {
+    "nome": "Instituto Quadrix",
+    "sigla": "Quadrix",
+    "descricao": "Instituto Quadrix - Quadrix"
+  },
+  {
+    "nome": "Instituto Sagaz",
+    "sigla": "IS",
+    "descricao": "Instituto Sagaz - IS"
+  },
+  {
+    "nome": "Instituto Social da Cidadania - Juscelino Kubitschek",
+    "sigla": "Instituto JK",
+    "descricao": "Instituto Social da Cidadania - Juscelino Kubitschek - Instituto JK"
+  },
+  {
+    "nome": "Instituto Sul Mineiro de Desenvolvimento Econômico e Social",
+    "sigla": "IDESUL",
+    "descricao": "Instituto Sul Mineiro de Desenvolvimento Econômico e Social - IDESUL"
+  },
+  {
+    "nome": "Instituto Tecnológico de Aeronáutica",
+    "sigla": "ITA",
+    "descricao": "Instituto Tecnológico de Aeronáutica - ITA"
+  },
+  {
+    "nome": "Instituto Tecnológico e Científico",
+    "sigla": "INTEC",
+    "descricao": "Instituto Tecnológico e Científico - INTEC"
+  },
+  {
+    "nome": "Instituto Unifil",
+    "sigla": "Unifil",
+    "descricao": "Instituto Unifil - Unifil"
+  },
+  {
+    "nome": "Instituto Universal de Desenvolvimento Social",
+    "sigla": "IUDS",
+    "descricao": "Instituto Universal de Desenvolvimento Social - IUDS"
+  },
+  {
+    "nome": "Instituto Vicente Nelson",
+    "sigla": "IVIN",
+    "descricao": "Instituto Vicente Nelson - IVIN"
+  },
+  {
+    "nome": "Intituto de Consultoria em Administação Pública",
+    "sigla": "ICAP",
+    "descricao": "ICAP - Intituto de Consultoria em Administação Pública"
+  },
+  {
+    "nome": "JBO - Soluções Administrativas e Concursos",
+    "sigla": "JBO",
+    "descricao": "JBO - Soluções Administrativas e Concursos - JBO"
+  },
+  {
+    "nome": "JOTA Consultoria e Serviços Administrativos Ltda",
+    "sigla": "JOTA",
+    "descricao": "JOTA Consultoria e Serviços Administrativos Ltda - JOTA"
+  },
+  {
+    "nome": "KLC Concursos",
+    "sigla": "KLC",
+    "descricao": "KLC Concursos - KLC"
+  },
+  {
+    "nome": "LJ Assessoria e Planejamento Administrativo Limitada",
+    "sigla": "LJ",
+    "descricao": "LJ Assessoria e Planejamento Administrativo Limitada -LJ"
+  },
+  {
+    "nome": "Marinha do Brasil",
+    "sigla": "MAR",
+    "descricao": "Marinha do Brasil - MAR"
+  },
+  {
+    "nome": "MB Gestão Pública Ltda. EPP",
+    "sigla": "MAXIMA Auditoria",
+    "descricao": "MB Gestão Pública Ltda. EPP - MAXIMA Auditoria"
+  },
+  {
+    "nome": "MDS Consultoria & Cursos em Saúde",
+    "sigla": "MDS Consultorias Cursos em Saude",
+    "descricao": "MDS Consultoria & Cursos em Saúde - MDS Consultorias & Cursos em Saúde"
+  },
+  {
+    "nome": "Método Soluções Educacionais",
+    "sigla": "Metodo",
+    "descricao": "Método Soluções Educacionais - Método"
+  },
+  {
+    "nome": "MetroCapital Soluções",
+    "sigla": "MetroCapital",
+    "descricao": "MetroCapital Soluções - MetroCapital"
+  },
+  {
+    "nome": "Ministério da Defesa - Marinha",
+    "sigla": "ComDN",
+    "descricao": "Ministério da Defesa - Marinha - ComDN"
+  },
+  {
+    "nome": "Ministério Público da Bahia",
+    "sigla": "MPBA",
+    "descricao": "Ministério Público da Bahia - MPBA"
+  },
+  {
+    "nome": "Ministério Público da Paraíba",
+    "sigla": "MPPB",
+    "descricao": "MPE - PB - Ministério Público da Paraíba"
+  },
+  {
+    "nome": "Ministério Público de Goiás",
+    "sigla": "MPE GO",
+    "descricao": "Ministério Público de Goiás - MPE GO"
+  },
+  {
+    "nome": "Ministério Público de Mato Grosso do Sul",
+    "sigla": "MPMS",
+    "descricao": "Ministério Público de Mato Grosso do Sul - MPMS"
+  },
+  {
+    "nome": "Ministério Público de Minas Gerais",
+    "sigla": "MPMG",
+    "descricao": "Ministério Público de Minas Gerais - MPMG"
+  },
+  {
+    "nome": "Ministério Público de Santa Catarina",
+    "sigla": "MPSC",
+    "descricao": "Ministério Público de Santa Catarina - MPSC"
+  },
+  {
+    "nome": "Ministério Público de São Paulo",
+    "sigla": "MPSP",
+    "descricao": "Ministério Público de São Paulo - MPSP"
+  },
+  {
+    "nome": "Ministério Público do Distrito Federal e Territórios",
+    "sigla": "MPDFT",
+    "descricao": "Ministério Público do Distrito Federal e Territórios - MPDFT"
+  },
+  {
+    "nome": "Ministério Público do Estado de Roraima",
+    "sigla": "MPRR",
+    "descricao": "Ministério Público do Estado de Roraima - MPRR"
+  },
+  {
+    "nome": "Ministério Público do Maranhão",
+    "sigla": "MPMA",
+    "descricao": "Ministério Público do Maranhão - MPMA"
+  },
+  {
+    "nome": "Ministério Público do Paraná",
+    "sigla": "MPPR",
+    "descricao": "Ministério Público do Paraná - MPPR"
+  },
+  {
+    "nome": "Ministério Público do Rio de Janeiro",
+    "sigla": "MP RJ",
+    "descricao": "Ministério Público do Rio de Janeiro - MP RJ"
+  },
+  {
+    "nome": "Ministério Público do Rio Grande do Sul",
+    "sigla": "MPRS",
+    "descricao": "Ministério Público do Rio Grande do Sul - MPRS"
+  },
+  {
+    "nome": "Ministério Público do Trabalho",
+    "sigla": "MPT",
+    "descricao": "Ministério Público do Trabalho - MPT"
+  },
+  {
+    "nome": "Ministério Público Federal",
+    "sigla": "MPF",
+    "descricao": "Ministério Público Federal - MPF"
+  },
+  {
+    "nome": "Ministério Público Militar",
+    "sigla": "MPM",
+    "descricao": "Ministério Público Militar - MPM"
+  },
+  {
+    "nome": "MSM Consultoria & Projetos Ltda",
+    "sigla": "MSM",
+    "descricao": "MSM Consultoria & Projetos Ltda - MSM"
+  },
+  {
+    "nome": "Ntcs",
+    "sigla": "NTCS",
+    "descricao": "Ntcs - NTCS"
+  },
+  {
+    "nome": "Nubes Concursos",
+    "sigla": "NUBES",
+    "descricao": "Nubes Concursos - NUBES"
+  },
+  {
+    "nome": "Núcleo de Computação Eletrônica UFRJ",
+    "sigla": "NCE",
+    "descricao": "Núcleo de Computação Eletrônica UFRJ - NCE"
+  },
+  {
+    "nome": "Núcleo de Concursos e Promoção de Eventos",
+    "sigla": "NUCEPE UESPI",
+    "descricao": "Núcleo de Concursos e Promoção de Eventos - NUCEPE/UESPI"
+  },
+  {
+    "nome": "OMNI Concursos Públicos",
+    "sigla": "OMNI",
+    "descricao": "OMNI Concursos Públicos - OMNI"
+  },
+  {
+    "nome": "OPPUS Concursos",
+    "sigla": "OPPUS",
+    "descricao": "OPPUS Concursos - OPPUS"
+  },
+  {
+    "nome": "Organização Paulista em Gestão Pública",
+    "sigla": "OPGP",
+    "descricao": "Organização Paulista em Gestão Pública - OPGP"
+  },
+  {
+    "nome": "Polícia Civil - AM",
+    "sigla": "PCAM",
+    "descricao": "Polícia Civil - AM - PCAM"
+  },
+  {
+    "nome": "Polícia Civil - MG",
+    "sigla": "PCMG",
+    "descricao": "Polícia Civil - MG - PCMG"
+  },
+  {
+    "nome": "Polícia Civil - SC",
+    "sigla": "PCSC",
+    "descricao": "Polícia Civil - SC"
+  },
+  {
+    "nome": "Polícia Civil - SP",
+    "sigla": "PCSP",
+    "descricao": "Polícia Civil - SP - PCSP"
+  },
+  {
+    "nome": "Polícia Militar",
+    "sigla": "PM SC",
+    "descricao": "Polícia Militar - PM/SC"
+  },
+  {
+    "nome": "Polícia Militar",
+    "sigla": "PM RO",
+    "descricao": "Polícia Militar - PM/RO"
+  },
+  {
+    "nome": "Polícia Militar RJ",
+    "sigla": "PM RJ",
+    "descricao": "Polícia Militar RJ - PM RJ"
+  },
+  {
+    "nome": "Pontifícia Universidade Católica de Minas Gerais",
+    "sigla": "PUC MG",
+    "descricao": "Pontifícia Universidade Católica de Minas Gerais - PUC - MG"
+  },
+  {
+    "nome": "Pontifícia Universidade Católica do Paraná",
+    "sigla": "PUC PR",
+    "descricao": "Pontifícia Universidade Católica do Paraná - PUC - PR"
+  },
+  {
+    "nome": "Pró-Reitoria de Gestão de Pessoas",
+    "sigla": "PROGEPE",
+    "descricao": "Pró-Reitoria de Gestão de Pessoas- PROGEPE"
+  },
+  {
+    "nome": "Pró-Reitoria de Gestão e Desenvolvimento de Pessoas",
+    "sigla": "PROGEP",
+    "descricao": "Pró-Reitoria de Gestão e Desenvolvimento de Pessoas - PROGEP"
+  },
+  {
+    "nome": "Pró-Reitoria de Recursos Humanos e Assuntos Estudantis da Universidade Federal do Paraná",
+    "sigla": "PRHAE",
+    "descricao": "PRHAE - Pró-Reitoria de Recursos Humanos e Assuntos Estudantis da Universidade Federal do Paraná"
+  },
+  {
+    "nome": "PROAM Assessoria e Consultoria",
+    "sigla": "PROAM",
+    "descricao": "PROAM Assessoria e Consultoria - PROAM"
+  },
+  {
+    "nome": "Procuradoria Geral da República",
+    "sigla": "PGR",
+    "descricao": "Procuradoria Geral da República - PGR"
+  },
+  {
+    "nome": "Procuradoria Geral do Estado",
+    "sigla": "PGE MT",
+    "descricao": "Procuradoria Geral do Estado - PGE MT"
+  },
+  {
+    "nome": "Procuradoria-Geral do Estado de Goiás",
+    "sigla": "PGE GO",
+    "descricao": "Procuradoria-Geral do Estado de Goiás - PGE-GO"
+  },
+  {
+    "nome": "Procuradoria-Geral do Estado de Mato Grosso do Sul",
+    "sigla": "PGE MS",
+    "descricao": "Procuradoria-Geral do Estado de Mato Grosso do Sul- PGE-MS"
+  },
+  {
+    "nome": "Procuradoria-Geral do Estado do Pará",
+    "sigla": "PGE PA",
+    "descricao": "Procuradoria-Geral do Estado do Pará - PGE-PA"
+  },
+  {
+    "nome": "Procuradoria-Geral do Estado do Rio de Janeiro",
+    "sigla": "PGE RJ",
+    "descricao": "Procuradoria-Geral do Estado do Rio de Janeiro"
+  },
+  {
+    "nome": "Projetos para Municípios",
+    "sigla": "PROMUN",
+    "descricao": "Projetos para Municípios - PROMUN"
+  },
+  {
+    "nome": "Rhema Concursos",
+    "sigla": "RHEMA",
+    "descricao": "Rhema Concursos - RHEMA"
+  },
+  {
+    "nome": "SARAH Associação das Pioneiras Sociais",
+    "sigla": "Rede SARAH",
+    "descricao": "SARAH Associação das Pioneiras Sociais - Rede SARAH"
+  },
+  {
+    "nome": "Secretaria da Educação de São Paulo",
+    "sigla": "SEE SP",
+    "descricao": "SEE - SP - Secretaria da Educação do Estado de São Paulo"
+  },
+  {
+    "nome": "Secretaria da Educação do Ceará",
+    "sigla": "SEDUC CE",
+    "descricao": "Secretaria da Educação do Ceará - SEDUC CE"
+  },
+  {
+    "nome": "Secretaria de Estado de Educação do Piauí",
+    "sigla": "SEDUC PI",
+    "descricao": "Secretaria de Estado de Educação do Piauí - SEDUC-PI"
+  },
+  {
+    "nome": "Secretaria de Estado de Gestão e Planejamento",
+    "sigla": "SEGPLAN",
+    "descricao": "Secretaria de Estado de Gestão e Planejamento - SEGPLAN"
+  },
+  {
+    "nome": "Secretaria de Estado de Saúde de Goiás",
+    "sigla": "SES GO",
+    "descricao": "Secretaria de Estado de Saúde de Goiás - SES GO"
+  },
+  {
+    "nome": "Secretaria de Gestão de Pessoas de Joinville - SC",
+    "sigla": "SGP SC",
+    "descricao": "Secretaria de Gestão de Pessoas de Joinville - SC - SGP SC"
+  },
+  {
+    "nome": "Secretaria de Saúde da Paraíba",
+    "sigla": "SES PB",
+    "descricao": "Secretaria de Saúde da Paraíba - SES PB"
+  },
+  {
+    "nome": "Secretaria Municipal de Administração e Recursos Humanos",
+    "sigla": "SMARH",
+    "descricao": "SMARH - Secretaria Municipal de Administração e Recursos Humanos"
+  },
+  {
+    "nome": "Secretaria Municipal de Saúde do Rio de Janeiro",
+    "sigla": "SMS RJ",
+    "descricao": "Secretaria Municipal de Saúde do Rio de Janeiro - SMS/RJ"
+  },
+  {
+    "nome": "Secretaria Municipal de Saúde do Rio de Janeiro – RJ",
+    "sigla": "SME",
+    "descricao": "Secretaria Municipal de Saúde do Rio de Janeiro – RJ- SME"
+  },
+  {
+    "nome": "SELECON Instituto Nacional de Seleções e Concursos",
+    "sigla": "SELECON",
+    "descricao": "SELECON Instituto Nacional de Seleções e Concursos- SELECON"
+  },
+  {
+    "nome": "Serviço de processamento de dados",
+    "sigla": "SEPROD",
+    "descricao": "Serviço de processamento de dados - SEPROD"
+  },
+  {
+    "nome": "Serviço de Seleção do Pessoal da Marinha",
+    "sigla": "SSPM",
+    "descricao": "Serviço de Seleção do Pessoal da Marinha - SSPM"
+  },
+  {
+    "nome": "Serviço Nacional de Seleção Pública",
+    "sigla": "SENASP",
+    "descricao": "Serviço Nacional de Seleção Pública - SENASP"
+  },
+  {
+    "nome": "SHDIAS Consultoria e Assessoria",
+    "sigla": "SHDIAS",
+    "descricao": "SHDIAS Consultoria e Assessoria - SHDIAS"
+  },
+  {
+    "nome": "SIGMA Consultoria e Pesquisas",
+    "sigla": "SIGMA",
+    "descricao": "SIGMA Consultoria e Pesquisas"
+  },
+  {
+    "nome": "Sociedade Educacional de Santa Catarina",
+    "sigla": "UNISOCIESC",
+    "descricao": "Sociedade Educacional de Santa Catarina - UNISOCIESC"
+  },
+  {
+    "nome": "Superintendência de Gestão e Desenvolvimento de Pessoas da UFRPE",
+    "sigla": "SUGEP UFRPE",
+    "descricao": "Superintendência de Gestão e Desenvolvimento de Pessoas da UFRPE - SUGEP/UFRPE"
+  },
+  {
+    "nome": "Tribunal de Justiça de Goiás - TJGO",
+    "sigla": "Tj GO",
+    "descricao": "Tribunal de Justiça de Goiás - TJGO - Tj - GO"
+  },
+  {
+    "nome": "Tribunal de Justiça de Mato Grosso do Sul",
+    "sigla": "TJ MS",
+    "descricao": "Tribunal de Justiça de Mato Grosso do Sul- TJ - MS"
+  },
+  {
+    "nome": "Tribunal de Justiça do Espírito Santo - ES",
+    "sigla": "TJ ES",
+    "descricao": "Tribunal de Justiça do Espírito Santo - ES - TJ - ES"
+  },
+  {
+    "nome": "Tribunal de Justiça do Estado de Minas Gerais - TJMG",
+    "sigla": "TJ MG",
+    "descricao": "TJ - MG - Tribunal de Justiça do Estado de Minas Gerais - TJMG"
+  },
+  {
+    "nome": "Tribunal de Justiça do Estado de Santa Catariana - TJSC",
+    "sigla": "TJ SC",
+    "descricao": "Tribunal de Justiça do Estado de Santa Catariana - TJSC - TJ - SC"
+  },
+  {
+    "nome": "Tribunal de Justiça do Estado do Acre",
+    "sigla": "TJ AC",
+    "descricao": "Tribunal de Justiça do Estado do Acre - TJ/AC"
+  },
+  {
+    "nome": "Tribunal de Justiça do Mato Grosso",
+    "sigla": "TJ MT",
+    "descricao": "Tribunal de Justiça do Mato Grosso - TJ - MT"
+  },
+  {
+    "nome": "Tribunal de Justiça do Paraná - TJPR",
+    "sigla": "TJ PR",
+    "descricao": "Tribunal de Justiça do Paraná - TJPR - TJ - PR"
+  },
+  {
+    "nome": "Tribunal de Justiça do Rio Grande do Sul - TJRS",
+    "sigla": "TJ RS",
+    "descricao": "Tribunal de Justiça do Rio Grande do Sul - TJRS - TJ - RS"
+  },
+  {
+    "nome": "Tribunal Regional do Trabalho 15ª Região",
+    "sigla": "TRT 15 Regiao",
+    "descricao": "Tribunal Regional do Trabalho 15ª Região - TRT 15ª Região"
+  },
+  {
+    "nome": "Tribunal Regional do Trabalho 16ª Região",
+    "sigla": "TRT 16 Regiao",
+    "descricao": "Tribunal Regional do Trabalho 16ª Região- TRT 16ª Região"
+  },
+  {
+    "nome": "Tribunal Regional do Trabalho 22ª Região",
+    "sigla": "TRT 22 Regiao",
+    "descricao": "Tribunal Regional do Trabalho 22ª Região - TRT 22ª Região"
+  },
+  {
+    "nome": "Tribunal Regional do Trabalho 23ª Região",
+    "sigla": "TRT 23 Regiao",
+    "descricao": "Tribunal Regional do Trabalho 23ª Região - TRT 23ª Região"
+  },
+  {
+    "nome": "Tribunal Regional do Trabalho 24ª Região",
+    "sigla": "TRT 24 Regiao",
+    "descricao": "Tribunal Regional do Trabalho 24ª Região - TRT 24ª Região"
+  },
+  {
+    "nome": "Tribunal Regional do Trabalho 2ª Região",
+    "sigla": "TRT 2 Regiao",
+    "descricao": "Tribunal Regional do Trabalho 2ª Região - TRT 2ª Região"
+  },
+  {
+    "nome": "Tribunal Regional do Trabalho 3ª Região",
+    "sigla": "TRT 3 Regiao",
+    "descricao": "Tribunal Regional do Trabalho 3ª Região - TRT 3ª Região"
+  },
+  {
+    "nome": "Tribunal Regional do Trabalho 8ºRegião",
+    "sigla": "TRT 8 Regiao",
+    "descricao": "Tribunal Regional do Trabalho 8ºRegião - TRT 8ºRegião"
+  },
+  {
+    "nome": "Tribunal Regional Federal 3ª Região",
+    "sigla": "TRF 3 Regiao",
+    "descricao": "Tribunal Regional Federal 3ª Região - TRF 3ª Região"
+  },
+  {
+    "nome": "Tribunal Regional Federal da 2ª Região",
+    "sigla": "TRF2",
+    "descricao": "Tribunal Regional Federal da 2ª Região - TRF2"
+  },
+  {
+    "nome": "Tribunal Regional Federal da 4ª Região",
+    "sigla": "TRF4",
+    "descricao": "Tribunal Regional Federal da 4ª Região - TRF4"
+  },
+  {
+    "nome": "TRT 4ª Região - Tribunal Regional do Trabalho 4ª Região",
+    "sigla": "TRT 4",
+    "descricao": "TRT 4ª Região - Tribunal Regional do Trabalho 4ª Região"
+  },
+  {
+    "nome": "Unisisp Concursos",
+    "sigla": "UNISISP",
+    "descricao": "Unisisp Concursos"
+  },
+  {
+    "nome": "Universidade Corporativa da AMP",
+    "sigla": "AMP UCAMP",
+    "descricao": "Universidade Corporativa da AMP - AMP/UCAMP"
+  },
+  {
+    "nome": "Universidade da Amazônia",
+    "sigla": "UNAMA",
+    "descricao": "Universidade da Amazônia - UNAMA"
+  },
+  {
+    "nome": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira - UNILAB",
+    "sigla": "UNILAB",
+    "descricao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira - UNILAB - UNILAB"
+  },
+  {
+    "nome": "Universidade de Blumenau",
+    "sigla": "FURB",
+    "descricao": "Universidade de Blumenau - FURB"
+  },
+  {
+    "nome": "Universidade de Pernambuco",
+    "sigla": "UPE",
+    "descricao": "Universidade de Pernambuco - UPE"
+  },
+  {
+    "nome": "Universidade de Rio Verde",
+    "sigla": "UniRV",
+    "descricao": "Universidade de Rio Verde - UniRV"
+  },
+  {
+    "nome": "Universidade de São Paulo",
+    "sigla": "USP",
+    "descricao": "Universidade de São Paulo - USP"
+  },
+  {
+    "nome": "Universidade do Amapá",
+    "sigla": "UEAP",
+    "descricao": "Universidade do Amapá -UEAP"
+  },
+  {
+    "nome": "Universidade do Estado da Bahia",
+    "sigla": "UNEB",
+    "descricao": "Universidade do Estado da Bahia - UNEB"
+  },
+  {
+    "nome": "Universidade do Estado de Mato Grosso",
+    "sigla": "UNEMAT",
+    "descricao": "Universidade do Estado de Mato Grosso - UNEMAT"
+  },
+  {
+    "nome": "Universidade do Estado de Santa Catarina",
+    "sigla": "UDESC",
+    "descricao": "Universidade do Estado de Santa Catarina - UDESC"
+  },
+  {
+    "nome": "Universidade do Estado do Pará",
+    "sigla": "UEPA",
+    "descricao": "Universidade do Estado do Pará - UEPA"
+  },
+  {
+    "nome": "Universidade do Estado do Rio de Janeiro",
+    "sigla": "Unirio",
+    "descricao": "Universidade do Estado do Rio de Janeiro - Unirio"
+  },
+  {
+    "nome": "Universidade do Extremo Sul Catarinense",
+    "sigla": "UNESC",
+    "descricao": "Universidade do Extremo Sul Catarinense - UNESC"
+  },
+  {
+    "nome": "Universidade do Vale do Itajaí",
+    "sigla": "UNIVALI",
+    "descricao": "Universidade do Vale do Itajaí - UNIVALI"
+  },
+  {
+    "nome": "Universidade Estadual da Paraíba",
+    "sigla": "UEPB",
+    "descricao": "Universidade Estadual da Paraíba - UEPB"
+  },
+  {
+    "nome": "Universidade Estadual de Ciências da Saúde de Alagoas",
+    "sigla": "UNCISAL",
+    "descricao": "Universidade Estadual de Ciências da Saúde de Alagoas - UNCISAL"
+  },
+  {
+    "nome": "Universidade Estadual de Goiás / Núcleo de Seleção",
+    "sigla": "UEG",
+    "descricao": "Universidade Estadual de Goiás / Núcleo de Seleção - UEG"
+  },
+  {
+    "nome": "Universidade Estadual de Ijuí-RS",
+    "sigla": "UNIJUI",
+    "descricao": "UNIJUI - Universidade Estadual de Ijuí-RS"
+  },
+  {
+    "nome": "Universidade Estadual de Maringá",
+    "sigla": "UEM",
+    "descricao": "Universidade Estadual de Maringá - UEM"
+  },
+  {
+    "nome": "Universidade Estadual de Montes Claros",
+    "sigla": "Unimontes",
+    "descricao": "Universidade Estadual de Montes Claros - Unimontes"
+  },
+  {
+    "nome": "Universidade Estadual de Roraima",
+    "sigla": "UERR",
+    "descricao": "Universidade Estadual de Roraima - UERR"
+  },
+  {
+    "nome": "Universidade Estadual de São Paulo",
+    "sigla": "UNESP",
+    "descricao": "Universidade Estadual de São Paulo - UNESP"
+  },
+  {
+    "nome": "Universidade Estadual do Ceará",
+    "sigla": "UECE",
+    "descricao": "Universidade Estadual do Ceará - UECE"
+  },
+  {
+    "nome": "Universidade Estadual do Centro-Oeste",
+    "sigla": "UNICENTRO",
+    "descricao": "Universidade Estadual do Centro-Oeste - UNICENTRO"
+  },
+  {
+    "nome": "Universidade Estadual do Maranhão",
+    "sigla": "UEMA",
+    "descricao": "Universidade Estadual do Maranhão - UEMA"
+  },
+  {
+    "nome": "Universidade Estadual do Oeste do Paraná",
+    "sigla": "Unioeste",
+    "descricao": "Universidade Estadual do Oeste do Paraná - Unioeste"
+  },
+  {
+    "nome": "Universidade Estadual do Piauí",
+    "sigla": "UESPI",
+    "descricao": "Universidade Estadual do Piauí - UESPI"
+  },
+  {
+    "nome": "Universidade Estadual do Rio de Janeiro",
+    "sigla": "UERJ",
+    "descricao": "Universidade Estadual do Rio de Janeiro - UERJ"
+  },
+  {
+    "nome": "Universidade Federal da Bahia",
+    "sigla": "UFBA",
+    "descricao": "UFBA - Universidade Federal da Bahia"
+  },
+  {
+    "nome": "Universidade Federal da Grande Dourados",
+    "sigla": "UFGD",
+    "descricao": "Universidade Federal da Grande Dourados - UFGD"
+  },
+  {
+    "nome": "Universidade Federal da Paraíba",
+    "sigla": "UFPB",
+    "descricao": "Universidade Federal da Paraíba - UFPB"
+  },
+  {
+    "nome": "Universidade Federal de Alfenas",
+    "sigla": "UNIFAL",
+    "descricao": "Universidade Federal de Alfenas - UNIFAL"
+  },
+  {
+    "nome": "Universidade Federal de Campina Grande",
+    "sigla": "UFCG",
+    "descricao": "Universidade Federal de Campina Grande - UFCG"
+  },
+  {
+    "nome": "Universidade Federal de Itajubá",
+    "sigla": "UNIFEI",
+    "descricao": "Universidade Federal de Itajubá- UNIFEI"
+  },
+  {
+    "nome": "Universidade Federal de Juiz de Fora",
+    "sigla": "UFJF",
+    "descricao": "Universidade Federal de Juiz de Fora - UFJF"
+  },
+  {
+    "nome": "Universidade Federal de Lavras",
+    "sigla": "UFLA",
+    "descricao": "Universidade Federal de Lavras - UFLA"
+  },
+  {
+    "nome": "Universidade Federal de Mato Grosso",
+    "sigla": "UFMT",
+    "descricao": "Universidade Federal de Mato Grosso - UFMT"
+  },
+  {
+    "nome": "Universidade Federal de Minas Gerais",
+    "sigla": "UFMG",
+    "descricao": "Universidade Federal de Minas Gerais - UFMG"
+  },
+  {
+    "nome": "Universidade Federal de Ouro Preto",
+    "sigla": "UFOP",
+    "descricao": "Universidade Federal de Ouro Preto - UFOP"
+  },
+  {
+    "nome": "Universidade Federal de Pelotas",
+    "sigla": "UFPEL",
+    "descricao": "Universidade Federal de Pelotas - UFPEL"
+  },
+  {
+    "nome": "Universidade Federal de Roraima",
+    "sigla": "UFRR",
+    "descricao": "Universidade Federal de Roraima - UFRR"
+  },
+  {
+    "nome": "Universidade Federal de Santa Catarina",
+    "sigla": "UFSC",
+    "descricao": "Universidade Federal de Santa Catarina - UFSC"
+  },
+  {
+    "nome": "Universidade Federal de Santa Maria",
+    "sigla": "UFSM",
+    "descricao": "Universidade Federal de Santa Maria - UFSM"
+  },
+  {
+    "nome": "Universidade Federal de São Carlos",
+    "sigla": "UFSCar",
+    "descricao": "Universidade Federal de São Carlos - UFSCar"
+  },
+  {
+    "nome": "Universidade Federal de São João Del Rei",
+    "sigla": "UFSJ",
+    "descricao": "Universidade Federal de São João Del Rei -UFSJ"
+  },
+  {
+    "nome": "Universidade Federal de São Paulo",
+    "sigla": "UNIFESP UFSP",
+    "descricao": "Universidade Federal de São Paulo - UNIFESP / UFSP"
+  },
+  {
+    "nome": "UNIVERSIDADE FEDERAL DE SERGIPE",
+    "sigla": "UFS",
+    "descricao": "UNIVERSIDADE FEDERAL DE SERGIPE - UFS"
+  },
+  {
+    "nome": "Universidade Federal de Uberlândia",
+    "sigla": "UFU",
+    "descricao": "Universidade Federal de Uberlândia - UFU"
+  },
+  {
+    "nome": "Universidade Federal de Viçosa",
+    "sigla": "UFV",
+    "descricao": "Universidade Federal de Viçosa - UFV"
+  },
+  {
+    "nome": "Universidade Federal do ABC",
+    "sigla": "UFABC",
+    "descricao": "UFABC - Universidade Federal do ABC"
+  },
+  {
+    "nome": "Universidade Federal do Acre",
+    "sigla": "UFAC",
+    "descricao": "Universidade Federal do Acre - UFAC"
+  },
+  {
+    "nome": "Universidade Federal do Amapá",
+    "sigla": "UNIFAP",
+    "descricao": "Universidade Federal do Amapá - UNIFAP"
+  },
+  {
+    "nome": "Universidade Federal do Amazonas",
+    "sigla": "UFAM",
+    "descricao": "Universidade Federal do Amazonas - UFAM"
+  },
+  {
+    "nome": "Universidade Federal do Cariri - UFCA",
+    "sigla": "UFCA",
+    "descricao": "Universidade Federal do Cariri - UFCA - UFCA"
+  },
+  {
+    "nome": "Universidade Federal do Ceará",
+    "sigla": "UFCE",
+    "descricao": "Universidade Federal do Ceará - UFCE"
+  },
+  {
+    "nome": "Universidade Federal do Espírito Santo",
+    "sigla": "UFES",
+    "descricao": "Universidade Federal do Espírito Santo- UFES"
+  },
+  {
+    "nome": "Universidade Federal do Goiás",
+    "sigla": "UFG",
+    "descricao": "Universidade Federal do Goiás - UFG"
+  },
+  {
+    "nome": "Universidade Federal do Maranhão",
+    "sigla": "UFMA",
+    "descricao": "Universidade Federal do Maranhão - UFMA"
+  },
+  {
+    "nome": "Universidade Federal do Pará",
+    "sigla": "UFPA",
+    "descricao": "Universidade Federal do Pará - UFPA"
+  },
+  {
+    "nome": "Universidade Federal do Paraná",
+    "sigla": "FUNPAR NC UFPR",
+    "descricao": "Universidade Federal do Paraná - FUNPAR NC/UFPR"
+  },
+  {
+    "nome": "Universidade Federal do Pernambuco",
+    "sigla": "UFPE",
+    "descricao": "Universidade Federal do Pernambuco - UFPE"
+  },
+  {
+    "nome": "Universidade Federal do Rio de Janeiro",
+    "sigla": "UFRJ",
+    "descricao": "Universidade Federal do Rio de Janeiro - UFRJ"
+  },
+  {
+    "nome": "Universidade Federal do Rio Grande",
+    "sigla": "FURG",
+    "descricao": "Universidade Federal do Rio Grande - FURG"
+  },
+  {
+    "nome": "Universidade Federal do Sul da Bahia",
+    "sigla": "UFSB",
+    "descricao": "Universidade Federal do Sul da Bahia - UFSB"
+  },
+  {
+    "nome": "Universidade Federal do Triângulo Mineiro",
+    "sigla": "UFTM",
+    "descricao": "Universidade Federal do Triângulo Mineiro - UFTM"
+  },
+  {
+    "nome": "Universidade Federal do Vale do São Francisco",
+    "sigla": "UNIVASF",
+    "descricao": "Universidade Federal do Vale do São Francisco - UNIVASF"
+  },
+  {
+    "nome": "Universidade Federal Fluminense",
+    "sigla": "UFF",
+    "descricao": "Universidade Federal Fluminense - UFF"
+  },
+  {
+    "nome": "Universidade Federal Rural de Pernambuco",
+    "sigla": "UFRPE",
+    "descricao": "Universidade Federal Rural de Pernambuco - UFRPE"
+  },
+  {
+    "nome": "Universidade Federal Rural do Rio de Janeiro",
+    "sigla": "UFRRJ",
+    "descricao": "Universidade Federal Rural do Rio de Janeiro - UFRRJ"
+  },
+  {
+    "nome": "Universidade Federal Rural do Semi-Árido",
+    "sigla": "UFERSA",
+    "descricao": "Universidade Federal Rural do Semi-Árido- UFERSA"
+  },
+  {
+    "nome": "Universidade Municipal de São Caetano do Sul",
+    "sigla": "USCS",
+    "descricao": "USCS - Universidade Municipal de São Caetano do Sul"
+  },
+  {
+    "nome": "Universidade Patativa do Assaré",
+    "sigla": "UPA",
+    "descricao": "Universidade Patativa do Assaré - UPA"
+  },
+  {
+    "nome": "Universidade Regional do Cariri",
+    "sigla": "URCA",
+    "descricao": "Universidade Regional do Cariri - URCA"
+  },
+  {
+    "nome": "Universidade Símbolo",
+    "sigla": "UNISIM",
+    "descricao": "Universidade Símbolo - UNISIM"
+  },
+  {
+    "nome": "Universidade Tecnológica Federal do Paraná",
+    "sigla": "UTFPR",
+    "descricao": "Universidade Tecnológica Federal do Paraná - UTFPR"
+  },
+  {
+    "nome": "We Do Serviços",
+    "sigla": "We Do",
+    "descricao": "We Do Serviços- We Do"
+  }
+]

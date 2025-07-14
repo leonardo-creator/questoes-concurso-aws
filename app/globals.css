@@ -1,0 +1,145 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+/* Estilos personalizados para a aplicação */
+.questao-container {
+  @apply bg-white rounded-lg shadow-md p-6 mb-6;
+}
+
+.alternativa-item {
+  @apply p-4 border border-gray-200 rounded-lg cursor-pointer transition-all duration-200 hover:bg-gray-50;
+}
+
+.alternativa-item.selected {
+  @apply bg-blue-50 border-blue-300;
+}
+
+.alternativa-item.correct {
+  @apply bg-green-50 border-green-300;
+}
+
+.alternativa-item.incorrect {
+  @apply bg-red-50 border-red-300;
+}
+
+.filtro-container {
+  @apply bg-white rounded-lg shadow-md p-4 mb-4;
+}
+
+.btn-primary {
+  @apply bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200 font-medium;
+}
+
+.btn-secondary {
+  @apply bg-gray-200 text-gray-800 px-4 py-2 rounded-lg hover:bg-gray-300 transition-colors duration-200 font-medium;
+}
+
+.btn-success {
+  @apply bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition-colors duration-200 font-medium;
+}
+
+.btn-danger {
+  @apply bg-red-600 text-white px-4 py-2 rounded-lg hover:bg-red-700 transition-colors duration-200 font-medium;
+}
+
+.loading-spinner {
+  @apply animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600;
+}
+
+/* Estilos para o componente de questão */
+.enunciado {
+  @apply prose prose-sm max-w-none mb-6;
+}
+
+.enunciado p {
+  @apply mb-3;
+}
+
+.enunciado strong {
+  @apply font-semibold;
+}
+
+.enunciado em {
+  @apply italic;
+}
+
+.enunciado ul, .enunciado ol {
+  @apply pl-6 mb-3;
+}
+
+.enunciado li {
+  @apply mb-1;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .questao-container {
+    @apply p-4 mb-4;
+  }
+  
+  .filtro-container {
+    @apply p-3 mb-3;
+  }
+}
+
+/* Estilos para PWA */
+@media (display-mode: standalone) {
+  body {
+    padding-top: env(safe-area-inset-top);
+  }
+}
+
+/* Indicador de status offline */
+.offline-indicator {
+  @apply fixed top-0 left-0 right-0 bg-yellow-500 text-yellow-900 text-center py-2 text-sm font-medium z-50;
+}
+
+/* Animações */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { 
+    transform: translateY(10px); 
+    opacity: 0; 
+  }
+  to { 
+    transform: translateY(0); 
+    opacity: 1; 
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.slide-up {
+  animation: slideUp 0.3s ease-out;
+}

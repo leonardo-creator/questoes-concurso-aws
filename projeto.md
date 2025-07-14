@@ -5,11 +5,22 @@ Sistema web desenvolvido em Next.js 15 para gerenciamento e estudo de questões 
 
 ## Tecnologias Principais
 - **Framework**: Next.js 15 (App Router)
-- **ORM**: Prisma
+- **ORM**: Prisma (com configurações para build seguro)
 - **Banco de Dados**: PostgreSQL (AWS RDS)
-- **Autenticação**: NextAuth.js
+- **Autenticação**: NextAuth.js (com validações defensivas)
 - **Estilização**: Tailwind CSS
 - **Linguagem**: TypeScript
+- **Build**: Sistema otimizado para Vercel com fallbacks de ambiente
+
+## Correções Recentes ✅
+### Problema do Prisma Client Resolvido (14/07/2025)
+- **Problema**: Erro "Invalid value undefined for datasource 'db'" durante build
+- **Solução**: Implementação de sistema defensivo no `lib/prisma.ts`:
+  - Validação da `DATABASE_URL` antes da instanciação
+  - Cliente mock durante build quando ambiente não está disponível
+  - Múltiplos fallbacks e validações de segurança
+  - Configuração atualizada do Next.js com `serverExternalPackages`
+- **Resultado**: Build passando com sucesso ✓
 
 ## Estrutura do Projeto
 ```

@@ -115,6 +115,16 @@
 - **Cobertura**: `/api/questoes` e `/api/questoes/count`
 - **Validação**: Integrado ao type system TypeScript
 
+### 16. Sistema de Build Defensivo com Prisma
+**Descrição**: Configuração robusta do Prisma Client para evitar erros durante o build
+- **Validação de Environment**: Verificar `DATABASE_URL` antes da instanciação
+- **Cliente Mock**: Fallback para build quando banco não está disponível
+- **Configuração Next.js**: `serverExternalPackages` para Prisma
+- **Múltiplos Handlers**: SIGINT, SIGTERM, beforeExit para desconexão limpa
+- **Benefício**: Build sempre funcional, mesmo em ambientes sem banco configurado
+
+**Status**: ✅ Implementado (14/07/2025)
+
 ## 🔄 Melhorias em Andamento
 
 ### 1. Gerenciamento de Dados e Arquivos Estáticos

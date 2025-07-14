@@ -1,0 +1,51 @@
+{
+  "id": 2498310,
+  "codigo_real": "125.20",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Planejamento na Educação - Planejamento na Educação",
+  "bancas_nome": "MB Gestão Pública Ltda. EPP",
+  "bancas_sigla": "MAXIMA Auditoria",
+  "orgaos_nome": "Prefeitura de Córrego Novo",
+  "cargos_descricao": "Supervisor Pedagógico",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Para Vasconcellos (2000), o planejamento deve ser compreendido como um instrumento capaz de intervir em uma situação real para transformá-la. O planejamento pedagógico é uma maneira de organizar as atividades e os conteúdos que serão trabalhados na escola durante o ano letivo. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa <strong>CORRETA </strong>em relação ao plano de aula.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apresenta as linhas gerais de ação da Escola organizando o trabalho escolar.</p>",
+      "corpo_clean": "Apresenta as linhas gerais de ação da Escola organizando o trabalho escolar.",
+      "id": 9932622,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Considera a participação efetiva de todos os sujeitos da prática educativa.</p>",
+      "corpo_clean": "Considera a participação efetiva de todos os sujeitos da prática educativa.",
+      "id": 9932623,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Racionaliza os espaços e recursos para atingir os fins do processo educativo.</p>",
+      "corpo_clean": "Racionaliza os espaços e recursos para atingir os fins do processo educativo.",
+      "id": 9932624,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Aborda de forma detalhada as atividades que pretende executar dentro da sala de aula.</p>",
+      "corpo_clean": "Aborda de forma detalhada as atividades que pretende executar dentro da sala de aula.",
+      "id": 9932625,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9932625",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1908884,
+  "codigo_real": "117.8.55",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Urologia - Urologia",
+  "bancas_nome": "Núcleo de Concursos e Promoção de Eventos",
+  "bancas_sigla": "NUCEPE UESPI",
+  "orgaos_nome": "Universidade Estadual do Piauí",
+  "cargos_descricao": "Residência em Ortopedia e Traumatologia",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A hérnia que surge no triângulo lombar superior é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Hérnia de Petit</p>",
+      "corpo_clean": "Hérnia de Petit",
+      "id": 7364733,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Hérnia de Spiegel.</p>",
+      "corpo_clean": "Hérnia de Spiegel.",
+      "id": 7364734,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Hérnia do obturador.</p>",
+      "corpo_clean": "Hérnia do obturador.",
+      "id": 7364735,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Hérnia de Littrè</p>",
+      "corpo_clean": "Hérnia de Littrè",
+      "id": 7364736,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Hérnia de Grynfeltt.</p>",
+      "corpo_clean": "Hérnia de Grynfeltt.",
+      "id": 7364737,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7364737",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

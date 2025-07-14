@@ -1,0 +1,58 @@
+{
+  "id": 157370,
+  "codigo_real": "82.2.6",
+  "disciplina_real": "Estatística",
+  "assunto_real": "Séries Estatísticas",
+  "bancas_nome": "Fundação José Pelúcio Ferreira",
+  "bancas_sigla": "FJPF",
+  "orgaos_nome": "Companhia Docas do Espírito Santo",
+  "cargos_descricao": "Técnico - Área Guarda Portuário",
+  "ano": 2005,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<P align=justify>\r\n<P align=justify>Observe o gráfico de setores a seguir, elaborado por um funcionário da CODESA:</P>\r\n<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/4043/37.JPG></P>\r\n<P align=justify>Ele mostra o resultado de uma pesquisa realizada na região portuária durante determinado período. Se o setor referente a acidentes leves corresponde a 216º, o número de acidentes graves, no período considerado, foi de:</P>\r\n<P></P>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>68</p>",
+      "corpo_clean": "68",
+      "id": 692086,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>58</p>",
+      "corpo_clean": "58",
+      "id": 692087,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>48</p>",
+      "corpo_clean": "48",
+      "id": 692088,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>38</p>",
+      "corpo_clean": "38",
+      "id": 692089,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>28</p>",
+      "corpo_clean": "28",
+      "id": 692090,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "692088",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 3169497,
+  "codigo_real": "125.26.2.3",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Papel da mediação",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Pitangueiras",
+  "cargos_descricao": "Professor de Artes Cênicas",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A educação mediadora considera que o conhecimento é construído socialmente e que as experiências individuais dos alunos desempenham um papel importante nesse processo. Quando o professor mediador explica algo, o aluno escuta. O sentido que o professor pensa ter transmitido pode ser muito diferente do sentido construído pelo aluno. Dificilmente o sentido será o mesmo para duas pessoas diferentes, considerando-se as vivências e os momentos de educação de cada uma. O silêncio do professor é a sua forma de intervir nessa situação. Agindo ou deixando de agir, o aluno interpreta essas reações a sua própria maneira. Cada um dos participantes desse diálogo tem sua própria capacidade de operar mentalmente sobre o mundo e, dessa forma, produzir sentidos diferentes. É essa mágica relação de conhecimento que une ou desune alunos e professores. Assim, o papel do professor mediador é o de</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">buscador da convergência máxima de significados, a aproximação e o entendimento dos educandos a partir de processos dialógicos e interativos.</p>",
+      "corpo_clean": "buscador da convergência máxima de significados, a aproximação e o entendimento dos educandos a partir de processos dialógicos e interativos.",
+      "id": 12869773,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">deliberadamente promover desacordos e conflitos para movimentos de desequilibração e assimilação entre pares, criando um ambiente de competição intelectual.</p>",
+      "corpo_clean": "deliberadamente promover desacordos e conflitos para movimentos de desequilibração e assimilação entre pares, criando um ambiente de competição intelectual.",
+      "id": 12869774,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">aplicar um conjunto rígido de regras de comunicação, permitindo a expressão individual dos alunos, oferecendo sucessivamente novos desafios aos seus processos simbólicos internos.</p>",
+      "corpo_clean": "aplicar um conjunto rígido de regras de comunicação, permitindo a expressão individual dos alunos, oferecendo sucessivamente novos desafios aos seus processos simbólicos internos.",
+      "id": 12869775,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">atuar como um observador, com tentativas controladas de direcionar a compreensão dos alunos, na medida em que constroem novos significados e aprendem novos símbolos e signos.</p>",
+      "corpo_clean": "atuar como um observador, com tentativas controladas de direcionar a compreensão dos alunos, na medida em que constroem novos significados e aprendem novos símbolos e signos.",
+      "id": 12869776,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "12869773",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

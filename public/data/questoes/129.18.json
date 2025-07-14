@@ -1,0 +1,58 @@
+{
+  "id": 2819145,
+  "codigo_real": "129.18",
+  "disciplina_real": "Química",
+  "assunto_real": "Química Analítica - Química",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Fundação Estadual de Proteção Ambiental Henrique Luis Roessler",
+  "cargos_descricao": "Técnico em Química",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em relação à coleta de amostras de água para análises, assinale a afirmativa correta.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>Atenção: a tabela periódica encontra-se anexada no final do caderno de provas.</strong></p><p style=\"text-align: justify;\"><br></p><p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/107047/grupo-questao/581659-20230420105529000000-0.png\" width=\"832\" style=\"display: block; margin: auto;\" align=\"center\"></p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Pelo menos uma amostra em corpos de água receptoras deve ser coletada uma vez o mês.</p>",
+      "corpo_clean": "Pelo menos uma amostra em corpos de água receptoras deve ser coletada uma vez o mês.",
+      "id": 11341046,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Amostragens em cursos de água onde haverá captação para consumo humano devem ocorrer somente no ponto onde a captação ocorrerá.</p>",
+      "corpo_clean": "Amostragens em cursos de água onde haverá captação para consumo humano devem ocorrer somente no ponto onde a captação ocorrerá.",
+      "id": 11341047,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Em corpos receptores de água, a amostragem deve ser feita, no mínimo, em dois locais: um acima e outro abaixo do ponto de lançamento.</p>",
+      "corpo_clean": "Em corpos receptores de água, a amostragem deve ser feita, no mínimo, em dois locais: um acima e outro abaixo do ponto de lançamento.",
+      "id": 11341048,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Em reservatórios de captação, a coleta de amostras deve ocorrer próximas a curvas, margens internas e em pontos de estagnação, a fim de assegurar a homogeneidade.</p>",
+      "corpo_clean": "Em reservatórios de captação, a coleta de amostras deve ocorrer próximas a curvas, margens internas e em pontos de estagnação, a fim de assegurar a homogeneidade.",
+      "id": 11341049,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Amostragens para análises biológicas devem ser realizadas em pontos diferentes daqueles nos quais são feitas coletas para análises físico-químicas, a fim de evitar a presença de interferentes nas amostras.</p>",
+      "corpo_clean": "Amostragens para análises biológicas devem ser realizadas em pontos diferentes daqueles nos quais são feitas coletas para análises físico-químicas, a fim de evitar a presença de interferentes nas amostras.",
+      "id": 11341050,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11341048",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

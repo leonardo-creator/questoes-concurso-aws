@@ -1,0 +1,58 @@
+{
+  "id": 3202959,
+  "codigo_real": "117.8.10.16",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Cirurgia Cardiovascular - Cardiologia",
+  "bancas_nome": "Instituto Brasileiro de Apoio e Desenvolvimento Executivo",
+  "bancas_sigla": "IBADE",
+  "orgaos_nome": "Secretaria Municipal de Saúde de Recife",
+  "cargos_descricao": "Médico 20h - Área: Ergometria",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Após uma cirurgia de revascularização miocárdica ou uma angioplastia, o teste ergométrico é uma ferramenta valiosa para avaliar a eficácia do procedimento e a função cardiovascular do paciente. Qual das seguintes afirmações corretamente descreve um achado no teste ergométrico que sugere uma revascularização miocárdica ou angioplastia bem-sucedida?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O desenvolvimento de hipotensão sistólica durante as fases iniciais do teste.</p>",
+      "corpo_clean": "O desenvolvimento de hipotensão sistólica durante as fases iniciais do teste.",
+      "id": 13011833,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A ocorrência de arritmias ventriculares frequentes durante o esforço.</p>",
+      "corpo_clean": "A ocorrência de arritmias ventriculares frequentes durante o esforço.",
+      "id": 13011834,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A presença de depressão do segmento ST de mais de 2 mm em múltiplas derivações.</p>",
+      "corpo_clean": "A presença de depressão do segmento ST de mais de 2 mm em múltiplas derivações.",
+      "id": 13011835,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Melhora ou ausência de sintomas isquêmicos prévios durante o exercício em comparação com o teste pré-operatório.</p>",
+      "corpo_clean": "Melhora ou ausência de sintomas isquêmicos prévios durante o exercício em comparação com o teste pré-operatório.",
+      "id": 13011836,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Um aumento significativo na frequência cardíaca máxima atingida em comparação com o teste realizado antes da revascularização.</p>",
+      "corpo_clean": "Um aumento significativo na frequência cardíaca máxima atingida em comparação com o teste realizado antes da revascularização.",
+      "id": 13011837,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13011836",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

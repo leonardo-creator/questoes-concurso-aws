@@ -1,0 +1,51 @@
+{
+  "id": 2053747,
+  "codigo_real": "99.2.23.25",
+  "disciplina_real": "Legislação Estadual, Distrital e Municipal",
+  "assunto_real": "Município de Santa Helena - Legislação Aplicada",
+  "bancas_nome": "Associação dos Municípios do Extremo Oeste de Santa Catarina",
+  "bancas_sigla": "AMEOSC",
+  "orgaos_nome": "Prefeitura de Santa Helena",
+  "cargos_descricao": "Professor de Língua Portuguesa e Estrangeira - Área: Espanhol",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Entre as <strong>VEDAÇÕES</strong> estabelecidas por sua Lei Orgânica ao município de Santa Helena/SC <strong>NÃO</strong> consta:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Criar distinções entre brasileiros ou preferências entre si.</p>",
+      "corpo_clean": "Criar distinções entre brasileiros ou preferências entre si.",
+      "id": 8011301,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Vincular-se ao governo estadual, em regime de cooperação, para atender às demandas que lhes forem competentes.</p>",
+      "corpo_clean": "Vincular-se ao governo estadual, em regime de cooperação, para atender às demandas que lhes forem competentes.",
+      "id": 8011302,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Estabelecer cultos religiosos ou igrejas subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou seus representantes relações de dependência ou aliança, ressalvada na forma da Lei, a colaboração de interesse público.</p>",
+      "corpo_clean": "Estabelecer cultos religiosos ou igrejas subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou seus representantes relações de dependência ou aliança, ressalvada na forma da Lei, a colaboração de interesse público.",
+      "id": 8011303,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Recusar fé aos documentos públicos.</p>",
+      "corpo_clean": "Recusar fé aos documentos públicos.",
+      "id": 8011304,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "8011302",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

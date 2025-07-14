@@ -1,0 +1,58 @@
+{
+  "id": 2049697,
+  "codigo_real": "125.14.5.4",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Literatura e alfabetização",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Prefeitura de São José",
+  "cargos_descricao": "Professor de Anos Iniciais",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com os estudos que envolvem o processo de alfabetização, pode-se dizer que o termo alfabetização designa o ensino e o aprendizado de uma tecnologia de representação da linguagem humana, a escrita:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Silábica.</p>",
+      "corpo_clean": "Silábica.",
+      "id": 7996319,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Sensorial.</p>",
+      "corpo_clean": "Sensorial.",
+      "id": 7996320,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Alfabético-ortográfica.</p>",
+      "corpo_clean": "Alfabético-ortográfica.",
+      "id": 7996321,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Pré-alfabética.</p>",
+      "corpo_clean": "Pré-alfabética.",
+      "id": 7996322,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Fonética.</p>",
+      "corpo_clean": "Fonética.",
+      "id": 7996323,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7996321",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

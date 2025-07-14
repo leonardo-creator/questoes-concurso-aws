@@ -1,0 +1,58 @@
+{
+  "id": 3089375,
+  "codigo_real": "100.4.8.87",
+  "disciplina_real": "Legislação Federal",
+  "assunto_real": "Lei nº 11.344/2006 - Dispõe sobre a reestruturação das carreiras de Especialista do Banco Central do Brasil, de Magistério de Ensino Superior e de Magistério de 1º e 2º Graus e da remuneração dessas carreiras, das Carreiras da Área de Ciência e Tecnologia",
+  "bancas_nome": "Fundação de Apoio à educação, Pesquisae Desenvolvimento CientíficoTecnológico da Universidade Tecnológica Federal do Paraná",
+  "bancas_sigla": "FUNTEF",
+  "orgaos_nome": "Universidade Tecnológica Federal do Paraná",
+  "cargos_descricao": "Assistente de Alunos",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A edição da Lei n<sup>o</sup> 11.091/2005 reestruturou e modernizou o plano de carreira dos técnico-administrativos em educação. Levando em consideração o disposto nessa lei, assinale a <u>alternativa que apresenta uma das variáveis avaliadas</u> anualmente pela Instituição Federal de Ensino para verificar a adequação do quadro de pessoal às suas necessidades:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Inovações educacionais.</p>",
+      "corpo_clean": "Inovações educacionais.",
+      "id": 12522506,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Proporção entre os quantitativos da força de trabalho do Plano de Carreira e força de trabalho da carreira docente.</p>",
+      "corpo_clean": "Proporção entre os quantitativos da força de trabalho do Plano de Carreira e força de trabalho da carreira docente.",
+      "id": 12522507,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Dinâmica dos processos de pesquisa, de ensino, de extensão e de administração, e as competências específicas decorrentes.</p>",
+      "corpo_clean": "Dinâmica dos processos de pesquisa, de ensino, de extensão e de administração, e as competências específicas decorrentes.",
+      "id": 12522508,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Modernização dos processos de trabalho no âmbito da Instituição.</p>",
+      "corpo_clean": "Modernização dos processos de trabalho no âmbito da Instituição.",
+      "id": 12522509,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Garantia de programas de capacitação que contemplem a formação específica e a geral, nesta incluída a educação formal.</p>",
+      "corpo_clean": "Garantia de programas de capacitação que contemplem a formação específica e a geral, nesta incluída a educação formal.",
+      "id": 12522510,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12522509",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

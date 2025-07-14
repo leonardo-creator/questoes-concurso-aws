@@ -1,0 +1,51 @@
+{
+  "id": 28697,
+  "codigo_real": "112.1.24",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Reescrita de frases e parágrafos do texto - Reescrita de frases e parágrafos do texto",
+  "bancas_nome": "Fundação João Goulart",
+  "bancas_sigla": "FJG",
+  "orgaos_nome": "Secretaria Municipal de Educação do Rio de Janeiro",
+  "cargos_descricao": "Professor Docente I - Educação Física",
+  "ano": 2004,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>&quot;Lembro-me especialmente do &quot;Teatro de Comédias da Imperatriz das Sedas&quot;, atração de sábado à noite na TV Tupi.&quot;</p>\r\n<p align=justify>Em cada alternativa abaixo, promovem-se alterações nessa frase do texto. A nova redação não está bem construída em:</p>",
+  "grupoQuestao_enunciado": "<P align=justify>Leia o texto abaixo e responda, em seguida, às questões propostas.</P>\r\n<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/1233/ScreenHunter_63.gif></P>\r\n<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/1233/ScreenHunter_64.gif></P>\r\n<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/1233/ScreenHunter_65.gif></P>\r\n<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/1233/ScreenHunter_66.gif></P>\r\n<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/1233/ScreenHunter_67.gif></P>",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Lembra-me especialmente o \"Teatro de\r\nComédias da Imperatriz das Sedas\", atração\r\nde sábado à noite na TV Tupi.</p>",
+      "corpo_clean": "Lembra-me especialmente o \"Teatro de Comédias da Imperatriz das Sedas\", atração de sábado à noite na TV Tupi.",
+      "id": 137232,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>É do \"Teatro de Comédias da Imperatriz das\r\nSedas\", atração de sábado à noite na TV Tupi,\r\nque eu lembro especialmente.</p>",
+      "corpo_clean": "É do \"Teatro de Comédias da Imperatriz das Sedas\", atração de sábado à noite na TV Tupi, que eu lembro especialmente.",
+      "id": 137233,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Era o \"Teatro de Comédias da Imperatriz das\r\nSedas\", atração de sábado à noite na TV Tupi,\r\nque eu lembrava especialmente.</p>",
+      "corpo_clean": "Era o \"Teatro de Comédias da Imperatriz das Sedas\", atração de sábado à noite na TV Tupi, que eu lembrava especialmente.",
+      "id": 137234,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Especialmente do \"Teatro de Comédias da\r\nImperatriz das Sedas\", atração de sábado à\r\nnoite na TV Tupi, era que me lembrava.</p>",
+      "corpo_clean": "Especialmente do \"Teatro de Comédias da Imperatriz das Sedas\", atração de sábado à noite na TV Tupi, era que me lembrava.",
+      "id": 137235,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "137233",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

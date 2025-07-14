@@ -1,0 +1,58 @@
+{
+  "id": 2578003,
+  "codigo_real": "58.1.1",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Resolução COFEN 564/17 - Resolução COFEN 564/17",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Piracicaba",
+  "cargos_descricao": "Enfermeiro",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">As penas que poderão ser aplicadas aos infratores do Código de Deontologia de Enfermagem são: advertência verbal, censura, multa, suspensão do exercício profissional e cassação do direito ao exercício profissional, sendo esta última da alçada do</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Gestor do empregador.</p>",
+      "corpo_clean": "Gestor do empregador.",
+      "id": 10279107,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Conselho Federal de Enfermagem, ouvindo o Conselho Regional interessado.</p>",
+      "corpo_clean": "Conselho Federal de Enfermagem, ouvindo o Conselho Regional interessado.",
+      "id": 10279108,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Conselho Regional de Enfermagem da localidade onde ocorreu a infração. </p>",
+      "corpo_clean": "Conselho Regional de Enfermagem da localidade onde ocorreu a infração. ",
+      "id": 10279109,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Ministério Público do Trabalho, esfera federal.</p>",
+      "corpo_clean": "Ministério Público do Trabalho, esfera federal.",
+      "id": 10279110,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Ministério do Trabalho e do Emprego (MTE).</p>",
+      "corpo_clean": "Ministério do Trabalho e do Emprego (MTE).",
+      "id": 10279111,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10279108",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

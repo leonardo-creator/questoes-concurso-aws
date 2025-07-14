@@ -1,0 +1,58 @@
+{
+  "id": 2254089,
+  "codigo_real": "57.5",
+  "disciplina_real": "Educação Física",
+  "assunto_real": "Fisiologia do Exercício",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Prefeitura de Araranguá",
+  "cargos_descricao": "Professor - Área: Educação Física",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Magill (2017) apresenta as características gerais de desempenho da aprendizagem de habilidades. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Qual característica preconiza que de uma tentativa para outra, os níveis de desempenho da pessoa devem tornar-se mais semelhantes?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Consistência</p>",
+      "corpo_clean": "Consistência",
+      "id": 8868669,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Aperfeiçoamento</p>",
+      "corpo_clean": "Aperfeiçoamento",
+      "id": 8868670,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Aprendizagem efetiva </p>",
+      "corpo_clean": "Aprendizagem efetiva ",
+      "id": 8868671,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Adaptabilidade</p>",
+      "corpo_clean": "Adaptabilidade",
+      "id": 8868672,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Persistência</p>",
+      "corpo_clean": "Persistência",
+      "id": 8868673,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8868669",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

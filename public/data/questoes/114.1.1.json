@@ -1,0 +1,58 @@
+{
+  "id": 2185771,
+  "codigo_real": "114.1.1",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Razões e proporções",
+  "bancas_nome": "Fundação de Apoio ao Desenvolvimento do Ensino Superior do Norte de Minas",
+  "bancas_sigla": "COTEC FADENOR",
+  "orgaos_nome": "Prefeitura de Brasília de Minas",
+  "cargos_descricao": "Professor Ensino Fundamental 6º ao 9º Ano - Área: Matemática",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sabendo-se que P(A) = 1/3, P(B) = p e P(A ∪ B) = 7/12, determine o valor de p quando os eventos A e B são independentes.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">p = 1/4.</p>",
+      "corpo_clean": "p = 1/4.",
+      "id": 8578404,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">p = 3/8.</p>",
+      "corpo_clean": "p = 3/8.",
+      "id": 8578405,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">p = 7/12.</p>",
+      "corpo_clean": "p = 7/12.",
+      "id": 8578406,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">p = 7/2.</p>",
+      "corpo_clean": "p = 7/2.",
+      "id": 8578407,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">p = 11/12.</p>",
+      "corpo_clean": "p = 11/12.",
+      "id": 8578408,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8578405",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

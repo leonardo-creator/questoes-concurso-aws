@@ -1,0 +1,58 @@
+{
+  "id": 739670,
+  "codigo_real": "112.5.8",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Emprego do sinal indicativo de crase",
+  "bancas_nome": "Instituto de Desenvolvimento Educacional, Cultural e Assistencial Nacional",
+  "bancas_sigla": "IDECAN",
+  "orgaos_nome": "Secretaria de Portos da Presidência da República da Paraná",
+  "cargos_descricao": "Técnico em Contabilidade",
+  "ano": 2014,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<P>Acerca da utilização do acento grave em “à direita”, “à esquerda” e “à democracia” no trecho “[...] em 1964 havia, à direita e à esquerda, ceticismo em relação à democracia; hoje, não mais.”, analise. </P>\r\n<P>I. As três ocorrências do acento grave justificam-se pelo mesmo motivo. </P>\r\n<P>II. As ocorrências do acento grave em “à direita” e “à esquerda” justificam-se por motivos diferentes. </P>\r\n<P>III. Substituindo “em relação” por “relacionado”, permanece o uso do acento grave em “à democracia”. </P>\r\n<P>IV. Em “à democracia”, o uso do acento grave justifica-se mediante a exigência do termo regente associada à presença do artigo feminino diante do termo regido. </P>\r\n<P>Está(ão) correta(s) apenas a(s) afirmativa(s)</P>",
+  "grupoQuestao_enunciado": "<IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/21974/1.gif>",
+  "alternativas": [
+    {
+      "corpo": "II.",
+      "corpo_clean": "II.",
+      "id": 2538001,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "IV.",
+      "corpo_clean": "IV.",
+      "id": 2538002,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "I e II.",
+      "corpo_clean": "I e II.",
+      "id": 2538003,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "III e IV.",
+      "corpo_clean": "III e IV.",
+      "id": 2538004,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "I, II e III.",
+      "corpo_clean": "I, II e III.",
+      "id": 2538005,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2538004",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

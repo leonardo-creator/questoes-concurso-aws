@@ -1,0 +1,58 @@
+{
+  "id": 3016951,
+  "codigo_real": "58.23.14.2",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Planejamento normativo",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Câmara dos Deputados",
+  "cargos_descricao": "Analista Legislativo - Área: Enfermeiro",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">São características do planejamento normativo ou tradicional, exceto:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Centralização da tomada de decisão na figura do planejador.</p>",
+      "corpo_clean": "Centralização da tomada de decisão na figura do planejador.",
+      "id": 12206583,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Descentralização das decisões, em atenção ao perfil de morbidade e ao controle social.</p>",
+      "corpo_clean": "Descentralização das decisões, em atenção ao perfil de morbidade e ao controle social.",
+      "id": 12206584,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>O método ignora as tensões sociais.</p>",
+      "corpo_clean": "O método ignora as tensões sociais.",
+      "id": 12206585,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">É composto por uma sucessão de etapas definidas, com tarefas precisas e limites cronológicos demarcados.</p>",
+      "corpo_clean": "É composto por uma sucessão de etapas definidas, com tarefas precisas e limites cronológicos demarcados.",
+      "id": 12206586,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Nega os determinantes sociais no processo saúde-doença.</p>",
+      "corpo_clean": "Nega os determinantes sociais no processo saúde-doença.",
+      "id": 12206587,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12206584",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

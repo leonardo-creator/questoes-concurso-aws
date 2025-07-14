@@ -1,0 +1,58 @@
+{
+  "id": 1075743,
+  "codigo_real": "125.24.11",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Primeiros Socorros no Ambiente Escolar",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Secretaria de Estado de Educação de São Paulo",
+  "cargos_descricao": "Professor - Área: Educação Especial",
+  "ano": 2010,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Considerando os cuidados necessários na organização dos espaços dentro da sala de aula, qual item desconsidera os princípios de acessibilidade na sala de aula?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Assegurar espaço de circulação dentro da sala de aula para que o aluno consiga chegar com autonomia na sala de aula.</p>",
+      "corpo_clean": "Assegurar espaço de circulação dentro da sala de aula para que o aluno consiga chegar com autonomia na sala de aula.",
+      "id": 3786176,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Colocar a mesa do aluno com deficiência física no fundo para não atrapalhar a passagem dos demais.</p>",
+      "corpo_clean": "Colocar a mesa do aluno com deficiência física no fundo para não atrapalhar a passagem dos demais.",
+      "id": 3786177,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Garantir boa iluminação na sua área de trabalho.</p>",
+      "corpo_clean": "Garantir boa iluminação na sua área de trabalho.",
+      "id": 3786178,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Garantir que a lousa esteja em altura apropriada para ele e que consiga chegar até lá.</p>",
+      "corpo_clean": "Garantir que a lousa esteja em altura apropriada para ele e que consiga chegar até lá.",
+      "id": 3786179,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Verificar se as estantes, os cabides e as maçanetas estão na altura certa para ele manejar com autonomia.</p>",
+      "corpo_clean": "Verificar se as estantes, os cabides e as maçanetas estão na altura certa para ele manejar com autonomia.",
+      "id": 3786180,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3786177",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

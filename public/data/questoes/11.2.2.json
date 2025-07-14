@@ -1,0 +1,58 @@
+{
+  "id": 2730619,
+  "codigo_real": "11.2.2",
+  "disciplina_real": "Artes",
+  "assunto_real": "Teoria de Teatro",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Prefeitura do Município de Araçariguama",
+  "cargos_descricao": "Professor da Educação Básica - Área: Educação Artística",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No que se refere à encenação teatral, julgue os itens a seguir e, ao final, assinale a alternativa correta: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I – A noção de “encenação” remonta à Grécia Antiga, e o emprego dessa palavra surgiu na obra “O Banquete”, de Platão. </p><p style=\"text-align: justify;\">II – No século XIX, o encenador deixa de ser o responsável pela ordenação do espetáculo.</p><p style=\"text-align: justify;\"> III – Há três dimensões na encenação: espiritual; caseira e universal. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Apenas o item I é verdadeiro. </p>",
+      "corpo_clean": "Apenas o item I é verdadeiro. ",
+      "id": 10944112,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Apenas o item II é verdadeiro. </p>",
+      "corpo_clean": "Apenas o item II é verdadeiro. ",
+      "id": 10944113,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Apenas o item III é verdadeiro. </p>",
+      "corpo_clean": "Apenas o item III é verdadeiro. ",
+      "id": 10944114,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Apenas os itens I e II são verdadeiros. </p>",
+      "corpo_clean": "Apenas os itens I e II são verdadeiros. ",
+      "id": 10944115,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Nenhum dos itens é verdadeiro.</p>",
+      "corpo_clean": "Nenhum dos itens é verdadeiro.",
+      "id": 10944116,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10944116",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

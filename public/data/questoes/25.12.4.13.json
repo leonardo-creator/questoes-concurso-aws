@@ -1,0 +1,58 @@
+{
+  "id": 2768949,
+  "codigo_real": "25.12.4.13",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Lucro Real, Lucro Presumido e Arbitrado",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Tribunal de Contas do Município de São Paulo",
+  "cargos_descricao": "Auditor de Controle Externo - Área: Letras - Língua Portuguesa",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O resultado do exercício, em Reais, foi:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Leia as informações a seguir da empresa Estrela Dalva Ltda., para responder às questões de números <strong>49 </strong>e <strong>50</strong>.</p><p style=\"text-align: justify;\"><br></p><p>Balancete de verificação em 31.12.2022:</p><p><br></p><div class=\"quill-better-table-wrapper\"><table class=\"quill-better-table\" style=\"width: 374px;\"><colgroup><col width=\"274\"><col width=\"100\"></colgroup><tbody><tr data-row=\"row-6vb9\"><td data-row=\"row-6vb9\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-6vb9\" data-cell=\"cell-4e8i\" data-rowspan=\"1\" data-colspan=\"1\"><strong>Descrição da conta </strong></p></td><td data-row=\"row-6vb9\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-6vb9\" data-cell=\"cell-stab\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\"><strong>Reais</strong></p></td></tr><tr data-row=\"row-0vuj\"><td data-row=\"row-0vuj\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-0vuj\" data-cell=\"cell-f8iu\" data-rowspan=\"1\" data-colspan=\"1\">Caixa</p></td><td data-row=\"row-0vuj\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-0vuj\" data-cell=\"cell-abyf\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">30.000</p></td></tr><tr data-row=\"row-5gda\"><td data-row=\"row-5gda\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-5gda\" data-cell=\"cell-ua6x\" data-rowspan=\"1\" data-colspan=\"1\">Equivalentes de Caixa</p></td><td data-row=\"row-5gda\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-5gda\" data-cell=\"cell-mxv9\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">105.000</p></td></tr><tr data-row=\"row-sv5t\"><td data-row=\"row-sv5t\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-sv5t\" data-cell=\"cell-xxjv\" data-rowspan=\"1\" data-colspan=\"1\">Contas a receber</p></td><td data-row=\"row-sv5t\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-sv5t\" data-cell=\"cell-zrz0\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">180.000</p></td></tr><tr data-row=\"row-rgic\"><td data-row=\"row-rgic\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-rgic\" data-cell=\"cell-7rvv\" data-rowspan=\"1\" data-colspan=\"1\">Estoques</p></td><td data-row=\"row-rgic\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-rgic\" data-cell=\"cell-2qzg\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">–</p></td></tr><tr data-row=\"row-uxek\"><td data-row=\"row-uxek\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-uxek\" data-cell=\"cell-kvo2\" data-rowspan=\"1\" data-colspan=\"1\">Despesas antecipadas</p></td><td data-row=\"row-uxek\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-uxek\" data-cell=\"cell-sy6q\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">45.000</p></td></tr><tr data-row=\"row-3tn4\"><td data-row=\"row-3tn4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-3tn4\" data-cell=\"cell-yiyu\" data-rowspan=\"1\" data-colspan=\"1\">Máquinas e equipamentos</p></td><td data-row=\"row-3tn4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-3tn4\" data-cell=\"cell-kfq3\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">750.000</p></td></tr><tr data-row=\"row-gssp\"><td data-row=\"row-gssp\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-gssp\" data-cell=\"cell-ldy8\" data-rowspan=\"1\" data-colspan=\"1\">Depreciação de máquinas e equipamentos</p></td><td data-row=\"row-gssp\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-gssp\" data-cell=\"cell-d1ne\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">150.000</p></td></tr><tr data-row=\"row-syc3\"><td data-row=\"row-syc3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-syc3\" data-cell=\"cell-0qcz\" data-rowspan=\"1\" data-colspan=\"1\">Financiamento a longo prazo</p></td><td data-row=\"row-syc3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-syc3\" data-cell=\"cell-dpds\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">600.000</p></td></tr><tr data-row=\"row-t1x5\"><td data-row=\"row-t1x5\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-t1x5\" data-cell=\"cell-4009\" data-rowspan=\"1\" data-colspan=\"1\">Capital</p></td><td data-row=\"row-t1x5\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-t1x5\" data-cell=\"cell-hfml\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">240.000</p></td></tr><tr data-row=\"row-da2c\"><td data-row=\"row-da2c\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-da2c\" data-cell=\"cell-9dne\" data-rowspan=\"1\" data-colspan=\"1\">Reservas de lucros</p></td><td data-row=\"row-da2c\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-da2c\" data-cell=\"cell-jon3\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">90.000</p></td></tr><tr data-row=\"row-tz39\"><td data-row=\"row-tz39\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-tz39\" data-cell=\"cell-0vv2\" data-rowspan=\"1\" data-colspan=\"1\">Vendas líquidas</p></td><td data-row=\"row-tz39\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-tz39\" data-cell=\"cell-hmhu\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">900.000</p></td></tr><tr data-row=\"row-qff3\"><td data-row=\"row-qff3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-qff3\" data-cell=\"cell-64mo\" data-rowspan=\"1\" data-colspan=\"1\">CMV</p></td><td data-row=\"row-qff3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-qff3\" data-cell=\"cell-5ql8\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">810.000</p></td></tr><tr data-row=\"row-wktx\"><td data-row=\"row-wktx\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-wktx\" data-cell=\"cell-7z4a\" data-rowspan=\"1\" data-colspan=\"1\">Despesas administrativas</p></td><td data-row=\"row-wktx\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-wktx\" data-cell=\"cell-qg9k\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">–</p></td></tr><tr data-row=\"row-vae4\"><td data-row=\"row-vae4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-vae4\" data-cell=\"cell-mljp\" data-rowspan=\"1\" data-colspan=\"1\">Despesas de salários</p></td><td data-row=\"row-vae4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-vae4\" data-cell=\"cell-c91y\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">90.000</p></td></tr><tr data-row=\"row-apa4\"><td data-row=\"row-apa4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-apa4\" data-cell=\"cell-c0rc\" data-rowspan=\"1\" data-colspan=\"1\">Despesas financeiras</p></td><td data-row=\"row-apa4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-apa4\" data-cell=\"cell-uiq0\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">15.000</p></td></tr><tr data-row=\"row-cre9\"><td data-row=\"row-cre9\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-cre9\" data-cell=\"cell-50q1\" data-rowspan=\"1\" data-colspan=\"1\">Receitas financeiras</p></td><td data-row=\"row-cre9\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-cre9\" data-cell=\"cell-833y\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: right;\">45.000</p></td></tr></tbody></table></div><p><br></p><p style=\"text-align: justify;\">O contador da Estrela Dalva está procedendo ao fechamento do balancete do referido exercício, no entanto, necessita ainda incluir alguns lançamentos contábeis, sendo:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">1) Depreciação do imobilizado e 10% sobre o valor de custo dos bens e será reconhecido como despesas administrativas.</p><p style=\"text-align: justify;\">2) Dos seguros pagos antecipadamente, 2/3 (dois terços) do saldo da conta é despesa administrativa do exercício.</p><p style=\"text-align: justify;\">3) O total de receita de juros do exercício deveria ser de R$ 75.000, já recebidos.</p><p style=\"text-align: justify;\">4) Os juros sobre o financiamento a longo prazo a ser reconhecido ainda no exercício de 2022 montam a R$ 30.000.</p><p style=\"text-align: justify;\">5) Houve uma devolução de vendas da ordem de R$ 90.000, cujo CMV foi de R$ 60.000.A empresa restituiu o cliente a vista, por intermédio de transferência bancária. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Trata-se de transações hipotéticas, portanto, não há valores de impostos.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>95.000.</p>",
+      "corpo_clean": "95.000.",
+      "id": 11115468,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>(95.000).</p>",
+      "corpo_clean": "(95.000).",
+      "id": 11115469,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>105.000.</p>",
+      "corpo_clean": "105.000.",
+      "id": 11115470,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>(105.000).</p>",
+      "corpo_clean": "(105.000).",
+      "id": 11115471,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>125.000.</p>",
+      "corpo_clean": "125.000.",
+      "id": 11115472,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11115471",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

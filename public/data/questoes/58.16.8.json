@@ -1,0 +1,58 @@
+{
+  "id": 482037,
+  "codigo_real": "58.16.8",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Aleitamento materno",
+  "bancas_nome": "Consultoria e Planejamento em Administração Pública LTDA",
+  "bancas_sigla": "Consulplan",
+  "orgaos_nome": "Prefeitura de Porto Velho",
+  "cargos_descricao": "Técnico em Enfermagem",
+  "ano": 2012,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Pode ser desenvolvido em um recém-nascido por parto normal de uma mãe portadora de gonorréia a(s)</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>anomalias congênitas.</p>",
+      "corpo_clean": "anomalias congênitas.",
+      "id": 1736426,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>septicemia.</p>",
+      "corpo_clean": "septicemia.",
+      "id": 1736427,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>otite.</p>",
+      "corpo_clean": "otite.",
+      "id": 1736428,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>oftalmia.</p>",
+      "corpo_clean": "oftalmia.",
+      "id": 1736429,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify><p align=justify>lesões de pele.</p></p>",
+      "corpo_clean": "lesões de pele.",
+      "id": 1736430,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1736429",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

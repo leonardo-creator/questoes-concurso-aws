@@ -1,0 +1,58 @@
+{
+  "id": 2220662,
+  "codigo_real": "87.6.3",
+  "disciplina_real": "Fisioterapia",
+  "assunto_real": "Órteses e Próteses",
+  "bancas_nome": "Fundação BIO-RIO",
+  "bancas_sigla": "BIO RIO",
+  "orgaos_nome": "Prefeitura de Itupeva",
+  "cargos_descricao": "Fisioterapeuta",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">As órteses de coluna vertebral são utilizadas para restringir o movimento e diminuir a dor durante o tratamento de reabilitação. Um tipo de órtese utilizada pode ser a de WILLIAMS, que se caracteriza por ser:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">rígida, lombossacral, que limita a extensão do tronco na coluna lombar e aumenta a pressão intra-abdominal.</p>",
+      "corpo_clean": "rígida, lombossacral, que limita a extensão do tronco na coluna lombar e aumenta a pressão intra-abdominal.",
+      "id": 8728415,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">faixa pélvica para limitar a flexão e extensão das colunas lombar e torácica.</p>",
+      "corpo_clean": "faixa pélvica para limitar a flexão e extensão das colunas lombar e torácica.",
+      "id": 8728416,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">colete rígido, estendendo-se do esterno à sínfise púbica, promovendo hiperextensão do tronco.</p>",
+      "corpo_clean": "colete rígido, estendendo-se do esterno à sínfise púbica, promovendo hiperextensão do tronco.",
+      "id": 8728417,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">colete flexível, elástico rodeando a cintura da crista ilíaca ao trocanter maior, para estabilizar a pelve.</p>",
+      "corpo_clean": "colete flexível, elástico rodeando a cintura da crista ilíaca ao trocanter maior, para estabilizar a pelve.",
+      "id": 8728418,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">colar cervical rígido com apoio para o queixo e occipital estendendo-se ate até a incisura do esterno.</p>",
+      "corpo_clean": "colar cervical rígido com apoio para o queixo e occipital estendendo-se ate até a incisura do esterno.",
+      "id": 8728419,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8728415",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

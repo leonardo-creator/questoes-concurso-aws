@@ -1,0 +1,51 @@
+{
+  "id": 1253174,
+  "codigo_real": "112.5.2.1.1.4",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Sujeito indeterminado",
+  "bancas_nome": "Objetiva Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Itaberaí",
+  "cargos_descricao": "Analista Ambiental",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Em qual das alternativas abaixo o sujeito é indeterminado?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Não se entendia nada.</p>",
+      "corpo_clean": "Não se entendia nada.",
+      "id": 4539772,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Em São Paulo chove todos os dias.</p>",
+      "corpo_clean": "Em São Paulo chove todos os dias.",
+      "id": 4539773,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Há diversas formas de ganhar.</p>",
+      "corpo_clean": "Há diversas formas de ganhar.",
+      "id": 4539774,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>O funcionário se esforça muito.</p>",
+      "corpo_clean": "O funcionário se esforça muito.",
+      "id": 4539775,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4539772",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

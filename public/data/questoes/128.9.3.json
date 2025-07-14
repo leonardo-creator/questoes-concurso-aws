@@ -1,0 +1,58 @@
+{
+  "id": 2136157,
+  "codigo_real": "128.9.3",
+  "disciplina_real": "Psicologia",
+  "assunto_real": "Família",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal de Justiça de Santa Catarina",
+  "cargos_descricao": "Psicólogo",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O psicólogo depara-se com novas modalidades de família no Brasil atual: monoparental, estendidas por consequência de divórcio e novas uniões, composta por casal homoafetivo, entre outras. Em uma situação hipotética, Bianca, que foi criada por sua madrinha, quando estava com dez anos reaproximou-se de sua mãe biológica. A coexistência de vínculos parentais e o reconhecimento do laço afetivo com a madrinha conduziram a uma realidade na qual a madrinha foi reconhecida por meio da maternidade</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>adotiva.</p>",
+      "corpo_clean": "adotiva.",
+      "id": 8362123,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>paralela.</p>",
+      "corpo_clean": "paralela.",
+      "id": 8362124,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>dupla.</p>",
+      "corpo_clean": "dupla.",
+      "id": 8362125,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>complementar.</p>",
+      "corpo_clean": "complementar.",
+      "id": 8362126,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>socioafetiva.</p>",
+      "corpo_clean": "socioafetiva.",
+      "id": 8362127,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8362127",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

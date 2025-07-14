@@ -1,0 +1,58 @@
+{
+  "id": 1485322,
+  "codigo_real": "112.5.14.1.13",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Parágrafo",
+  "bancas_nome": "Instituto Brasileiro de Formação e Capacitação",
+  "bancas_sigla": "IBFC",
+  "orgaos_nome": "Secretaria de Estado de Justiça e Segurança Pública - SEJUSP - MG",
+  "cargos_descricao": "Agente de Segurança Penitenciário (polícia penal)",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No trecho <strong><u>“No entanto</u></strong>, a criação do PIC, tanto no texto escrito quanto na prática, aboliu tais direitos”, o elemento destacado pode ser corretamente substituído por</p>",
+  "grupoQuestao_enunciado": "<p><strong>Leia com atenção um trecho do texto intitulado “O procedimento investigatório criminal (PIC)” para responder às questões 4, 5, 6, 7 e 8 a seguir. (Adaptado)</strong></p><p><br></p><p><em>1 </em><em style=\"color: rgb(255, 255, 255);\">______ </em>Em verdade, não é recomendável deixar</p><p>a cargo do suspeito a decisão de prestar informações</p><p>sobre os fatos a ele atribuídos, mesmo</p><p>porque, na prática, o investigado não fica sabendo</p><p><em>5 </em>que está sendo submetido à persecução penal,</p><p>pois tudo é apurado sem divulgação e sem que</p><p>se lhe deem ciência. Dessa forma, quando a acusação</p><p>vem a público, já se encontra em curso</p><p>uma ação penal, anteriormente desenvolvida de</p><p><em>10 </em>forma sigilosa durante um PIC, que desconsiderou</p><p>o direito de ampla defesa, ao não permitir a</p><p>manifestação do investigado, que ignorava a existência</p><p>do procedimento contra si instaurado.</p><p><em style=\"color: rgb(255, 255, 255);\">______ </em>Houve casos em que os tidos como</p><p><em>15 </em>suspeitos, cientificados da existência do PIC por</p><p>outros meios, não oficiais, solicitaram sua oitiva</p><p>diretamente aos membros do <em>parquet </em>encarregados</p><p>das investigações, mas, ainda assim,</p><p>tal solicitação não foi considerada e os inves</p><p><em>20 </em>tigados não conseguiram ser ouvidos. Diante</p><p>da impossibilidade de o suspeito apresentar</p><p>sua versão dos fatos, o processo penal começou</p><p>desprezando o direito à ampla defesa.</p><p><em style=\"color: rgb(255, 255, 255);\">______ </em>É de observar que o Código de Processo</p><p><em>25 </em>Penal, ao abordar o inquérito policial, determina</p><p>em seu artigo 6º: “Logo que tiver conhecimento</p><p>da prática de infração penal, a autoridade policial</p><p>deverá: (...) IV – Ouvir o ofendido; V – Ouvir o indiciado,</p><p>com observância, no que for aplicável, do</p><p><em>30 </em>disposto no Capítulo III, do Título VII, deste livro,</p><p>devendo o respectivo termo ser assinado por duas</p><p>testemunhas que lhe tenham ouvido a leitura”.</p><p><em style=\"color: rgb(255, 255, 255);\">______ </em>Explícita, portanto, a preocupação que</p><p>sempre teve a legislação Pátria em <em>permitir a ampla</em></p><p><em>35 defesa do acusado. </em>No entanto, a criação do PIC,</p><p>tanto no texto escrito quanto na prática, aboliu tais</p><p>direitos, já de há muito consolidados. Em certos</p><p>casos, o investigado foi denunciado sem nenhuma</p><p>observância das normas e garantias individuais.</p><p><br></p><p style=\"text-align: justify;\">Luiza Nagib Eluf, O Estado de S.Paulo,</p><p>23 de novembro de 2020.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Conquanto.</p>",
+      "corpo_clean": "Conquanto.",
+      "id": 5528005,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Porquanto.</p>",
+      "corpo_clean": "Porquanto.",
+      "id": 5528006,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Entretanto.</p>",
+      "corpo_clean": "Entretanto.",
+      "id": 5528007,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Portanto.</p>",
+      "corpo_clean": "Portanto.",
+      "id": 5528008,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Posto isso.</p>",
+      "corpo_clean": "Posto isso.",
+      "id": 5528009,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5528007",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

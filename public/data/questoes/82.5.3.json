@@ -1,0 +1,37 @@
+{
+  "id": 1927228,
+  "codigo_real": "82.5.3",
+  "disciplina_real": "Estatística",
+  "assunto_real": "Testes de Hipóteses",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Procuradoria Geral do Distrito Federal",
+  "cargos_descricao": "Analista Jurídico-Especialidade: Estatística",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Com base nos dados apresentados, a conclusão do teste, ao nível de significância de 10%, é que não se pode rejeitar a hipótese H<sub>0</sub>: σ<sup>2</sup> = 15.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Em um teste de significância para variâncias, pretende-se avaliar a hipótese de que determinada população possua variância 15. Dessa população, foi retirada uma amostra aleatória de tamanho <em>n</em> = 10, obtendo-se uma variância amostral S<sup>2</sup> = 12,6. Admitindo que, para α = 10%, o limite entre RA e RC seja de 9,18, julgue os itens seguintes.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 7444801,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 7444802,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7444802",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

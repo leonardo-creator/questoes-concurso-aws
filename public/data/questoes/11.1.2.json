@@ -1,0 +1,51 @@
+{
+  "id": 2524769,
+  "codigo_real": "11.1.2",
+  "disciplina_real": "Artes",
+  "assunto_real": "História da Arte no Brasil",
+  "bancas_nome": "Objetiva Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Herveiras",
+  "cargos_descricao": "Professor de Anos Finais do Ensino Fundamental - Área Artes",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em relação aos autores das obras representadas nas figuras abaixo, numerar a 2ª coluna de acordo com a 1ª e, após, assinalar a alternativa que apresenta a sequência CORRETA: </p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\">(1) <img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/85190/questao/2524769-20220809073113000000-0.png\"></p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-----------------------</span>Café</p><p style=\"text-align: justify;\">( 2 )<img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/85190/questao/2524769-20220809073113000000-1.png\"></p><p><span style=\"color: rgb(255, 255, 255);\">---------------</span>Independência ou morte</p><p>(3) <img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/85190/questao/2524769-20220809073113000000-2.png\"></p><p><span style=\"color: rgb(255, 255, 255);\">------------</span>Teto da igreja de São Paulo</p><p><span style=\"color: rgb(255, 255, 255);\">-</span></p><p>(<span style=\"color: rgb(255, 255, 255);\">---</span>) Pedro Américo.</p><p>(<span style=\"color: rgb(255, 255, 255);\">---</span>) Mestre Ataíde.</p><p>(<span style=\"color: rgb(255, 255, 255);\">---</span>) Cândido Portinari. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>1 - 2 - 3.</p>",
+      "corpo_clean": "1 - 2 - 3.",
+      "id": 10045177,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>3 - 2 - 1.</p>",
+      "corpo_clean": "3 - 2 - 1.",
+      "id": 10045178,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>2 - 3 - 1. </p>",
+      "corpo_clean": "2 - 3 - 1. ",
+      "id": 10045179,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>2 - 1 - 3.</p>",
+      "corpo_clean": "2 - 1 - 3.",
+      "id": 10045180,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10045179",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

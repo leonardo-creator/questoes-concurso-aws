@@ -1,0 +1,58 @@
+{
+  "id": 1080409,
+  "codigo_real": "44.32",
+  "disciplina_real": "Direito Penal",
+  "assunto_real": "Legislação Especial",
+  "bancas_nome": "Serviço de Seleção do Pessoal da Marinha",
+  "bancas_sigla": "SSPM",
+  "orgaos_nome": "Ministério da Defesa - Marinha do Brasil",
+  "cargos_descricao": "Primeiro Tenente",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>No que tange aos crimes hediondos, de acordo com a lei n° 8.072/90 e com o Código de Processo Penal, é correto afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify><p align=justify>considera-se hediondo o crime de posse ou porte ilegal de arma de fogo de uso restrito, tentados ou consumados.</p></p>",
+      "corpo_clean": "considera-se hediondo o crime de posse ou porte ilegal de arma de fogo de uso restrito, tentados ou consumados.",
+      "id": 3806304,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>a prisão temporária, nos crimes previstos na lei n° 8.072/90, terá o prazo de 10 (dez) dias, prorrogável por igual período em caso de extrema e comprovada- necessidade.</p>",
+      "corpo_clean": "a prisão temporária, nos crimes previstos na lei n° 8.072/90, terá o prazo de 10 (dez) dias, prorrogável por igual período em caso de extrema e comprovada- necessidade.",
+      "id": 3806305,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>a progressão de regime, no caso dos condenados a crimes hediondos, dar-se-á após o cumprimento de 3/4 da pena, se o apenado for primário, e, de metade da pena, se reincidente.</p>",
+      "corpo_clean": "a progressão de regime, no caso dos condenados a crimes hediondos, dar-se-á após o cumprimento de 3/4 da pena, se o apenado for primário, e, de metade da pena, se reincidente.",
+      "id": 3806306,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>são considerados hediondos os crimes de tortura, tráfico ilícito de entorpecentes e drogas afins e terrorismo, consumados ou tentados,</p>",
+      "corpo_clean": "são considerados hediondos os crimes de tortura, tráfico ilícito de entorpecentes e drogas afins e terrorismo, consumados ou tentados,",
+      "id": 3806307,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>os processos que apurem a prática de crimes hediondos terão prioridade de tramitação em todas as instâncias apenas quando se tratar de feminicfdio.</p>",
+      "corpo_clean": "os processos que apurem a prática de crimes hediondos terão prioridade de tramitação em todas as instâncias apenas quando se tratar de feminicfdio.",
+      "id": 3806308,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3806304",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": true,
+  "hasImage": false,
+  "hasImageItens": false
+}

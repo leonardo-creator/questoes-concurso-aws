@@ -1,0 +1,58 @@
+{
+  "id": 2290039,
+  "codigo_real": "98.3.11.8",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Fundação Ezequiel Dias/MG",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Câmara de Sertãozinho",
+  "cargos_descricao": "Procurador Jurídico Legislativo",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre o Fundo de Defesa de Direitos Difusos (FDD), é correto afirmar que</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">é vinculado ao Ministério Público Federal e aos Estados.</p>",
+      "corpo_clean": "é vinculado ao Ministério Público Federal e aos Estados.",
+      "id": 9025139,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">tem suas receitas originadas exclusivamente das ações civis públicas de direitos difusos e coletivos, e multas de termos de ajustamento de conduta, nada mais.</p>",
+      "corpo_clean": "tem suas receitas originadas exclusivamente das ações civis públicas de direitos difusos e coletivos, e multas de termos de ajustamento de conduta, nada mais.",
+      "id": 9025140,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">tem por finalidade a reparação dos danos causados ao meio ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turístico, paisagístico, por infração à ordem econômica e a outros interesses difusos e coletivos.</p>",
+      "corpo_clean": "tem por finalidade a reparação dos danos causados ao meio ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turístico, paisagístico, por infração à ordem econômica e a outros interesses difusos e coletivos.",
+      "id": 9025141,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">é um instrumento legal inserido dentro do campo da responsabilidade civil, sendo que só poderá ser abastecido por recursos provenientes de demandas judiciais.</p>",
+      "corpo_clean": "é um instrumento legal inserido dentro do campo da responsabilidade civil, sendo que só poderá ser abastecido por recursos provenientes de demandas judiciais.",
+      "id": 9025142,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o Conselho Federal Gestor do Fundo de Defesa dos Direitos Difusos (CFDD) é órgão colegiado integrante da estrutura, vinculado ao Ministério Público Federal e dos Estados.</p>",
+      "corpo_clean": "o Conselho Federal Gestor do Fundo de Defesa dos Direitos Difusos (CFDD) é órgão colegiado integrante da estrutura, vinculado ao Ministério Público Federal e dos Estados.",
+      "id": 9025143,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9025141",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

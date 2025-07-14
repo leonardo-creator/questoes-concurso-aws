@@ -1,0 +1,51 @@
+{
+  "id": 3722203,
+  "codigo_real": "125.18.4",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Avaliação externa",
+  "bancas_nome": "Instituto Brasileiro de Administração Municipal",
+  "bancas_sigla": "IBAM",
+  "orgaos_nome": "Prefeitura de Cubatão",
+  "cargos_descricao": "Coordenador Pedagógico",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em uma escola pública, o coordenador pedagógico Luís observou que os resultados das avaliações externas estavam abaixo da média. Percebendo a necessidade de aprimorar as práticas docentes, ele decidiu implementar um programa de formação continuada baseado em estudos colaborativos e reflexões sobre a prática. Acerca do assunto, marque (V) para as afirmativas verdadeiras e (F) para as falsas.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">(__) A iniciativa de Luís reforça o papel do coordenador como formador, promovendo a melhoria da qualidade de ensino.</p><p style=\"text-align: justify;\">(__) A formação contínua deve ser obrigatória aos professores, independentemente de suas opiniões ou necessidades.</p><p style=\"text-align: justify;\">(__) O estudo colaborativo entre docentes contribui para o desenvolvimento profissional e para a transformação das práticas pedagógicas.</p><p style=\"text-align: justify;\">(__) Avaliações externas não são parâmetros relevantes para a definição de estratégias na formação de professores.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">A sequência está correta em:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">F, F, V, F.</p>",
+      "corpo_clean": "F, F, V, F.",
+      "id": 15163116,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> F, V, V, F.</p>",
+      "corpo_clean": " F, V, V, F.",
+      "id": 15163117,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">V, F, F, V.</p>",
+      "corpo_clean": "V, F, F, V.",
+      "id": 15163118,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">V, F, V, F.</p>",
+      "corpo_clean": "V, F, V, F.",
+      "id": 15163119,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "15163119",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

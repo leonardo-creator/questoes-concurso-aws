@@ -1,0 +1,58 @@
+{
+  "id": 3029748,
+  "codigo_real": "18.2.5",
+  "disciplina_real": "Ciência Política",
+  "assunto_real": "Políticas Públicas",
+  "bancas_nome": "Banca não definida",
+  "bancas_sigla": "",
+  "orgaos_nome": "Órgão não definido",
+  "cargos_descricao": "Cargo não definido",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Conforme os estudos de Pereira (2000) sobre as formas de regulação política, qual das seguintes opções se refere à situação em que os governantes utilizam recursos arrecadados da população para atender às necessidades sociais, mantendo um caráter compensatório?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Arena regulamentadora.</p>",
+      "corpo_clean": "Arena regulamentadora.",
+      "id": 12263599,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Arena redistributiva.</p>",
+      "corpo_clean": "Arena redistributiva.",
+      "id": 12263600,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Arena distributiva.</p>",
+      "corpo_clean": "Arena distributiva.",
+      "id": 12263601,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Arena constitutiva.</p>",
+      "corpo_clean": "Arena constitutiva.",
+      "id": 12263602,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Arena de cooperação.</p>",
+      "corpo_clean": "Arena de cooperação.",
+      "id": 12263603,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12263601",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

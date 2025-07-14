@@ -1,0 +1,51 @@
+{
+  "id": 2532983,
+  "codigo_real": "114.1",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Introdução à Matemática Financeira",
+  "bancas_nome": "OM Consultoria",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Interesse Turístico de Iacanga",
+  "cargos_descricao": "Professor de Educação Básica - Área: Matemática",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Analise as afirmações abaixo acerca da teoria dos conjuntos.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I - O conjunto unitário é assim denominado por apresentar apenas o elemento 1.</p><p style=\"text-align: justify;\">II - Qualquer que seja o conjunto <span class=\"ql-font-serif\">A</span>, tem-se que o conjunto vazio é subconjunto de <span class=\"ql-font-serif\">A</span>.</p><p style=\"text-align: justify;\">III - Sendo A e B conjuntos tem-se que <span class=\"ql-font-serif\">ACB </span>e <span class=\"ql-font-serif\">BCA </span>se, e somente se, <span class=\"ql-font-serif\">A = B</span>.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Pode-se afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Todas as afirmativas estão corretas.</p>",
+      "corpo_clean": "Todas as afirmativas estão corretas.",
+      "id": 10082585,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Uma das afirmativas está correta.</p>",
+      "corpo_clean": "Uma das afirmativas está correta.",
+      "id": 10082586,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Duas das afirmativas estão corretas.</p>",
+      "corpo_clean": "Duas das afirmativas estão corretas.",
+      "id": 10082587,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Todas as afirmativas estão incorretas.</p>",
+      "corpo_clean": "Todas as afirmativas estão incorretas.",
+      "id": 10082588,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10082587",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

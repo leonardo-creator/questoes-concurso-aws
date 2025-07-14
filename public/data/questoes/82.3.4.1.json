@@ -1,0 +1,58 @@
+{
+  "id": 498746,
+  "codigo_real": "82.3.4.1",
+  "disciplina_real": "Estatística",
+  "assunto_real": "Médias",
+  "bancas_nome": "COPEVE/UFAL - FUNDEPES",
+  "bancas_sigla": "",
+  "orgaos_nome": "Ministério Público de Alagoas",
+  "cargos_descricao": "Analista do Ministério Público - Área Gestão Pública",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Qual a opção correta para o valor médio da arrecadação\r\nlíquida (utilize o conceito de média aritmética)?</p>",
+  "grupoQuestao_enunciado": "<p align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/13683/03.gif></p>",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>20,4</p>",
+      "corpo_clean": "20,4",
+      "id": 1804566,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>18,5</p>",
+      "corpo_clean": "18,5",
+      "id": 1804567,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>18,6</p>",
+      "corpo_clean": "18,6",
+      "id": 1804568,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>18,8</p>",
+      "corpo_clean": "18,8",
+      "id": 1804569,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>19,1</p>",
+      "corpo_clean": "19,1",
+      "id": 1804570,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1804569",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

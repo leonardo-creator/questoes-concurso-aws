@@ -1,0 +1,51 @@
+{
+  "id": 2501228,
+  "codigo_real": "125.22",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Tecnologias Educacionais",
+  "bancas_nome": "Instituto Municipal de Desenvolvimento de Recursos Humanos",
+  "bancas_sigla": "IMPARH",
+  "orgaos_nome": "Prefeitura de Fortaleza",
+  "cargos_descricao": "Professor Substituto - Área: Ciências",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>A definição acima é da tecnologia:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>Para responder às questões 37 e 38, utilizar o texto abaixo. </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">“(...) área do conhecimento, de característica interdisciplinar, que engloba produtos, recursos, metodologias, estratégias, práticas e serviços que objetivam promover a funcionalidade, relacionada à atividade e participação, de pessoas com deficiência, incapacidades ou mobilidade reduzida, visando a sua autonomia, independência, qualidade de vida e inclusão social.”</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>digital.</p>",
+      "corpo_clean": "digital.",
+      "id": 9945026,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>assistiva.</p>",
+      "corpo_clean": "assistiva.",
+      "id": 9945027,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>disruptiva.</p>",
+      "corpo_clean": "disruptiva.",
+      "id": 9945028,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>emergente.</p>",
+      "corpo_clean": "emergente.",
+      "id": 9945029,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9945027",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

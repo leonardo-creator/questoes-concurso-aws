@@ -1,0 +1,58 @@
+{
+  "id": 2126817,
+  "codigo_real": "43.8",
+  "disciplina_real": "Direito Penal Militar",
+  "assunto_real": "Das Penas",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Polícia Civil da Paraíba",
+  "cargos_descricao": "Escrivão de Polícia",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A nova Lei de Abuso de Autoridade trouxe a previsão de diversos crimes, dentre eles o de proceder à obtenção de prova, em procedimento de investigação ou fiscalização, por meio manifestamente ilícito. A pena cominada para esse ilícito é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>detenção, de 1 (um) a 4 (quatro) anos, e multa.</p>",
+      "corpo_clean": "detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "id": 8318398,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>reclusão, de 1 (um) a 4 (quatro) anos, e multa.</p>",
+      "corpo_clean": "reclusão, de 1 (um) a 4 (quatro) anos, e multa.",
+      "id": 8318399,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>reclusão, de 2 (dois) a 6 (seis) anos, e multa.</p>",
+      "corpo_clean": "reclusão, de 2 (dois) a 6 (seis) anos, e multa.",
+      "id": 8318400,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>detenção, de 2 (dois) a 6 (seis) anos, e multa.</p>",
+      "corpo_clean": "detenção, de 2 (dois) a 6 (seis) anos, e multa.",
+      "id": 8318401,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>detenção, de 3 (três) a 9 (nove) anos, e multa.</p>",
+      "corpo_clean": "detenção, de 3 (três) a 9 (nove) anos, e multa.",
+      "id": 8318402,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8318398",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1771229,
+  "codigo_real": "111.9",
+  "disciplina_real": "Língua Inglesa",
+  "assunto_real": "Língua Inglesa - Compreensão e Interpretação de Texto",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Câmara Legislativa do Distrito Federal",
+  "cargos_descricao": "Consultor Técnico Legislativo - Área: Analista de Sistemas",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com o texto, </p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><u>Atenção</u>: Para responder às questões de números 28 a 30, considere o texto abaixo. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><strong>Reno, Nevada, Improves Efficiency while Complying with Stringent Open Meeting Law Requirements ADAMANT ABOUT TRANSPARENCY </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>The Reno City Council meets regularly to set priorities, approve the budget and address issues facing the community. These meetings are guided by incredibly stringent open meeting law requirements. Staff must post the agenda, along with all supporting materials, on their website at least three days prior to a meeting. Additionally, if any documents are presented during a Council meeting to help make a decision, it must be uploaded within 24 hours after the meeting. </em></p><p style=\"text-align: justify;\"><em>As a Senior Management Analyst, Jaime Schroeder has been responsible for all staff reports, supporting materials and the agendas for the Reno City Council and the Reno Redevelopment Agency Board since early 2012. Back then, the agency was using a government shareware product. “We realized we had quickly outgrown that system,” recalls Jaime. </em></p><p style=\"text-align: justify;\"><em>The City’s communications and technology departments conducted a thorough search of alternatives and narrowed the list down to three contenders. “We looked at Accela Legislative Management and realized it was the full package,” says Jaime. “It was something we felt we could implement and get comfortable with quickly.” </em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><strong>HOW ACCELA EMPOWERS RENO </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>One of the things Jaime appreciates about Accela is that “they believe in their product so much, you don’t have to sign on for a year. With Accela, we didn’t feel they were trying to get the most money they could from the agency. We felt they truly were a company that wanted to work with us and were understanding of all the different requirements we had.” </em></p><p style=\"text-align: justify;\"><em>City Council meetings are on average four to six hours long. In the past, citizens had to fast forward and rewind through an entire meeting online in order to find what they were looking for. “The great thing about this product and why we chose it is that the video of each meeting is integrated with the meeting documents and it also has time-stamp features, making it easy for staff and citizens to quickly find what they’re interested in. I love that transparency.” </em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><strong>THE BOTTOM LINE </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>Once a document is posted online, staff and citizens alike can access it through a meeting portal 24/7. When citizens request a Council or staff report, employees can simply direct them to the portal, where they can click on the meeting date, see the agenda and then click on the item that interests them. When the media requests information, the Communications department can send links to staff reports online, saving time, paper and money and helping to ensure accurate media coverage. </em></p><p style=\"text-align: justify;\"><em>In the future, the City of Reno is looking forward to using the electronic voting feature available within Accela Digital Boardroom that shows meeting participants’ votes on a screen during the meeting in real time. </em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">(Adapted from https://www.accela.com/company/customers/sucess-stories/reno)</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">as reuniões do Conselho Municipal são semanais e têm duração média de quatro a seis horas. </p>",
+      "corpo_clean": "as reuniões do Conselho Municipal são semanais e têm duração média de quatro a seis horas. ",
+      "id": 6755519,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a pauta das reuniões do Conselho Municipal deve ser publicada no site com um mínimo de três dias de antecedência.</p>",
+      "corpo_clean": "a pauta das reuniões do Conselho Municipal deve ser publicada no site com um mínimo de três dias de antecedência.",
+      "id": 6755520,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">toda documentação referente a uma reunião do Conselho Municipal deve ser publicada, no máximo, 24 horas após a reunião. </p>",
+      "corpo_clean": "toda documentação referente a uma reunião do Conselho Municipal deve ser publicada, no máximo, 24 horas após a reunião. ",
+      "id": 6755521,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">as reuniões do Conselho Municipal e da diretoria da Redevelopment Agency são transmitidas ao vivo. </p>",
+      "corpo_clean": "as reuniões do Conselho Municipal e da diretoria da Redevelopment Agency são transmitidas ao vivo. ",
+      "id": 6755522,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">qualquer pessoa tem acesso aos vídeos, mas não à documentação das reuniões do Conselho Municipal. </p>",
+      "corpo_clean": "qualquer pessoa tem acesso aos vídeos, mas não à documentação das reuniões do Conselho Municipal. ",
+      "id": 6755523,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6755520",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

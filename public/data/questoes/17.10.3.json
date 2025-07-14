@@ -1,0 +1,37 @@
+{
+  "id": 3576853,
+  "codigo_real": "17.10.3",
+  "disciplina_real": "Biologia",
+  "assunto_real": "Bioquímica",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Secretaria de Educação de Aracaju",
+  "cargos_descricao": "Professor - Área: Ciências",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">A pepsina, uma enzima gástrica, apresenta perfil de atividade enzimática semelhante ao da enzima I. </p>",
+  "grupoQuestao_enunciado": "<p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/160064/grupo-questao/682431-20241231134827000000-0.png\" width=\"388\" style=\"display: block; margin: auto;\" align=\"center\"></p><p><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span></p><p style=\"text-align: right;\">Fonte: Google Imagens</p><p><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\">Considerando o gráfico e as informações nele apresentadas com relação à influência do pH sobre três enzimas associadas ao processo digestório em humanos, julgue os seguintes itens.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 14575770,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 14575771,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14575770",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

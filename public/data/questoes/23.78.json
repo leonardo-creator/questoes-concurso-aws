@@ -1,0 +1,58 @@
+{
+  "id": 2134866,
+  "codigo_real": "23.78",
+  "disciplina_real": "Conhecimentos Específicos de um determinado Cargo-Área",
+  "assunto_real": "Motorista / Agente Condutor de Veículo",
+  "bancas_nome": "Centro de Treinamento e Desenvolvimento",
+  "bancas_sigla": "CETREDE",
+  "orgaos_nome": "Prefeitura de Icapuí",
+  "cargos_descricao": "Motorista D",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O condutor de um automóvel GM/Celta, sem placas, ao trafegar na Av. Washington Soares, envolveu-se em um acidente de trânsito e bateu a cabeça nas partes internas do veículo, perdeu a consciência e depois acordou dizendo que estava bem. Qual a providência a ser adotada nessa situação?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Recomendar que a vítima fique acordada durante 12 horas.</p>",
+      "corpo_clean": "Recomendar que a vítima fique acordada durante 12 horas.",
+      "id": 8356597,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Neste caso, não há necessidade de ir ao hospital.</p>",
+      "corpo_clean": "Neste caso, não há necessidade de ir ao hospital.",
+      "id": 8356598,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Sempre conduzir a vítima ao hospital.</p>",
+      "corpo_clean": "Sempre conduzir a vítima ao hospital.",
+      "id": 8356599,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Conduzir ao hospital somente se tiver que fazer curativo.</p>",
+      "corpo_clean": "Conduzir ao hospital somente se tiver que fazer curativo.",
+      "id": 8356600,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas fazer compressas com gelo no local do acidente.</p>",
+      "corpo_clean": "Apenas fazer compressas com gelo no local do acidente.",
+      "id": 8356601,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8356599",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

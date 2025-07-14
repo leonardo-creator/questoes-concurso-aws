@@ -1,0 +1,58 @@
+{
+  "id": 2739748,
+  "codigo_real": "128.15.3",
+  "disciplina_real": "Psicologia",
+  "assunto_real": "Gestalt",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Prefeitura de Videira",
+  "cargos_descricao": "Psicólogo",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Para os psicólogos gestaltistas, toda percepção é uma Gestalt.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa <strong>correta </strong>a respeito dessa abordagem teórica da Psicologia.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Essa abordagem apresenta a relação entre uma parte sendo percebida e o todo no processo denominado de gradação, no qual refere-se a uma parte da situação total (estrutura) é destacada pela diferenciação, tornando-se figura, a qual pode se reunir a outras figuras, diferenciadas de outros todos, vindo a constituir novas estruturas pelo processo de gradação.</p>",
+      "corpo_clean": "Essa abordagem apresenta a relação entre uma parte sendo percebida e o todo no processo denominado de gradação, no qual refere-se a uma parte da situação total (estrutura) é destacada pela diferenciação, tornando-se figura, a qual pode se reunir a outras figuras, diferenciadas de outros todos, vindo a constituir novas estruturas pelo processo de gradação.",
+      "id": 10982771,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Essa abordagem é utilizada para tratar diversos transtornos mentais de forma eficiente. Seu objetivo principal é identificar padrões de comportamento, crenças centrais e hábitos que estão na origem dos problemas, indicando, a partir disto, técnicas para alterar essas percepções de forma positiva.</p>",
+      "corpo_clean": "Essa abordagem é utilizada para tratar diversos transtornos mentais de forma eficiente. Seu objetivo principal é identificar padrões de comportamento, crenças centrais e hábitos que estão na origem dos problemas, indicando, a partir disto, técnicas para alterar essas percepções de forma positiva.",
+      "id": 10982772,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Quando se percebe um objeto qualquer, algum aspecto dele se destaca, e aparece mais claramente. A esse aspecto que mais atrai a atenção chama-se de figura, a qual emerge contra um fundo, mais vago e mais difuso.</p>",
+      "corpo_clean": "Quando se percebe um objeto qualquer, algum aspecto dele se destaca, e aparece mais claramente. A esse aspecto que mais atrai a atenção chama-se de figura, a qual emerge contra um fundo, mais vago e mais difuso.",
+      "id": 10982773,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Esta abordagem apresenta, entre suas propostas centrais, a aceitação da realidade e das reações emocionais e comportamentais, a escolha de uma direção e um acordo com os valores do indivíduo e comprometimento com a mudança desejada.</p>",
+      "corpo_clean": "Esta abordagem apresenta, entre suas propostas centrais, a aceitação da realidade e das reações emocionais e comportamentais, a escolha de uma direção e um acordo com os valores do indivíduo e comprometimento com a mudança desejada.",
+      "id": 10982774,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Essa escola Psicológica surgiu nos Estados Unidos, aproximadamente em 1910. A palavra Gestalt não tem tradução exata em português, mas corresponde aproximadamente, às palavras, forma, figura, estrutura e todo. Os estudos que deram início a essa abordagem versaram sobre o fenômeno da percepção visual, do movimento aparente, denominado fenômeno PI (da letra grega pi).</p>",
+      "corpo_clean": "Essa escola Psicológica surgiu nos Estados Unidos, aproximadamente em 1910. A palavra Gestalt não tem tradução exata em português, mas corresponde aproximadamente, às palavras, forma, figura, estrutura e todo. Os estudos que deram início a essa abordagem versaram sobre o fenômeno da percepção visual, do movimento aparente, denominado fenômeno PI (da letra grega pi).",
+      "id": 10982775,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10982773",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

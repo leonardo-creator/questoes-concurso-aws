@@ -1,0 +1,58 @@
+{
+  "id": 3073753,
+  "codigo_real": "140.5.16",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Gerência de Configuração e Mudança de Software",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional do Trabalho da 15ª Região",
+  "cargos_descricao": "Analista Judiciário - Área Apoio Especializado - Especialidade: Tecnologia da Informação",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considere o texto a seguir:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em> Ter os dados de configuração organizados e adicionados a um repositório permite a colaboração e a visibilidade da configuração do sistema. O fluxo de trabalho de solicitação </em>pull <em>que as equipes de </em>software <em>usam para revisar e editar código pode ser aplicado aos arquivos de dados de configuração. Assim, fica mais fácil construir um sistema de rastreio. Quaisquer alterações aplicadas à configuração devem ser revisadas e aceitas pela equipe. Assim, as mudanças de configuração ganham responsabilidade e visibilidade.</em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"> Dentre os passos do processo de gerenciamento que monitora itens de configuração individuais de um sistema de TI, o texto trata da implementação do gerenciamento de configuração em ambientes Deves e correlatos e se refere à atividade de </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>balanceamento de carga. </p>",
+      "corpo_clean": "balanceamento de carga. ",
+      "id": 12450256,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>linha de base. </p>",
+      "corpo_clean": "linha de base. ",
+      "id": 12450257,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>implantação. </p>",
+      "corpo_clean": "implantação. ",
+      "id": 12450258,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>auditoria. </p>",
+      "corpo_clean": "auditoria. ",
+      "id": 12450259,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>renderização. </p>",
+      "corpo_clean": "renderização. ",
+      "id": 12450260,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12450259",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

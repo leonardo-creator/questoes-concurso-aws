@@ -1,0 +1,58 @@
+{
+  "id": 544560,
+  "codigo_real": "35.6.5.1.12",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Conselho Nacional do Ministério Público (CNMP)",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Ministério Público do Rio Grande do Norte",
+  "cargos_descricao": "Agente de Inteligência - Língua Espanhola",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Ataulfo foi nomeado pelo Presidente da República como membro do Conselho Nacional do Ministério Público e, conforme o\r\nartigo 130-A da Constituição Federal, sua escolha deve ter sido previamente aprovada</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>pelo Presidente da Câmara dos Deputados.</p>",
+      "corpo_clean": "pelo Presidente da Câmara dos Deputados.",
+      "id": 1957772,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>pela maioria absoluta do Senado Federal.</p>",
+      "corpo_clean": "pela maioria absoluta do Senado Federal.",
+      "id": 1957773,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>pela maioria simples da Câmara dos Deputados.</p>",
+      "corpo_clean": "pela maioria simples da Câmara dos Deputados.",
+      "id": 1957774,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>por, no mínimo, sete Ministros do Supremo Tribunal Federal.</p>",
+      "corpo_clean": "por, no mínimo, sete Ministros do Supremo Tribunal Federal.",
+      "id": 1957775,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>por, no mínimo, nove Ministros do Supremo Tribunal Federal.</p>",
+      "corpo_clean": "por, no mínimo, nove Ministros do Supremo Tribunal Federal.",
+      "id": 1957776,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1957773",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

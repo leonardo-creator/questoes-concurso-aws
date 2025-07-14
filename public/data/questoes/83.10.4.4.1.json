@@ -1,0 +1,58 @@
+{
+  "id": 2895807,
+  "codigo_real": "83.10.4.4.1",
+  "disciplina_real": "Farmácia",
+  "assunto_real": "Cálculos em farmacotécnica - Cálculos em farmacotécnica",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Pindamonhangaba",
+  "cargos_descricao": "Técnico - Área: Farmácia",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um paciente chega à farmácia com a seguinte prescrição: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Cefalexina suspensão oral 250 mg/ 5 mL. Tomar 25 mg/ kg, duas vezes ao dia. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Sabendo que o paciente tem 10 kg, a dose diária de cefalexina que deverá ser administrada ao paciente, em mililitros, será:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>2,5.</p>",
+      "corpo_clean": "2,5.",
+      "id": 11673490,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>5,0.</p>",
+      "corpo_clean": "5,0.",
+      "id": 11673491,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>7,5.</p>",
+      "corpo_clean": "7,5.",
+      "id": 11673492,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>10,0.</p>",
+      "corpo_clean": "10,0.",
+      "id": 11673493,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>15,0.</p>",
+      "corpo_clean": "15,0.",
+      "id": 11673494,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11673493",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

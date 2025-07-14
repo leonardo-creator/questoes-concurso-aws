@@ -1,0 +1,51 @@
+{
+  "id": 3784597,
+  "codigo_real": "95.2.7.10",
+  "disciplina_real": "Informática",
+  "assunto_real": "Firewall",
+  "bancas_nome": "Prefeitura de Bauru",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Bauru",
+  "cargos_descricao": "Auxiliar de Necropsia",
+  "ano": 2025,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A capacidade de controlar um computador de outro local usando uma conexão de rede é possível através do acesso remoto. Isso permite o acesso a arquivos, aplicativos e recursos de um computador como se estivesse fisicamente presente. Qual das seguintes opções descreve uma medida de segurança importante ao configurar o acesso remoto a um computador? Assinale a alternativa <strong style=\"text-align: justify;\"><u style=\"text-align: justify;\">CORRETA</u></strong>.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Devem ser utilizadas senhas mais complexas, pois dessa forma não é necessária sua alteração regularmente.</p>",
+      "corpo_clean": "Devem ser utilizadas senhas mais complexas, pois dessa forma não é necessária sua alteração regularmente.",
+      "id": 15416971,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">É fundamental manter o antivírus do computador ativado e atualizado.</p>",
+      "corpo_clean": "É fundamental manter o antivírus do computador ativado e atualizado.",
+      "id": 15416972,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">É de grande importância utilizar autenticação de dois fatores (2FA) para aumentar a segurança do acesso.</p>",
+      "corpo_clean": "É de grande importância utilizar autenticação de dois fatores (2FA) para aumentar a segurança do acesso.",
+      "id": 15416973,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Deve-se permitir apenas uma única tentativa de login e bloquear a conta após essa tentativa.</p>",
+      "corpo_clean": "Deve-se permitir apenas uma única tentativa de login e bloquear a conta após essa tentativa.",
+      "id": 15416974,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "15416973",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

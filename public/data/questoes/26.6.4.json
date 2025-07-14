@@ -1,0 +1,51 @@
+{
+  "id": 1756273,
+  "codigo_real": "26.6.4",
+  "disciplina_real": "Contabilidade Pública",
+  "assunto_real": "Balanço patrimonial - Balanço patrimonial",
+  "bancas_nome": "Fundação de Apoio ao Desenvolvimento da UEL",
+  "bancas_sigla": "FAUEL",
+  "orgaos_nome": "Prefeitura de Assis Chateaubriand",
+  "cargos_descricao": "Contador",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No balanço patrimonial de uma entidade do setor público, os atos da administração, com potencial de modificar o patrimônio, devem ser registrados:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>No ativo</p>",
+      "corpo_clean": "No ativo",
+      "id": 6687646,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>No passivo.</p>",
+      "corpo_clean": "No passivo.",
+      "id": 6687647,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Nas contas de compensação.</p>",
+      "corpo_clean": "Nas contas de compensação.",
+      "id": 6687648,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">No patrimônio líquido.</p>",
+      "corpo_clean": "No patrimônio líquido.",
+      "id": 6687649,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "6687648",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

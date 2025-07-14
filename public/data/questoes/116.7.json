@@ -1,0 +1,58 @@
+{
+  "id": 2384443,
+  "codigo_real": "116.7",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Tanatologia",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Polícia Militar do Rio Grande do Norte",
+  "cargos_descricao": "Oficial Médico - Área: Anestesiologia",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre as aplicações anestésicas dos fármacos oftálmicos, assinale a afirmativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O ecotiofato é um anticolinérgico.</p>",
+      "corpo_clean": "O ecotiofato é um anticolinérgico.",
+      "id": 9436815,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O ciclopentolato é um agente miótico.</p>",
+      "corpo_clean": "O ciclopentolato é um agente miótico.",
+      "id": 9436816,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> O timolol via oftálmica não provoca efeitos sistêmicos.</p>",
+      "corpo_clean": " O timolol via oftálmica não provoca efeitos sistêmicos.",
+      "id": 9436817,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A fenilefrina via oftálmica não provoca efeitos sistêmicos.</p>",
+      "corpo_clean": "A fenilefrina via oftálmica não provoca efeitos sistêmicos.",
+      "id": 9436818,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O betaxolol tem ação ocular mais específica que o timolol; produz efeitos sistêmicos mínimos.</p>",
+      "corpo_clean": "O betaxolol tem ação ocular mais específica que o timolol; produz efeitos sistêmicos mínimos.",
+      "id": 9436819,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9436819",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

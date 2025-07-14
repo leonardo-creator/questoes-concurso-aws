@@ -1,0 +1,58 @@
+{
+  "id": 3190472,
+  "codigo_real": "4.5.1.4",
+  "disciplina_real": "Administração Pública",
+  "assunto_real": "Conceito de Governança - Conceito de Governança",
+  "bancas_nome": "Fundação CESGRANRIO",
+  "bancas_sigla": "CESGRANRIO",
+  "orgaos_nome": "Órgão não definido",
+  "cargos_descricao": "Cargo não definido",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A governança pública é fundamental para o funcionamento eficiente e eficaz das instituições e serviços oferecidos à sociedade. Ela envolve a implementação de mecanismos de liderança, estratégia e controle para assegurar que políticas públicas e serviços atendam às necessidades da população. Abaixo, estão listados conceitos-chave relacionados à governança pública. Correlacione a primeira coluna, que apresenta o título de cada informação, com a segunda coluna, que contém sua respectiva descrição, e assinale a opção que representa a sequência correta.</p><p style=\"text-align: justify;\"><br></p><div class=\"quill-better-table-wrapper\"><table class=\"quill-better-table\" style=\"width: 574px;\"><colgroup><col width=\"284\"><col width=\"290\"></colgroup><tbody><tr data-row=\"1\"><td data-row=\"1\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"1\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\">Primeira Coluna</p></td><td data-row=\"1\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"1\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">Segunda Coluna</p></td></tr><tr data-row=\"2\"><td data-row=\"2\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"2\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\">I. Governança pública</p></td><td data-row=\"2\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"2\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: justify;\">a. Processo de natureza permanente, direcionado e monitorado pela alta administração, com o objetivo de identificar, avaliar e gerenciar riscos.</p></td></tr><tr data-row=\"3\"><td data-row=\"3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"3\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\">II. Valor público</p></td><td data-row=\"3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"3\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">b. Ministros de Estado, ocupantes de cargos de natureza especial, e presidentes e diretores de autarquias e fundações públicas.</p></td></tr><tr data-row=\"4\"><td data-row=\"4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"4\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\">III. Alta administração</p></td><td data-row=\"4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"4\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">c. Conjunto de mecanismos de liderança, estratégia e controle para avaliar, direcionar e monitorar a gestão de políticas públicas.</p></td></tr><tr data-row=\"5\"><td data-row=\"5\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"5\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\">IV. Gestão de riscos</p></td><td data-row=\"5\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"5\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: justify;\">d. Produtos e resultados gerados por organizações que respondem às necessidades públicas e impactam a sociedade ou grupos específicos.</p></td></tr></tbody></table></div><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Alternativas:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I-c, II-d, III-b, IV-a.</p>",
+      "corpo_clean": "I-c, II-d, III-b, IV-a.",
+      "id": 12959770,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>I-d, II-a, III-c, IV-b.</p>",
+      "corpo_clean": "I-d, II-a, III-c, IV-b.",
+      "id": 12959771,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>I-b, II-c, III-d, IV-a.</p>",
+      "corpo_clean": "I-b, II-c, III-d, IV-a.",
+      "id": 12959772,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>I-a, II-b, III-c, IV-d.</p>",
+      "corpo_clean": "I-a, II-b, III-c, IV-d.",
+      "id": 12959773,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>I-c, II-a, III-d, IV-b.</p>",
+      "corpo_clean": "I-c, II-a, III-d, IV-b.",
+      "id": 12959774,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12959770",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

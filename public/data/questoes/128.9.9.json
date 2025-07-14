@@ -1,0 +1,51 @@
+{
+  "id": 2952530,
+  "codigo_real": "128.9.9",
+  "disciplina_real": "Psicologia",
+  "assunto_real": "Crianças e Adolescentes - Crianças e Adolescentes - Menores Infratores",
+  "bancas_nome": "FUNDEP Gestão de Concursos",
+  "bancas_sigla": "FUNDEP",
+  "orgaos_nome": "Prefeitura de Barra Longa",
+  "cargos_descricao": "Psicólogo",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um garoto de 10 anos de idade apresentava constantemente problemas de comportamento na escola e em casa. Na escola, já havia sido suspenso por três vezes no semestre em função de brigas, por não cumprir com as tarefas escolares e por desrespeito à professora. Em casa, batia sempre na irmã menor, de 8 anos de idade, e era temido pelos outros irmãos, um de 6 anos de idade e outro maior, de 12 anos de idade. A mãe, quando advertida pela escola, adotava sempre o corretivo de bater nele, chegando a machucá-lo, o que se repetia a cada reclamação ou comportamento inadequado, gerando maior rebeldia na criança. Dada essa situação, a mãe foi alertada pelo Conselho Tutelar em relação à violação dos direitos da criança, e estimulada a refletir sobre outras alternativas de solução. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Dado esse contexto, é incorreto afirmar:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Acriança pode ter um acompanhamento por meio do Serviço de Convivência e Fortalecimento de Vínculos disponível no CRAS do território onde mora.</p>",
+      "corpo_clean": "Acriança pode ter um acompanhamento por meio do Serviço de Convivência e Fortalecimento de Vínculos disponível no CRAS do território onde mora.",
+      "id": 11922521,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A criança deve ser separada da mãe biológica por inapetência desta na criação de seus filhos, devendo a criança ser entregue para adoção.</p>",
+      "corpo_clean": "A criança deve ser separada da mãe biológica por inapetência desta na criação de seus filhos, devendo a criança ser entregue para adoção.",
+      "id": 11922522,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A criança deve ter seus direitos protegidos, com atenção e apego seguro, sem tratamento cruel ou degradante, considerando inclusive o uso de castigo físico.</p>",
+      "corpo_clean": "A criança deve ter seus direitos protegidos, com atenção e apego seguro, sem tratamento cruel ou degradante, considerando inclusive o uso de castigo físico.",
+      "id": 11922523,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A criança pode ter um atendimento psicológico na escola, com foco no acompanhamento escolar e em estímulos ao seu desenvolvimento biopsicossocial.</p>",
+      "corpo_clean": "A criança pode ter um atendimento psicológico na escola, com foco no acompanhamento escolar e em estímulos ao seu desenvolvimento biopsicossocial.",
+      "id": 11922524,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11922522",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

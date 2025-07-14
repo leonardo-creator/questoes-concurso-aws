@@ -1,0 +1,37 @@
+{
+  "id": 994689,
+  "codigo_real": "20.3.8.2",
+  "disciplina_real": "Comunicação Social",
+  "assunto_real": "Jornalismo Científico",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Conselho Regional de Medicina do Paraná",
+  "cargos_descricao": "Jornalista",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "No contexto da Mass Communication Research,\r\npesquisadores independentes criticaram o avanço da\r\npropaganda comercial nos Estados Unidos, alertando,\r\npelo viés crítico, para os efeitos da manipulação e\r\ninfluência do público pelos que têm acesso aos meios de\r\ncomunicação de massa.",
+  "grupoQuestao_enunciado": "No que se refere aos chamados estudos fundadores da\r\nciência da comunicação, julgue os itens de 74 a 77.",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 3473325,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 3473326,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3473326",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

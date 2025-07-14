@@ -1,0 +1,58 @@
+{
+  "id": 2756637,
+  "codigo_real": "35.10.4",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Da cultura (artigos 215 a 216-A da CF)",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Prefeitura de Balneário Camboriú",
+  "cargos_descricao": "Historiador",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Analise as afirmativas a seguir sobre a Constituição Brasileira de 1988 e o que estabelece sobre o patrimônio cultural (Art. 216).</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">1. Constituem patrimônio cultural brasileiro os bens de natureza material e imaterial, tomados individualmente ou em conjunto, portadores de referência à identidade, à ação, à memória dos diferentes grupos formadores da sociedade brasileira.</p><p style=\"text-align: justify;\">2. Cabe ao Instituto do Patrimônio Histórico e Artístico Nacional definir, tombar e publicar o rol das novas manifestações que passam a fazer parte do patrimônio cultural brasileiro.</p><p style=\"text-align: justify;\">3. Caberá ao Ministério da Cultura estabelecer os critérios de incentivos para a produção e o conhecimento do patrimônio cultural brasileiro e de bens e valores culturais, bem como, selecionar os projetos indicados para a captação de recursos financeiros.</p><p style=\"text-align: justify;\">4. O Poder Público, com a colaboração da comunidade, promoverá e protegerá o patrimônio cultural brasileiro, por meio de inventários, registros, vigilância, tombamento e desapropriação, e de outras formas de acautelamento e preservação.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa que indica todas as afirmativas <strong>corretas.</strong></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>São corretas apenas as afirmativas 1 e 3.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 1 e 3.",
+      "id": 11062120,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>São corretas apenas as afirmativas 1 e 4.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 1 e 4.",
+      "id": 11062121,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>São corretas apenas as afirmativas 2 e 3.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 2 e 3.",
+      "id": 11062122,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>São corretas apenas as afirmativas 2, 3 e 4.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 2, 3 e 4.",
+      "id": 11062123,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>São corretas as afirmativas 1, 2, 3 e 4.</p>",
+      "corpo_clean": "São corretas as afirmativas 1, 2, 3 e 4.",
+      "id": 11062124,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11062121",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

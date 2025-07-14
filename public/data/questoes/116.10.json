@@ -1,0 +1,58 @@
+{
+  "id": 2445850,
+  "codigo_real": "116.10",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Sexologia",
+  "bancas_nome": "Centro de Treinamento e Desenvolvimento",
+  "bancas_sigla": "CETREDE",
+  "orgaos_nome": "Prefeitura de Paraipaba",
+  "cargos_descricao": "Médico - Área: Saúde Mental",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Analise as afirmativas a seguir sobre incontinência urinária feminina e marque (V) para as Verdadeiras e (F) para as Falsas.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">( ) Infecção urinária pode levar ao surgimento de incontinência urinária. Um exame de análise de caracteres físicos, elementos e sedimentos na urina deve ser solicitado para descarta a possibilidade de infecção, bem como de outras alterações observáveis nesse exame.</p><p style=\"text-align: justify;\">( ) Uma ultrassonografia do trato urinário e da pélvis nas mulheres permite avaliar a presença de massas na cavidade pélvica, além de fornecer informações sobre resíduo pós-miccional (RPM) e lesões do trato urinário. A presença de resíduo pós-miccional &lt; 100 ml é considerada normal.</p><p style=\"text-align: justify;\">( ) O exame físico nas mulheres deve ser direcionado para os sistemas que poderiam estar relacionados com a incontinência urinária, incluindo exame geral para mobilidade, estado cognitivo, edema periférico, exame abdominal para massas pélvicas e avaliação neurológica para patologias como esclerose múltipla, Parkinson, compressão de raiz nervosa (hérnia de disco), parestesias e distrofismo muscular.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a opção que indica a sequência CORRETA.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>F – F – V.</p>",
+      "corpo_clean": "F – F – V.",
+      "id": 9699843,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>F – V – F.</p>",
+      "corpo_clean": "F – V – F.",
+      "id": 9699844,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>V – F – V.</p>",
+      "corpo_clean": "V – F – V.",
+      "id": 9699845,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>V – V – F.</p>",
+      "corpo_clean": "V – V – F.",
+      "id": 9699846,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>V – V – V.</p>",
+      "corpo_clean": "V – V – V.",
+      "id": 9699847,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9699845",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

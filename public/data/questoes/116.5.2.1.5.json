@@ -1,0 +1,58 @@
+{
+  "id": 3528793,
+  "codigo_real": "116.5.2.1.5",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Edema",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Grupo Hospitalar Conceição",
+  "cargos_descricao": "Médico Dermatologista",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>São características da Hidradenite Supurativa, EXCETO:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Atrito, pressão e cisalhamento são os principais fatores de risco.</p>",
+      "corpo_clean": "Atrito, pressão e cisalhamento são os principais fatores de risco.",
+      "id": 14387739,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Pode piorar no período pré-menstrual e na SOP.</p>",
+      "corpo_clean": "Pode piorar no período pré-menstrual e na SOP.",
+      "id": 14387740,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Hurley III é reversível com tratamento clínico.</p>",
+      "corpo_clean": "Hurley III é reversível com tratamento clínico.",
+      "id": 14387741,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Envolve tratamento clínico e cirúrgico. </p>",
+      "corpo_clean": "Envolve tratamento clínico e cirúrgico. ",
+      "id": 14387742,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Acomete o folículo piloso. </p>",
+      "corpo_clean": "Acomete o folículo piloso. ",
+      "id": 14387743,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14387741",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

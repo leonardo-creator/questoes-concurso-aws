@@ -1,0 +1,37 @@
+{
+  "id": 621067,
+  "codigo_real": "140.7.2.10",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Unix",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Polícia Federal",
+  "cargos_descricao": "Programador",
+  "ano": 2004,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Na plataforma Unix, restrições podem ser incluídas por\r\nmeio das várias opções do comando passwd. A opção –l\r\nbloqueia o login do usuário, a opção –x obriga o usuário a\r\ntrocar a password no próximo login e a opção –n define o\r\nmáximo tempo de vida da password.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>A respeito da instalação e da configuração do sistema\r\noperacional Unix, julgue os seguintes itens.</p>",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2168752,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2168751,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "2168752",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

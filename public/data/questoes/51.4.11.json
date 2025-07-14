@@ -1,0 +1,58 @@
+{
+  "id": 2236798,
+  "codigo_real": "51.4.11",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Política Nacional de Educação Permanente em Saúde - Política Nacional de Educação Permanente em Saúde",
+  "bancas_nome": "Instituto de Administração e Tecnologia",
+  "bancas_sigla": "ADM TEC",
+  "orgaos_nome": "Prefeitura de Major Izidoro",
+  "cargos_descricao": "Médico PSF",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Leia as afirmativas a seguir: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. A vigilância em saúde contribui para a melhoria das condições de saúde da população. </p><p style=\"text-align: justify;\">II. A educação em saúde é um conjunto de práticas não apenas pedagógicas, mas também sociais. </p><p style=\"text-align: justify;\">III. Estimular as ações intersetoriais, visando à integralidade da atenção, é uma diretriz de promoção à saúde do idoso. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Marque a alternativa CORRETA:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Nenhuma afirmativa está correta.</p>",
+      "corpo_clean": "Nenhuma afirmativa está correta.",
+      "id": 8799921,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Está correta a afirmativa I, apenas.</p>",
+      "corpo_clean": "Está correta a afirmativa I, apenas.",
+      "id": 8799922,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Estão corretas as afirmativas II e III, apenas.</p>",
+      "corpo_clean": "Estão corretas as afirmativas II e III, apenas.",
+      "id": 8799923,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Estão corretas as afirmativas I e III, apenas.</p>",
+      "corpo_clean": "Estão corretas as afirmativas I e III, apenas.",
+      "id": 8799924,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Todas as afirmativas estão corretas. </p>",
+      "corpo_clean": "Todas as afirmativas estão corretas. ",
+      "id": 8799925,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8799925",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

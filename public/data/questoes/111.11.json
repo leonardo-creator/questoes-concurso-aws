@@ -1,0 +1,37 @@
+{
+  "id": 734689,
+  "codigo_real": "111.11",
+  "disciplina_real": "Língua Inglesa",
+  "assunto_real": "Língua Inglesa e Educação",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Secretaria de Educação do Distrito Federal",
+  "cargos_descricao": "Estudantes do CIL da SEE/DF - Área Língua Inglesa",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "In “to improve the appearance of children” (l.8 and 9),\r\n“improve” can be correctly replaced with enhance.",
+  "grupoQuestao_enunciado": "<P><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/21860/48.gif></P>\r\n<P>According to the text, judge the items below.</P>",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2517982,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2517981,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "2517981",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 414002,
+  "codigo_real": "95.5.3.1",
+  "disciplina_real": "Informática",
+  "assunto_real": "Infecção",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Tribunal Regional Eleitoral do Espírito Santo",
+  "cargos_descricao": "Técnico Judiciário - Área: Administrativa",
+  "ano": 2011,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Para se abrirem arquivos anexados a mensagens recebidas por\r\ncorreio eletrônico, sem correr o risco de contaminar o\r\ncomputador em uso, é necessário habilitar o firewall do\r\nWindows.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Em relação aos mecanismos de segurança da informação, julgue os\r\nitens subsequentes.</p>",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1480352,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1480351,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "1480352",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 3529234,
+  "codigo_real": "13.1.16.5",
+  "disciplina_real": "Atualidades e Conhecimentos Gerais",
+  "assunto_real": "Mercosul",
+  "bancas_nome": "Instituto Access - Instituto de Acesso à Educação, Capacitação Profissional e Desenvolvimento Humano",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Itaguara",
+  "cargos_descricao": "Agente de Fiscalização de Trânsito",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\"> A Cúpula do Mercosul realizada em julho de 2023 abordou diversos temas importantes para a integração regional. Um dos principais pontos discutidos foi: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\"> A adoção de uma moeda comum para substituir as moedas nacionais dos países membros. </p>",
+      "corpo_clean": " A adoção de uma moeda comum para substituir as moedas nacionais dos países membros. ",
+      "id": 14389708,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A integração do Mercosul ao Acordo de Livre Comércio da América do Norte (NAFTA).</p>",
+      "corpo_clean": "A integração do Mercosul ao Acordo de Livre Comércio da América do Norte (NAFTA).",
+      "id": 14389709,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O fortalecimento das relações comerciais com a União Europeia, especialmente no setor agrícola.</p>",
+      "corpo_clean": "O fortalecimento das relações comerciais com a União Europeia, especialmente no setor agrícola.",
+      "id": 14389710,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A criação de um exército comum para garantir a defesa dos países membros. </p>",
+      "corpo_clean": "A criação de um exército comum para garantir a defesa dos países membros. ",
+      "id": 14389711,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "14389710",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

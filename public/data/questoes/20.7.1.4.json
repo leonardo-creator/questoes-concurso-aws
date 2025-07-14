@@ -1,0 +1,58 @@
+{
+  "id": 2710021,
+  "codigo_real": "20.7.1.4",
+  "disciplina_real": "Comunicação Social",
+  "assunto_real": "Cinema",
+  "bancas_nome": "Fundação de Apoio à Educação e Desenvolvimento Tecnológico de Minas Gerais",
+  "bancas_sigla": "Fundacao CEFETMINAS",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia de Brasília",
+  "cargos_descricao": "Técnico de Laboratório - Área Audiovisual",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre o cinema de transição, é correto afirmar que(,)</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">de 1935 a 1940, o cinema pouco a pouco organizou-se de forma profissional.</p>",
+      "corpo_clean": "de 1935 a 1940, o cinema pouco a pouco organizou-se de forma profissional.",
+      "id": 10852433,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">os primeiros filmes de longa-metragem surgiram antes da Primeira Guerra Mundial.</p>",
+      "corpo_clean": "os primeiros filmes de longa-metragem surgiram antes da Primeira Guerra Mundial.",
+      "id": 10852434,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">durante o período de transição, as empresas americanas dominaram o mercado internacional.</p>",
+      "corpo_clean": "durante o período de transição, as empresas americanas dominaram o mercado internacional.",
+      "id": 10852435,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">entre 1907 e 1913, os filmes passaram a ser mais compridos, atingindo um tamanho médio de mil pés (um rolo) e duravam cerca de 15 minutos.</p>",
+      "corpo_clean": "entre 1907 e 1913, os filmes passaram a ser mais compridos, atingindo um tamanho médio de mil pés (um rolo) e duravam cerca de 15 minutos.",
+      "id": 10852436,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">os filmes começam a ser mais curtos e mudos.</p>",
+      "corpo_clean": "os filmes começam a ser mais curtos e mudos.",
+      "id": 10852437,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10852436",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

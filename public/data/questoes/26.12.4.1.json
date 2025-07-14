@@ -1,0 +1,58 @@
+{
+  "id": 475005,
+  "codigo_real": "26.12.4.1",
+  "disciplina_real": "Contabilidade Pública",
+  "assunto_real": "Definições",
+  "bancas_nome": "Instituto de Tecnologia e Desenvolvimento Econômico e Social",
+  "bancas_sigla": "ITEDES",
+  "orgaos_nome": "Prefeitura de Quatro Barras",
+  "cargos_descricao": "Contador",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Com base no Balanço Orçamentário apresentado\r\npor um ente público, é correto afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>se a fixação da despesa for superior à realização da\r\nreceita, houve um excesso de despesa.</p>",
+      "corpo_clean": "se a fixação da despesa for superior à realização da receita, houve um excesso de despesa.",
+      "id": 1708560,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>receita realizada for inferior à despesa executada,\r\nhouve um superavit orçamentário.</p>",
+      "corpo_clean": "receita realizada for inferior à despesa executada, houve um superavit orçamentário.",
+      "id": 1708561,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>se a previsão da receita for menor que a sua execução,\r\nhouve um excesso de arrecadação.</p>",
+      "corpo_clean": "se a previsão da receita for menor que a sua execução, houve um excesso de arrecadação.",
+      "id": 1708562,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>se a previsão da despesa for inferior a sua realização,\r\nhouve uma economia na realização da despesa.</p>",
+      "corpo_clean": "se a previsão da despesa for inferior a sua realização, houve uma economia na realização da despesa.",
+      "id": 1708563,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>se a receita prevista for maior que a despesa fixada,\r\nhouve um excesso de arrecadação.</p>",
+      "corpo_clean": "se a receita prevista for maior que a despesa fixada, houve um excesso de arrecadação.",
+      "id": 1708564,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1708564",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

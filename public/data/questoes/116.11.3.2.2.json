@@ -1,0 +1,37 @@
+{
+  "id": 544830,
+  "codigo_real": "116.11.3.2.2",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Papiloscopia",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Secretaria Municipal de Administração de São Luís",
+  "cargos_descricao": "Médico - Área: Gastroenterologia",
+  "ano": 2008,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Nesse quadro, recomenda-se a realização de polipectomia\r\nendoscópica, por tratar-se de procedimento de fácil execução\r\ne em que não costumam ocorrer complicações.</p>",
+  "grupoQuestao_enunciado": "<P align=justify>Um homem com 30 anos de idade realizou exame endoscópico de rotina por apresentar epigastralgia de forma intermitente há aproximadamente 1 ano. No exame, foi encontrada lesão elevada polipóide, subpediculada, com 5,0 mm no maior diâmetro, superfície lisa, coloração idêntica à da mucosa circundante e localizada no fundo gástrico. O exame clínico não mostrou anormalidades. </P>\r\n<P align=justify>Acerca desse quadro clínico, julgue os itens a seguir.</P>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1958684,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1958685,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1958685",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

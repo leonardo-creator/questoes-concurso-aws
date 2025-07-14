@@ -1,0 +1,51 @@
+{
+  "id": 2342499,
+  "codigo_real": "3.2.5.1",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Teoria comportamental ou behaviorista da Administração - Teoria comportamental ou behaviorista da Administração",
+  "bancas_nome": "Fundação de Apoio ao Desenvolvimento da UEL",
+  "bancas_sigla": "FAUEL",
+  "orgaos_nome": "Câmara de Apucarana -PR",
+  "cargos_descricao": "Adjunto Legislativo",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\"><em>“Sistema de ______________________ é o termo usado para descrever um sistema cuja finalidade é tratar, armazenar e fornecer dados e informações que possam apoiar os processos e funções realizados na organização”. </em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">A lacuna acima pode ser CORRETAMENTE completada pela alternativa:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Informações Organizacionais</p>",
+      "corpo_clean": "Informações Organizacionais",
+      "id": 9260982,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Gerenciamento de Metas</p>",
+      "corpo_clean": "Gerenciamento de Metas",
+      "id": 9260983,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Recursos Organizacionais</p>",
+      "corpo_clean": "Recursos Organizacionais",
+      "id": 9260984,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Gestão Patrimonial</p>",
+      "corpo_clean": "Gestão Patrimonial",
+      "id": 9260985,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9260982",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

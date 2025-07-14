@@ -1,0 +1,37 @@
+{
+  "id": 1054000,
+  "codigo_real": "25.12.3.2",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Critério de Classificação das Contas - Critério de Classificação das Contas",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Conselho Regional de Serviço Social da 19ª Região",
+  "cargos_descricao": "Agente Financeiro",
+  "ano": 2019,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "A venda a prazo para empregados que não constitua\r\nnegócio usual na exploração do objeto da companhia\r\ndeve ser classificada no ativo realizável a longo prazo,\r\nindependentemente do prazo da operação.",
+  "grupoQuestao_enunciado": "Acerca das demonstrações contábeis e da conciliação de\r\ncontas, julgue os itens de 91 a 95.",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 3692978,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 3692979,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3692979",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

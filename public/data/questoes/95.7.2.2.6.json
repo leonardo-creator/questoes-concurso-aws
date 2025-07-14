@@ -1,0 +1,51 @@
+{
+  "id": 1537664,
+  "codigo_real": "95.7.2.2.6",
+  "disciplina_real": "Informática",
+  "assunto_real": "Windows 8",
+  "bancas_nome": "FAFIPA Fundação de Apoio",
+  "bancas_sigla": "FAFIPA",
+  "orgaos_nome": "Prefeitura de Marialva",
+  "cargos_descricao": "Técnico em Enfermagem",
+  "ano": 2017,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considerando o sistema Windows 10 Home, assinale as afirmativas abaixo com (V) verdadeiro ou (F) falso. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">( ) É um sistema operacional da Microsoft que, contrariando as edições anteriores, é vendido como serviço. </p><p style=\"text-align: justify;\">( ) O Windows fornece acesso completo ao seu código fonte, permitindo edições pelo próprio usuário. </p><p style=\"text-align: justify;\">( ) O Windows 10 fornece recursos internos de segurança que auxiliam na proteção contra software mal-intencionado.</p><p style=\"text-align: justify;\">( ) O Windows 10 fornece o tradicional menu iniciar, disponível na barra de ferramentas, podendo ser acessado somente via touchscreen. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa que apresenta a sequência CORRETA.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>V, V, V, F.</p>",
+      "corpo_clean": "V, V, V, F.",
+      "id": 5751399,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>V, F, V, F.</p>",
+      "corpo_clean": "V, F, V, F.",
+      "id": 5751400,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>V, F, F, F.</p>",
+      "corpo_clean": "V, F, F, F.",
+      "id": 5751401,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>V, F, V, V.</p>",
+      "corpo_clean": "V, F, V, V.",
+      "id": 5751402,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5751400",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

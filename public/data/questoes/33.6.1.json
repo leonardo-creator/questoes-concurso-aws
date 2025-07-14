@@ -1,0 +1,58 @@
+{
+  "id": 1182291,
+  "codigo_real": "33.6.1",
+  "disciplina_real": "Direito Ambiental",
+  "assunto_real": "Ação Civil Pública - Ação Civil Pública",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Tribunal de Justiça do Rio de Janeiro",
+  "cargos_descricao": "Juiz Substituto",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Um Município, no interior de Minas Gerais, pretende,\r\nem sede recursal, a inclusão do referido Estado no polo\r\npassivo da Ação Civil Pública, que visa a reparação e\r\nprevenção de danos ambientais causados por deslizamentos\r\nde terras em encostas habitadas. Segundo regra\r\ngeral quanto ao dano ambiental e urbanístico, e segundo\r\nposição do STJ, o litisconsórcio, nesses casos é</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>facultativo, quando envolve ato do particular e necessário\r\nquando envolve ato da Administração Pública.</p>",
+      "corpo_clean": "facultativo, quando envolve ato do particular e necessário quando envolve ato da Administração Pública.",
+      "id": 4243820,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>facultativo, pois os responsáveis pela degradação\r\nambiental não são coobrigados solidários.</p>",
+      "corpo_clean": "facultativo, pois os responsáveis pela degradação ambiental não são coobrigados solidários.",
+      "id": 4243821,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>necessário, quando o ato envolve particular e poder\r\npúblico.</p>",
+      "corpo_clean": "necessário, quando o ato envolve particular e poder público.",
+      "id": 4243822,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>obrigatório, no caso de causas concorrentes.</p>",
+      "corpo_clean": "obrigatório, no caso de causas concorrentes.",
+      "id": 4243823,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>facultativo, mesmo havendo múltiplos agentes poluidores.</p>",
+      "corpo_clean": "facultativo, mesmo havendo múltiplos agentes poluidores.",
+      "id": 4243824,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4243824",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

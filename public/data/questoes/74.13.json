@@ -1,0 +1,58 @@
+{
+  "id": 1227521,
+  "codigo_real": "74.13",
+  "disciplina_real": "Engenharia Florestal",
+  "assunto_real": "Ecologia Florestal",
+  "bancas_nome": "Universidade Federal do Espírito Santo",
+  "bancas_sigla": "UFES",
+  "orgaos_nome": "Universidade Federal do Espírito Santo",
+  "cargos_descricao": "Engenheiro - Área: Florestal",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Sobre a ecologia de comunidades e ecossistemas, é CORRETO afirmar: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>O paradigma contemporâneo da  sucessão,  também denominado paradigma do não equilíbrio, \r\npreconiza  que  a  sucessão  é  predominantemente  estocástica  e  influenciada  pelo  regime  de \r\ndistúrbios ao qual o ecossistema tem sido submetido. </p>",
+      "corpo_clean": "O paradigma contemporâneo da sucessão, também denominado paradigma do não equilíbrio, preconiza que a sucessão é predominantemente estocástica e influenciada pelo regime de distúrbios ao qual o ecossistema tem sido submetido. ",
+      "id": 4428964,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>A  diversidade  de  espécies  de  uma  comunidade  depende  apenas  da  sua  riqueza.  Um maior \r\nnúmero de espécies contribui para comunidades com maior diversidade. </p>",
+      "corpo_clean": "A diversidade de espécies de uma comunidade depende apenas da sua riqueza. Um maior número de espécies contribui para comunidades com maior diversidade. ",
+      "id": 4428965,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Um  nicho  é um conjunto de espécies que são capazes de sobreviver  e  reproduzir ao explorar \r\ntodas as condições e recursos do ambiente. </p>",
+      "corpo_clean": "Um nicho é um conjunto de espécies que são capazes de sobreviver e reproduzir ao explorar todas as condições e recursos do ambiente. ",
+      "id": 4428966,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Espécies  de  caráter  invasor,  daninho  ou  ruderal  são  aquelas  que  se  expandem  rapidamente \r\npara fora do seu âmbito nativo e podem alterar as características do ecossistema, por meio de \r\nestratégias que favoreçam o próprio aumento subsequente. </p>",
+      "corpo_clean": "Espécies de caráter invasor, daninho ou ruderal são aquelas que se expandem rapidamente para fora do seu âmbito nativo e podem alterar as características do ecossistema, por meio de estratégias que favoreçam o próprio aumento subsequente. ",
+      "id": 4428967,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>A ecologia de comunidades identifica os padrões de riqueza, de abundância e de composição de \r\nespécies nas comunidades biológicas, e os mecanismos que criam esses padrões. </p>",
+      "corpo_clean": "A ecologia de comunidades identifica os padrões de riqueza, de abundância e de composição de espécies nas comunidades biológicas, e os mecanismos que criam esses padrões. ",
+      "id": 4428968,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": null,
+  "dificuldade": "Difícil",
+  "anulada": true,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

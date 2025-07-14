@@ -1,0 +1,37 @@
+{
+  "id": 3264524,
+  "codigo_real": "77.6",
+  "disciplina_real": "Engenharia Mecânica",
+  "assunto_real": "Sistemas Termomecânicos",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Ministério Público de Goiás",
+  "cargos_descricao": "Analista - Área Engenharia Mecânica",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">No sistema <em>multisplit</em>, é possível a conexão de múltiplas unidades internas a uma única unidade externa que, operando em associação ao sistema VRF, permite o controle individualizado de temperatura e fluxo de refrigerante para cada unidade interna conectada.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Com relação a sistemas de climatização por expansão direta (<em>split</em>, <em>multisplit</em>, VRF e <em>self-contained</em>), julgue os itens que se seguem.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 13267665,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 13267666,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13267665",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

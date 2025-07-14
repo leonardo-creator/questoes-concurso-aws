@@ -1,0 +1,58 @@
+{
+  "id": 1583256,
+  "codigo_real": "2.4.4",
+  "disciplina_real": "Administração Financeira e Orçamentária - AFO",
+  "assunto_real": "Créditos Adicionais e ordinários",
+  "bancas_nome": "FUNRIO Fundação de Apoio a Pesquisa, Ensino e Assistência",
+  "bancas_sigla": "FUNRIO",
+  "orgaos_nome": "Controladoria Geral do Estado de Rondônia",
+  "cargos_descricao": "Assistente de Controle Interno",
+  "ano": 2018,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O crédito adicional que independe de autorização legislativa prévia, para sua abertura é o:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Extraorçamentário.</p>",
+      "corpo_clean": "Extraorçamentário.",
+      "id": 5939969,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Suplementar.</p>",
+      "corpo_clean": "Suplementar.",
+      "id": 5939970,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Especial.</p>",
+      "corpo_clean": "Especial.",
+      "id": 5939971,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Extraordinário.</p>",
+      "corpo_clean": "Extraordinário.",
+      "id": 5939972,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Complementar.</p>",
+      "corpo_clean": "Complementar.",
+      "id": 5939973,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5939972",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

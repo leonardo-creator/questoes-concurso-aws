@@ -1,0 +1,51 @@
+{
+  "id": 2691900,
+  "codigo_real": "112.5.14.1.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Uso da Vírgula - Uso da Vírgula",
+  "bancas_nome": "Instituto Unifil",
+  "bancas_sigla": "Unifil",
+  "orgaos_nome": "Prefeitura de Guaíra",
+  "cargos_descricao": "Guarda Municipal",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa que apresenta a explicação correta para o uso das vírgulas no título e no subtítulo, também conhecido como lide.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>Leia o texto para responder as questões.</strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Intolerância política cresce, ameaça democracia e estimula uso de coletes à prova de bala na corrida eleitoral</p><p style=\"text-align: justify;\">Em dois anos, houve aumento de 17,4% no número de casos de violência contra políticos; Polícia Federal está preocupada com segurança de presidenciáveis</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\">Por Eduardo Morgado</p><p style=\"text-align: justify;\"><br></p><p style=\"text-indent: 2em; text-align: justify;\">\tEm meio à escalada do autoritarismo vivida em algumas regiões do mundo, a democracia é um dos regimes políticos que mais perderam força e espaço no cenário global. De maneira gradual e sem que haja uma ruptura, é possível destacar meios para que este sistema perca força. Censura, descredibilização do sistema eleitoral e ataque às instituições são algumas das formas de colocar em xeque a ideologia que prega a participação igualitária e soberana da sociedade civil. Entre as diversas ameaças, destacam-se os crimes de ódio.</p><p style=\"text-indent: 2em; text-align: justify;\">\tO temor é tão grande que a Polícia Federal decidiu antecipar o programa de segurança dos candidatos à Presidência. Os partidos não precisarão esperar até 16 de agosto para pedir proteção policial. Será possível fazê-lo a partir da convenção partidária. Jair Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT), os dois favoritos à corrida presidencial, já usam coletes à prova de balas em eventos públicos. O atual presidente, aliás, chega à campanha traumatizado por um atentado que quase lhe tirou a vida há quatro anos. Em 9 de setembro de 2018, em Juiz de Fora, o então postulante ao Palácio do Planalto foi esfaqueado por Adélio Bispo e passou 23 dias internado. Segundo a PF, o autor do ataque agiu isoladamente. Bolsonaro pede que a investigação seja reaberta.</p><p style=\"text-indent: 2em; text-align: justify;\">\t<strong>Quem é responsável pela violência política? </strong></p><p style=\"text-indent: 2em; text-align: justify;\">\tJá no último pleito presidencial, no qual o Partido dos Trabalhadores (PT) rivalizou a disputa com o então candidato Jair Bolsonaro — que se sagrou vencedor na disputa —, houve alguns crimes de ódio que abalaram o sistema democrático. Em 14 de março de 2018, a vereadora do Rio de Janeiro Marielle Franco (Psol) foi morta em uma emboscada no centro da capital fluminense. No período em que ocorreu seu assassinato, o Estado do Rio vivia sob intervenção federal na segurança pública. Menos de duas semanas depois, no dia 27, um ônibus da caravana do então pré-candidato Lula foi atingido por tiros na cidade de Quedas do Iguaçu, no Paraná. Mesmo sem feridos, o delegado Hélder Lauria, que capitaneou as investigações, afirmou que o ataque havia sido planejado. Meses depois, Bolsonaro foi esfaqueado na região do abdômen enquanto participava de um evento de campanha na cidade de Juiz de Fora, em Minas Gerais.</p><p style=\"text-indent: 2em; text-align: justify;\">\t[...]</p><p style=\"text-indent: 2em; text-align: justify;\">\t</p><p style=\"text-align: right;\"><br></p><p style=\"text-align: right;\">Disponível em https://jovempan.com.br/noticias/politica/intolerancia-politica-</p><p style=\"text-align: right;\">cresce-ameaca-democracia-e-estimula-uso-de-coletes-a-prova-de-bala-na-corrida-</p><p style=\"text-align: right;\">eleitoral. html</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A primeira vírgula foi utilizada para o aposto explicativo, enquanto a segunda, para isolar o advérbio de lugar.</p>",
+      "corpo_clean": "A primeira vírgula foi utilizada para o aposto explicativo, enquanto a segunda, para isolar o advérbio de lugar.",
+      "id": 10770174,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A primeira vírgula foi utilizada para isolar o advérbio, enquanto a segunda, para o vocativo.</p>",
+      "corpo_clean": "A primeira vírgula foi utilizada para isolar o advérbio, enquanto a segunda, para o vocativo.",
+      "id": 10770175,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A primeira vírgula foi utilizada para o vocativo, enquanto a segunda, para isolar o aposto explicativo.</p>",
+      "corpo_clean": "A primeira vírgula foi utilizada para o vocativo, enquanto a segunda, para isolar o aposto explicativo.",
+      "id": 10770176,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A primeira vírgula foi utilizada para sequenciar itens, enquanto a segunda, para isolar o advérbio de tempo.</p>",
+      "corpo_clean": "A primeira vírgula foi utilizada para sequenciar itens, enquanto a segunda, para isolar o advérbio de tempo.",
+      "id": 10770177,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10770177",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2259127,
+  "codigo_real": "58.19.20",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Calendário Vacinal",
+  "bancas_nome": "Universidade Estadual do Oeste do Paraná",
+  "bancas_sigla": "Unioeste",
+  "orgaos_nome": "Prefeitura de Toledo",
+  "cargos_descricao": "Técnico em Enfermagem",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com o calendário de vacinação da Secretaria de Estado da Saúde (SESA/PR, 2019), quais vacinas devem ser administradas nas crianças até 4 anos, 11 meses e 29 dias:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Pentavalente (DTP+HB+Hib), VOP (vacina oral de poliomielite), VORH (vacina oral de rotavírus humano) e vacina meningocócica C (conjugada). </p>",
+      "corpo_clean": "Pentavalente (DTP+HB+Hib), VOP (vacina oral de poliomielite), VORH (vacina oral de rotavírus humano) e vacina meningocócica C (conjugada). ",
+      "id": 8892080,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Pentavalente (DTP+HB+Hib), VOP (vacina oral de poliomielite), VORH (vacina oral de rotavírus humano) e HPV quadrivalente.</p>",
+      "corpo_clean": "Pentavalente (DTP+HB+Hib), VOP (vacina oral de poliomielite), VORH (vacina oral de rotavírus humano) e HPV quadrivalente.",
+      "id": 8892081,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">DTP (tríplice bacteriana), VIP (vacina inativada poliomielite), VORH (vacina oral de rotavírus humano), SCRV (tetra viral) e HPV quadrivalente.</p>",
+      "corpo_clean": "DTP (tríplice bacteriana), VIP (vacina inativada poliomielite), VORH (vacina oral de rotavírus humano), SCRV (tetra viral) e HPV quadrivalente.",
+      "id": 8892082,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Vacina meningocócica C (conjugada), VORH (vacina oral de rotavírus humano), SCRV (tetra viral) e dT (dupla adulto).</p>",
+      "corpo_clean": "Vacina meningocócica C (conjugada), VORH (vacina oral de rotavírus humano), SCRV (tetra viral) e dT (dupla adulto).",
+      "id": 8892083,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Vacina varicela, Hepatite B, Febre Amarela, Vacina meningocócica C (conjugada) e HPV quadrivalente.</p>",
+      "corpo_clean": "Vacina varicela, Hepatite B, Febre Amarela, Vacina meningocócica C (conjugada) e HPV quadrivalente.",
+      "id": 8892084,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8892080",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

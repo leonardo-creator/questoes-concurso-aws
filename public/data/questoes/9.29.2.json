@@ -1,0 +1,51 @@
+{
+  "id": 2255174,
+  "codigo_real": "9.29.2",
+  "disciplina_real": "Arquitetura",
+  "assunto_real": "NBR 13532 – Elaboração de projetos de edificações – Arquitetura",
+  "bancas_nome": "Excelência Seleções e Concursos Públicos",
+  "bancas_sigla": "Excelencia",
+  "orgaos_nome": "Prefeitura de São Luiz do Paraitinga",
+  "cargos_descricao": "Arquiteto",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Segundo a NBR 13531 Elaboração de projetos de edificações, assinale a alternativa que contém a sequência correta das etapas de projeto (incluídas as siglas):</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">levantamento (LV), programa de necessidades (PN), estudo de viabilidade (EV), estudo preliminar (EP), anteprojeto (AP) e/ou pré-execução (PR), projeto legal (PL), projeto básico (PB), projeto para execução (PE).</p>",
+      "corpo_clean": "levantamento (LV), programa de necessidades (PN), estudo de viabilidade (EV), estudo preliminar (EP), anteprojeto (AP) e/ou pré-execução (PR), projeto legal (PL), projeto básico (PB), projeto para execução (PE).",
+      "id": 8873053,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">estudo de viabilidade (EV), programa de necessidades (PN), levantamento (LV), estudo preliminar (EP), anteprojeto (AP) e/ou pré-execução (PR), projeto legal (PL), projeto básico (PB), projeto para execução (PE).</p>",
+      "corpo_clean": "estudo de viabilidade (EV), programa de necessidades (PN), levantamento (LV), estudo preliminar (EP), anteprojeto (AP) e/ou pré-execução (PR), projeto legal (PL), projeto básico (PB), projeto para execução (PE).",
+      "id": 8873054,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">estudo de viabilidade (EV), levantamento (LV), programa de necessidades (PN), estudo preliminar (EP), anteprojeto (AP) e/ou pré-execução (PR), projeto legal (PL), projeto básico (PB), projeto para execução (PE).</p>",
+      "corpo_clean": "estudo de viabilidade (EV), levantamento (LV), programa de necessidades (PN), estudo preliminar (EP), anteprojeto (AP) e/ou pré-execução (PR), projeto legal (PL), projeto básico (PB), projeto para execução (PE).",
+      "id": 8873055,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">levantamento (LV), programa de necessidades (PN), estudo de viabilidade (EV), estudo preliminar (EP), anteprojeto (AP) e/ou pré-execução (PR), projeto básico (PB), projeto legal (PL), projeto para execução (PE).</p>",
+      "corpo_clean": "levantamento (LV), programa de necessidades (PN), estudo de viabilidade (EV), estudo preliminar (EP), anteprojeto (AP) e/ou pré-execução (PR), projeto básico (PB), projeto legal (PL), projeto para execução (PE).",
+      "id": 8873056,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "8873053",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

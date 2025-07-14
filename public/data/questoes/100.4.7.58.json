@@ -1,0 +1,37 @@
+{
+  "id": 419734,
+  "codigo_real": "100.4.7.58",
+  "disciplina_real": "Legislação Federal",
+  "assunto_real": "Lei nº 10.486/2002 - Dispõe sobre a remuneração dos militares do Distrito Federal e dá outras providências.",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Tribunal Regional do Trabalho da 21ª Região",
+  "cargos_descricao": "Técnico Judiciário - Área: Administrativa",
+  "ano": 2010,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>O servidor de carreira dos quadros de pessoal do Poder\r\nJudiciário cedido não perceberá, durante o afastamento, a\r\ngratificação de atividade judiciária, exceto na hipótese de\r\nhaver sido cedido para órgãos da União e ter optado pela\r\nremuneração do cargo efetivo.</p>",
+  "grupoQuestao_enunciado": "<P align=justify>No que diz respeito aos servidores públicos, à Lei n.<SUP>o</SUP> 8.112/1990 e à Lei n.<SUP>o</SUP> 11.416/2006, julgue os seguintes itens.</P>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1501895,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1501896,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1501895",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

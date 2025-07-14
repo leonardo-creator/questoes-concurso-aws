@@ -1,0 +1,58 @@
+{
+  "id": 2619426,
+  "codigo_real": "114.7.3",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Taxa Mínima de Atratividade (TMA)",
+  "bancas_nome": "Concursos Públicos e Assessorias EIRELI",
+  "bancas_sigla": "CONPASS",
+  "orgaos_nome": "Prefeitura de Brejinho",
+  "cargos_descricao": "Agente Administrativo",
+  "ano": 2016,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um técnico eletricista atende em domicílio, cobrando R$ 30,00 pela visita mais R$ 20,00 pela hora trabalhada. Qual deve ser a quantidade de horas trabalhadas para que o valor cobrado por esse eletricista seja menor ou igual a R$ 80,00?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>ele deve trabalhar até 1 hora e 45 minutos</p>",
+      "corpo_clean": "ele deve trabalhar até 1 hora e 45 minutos",
+      "id": 10451179,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>ele deve trabalhar até 3 horas e 40 minutos</p>",
+      "corpo_clean": "ele deve trabalhar até 3 horas e 40 minutos",
+      "id": 10451180,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>ele deve trabalhar até 2 horas e 30 minutos</p>",
+      "corpo_clean": "ele deve trabalhar até 2 horas e 30 minutos",
+      "id": 10451181,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>ele deve trabalhar até 2 horas e 20 minutos</p>",
+      "corpo_clean": "ele deve trabalhar até 2 horas e 20 minutos",
+      "id": 10451182,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>ele deve trabalhar até 3 horas e 30 minutos</p>",
+      "corpo_clean": "ele deve trabalhar até 3 horas e 30 minutos",
+      "id": 10451183,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10451181",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

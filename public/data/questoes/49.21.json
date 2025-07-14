@@ -1,0 +1,37 @@
+{
+  "id": 775163,
+  "codigo_real": "49.21",
+  "disciplina_real": "Direito Processual Penal Militar",
+  "assunto_real": "Recursos no CPPM - Recursos no CPPM",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Defensoria Pública da União",
+  "cargos_descricao": "Defensor Público Federal de Segunda Categoria",
+  "ano": 2015,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Considere a seguinte situação hipotética.</p><p style=\"text-align: justify;\">Jonas, praça das Formas Armadas, foi denunciado pelo crime de concussão em concurso com outros agentes militares e, após regular transcurso do processo, com a observância de todas as regras procedimentais e garantias constitucionais asseguradas aos réus, foi o feito levado a julgamento. Na sessão de julgamento, ao apreciar os fatos e provas apresentados pelas partes, entendeu o CPJ que deveria dar ao fato imputado a Jonas nova definição jurídica, diversa da que constava na denúncia, definição esta que resultaria em aplicação de sanção penal mais severa que a até então prevista.</p><p style=\"text-align: justify;\">Nessa situação hipotética, o CPJ equivocou-se ao dar nova classificação jurídica para aplicar pena mais grave ao réu, uma vez que a emendatio libelli no sistema processual castrense exige formulação expressa do MPM em alegações escritas, além de oportunidade de resposta por parte da defesa.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Considerando a temática do direito processual penal militar relativa às questões prejudiciais, aos atos probatórios e aos processos em espécie, julgue os itens subsecutivos.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 2688596,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 2688597,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2688596",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

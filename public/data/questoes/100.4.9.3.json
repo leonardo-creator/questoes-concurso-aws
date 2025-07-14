@@ -1,0 +1,58 @@
+{
+  "id": 1328473,
+  "codigo_real": "100.4.9.3",
+  "disciplina_real": "Legislação Federal",
+  "assunto_real": "Lei nº 12.154/2009 - Cria a Superintendência Nacional de Previdência Complementar - PREVIC e dispõe sobre o seu pessoal; inclui a Câmara de Recursos da Previdência Complementar na estrutura básica do Ministério da Previdência Social;",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Tribunal de Justiça do Rio de Janeiro",
+  "cargos_descricao": "Técnico Judiciário",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Segundo a Lei n. 12.153, de 2009, que dispõe sobre os Juizados\r\nEspeciais da Fazenda Pública, é correto afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Para efetuar o exame técnico necessário à conciliação ou ao\r\njulgamento da causa, o Juiz nomeará pessoa habilitada, que\r\napresentará o laudo até 10 (dez) dias antes da audiência.</p>",
+      "corpo_clean": "Para efetuar o exame técnico necessário à conciliação ou ao julgamento da causa, o Juiz nomeará pessoa habilitada, que apresentará o laudo até 10 (dez) dias antes da audiência.",
+      "id": 4856034,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Nas causas de que trata essa Lei, haverá reexame necessário\r\nnas causas dos municípios. </p>",
+      "corpo_clean": "Nas causas de que trata essa Lei, haverá reexame necessário nas causas dos municípios. ",
+      "id": 4856035,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>O cumprimento do acordo ou da sentença, com trânsito em\r\njulgado, que imponham obrigação de fazer, não fazer ou entrega de coisa certa, será efetuado mediante ofício do Juiz\r\nà autoridade citada para a causa, com cópia da sentença ou\r\ndo acordo.</p>",
+      "corpo_clean": "O cumprimento do acordo ou da sentença, com trânsito em julgado, que imponham obrigação de fazer, não fazer ou entrega de coisa certa, será efetuado mediante ofício do Juiz à autoridade citada para a causa, com cópia da sentença ou do acordo.",
+      "id": 4856036,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify><p align=justify><p align=justify><p align=justify><p align=justify>Tratando-se de obrigação de pagar quantia certa, após o trânsito em julgado da decisão, o pagamento será efetuado no prazo\r\nmáximo de 30 (trinta) dias, contado da entrega da requisição\r\ndo juiz à autoridade citada para a causa, independentemente\r\nde precatório, na hipótese do § 3º do art. 100 da Constituição Federal.</p></p></p></p></p>",
+      "corpo_clean": "Tratando-se de obrigação de pagar quantia certa, após o trânsito em julgado da decisão, o pagamento será efetuado no prazo máximo de 30 (trinta) dias, contado da entrega da requisição do juiz à autoridade citada para a causa, independentemente de precatório, na hipótese do § 3º do art. 100 da Constituição Federal.",
+      "id": 4856037,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>Tratando-se de obrigação de fazer, após o trânsito em julgado\r\nda decisão, o pagamento será efetuado mediante precatório,\r\ncaso o montante da condenação exceda o valor definido como\r\nobrigação de grande valor.</p>",
+      "corpo_clean": "Tratando-se de obrigação de fazer, após o trânsito em julgado da decisão, o pagamento será efetuado mediante precatório, caso o montante da condenação exceda o valor definido como obrigação de grande valor.",
+      "id": 4856038,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4856036",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

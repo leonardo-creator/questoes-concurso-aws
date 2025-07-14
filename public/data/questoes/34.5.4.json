@@ -1,0 +1,58 @@
+{
+  "id": 997011,
+  "codigo_real": "34.5.4",
+  "disciplina_real": "Direito Civil",
+  "assunto_real": "Da Prescrição e da Decadência (Art. 189 ao 211)",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional do Trabalho da 15ª Região",
+  "cargos_descricao": "Analista Judiciário - Área Judiciária",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Em relação à prescrição, considere:\r\n</p><p>I. A suspensão da prescrição em favor de um dos credores solidários é personalíssima e não beneficia os demais em\r\nnenhuma hipótese.\r\n</p><p>II. A prescrição pode ser alegada em qualquer grau de jurisdição, pela parte a quem aproveita.\r\n</p><p>III. A prescrição ocorre em dez anos, quando a lei não lhe haja fixado prazo menor.\r\n</p><p>IV. A prescrição iniciada contra uma pessoa cessa em relação ao seu sucessor.\r\n</p><p>Está correto o que consta APENAS de</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "I e IV.",
+      "corpo_clean": "I e IV.",
+      "id": 3481350,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "I, II e III.",
+      "corpo_clean": "I, II e III.",
+      "id": 3481351,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "II, III e IV.",
+      "corpo_clean": "II, III e IV.",
+      "id": 3481352,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "I, III e IV.",
+      "corpo_clean": "I, III e IV.",
+      "id": 3481353,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "II e III.",
+      "corpo_clean": "II e III.",
+      "id": 3481354,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3481354",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

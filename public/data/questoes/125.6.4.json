@@ -1,0 +1,51 @@
+{
+  "id": 2735278,
+  "codigo_real": "125.6.4",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Plano Nacional de Educação (PNE)",
+  "bancas_nome": "FUNDEP Gestão de Concursos",
+  "bancas_sigla": "FUNDEP",
+  "orgaos_nome": "Prefeitura de Lavras",
+  "cargos_descricao": "Orientador Educacional",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A\tPolítica\tNacional de\tEducação\tEspecial –\tequitativa, inclusiva\te\tcom\taprendizado\tao\tlongo\tda\tvida\t(PNEE)\t– foi\tinstituída\tpelo\tDecreto\tnº\t10.502/2020.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">São\tconsiderados\tprincípios\tda\tPNEE,\texceto:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Participação de equipe multidisciplinar no processo\tde\tdecisão\tda\tfamília\tou\tdo\teducando quanto\tà\talternativa\teducacional\tmais\tadequada.</p>",
+      "corpo_clean": "Participação de equipe multidisciplinar no processo\tde\tdecisão\tda\tfamília\tou\tdo\teducando quanto\tà\talternativa\teducacional\tmais\tadequada.",
+      "id": 10963626,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Definição\tde\tdiretrizes\tda\teducação\tespecial\tpara o estabelecimento dos serviços e dos recursos de atendimento educacional especializado aos educandos\tpúblico-alvo\tdessa\tPNEE.</p>",
+      "corpo_clean": "Definição\tde\tdiretrizes\tda\teducação\tespecial\tpara o estabelecimento dos serviços e dos recursos de atendimento educacional especializado aos educandos\tpúblico-alvo\tdessa\tPNEE.",
+      "id": 10963627,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Ambiente escolar acolhedor e inclusivo.</p>",
+      "corpo_clean": "Ambiente escolar acolhedor e inclusivo.",
+      "id": 10963628,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Garantia\tde\timplementação\tde\tescolas\tbilíngues de\tsurdos\te\tsurdocegos.</p>",
+      "corpo_clean": "Garantia\tde\timplementação\tde\tescolas\tbilíngues de\tsurdos\te\tsurdocegos.",
+      "id": 10963629,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10963627",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

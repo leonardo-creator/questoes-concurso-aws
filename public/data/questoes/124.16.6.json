@@ -1,0 +1,58 @@
+{
+  "id": 3752254,
+  "codigo_real": "124.16.6",
+  "disciplina_real": "Odontologia",
+  "assunto_real": "Técnicas de Moldagem",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Prefeitura de Caçador",
+  "cargos_descricao": "Auxiliar em Saúde Bucal",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Várias técnicas são usadas para isolar uma área específica da boca. Os três métodos mais comuns incluem isolamento com rolete de algodão, isolamento com ângulos secos e isolamento com lençol de borracha.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Em relação ao isolamento com lençol de borracha (isolamento absoluto), assinale a alternativa que compõe <strong>somente </strong>instrumentais utilizados para este tipo de técnica.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Lençol de borracha, grampo para isolamento e pinça mosquito</p>",
+      "corpo_clean": "Lençol de borracha, grampo para isolamento e pinça mosquito",
+      "id": 15274878,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Lençol de borracha, perfurador de lençol de borracha e cureta de dentina</p>",
+      "corpo_clean": "Lençol de borracha, perfurador de lençol de borracha e cureta de dentina",
+      "id": 15274879,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Lençol de borracha, alavanca reta e grampo para isolamento</p>",
+      "corpo_clean": "Lençol de borracha, alavanca reta e grampo para isolamento",
+      "id": 15274880,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Lençol de borracha, pinça mosquito e fio dental </p>",
+      "corpo_clean": "Lençol de borracha, pinça mosquito e fio dental ",
+      "id": 15274881,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Lençol de borracha, pinça porta-grampo e arco de Young </p>",
+      "corpo_clean": "Lençol de borracha, pinça porta-grampo e arco de Young ",
+      "id": 15274882,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15274882",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

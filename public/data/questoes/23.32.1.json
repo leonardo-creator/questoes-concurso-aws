@@ -1,0 +1,51 @@
+{
+  "id": 1154246,
+  "codigo_real": "23.32.1",
+  "disciplina_real": "Conhecimentos Específicos de um determinado Cargo-Área",
+  "assunto_real": "Materiais de construção civil",
+  "bancas_nome": "Universidade Federal de Uberlândia",
+  "bancas_sigla": "UFU",
+  "orgaos_nome": "Universidade Federal de Uberlândia",
+  "cargos_descricao": "Mestre de Edificações e Infraestrutura",
+  "ano": 2019,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\">A qualidade dos materiais empregados em uma estrutura é condicionante para seu\r\ndesempenho final.\r\n</p><p align=\"justify\">Sobre o cuidado necessário com a qualidade dos materiais, é correto afirmar que</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>o cimento usado no concreto não requer procedimentos específicos de armazenamento.</p>",
+      "corpo_clean": "o cimento usado no concreto não requer procedimentos específicos de armazenamento.",
+      "id": 4123692,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>o agregado graúdo pode conter até 40% de material pulverulento, gravetos e torrões de argila.</p>",
+      "corpo_clean": "o agregado graúdo pode conter até 40% de material pulverulento, gravetos e torrões de argila.",
+      "id": 4123693,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>o agregado miúdo deve conter baixo teor de matéria orgânica e deve ser armazenado úmido.</p>",
+      "corpo_clean": "o agregado miúdo deve conter baixo teor de matéria orgânica e deve ser armazenado úmido.",
+      "id": 4123694,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>a água usada no amassamento do concreto deve ser limpa e isenta de substâncias prejudiciais\r\nà mistura.</p>",
+      "corpo_clean": "a água usada no amassamento do concreto deve ser limpa e isenta de substâncias prejudiciais à mistura.",
+      "id": 4123695,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4123695",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

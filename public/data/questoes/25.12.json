@@ -1,0 +1,58 @@
+{
+  "id": 1715250,
+  "codigo_real": "25.12",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Demonstrações Contábeis",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Agência de Defesa Agropecuária e Florestal do Amazonas",
+  "cargos_descricao": "Contador",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com a Lei nº 6.404/76, as demonstrações de cada exercício serão publicadas com a indicação dos valores correspondentes das demonstrações do exercício</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>vigente.</p>",
+      "corpo_clean": "vigente.",
+      "id": 6502533,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>posterior.</p>",
+      "corpo_clean": "posterior.",
+      "id": 6502534,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>anterior.</p>",
+      "corpo_clean": "anterior.",
+      "id": 6502535,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>intermediário.</p>",
+      "corpo_clean": "intermediário.",
+      "id": 6502536,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>individual.</p>",
+      "corpo_clean": "individual.",
+      "id": 6502537,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6502535",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

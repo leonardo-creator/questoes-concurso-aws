@@ -1,0 +1,58 @@
+{
+  "id": 510848,
+  "codigo_real": "142.18",
+  "disciplina_real": "Terapia Ocupacional",
+  "assunto_real": "Terapia Ocupacional Vivencial",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Agência Brasileira de Desenvolvimento Industrial",
+  "cargos_descricao": "Terapeuta Ocupacional",
+  "ano": 2012,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Assinale a alternativa que não está de acordo com\r\nas idéias centrais da Eutonia, método de abordagem\r\ncorporal criado por Gerda Alexander (1908-1994).</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>O método propõe educação do movimento\r\npelo princípio da eutonia e regulação ativa do\r\ntônus muscular.</p>",
+      "corpo_clean": "O método propõe educação do movimento pelo princípio da eutonia e regulação ativa do tônus muscular.",
+      "id": 1859565,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>A eutonia não pode ser considerada uma\r\nabordagem holística ou mesmo globalizante,\r\nvisto que há proposição de distanciamento e\r\nmesmo cisão entre o psiquismo e o controle\r\ndo movimento humano</p>",
+      "corpo_clean": "A eutonia não pode ser considerada uma abordagem holística ou mesmo globalizante, visto que há proposição de distanciamento e mesmo cisão entre o psiquismo e o controle do movimento humano",
+      "id": 1859566,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>A autora propõe que a harmonia do corpo\r\né conseguida a partir da reeducação dos\r\nmovimentos e dos dinamismos das tensões,\r\nvisando à reestruturação sistemática da imagem\r\ncorporal.</p>",
+      "corpo_clean": "A autora propõe que a harmonia do corpo é conseguida a partir da reeducação dos movimentos e dos dinamismos das tensões, visando à reestruturação sistemática da imagem corporal.",
+      "id": 1859567,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>O objetivo final do método é a regulação e\r\nharmonização das tensões, a coordenação das\r\nfunções neurovegetativas e psicomotoras e\r\na distribuição e uso adequado e racional da\r\nenergia disponível.</p>",
+      "corpo_clean": "O objetivo final do método é a regulação e harmonização das tensões, a coordenação das funções neurovegetativas e psicomotoras e a distribuição e uso adequado e racional da energia disponível.",
+      "id": 1859568,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>A eutonia valoriza o sentido do tato e tem\r\ncomo consequência a regularização das tensões;\r\na primeira tarefa, neste método, é a de\r\n“despertar a sensibilidade da pele”.</p>",
+      "corpo_clean": "A eutonia valoriza o sentido do tato e tem como consequência a regularização das tensões; a primeira tarefa, neste método, é a de “despertar a sensibilidade da pele”.",
+      "id": 1859569,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1859566",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

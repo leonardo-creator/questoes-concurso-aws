@@ -1,0 +1,51 @@
+{
+  "id": 1510659,
+  "codigo_real": "125.2",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Direitos Humanos",
+  "bancas_nome": "Instituto Excelência",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Lauro Muller",
+  "cargos_descricao": "Professor de Ensino Fundamental (6º ao 9º Ano) - Área: História",
+  "ano": 2017,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A educação como um direito humano significa que não deve depender das condições econômicas dos estudantes ou estar sujeita unicamente às regras de mercado. Sendo assim há três dimensões do direito à educação: Direito humano à educação, Direitos humanos na educação, Educação em direitos humanos.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Sobre Educação em direitos humanos é CORRETO afirmar:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A educação deve ter qualidade, ser capaz de promover o pleno desenvolvimento da pessoa, responder aos interesses de quem estuda e de sua comunidade.</p>",
+      "corpo_clean": "A educação deve ter qualidade, ser capaz de promover o pleno desenvolvimento da pessoa, responder aos interesses de quem estuda e de sua comunidade.",
+      "id": 5638368,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os direitos humanos devem fazer parte do processo educativo das pessoas. Para defender seus direitos, todas as pessoas precisam conhecê-los e saber como reivindicá-los na sua vida cotidiana, promove o respeito à diversidade, a solidariedade entre povos e nações e, como consequência, o fortalecimento da tolerância e da paz.</p>",
+      "corpo_clean": "Os direitos humanos devem fazer parte do processo educativo das pessoas. Para defender seus direitos, todas as pessoas precisam conhecê-los e saber como reivindicá-los na sua vida cotidiana, promove o respeito à diversidade, a solidariedade entre povos e nações e, como consequência, o fortalecimento da tolerância e da paz.",
+      "id": 5638369,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O exercício do direito à educação não pode estar dissociado do respeito a outros direitos humanos.</p>",
+      "corpo_clean": "O exercício do direito à educação não pode estar dissociado do respeito a outros direitos humanos.",
+      "id": 5638370,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Nenhuma das alternativas.</p>",
+      "corpo_clean": "Nenhuma das alternativas.",
+      "id": 5638371,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5638369",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

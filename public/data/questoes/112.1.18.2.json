@@ -1,0 +1,58 @@
+{
+  "id": 1695641,
+  "codigo_real": "112.1.18.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Sentido conotativo, figurado ou metafórico - Sentido conotativo, figurado ou metafórico",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Dois Córregos",
+  "cargos_descricao": "Monitor de Serviços Escolares",
+  "ano": 2019,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa em que há palavra ou expressão empregada com sentido figurado.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Leia o texto para responder às questões de números <strong>01 </strong>a <strong>09</strong>. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\"><em>Quando não se leva o conhecimento para a vida </em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify; text-indent: 3em;\">O voo era de São Paulo para Londrina, no Paraná. Já estava quase chegando. Lá embaixo, um rio serpenteava no meio dos campos. Qual seria? Rubem sabia os nomes dos grandes rios e podia localizá-los num mapa virtual na cabeça dele, mas aquele ele não conhecia. Nisso, a comissária de bordo passou. Ela fazia aquela viagem quase todo dia, com certeza sabia o nome daquele rio. Rubem a chamou. Ela foi sorridente. </p><p style=\"text-align: justify; text-indent: 3em;\">− Que rio é aquele? </p><p style=\"text-align: justify; text-indent: 3em;\">Sem perder o sorriso, ela respondeu: </p><p style=\"text-align: justify; text-indent: 3em;\">− Acho que é o São Francisco! </p><p style=\"text-align: justify; text-indent: 3em;\">O espanto de Rubem ficou evidente em seu rosto, apesar de ele ter ficado mudo, porque, no fundo, morreu de tristeza por dentro. A moça percebeu e, embora estivesse quase certa do que lhe dissera, prontificou-se a procurar confirmação com outra pessoa. </p><p style=\"text-align: justify; text-indent: 3em;\">− Vou me certificar com o comandante! </p><p style=\"text-align: justify; text-indent: 3em;\">Voltou logo a seguir: </p><p style=\"text-align: justify; text-indent: 3em;\">− Não é o São Francisco, é o Paranapanema! </p><p style=\"text-align: justify; text-indent: 3em;\">Rubem pensou que ela, por ser uma comissária de bordo, tinha de ter alguma escolaridade. Estudara Geografia, vira o São Francisco nos mapas, rio enorme, que nasce em Minas, na Serra da Canastra. Nasce no meio de Minas e vai para o norte. Estavam no Paraná. E a comissária pensava que aquele era o São Francisco. </p><p style=\"text-align: justify; text-indent: 3em;\">Como explicar que ela visse o São Francisco no Paraná? Para ela, o rio só existia no mapa. Rubem conclui que conhecimento que não decifra a vida e não ilumina o mundo não é conhecimento, é enganação. Não importa que se tire nota alta. Quando não se leva o conhecimento para a vida, de nada ele serve. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\"><span style=\"font-size: 12px;\">(Rubem Alves. </span><em style=\"font-size: 12px;\">Entre a ciência e a sapiência – o dilema da Educação</em><span style=\"font-size: 12px;\">. </span></p><p style=\"text-align: right;\"><span style=\"font-size: 12px;\">São Paulo: Loyola. 1999. Adaptado)</span></p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O voo era de São Paulo para Londrina.</p>",
+      "corpo_clean": "O voo era de São Paulo para Londrina.",
+      "id": 6413187,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Já estava quase chegando.</p>",
+      "corpo_clean": "Já estava quase chegando.",
+      "id": 6413188,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Rubem sabia o nome dos grandes rios...</p>",
+      "corpo_clean": "Rubem sabia o nome dos grandes rios...",
+      "id": 6413189,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">... no fundo, morreu de tristeza por dentro.</p>",
+      "corpo_clean": "... no fundo, morreu de tristeza por dentro.",
+      "id": 6413190,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">... prontificou-se a procurar confirmação com outra pessoa.</p>",
+      "corpo_clean": "... prontificou-se a procurar confirmação com outra pessoa.",
+      "id": 6413191,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6413190",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

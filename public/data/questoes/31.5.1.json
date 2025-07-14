@@ -1,0 +1,58 @@
+{
+  "id": 1742244,
+  "codigo_real": "31.5.1",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Conceito de Agentes Públicos",
+  "bancas_nome": "Instituto de Apoio à Universidade de Pernambuco",
+  "bancas_sigla": "UPENET IAUPE",
+  "orgaos_nome": "Corpo de Bombeiro Militar de Pernambuco",
+  "cargos_descricao": "Oficial do Corpo de Bombeiros Militar",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre os agentes públicos, analise as proposições a seguir: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. Agentes políticos são os detentores de mandato eletivo. </p><p style=\"text-align: justify;\">II. O titular da serventia de cartório de registro civil é um exemplo de agente particular em colaboração com o serviço público. </p><p style=\"text-align: justify;\">III. Os servidores temporários podem se perpetuar na prestação do serviço público enquanto estiver configurado o interesse público.</p><p style=\"text-align: justify;\">IV. A contratação de empregados sob o regime da Consolidação das Leis do Trabalho – CLT para a prestação de serviços da Administração Púbica é inerente aos entes de direito privado, como por exemplo, as autarquias. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Está(ão) CORRETA(S) apenas</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>II.</p>",
+      "corpo_clean": "II.",
+      "id": 6623886,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>III.</p>",
+      "corpo_clean": "III.",
+      "id": 6623887,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>IV.</p>",
+      "corpo_clean": "IV.",
+      "id": 6623888,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>I e II.</p>",
+      "corpo_clean": "I e II.",
+      "id": 6623889,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>II e IV.</p>",
+      "corpo_clean": "II e IV.",
+      "id": 6623890,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6623889",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

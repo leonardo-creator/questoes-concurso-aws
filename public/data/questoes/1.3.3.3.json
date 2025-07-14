@@ -1,0 +1,37 @@
+{
+  "id": 1278466,
+  "codigo_real": "1.3.3.3",
+  "disciplina_real": "Administração de Recursos Materiais",
+  "assunto_real": "Custos de Falta de Estoque",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Procuradoria Geral do Distrito Federal",
+  "cargos_descricao": "Técnico Jurídico - Área Apoio Administrativo",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Ao adotar o sistema de reposições contínuas, o proprietário\r\nda loja deverá calcular o ponto de pedido de cada item para\r\nprovidências de reabastecimento.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Com relação a administração de recursos materiais e patrimoniais,\r\njulgue os itens subsequentes.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 4642661,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 4642662,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4642661",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

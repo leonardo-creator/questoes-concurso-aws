@@ -1,0 +1,37 @@
+{
+  "id": 507280,
+  "codigo_real": "140.4.4",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Estrutura de Dados",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Banco da Amazônia S/A",
+  "cargos_descricao": "Técnico Científico - Área Tecnologia da Informação",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Estruturas ligadas como listas encadeadas superam a limitação\r\ndas matrizes que não podem alterar seu tamanho inicial.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Julgue os próximos itens, relativos a tipos básicos de estruturas de\r\ndados.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1843717,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1843718,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1843717",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

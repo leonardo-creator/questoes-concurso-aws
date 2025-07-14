@@ -1,0 +1,37 @@
+{
+  "id": 1009421,
+  "codigo_real": "140.9.2",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Terminologia",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Ministério Público do Piauí",
+  "cargos_descricao": "Analista Ministerial - Área Tecnologia da Informação",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "A infraestrutura como código é uma prática DevOps\r\ncaracterizada pela infraestrutura provisionada e gerenciada por\r\nmeio de técnicas de desenvolvimento de código e de software,\r\ncomo, por exemplo, controle de versão e integração contínua.",
+  "grupoQuestao_enunciado": "Acerca da gestão ágil de projetos com Scrum, de DevOps e da\r\narquitetura corporativa (TOGAF), julgue os próximos itens.",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 3528592,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 3528593,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3528592",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

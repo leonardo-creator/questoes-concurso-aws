@@ -1,0 +1,58 @@
+{
+  "id": 2821571,
+  "codigo_real": "81.7",
+  "disciplina_real": "Engenharia Química",
+  "assunto_real": "Fenômenos de Transporte: Mecânica dos Fluidos, Transferência de Calor e Transferência de Massa",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Fundação Estadual de Proteção Ambiental Henrique Luis Roessler",
+  "cargos_descricao": "Engenheiro Químico",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considerando que os processos transferência de calor por condução e transferência de massa por difusão podem ser quantificados mediante o uso de leis, assinale a afirmativa INCORRETA.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O processo de transferência de massa por difusão pode ser quantificado por meio da equação de taxa apropriada conhecida como Lei de <em>Fick</em>.</p>",
+      "corpo_clean": "O processo de transferência de massa por difusão pode ser quantificado por meio da equação de taxa apropriada conhecida como Lei de Fick.",
+      "id": 11351733,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O processo de transferência de calor por condução pode ser quantificado por meio da equação de taxa apropriada conhecida como Lei de <em>Fourier</em>.</p>",
+      "corpo_clean": "O processo de transferência de calor por condução pode ser quantificado por meio da equação de taxa apropriada conhecida como Lei de Fourier.",
+      "id": 11351734,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Considerando a transferência de calor por condução em condições de estado estacionário, a condutividade térmica, uma propriedade importante dos fenômenos de transporte, relaciona o vetor taxa de transferência de calor por unidade de área ao vetor gradiente de temperatura.</p>",
+      "corpo_clean": "Considerando a transferência de calor por condução em condições de estado estacionário, a condutividade térmica, uma propriedade importante dos fenômenos de transporte, relaciona o vetor taxa de transferência de calor por unidade de área ao vetor gradiente de temperatura.",
+      "id": 11351735,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A medida do fluxo de calor por condução pode ser apresentada em <em>joules </em>por segundo por unidade de área perpendicular à direção de transferência, ou seja, <span class=\"ql-formula\" data-value=\"\\left(\\frac{J}{s.m^2}\\right);\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.22234em; vertical-align: -0.35001em;\"></span><span class=\"minner\"><span class=\"mopen delimcenter\" style=\"top: 0em;\"><span class=\"delimsizing size1\">(</span></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.872331em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">s</span><span class=\"mord mtight\">.</span><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">m</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.746314em;\"><span class=\"\" style=\"top: -2.786em; margin-right: 0.0714286em;\"><span class=\"pstrut\" style=\"height: 2.5em;\"></span><span class=\"sizing reset-size3 size1 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.09618em;\">J</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.345em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mclose delimcenter\" style=\"top: 0em;\"><span class=\"delimsizing size1\">)</span></span></span><span class=\"mspace\" style=\"margin-right: 0.166667em;\"></span><span class=\"mpunct\">;</span></span></span></span></span></span> ao passo que a medida do fluxo mássico difusivo de uma dada espécie pode ser apresentada em metros ao quadrado por segundo, ou seja, <span class=\"ql-formula\" data-value=\"\\left(\\frac{m^2}{s}\\right)\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.80002em; vertical-align: -0.65002em;\"></span><span class=\"minner\"><span class=\"mopen delimcenter\" style=\"top: 0em;\"><span class=\"delimsizing size2\">(</span></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.01792em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">s</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">m</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.891314em;\"><span class=\"\" style=\"top: -2.931em; margin-right: 0.0714286em;\"><span class=\"pstrut\" style=\"height: 2.5em;\"></span><span class=\"sizing reset-size3 size1 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.345em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mclose delimcenter\" style=\"top: 0em;\"><span class=\"delimsizing size2\">)</span></span></span></span></span></span></span></span>.</p>",
+      "corpo_clean": "A medida do fluxo de calor por condução pode ser apresentada em joules por segundo por unidade de área perpendicular à direção de transferência, ou seja, (s.m2J​); ao passo que a medida do fluxo mássico difusivo de uma dada espécie pode ser apresentada em metros ao quadrado por segundo, ou seja, (sm2​).",
+      "id": 11351736,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Considerando a transferência de massa por difusão em condições de estado estacionário, o coeficiente de difusão binária ou difusividade mássica, uma propriedade importante dos fenômenos de transporte, relaciona o vetor taxa de transferência de massa de uma dada espécie A por unidade de área ao produto do vetor gradiente da fração mássica da espécie A e a massa específica de uma mistura binária A e B.</p>",
+      "corpo_clean": "Considerando a transferência de massa por difusão em condições de estado estacionário, o coeficiente de difusão binária ou difusividade mássica, uma propriedade importante dos fenômenos de transporte, relaciona o vetor taxa de transferência de massa de uma dada espécie A por unidade de área ao produto do vetor gradiente da fração mássica da espécie A e a massa específica de uma mistura binária A e B.",
+      "id": 11351737,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11351736",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

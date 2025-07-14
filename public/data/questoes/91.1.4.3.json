@@ -1,0 +1,58 @@
+{
+  "id": 2469255,
+  "codigo_real": "91.1.4.3",
+  "disciplina_real": "Geografia",
+  "assunto_real": "Recursos Hídricos - Recursos Hídricos",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Polícia Militar de Goiás",
+  "cargos_descricao": "Soldado Combatente",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Localizada na região centro-sul do Estado de Goiás, pode ser considerada a principal bacia hidrográfica goiana por concentrar, em apenas 4,2% do território do Estado, aproximadamente 40% de sua população, incluindo a Região Metropolitana de Goiânia e importantes municípios, polos industriais e agroindustriais, que utilizam as suas águas para diversas atividades.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Adaptado de:</p><p style=\"text-align: justify;\">https://www.meioambiente.go.gov.br/noticias/1592-bacia_meiaponte.html. Acesso em: 20 abr. 2022.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">O texto se refere à Bacia Hidrográfica do rio</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Ribeiro.</p>",
+      "corpo_clean": "Ribeiro.",
+      "id": 9803057,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Parnaíba.</p>",
+      "corpo_clean": "Parnaíba.",
+      "id": 9803058,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Meia Ponte.</p>",
+      "corpo_clean": "Meia Ponte.",
+      "id": 9803059,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Atlântico Leste.</p>",
+      "corpo_clean": "Atlântico Leste.",
+      "id": 9803060,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Tocantins-Araguaia.</p>",
+      "corpo_clean": "Tocantins-Araguaia.",
+      "id": 9803061,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9803059",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

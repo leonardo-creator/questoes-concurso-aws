@@ -1,0 +1,58 @@
+{
+  "id": 609265,
+  "codigo_real": "137.15.3",
+  "disciplina_real": "Serviço Social",
+  "assunto_real": "A questão social",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Prefeitura de Gramado",
+  "cargos_descricao": "Assistente Social",
+  "ano": 2013,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>No que se refere à questão social, é\r\nINCORRETO afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>A questão social latino-americana se põe no\r\nmesmo espaço e tempo da realidade europeia.</p>",
+      "corpo_clean": "A questão social latino-americana se põe no mesmo espaço e tempo da realidade europeia.",
+      "id": 2135990,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>A questão social hoje coloca-se basicamente a\r\npartir da produção e distribuição de riquezas.</p>",
+      "corpo_clean": "A questão social hoje coloca-se basicamente a partir da produção e distribuição de riquezas.",
+      "id": 2135991,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Diz respeito aos vínculos históricos, que\r\namalgamam a cada sociedade, e às tensões e\r\ncontradições que levam à sua ruptura.</p>",
+      "corpo_clean": "Diz respeito aos vínculos históricos, que amalgamam a cada sociedade, e às tensões e contradições que levam à sua ruptura.",
+      "id": 2135992,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Robert Castel busca caracterizá-la, hoje, a partir\r\nda desagregação da sociedade salarial.</p>",
+      "corpo_clean": "Robert Castel busca caracterizá-la, hoje, a partir da desagregação da sociedade salarial.",
+      "id": 2135993,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>A questão social, segundo Iamamoto, conforma a\r\nmatéria-prima do trabalho profissional.</p>",
+      "corpo_clean": "A questão social, segundo Iamamoto, conforma a matéria-prima do trabalho profissional.",
+      "id": 2135994,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2135990",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

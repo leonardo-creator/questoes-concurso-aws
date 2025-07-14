@@ -1,0 +1,51 @@
+{
+  "id": 3113578,
+  "codigo_real": "25.12.4.1",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Noções Gerais",
+  "bancas_nome": "Consultoria Público-Privada",
+  "bancas_sigla": "Instituto CONSULPAM",
+  "orgaos_nome": "Prefeitura de Araraquara",
+  "cargos_descricao": "Contador",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considerando a Lei nº 6.404/76 e suas posteriores alterações, quando uma entidade opta por reconhecer a correção integral das demonstrações financeiras, a atualização monetária do capital social:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Não é permitida em nenhuma circunstância.</p>",
+      "corpo_clean": "Não é permitida em nenhuma circunstância.",
+      "id": 12628720,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Deve ser creditada diretamente na conta do capital social.</p>",
+      "corpo_clean": "Deve ser creditada diretamente na conta do capital social.",
+      "id": 12628721,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Deve ser transferida para a Reserva de Capital.</p>",
+      "corpo_clean": "Deve ser transferida para a Reserva de Capital.",
+      "id": 12628722,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Deve ser transferida para a Reserva de Lucros.</p>",
+      "corpo_clean": "Deve ser transferida para a Reserva de Lucros.",
+      "id": 12628723,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "12628722",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

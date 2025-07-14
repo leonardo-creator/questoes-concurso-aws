@@ -1,0 +1,58 @@
+{
+  "id": 2480061,
+  "codigo_real": "3.18.9",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Processos de Gestão de Pessoas",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Fundação de Saúde Pública de Novo Hamburgo",
+  "cargos_descricao": "Agente de Atendimento",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Os processos básicos na gestão de pessoas são cinco. Em relação a esses processos, assinale a alternativa INCORRETA.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Esses cinco processos são intimamente inter-relacionados e interdependentes.</p>",
+      "corpo_clean": "Esses cinco processos são intimamente inter-relacionados e interdependentes.",
+      "id": 9850846,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A manutenção compõe esse grupo de processos.</p>",
+      "corpo_clean": "A manutenção compõe esse grupo de processos.",
+      "id": 9850847,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A interação entre eles faz com que qualquer alteração ocorrida em um deles provoque influências sobre os demais.</p>",
+      "corpo_clean": "A interação entre eles faz com que qualquer alteração ocorrida em um deles provoque influências sobre os demais.",
+      "id": 9850848,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">No processo de provisão, a integração de pessoas é uma atividade envolvida.</p>",
+      "corpo_clean": "No processo de provisão, a integração de pessoas é uma atividade envolvida.",
+      "id": 9850849,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">No processo de monitoração, a aprendizagem organizacional é uma atividade envolvida.</p>",
+      "corpo_clean": "No processo de monitoração, a aprendizagem organizacional é uma atividade envolvida.",
+      "id": 9850850,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9850849",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

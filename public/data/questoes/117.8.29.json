@@ -1,0 +1,58 @@
+{
+  "id": 2803821,
+  "codigo_real": "117.8.29",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Infectologia",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Prefeitura de Casca",
+  "cargos_descricao": "Médico Pediatra",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">As parasitoses intestinais ainda são um grande problema de saúde, principalmente nos países em desenvolvimento. A penetração do enteroparasito no hospedeiro se dá pela pele nos casos de:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p><em>Entamoeba histolytica.</em></p>",
+      "corpo_clean": "Entamoeba histolytica.",
+      "id": 11270979,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p><em>Giardia intestinalis.</em></p>",
+      "corpo_clean": "Giardia intestinalis.",
+      "id": 11270980,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p><em>Necator americanus.</em></p>",
+      "corpo_clean": "Necator americanus.",
+      "id": 11270981,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p><em>Ascaris lumbricoides.</em></p>",
+      "corpo_clean": "Ascaris lumbricoides.",
+      "id": 11270982,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p><em>Trichuris trichiura.</em></p>",
+      "corpo_clean": "Trichuris trichiura.",
+      "id": 11270983,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11270981",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

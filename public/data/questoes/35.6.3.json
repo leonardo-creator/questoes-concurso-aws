@@ -1,0 +1,58 @@
+{
+  "id": 1210145,
+  "codigo_real": "35.6.3",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Poder Executivo (artigos 76 a 91 da CF)",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Tribunal de Justiça de São Paulo ",
+  "cargos_descricao": "Juiz Substituto",
+  "ano": 2011,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A Câmara Legislativa de Canguçu do Norte edita lei, por sua iniciativa, transformando cargos e funções de servidores públicos da Prefeitura Municipal que prestam, eventualmente, serviço junto ao Poder Judiciário local.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">É correto afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">é lícita tal conduta, porquanto é missão precípua do Poder Legislativo editar leis.</p>",
+      "corpo_clean": "é lícita tal conduta, porquanto é missão precípua do Poder Legislativo editar leis.",
+      "id": 4358355,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">é ilícita tal conduta, porquanto trata-se de funcionários que, a rigor, prestam serviços junto ao Judiciário, daí por que a iniciativa deveria ser deste.</p>",
+      "corpo_clean": "é ilícita tal conduta, porquanto trata-se de funcionários que, a rigor, prestam serviços junto ao Judiciário, daí por que a iniciativa deveria ser deste.",
+      "id": 4358356,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">em se tratando de servidores públicos do executivo municipal, é inadmissível tal conduta, vez que tal transformação só pode ocorrer por meio de lei de iniciativa do executivo local.</p>",
+      "corpo_clean": "em se tratando de servidores públicos do executivo municipal, é inadmissível tal conduta, vez que tal transformação só pode ocorrer por meio de lei de iniciativa do executivo local.",
+      "id": 4358357,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">tal conduta é inadmissível, pois é impossível tal transformação.</p>",
+      "corpo_clean": "tal conduta é inadmissível, pois é impossível tal transformação.",
+      "id": 4358358,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">é impossível tal conduta sem que haja anuência do Poder Judiciário.</p>",
+      "corpo_clean": "é impossível tal conduta sem que haja anuência do Poder Judiciário.",
+      "id": 4358359,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4358357",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

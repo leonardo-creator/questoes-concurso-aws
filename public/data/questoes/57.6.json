@@ -1,0 +1,37 @@
+{
+  "id": 1020799,
+  "codigo_real": "57.6",
+  "disciplina_real": "Educação Física",
+  "assunto_real": "Biomecânica e Cinesiologia",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Secretaria de Educação do Distrito Federal",
+  "cargos_descricao": "Professor Substituto - Área Ciências Naturais",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "A imagem conjugada por esse espelho é virtual e está\r\nsituada a 20 cm do vértice do espelho.",
+  "grupoQuestao_enunciado": "<p>Um objeto de 20 cm de altura foi colocado\r\nperpendicularmente ao eixo principal e a 20 cm de um\r\nespelho convexo de 20 cm de distância focal.\r\n</p><p>Com base nessa situação hipotética, julgue os itens a seguir.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 3572768,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 3572769,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3572769",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

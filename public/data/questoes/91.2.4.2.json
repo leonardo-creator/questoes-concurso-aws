@@ -1,0 +1,58 @@
+{
+  "id": 3373451,
+  "codigo_real": "91.2.4.2",
+  "disciplina_real": "Geografia",
+  "assunto_real": "Hidrologia",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Prefeitura de Passo Fundo",
+  "cargos_descricao": "Geógrafo",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Vastas correntes de água, vapor d’agua, gelo e energia estão fluindo continuamente em um sistema hidráulico elaborado, aberto e global. Juntas, essas correntes formam o ciclo hidrológico, que tem atuado por bilhões de anos da baixa atmosfera a vários quilômetros debaixo da superfície da Terra. Fazem parte desse ciclo, EXCETO:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Atmosfera.</p>",
+      "corpo_clean": "Atmosfera.",
+      "id": 13735847,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Hidrosfera.</p>",
+      "corpo_clean": "Hidrosfera.",
+      "id": 13735848,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Criosfera.</p>",
+      "corpo_clean": "Criosfera.",
+      "id": 13735849,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Litosfera.</p>",
+      "corpo_clean": "Litosfera.",
+      "id": 13735850,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Astenosfera.</p>",
+      "corpo_clean": "Astenosfera.",
+      "id": 13735851,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13735851",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

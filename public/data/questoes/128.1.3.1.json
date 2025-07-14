@@ -1,0 +1,37 @@
+{
+  "id": 1555469,
+  "codigo_real": "128.1.3.1",
+  "disciplina_real": "Psicologia",
+  "assunto_real": "Psicofarmacologia - Psicofarmacologia",
+  "bancas_nome": "Instituto Americano de Desenvolvimento",
+  "bancas_sigla": "IADES",
+  "orgaos_nome": "Secretaria de Estado da Saúde do Distrito Federal",
+  "cargos_descricao": "Residência em Psicologia - Área: Saúde da Criança",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">O haloperidol é um antipsicótico atípico.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">No que tange aos processos psicofarmacológicos, julgue os itens a seguir.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 5827692,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 5827693,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5827693",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

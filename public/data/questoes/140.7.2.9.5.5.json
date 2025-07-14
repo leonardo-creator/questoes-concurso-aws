@@ -1,0 +1,37 @@
+{
+  "id": 2455544,
+  "codigo_real": "140.7.2.9.5.5",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Segurança Linux",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Conselho Regional de Medicinade Santa Catarina",
+  "cargos_descricao": "Técnico em Tecnologia da Informação",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">GRUB é uma rotina de inicialização utilizada no Linux que permite que opções de linha de comando sejam passadas para o Kernel.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Acerca do sistema operacional Linux, do Active Directory e do LDAP, julgue os itens de <strong>71 </strong>a <strong>75</strong>.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 9742294,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 9742295,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9742294",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

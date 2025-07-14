@@ -1,0 +1,58 @@
+{
+  "id": 3699802,
+  "codigo_real": "116.7.3.2.2",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Resfriamento (algor mortis)",
+  "bancas_nome": "Instituto Brasileiro de Administração Municipal",
+  "bancas_sigla": "IBAM",
+  "orgaos_nome": "Prefeitura de Guarulhos",
+  "cargos_descricao": "Médico Alergologista e Imunologista",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um paciente de 35 anos com asma previamente diagnosticada apresenta sintomas diários de dispneia e sibilância, além de acordar mais de três vezes por semana devido à tosse noturna. Ele já utiliza um corticosteroide inalatório em dose média e um beta-agonista de longa duração, mas ainda tem múltiplas exacerbações graves ao longo do ano. De acordo com as diretrizes GINA (Global Initiative for Asthma), qual é a classificação do controle da asma deste paciente e qual seria o próximo passo terapêutico mais adequado?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Asma não controlada; iniciar montelucaste como terapia adicional.</p>",
+      "corpo_clean": "Asma não controlada; iniciar montelucaste como terapia adicional.",
+      "id": 15066470,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Asma parcialmente controlada; manter o tratamento atual e aumentar a dose do corticosteroide inalatório.</p>",
+      "corpo_clean": "Asma parcialmente controlada; manter o tratamento atual e aumentar a dose do corticosteroide inalatório.",
+      "id": 15066471,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Asma não controlada; considerar adicionar tiotrópio inalatório e iniciar um biológico anti-IgE ou anti-IL-5. </p>",
+      "corpo_clean": "Asma não controlada; considerar adicionar tiotrópio inalatório e iniciar um biológico anti-IgE ou anti-IL-5. ",
+      "id": 15066472,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Asma parcialmente controlada; considerar o uso exclusivo de um beta-agonista de curta duração conforme necessário.</p>",
+      "corpo_clean": "Asma parcialmente controlada; considerar o uso exclusivo de um beta-agonista de curta duração conforme necessário.",
+      "id": 15066473,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Asma não controlada; prescrever teofilina como terapia de manutenção.</p>",
+      "corpo_clean": "Asma não controlada; prescrever teofilina como terapia de manutenção.",
+      "id": 15066474,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15066472",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

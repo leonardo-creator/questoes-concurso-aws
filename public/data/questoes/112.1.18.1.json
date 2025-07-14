@@ -1,0 +1,58 @@
+{
+  "id": 1157013,
+  "codigo_real": "112.1.18.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Sentido denotativo, próprio ou literal",
+  "bancas_nome": "Universidade Federal do Pernambuco",
+  "bancas_sigla": "UFPE",
+  "orgaos_nome": "Universidade Federal de Pernambuco",
+  "cargos_descricao": "Técnico de Tecnologia da Informação - Área : Sistemas",
+  "ano": 2019,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Observe o seguinte enunciado: “A solidão não tem o\r\nsentido de estar só e, sim, de se sentir mal\r\nacompanhado”. Desejando-se alterar esse enunciado\r\ne considerando as normas de regência, assinale a\r\nalternativa correta.</p>",
+  "grupoQuestao_enunciado": "<p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/39440/1111.GIF\"></p>",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>A solidão não faz alusão de estar só e, sim, de se\r\nsentir mal acompanhado.</p>",
+      "corpo_clean": "A solidão não faz alusão de estar só e, sim, de se sentir mal acompanhado.",
+      "id": 4136162,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>A solidão não se refere de estar só e, sim, de se\r\nsentir mal acompanhado.</p>",
+      "corpo_clean": "A solidão não se refere de estar só e, sim, de se sentir mal acompanhado.",
+      "id": 4136163,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>A solidão não tem a ver a estar só e, sim, a se\r\nsentir mal acompanhado.</p>",
+      "corpo_clean": "A solidão não tem a ver a estar só e, sim, a se sentir mal acompanhado.",
+      "id": 4136164,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>A solidão não significa em estar só e, sim, em se\r\nsentir mal acompanhado.</p>",
+      "corpo_clean": "A solidão não significa em estar só e, sim, em se sentir mal acompanhado.",
+      "id": 4136165,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>A solidão não está relacionada a estar só e, sim,\r\na se sentir mal acompanhado.</p>",
+      "corpo_clean": "A solidão não está relacionada a estar só e, sim, a se sentir mal acompanhado.",
+      "id": 4136166,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4136166",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

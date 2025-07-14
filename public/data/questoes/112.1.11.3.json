@@ -1,0 +1,37 @@
+{
+  "id": 1428017,
+  "codigo_real": "112.1.11.3",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Dificuldades da língua portuguesa",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Serviço Autônomo de Água e Esgoto de Alagoinhas",
+  "cargos_descricao": "Desenhista",
+  "ano": 2003,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Algumas das questões graves e preocupantes a que o texto alude são a elevada demanda por água, sua baixa disponibilidade em várias regiões do planeta, sua inevitável escassez, seu uso racional e a degradação galopante dos mananciais hídricos.</p>",
+  "grupoQuestao_enunciado": "<p>Texto I – itens de 1 a 13</p><p> </p><p><strong>                           Produto estratégico</strong></p><p><br></p><p>1 Por ser essencial ao homem e ter reservas limitadas</p><p>no planeta, a água é cada vez mais estratégica. Apesar de ser</p><p>um recurso natural renovável, tem-se transformado, a cada</p><p>4 dia que passa, em um recurso finito e escasso. A escassez e</p><p>a preservação da água têm provocado preocupações,</p><p>reflexões e debates em vários eventos, organismos e</p><p>7 entidades internacionais, como a Organização das Nações</p><p>Unidas (ONU), o Banco Mundial (BIRD), a Organização</p><p>Mundial de Saúde (OMS) e a Internacional de Serviços</p><p>10 Públicos (ISP), entre outros.</p><p style=\"text-indent: 3em;\">\tDiscute-se o crescimento desordenado da</p><p>população, a elevada demanda por água e sua baixa</p><p>13 disponibilidade em várias regiões do planeta, a sua temida e</p><p>inevitável escassez, o seu uso racional, o desperdício, a</p><p>poluição, a contaminação, a degradação galopante dos</p><p>16 mananciais hídricos e, ao mesmo tempo, a explosão</p><p>demográfica, aumentando a necessidade e o consumo de</p><p>água. São questões graves e preocupantes.</p><p>19 Refletir sobre esses temas, principalmente agora,</p><p>quando o governo federal anuncia a privatização das</p><p>empresas de geração de energia hidráulica e dos serviços de</p><p>22 abastecimento de água e esgotamento sanitário do país, é de</p><p>fundamental importância, pois da água depende a qualidade</p><p>de vida no planeta e a própria sobrevivência das espécies.</p><p><br></p><h6>Internet: &lt;http://fnucut.org.br/saneamento/terra_agua&gt;.</h6><h6>Acesso em 29/10/2003 (com adaptações).</h6><p><br></p><p>Julgue os itens que se seguem quanto à correção gramatical e à manutenção das ideias do texto I.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 5270848,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 5270849,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5270848",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

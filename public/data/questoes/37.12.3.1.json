@@ -1,0 +1,51 @@
+{
+  "id": 1470519,
+  "codigo_real": "37.12.3.1",
+  "disciplina_real": "Direito do Trabalho",
+  "assunto_real": "Conceito",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Pitangueiras",
+  "cargos_descricao": "Procurador Municipal",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Francisco é funcionário da empresa Contabilidade Exata e exerce a função de contador há quatro anos e seis meses. O empregador sofreu uma redução considerável na sua carteira de cliente; já Francisco tem planos de sair do emprego atual e se dedicar exclusivamente aos estudos, a fim de conseguir aprovação em concurso público. Considerando a situação hipotética e estando o empregador e o empregado de comum acordo sobre a extinção do contrato de trabalho, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Receberá a integralidade das verbas trabalhistas, não fazendo jus ao ingresso no Programa de Seguro-Desemprego.</p>",
+      "corpo_clean": "Receberá a integralidade das verbas trabalhistas, não fazendo jus ao ingresso no Programa de Seguro-Desemprego.",
+      "id": 5464515,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O ingresso no Programa de Seguro-Desemprego limita o recebimento em apenas três parcelas, independentemente do tempo de serviço.</p>",
+      "corpo_clean": "O ingresso no Programa de Seguro-Desemprego limita o recebimento em apenas três parcelas, independentemente do tempo de serviço.",
+      "id": 5464516,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Receberá a metade do aviso prévio e da indenização sobre o saldo do FGTS, além da integralidade das demais verbas trabalhistas.</p>",
+      "corpo_clean": "Receberá a metade do aviso prévio e da indenização sobre o saldo do FGTS, além da integralidade das demais verbas trabalhistas.",
+      "id": 5464517,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A extinção do contrato por comum acordo permite a movimentação da conta vinculada do trabalhador no FGTS, limitada até 60% do valor dos depósitos.</p>",
+      "corpo_clean": "A extinção do contrato por comum acordo permite a movimentação da conta vinculada do trabalhador no FGTS, limitada até 60% do valor dos depósitos.",
+      "id": 5464518,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5464517",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

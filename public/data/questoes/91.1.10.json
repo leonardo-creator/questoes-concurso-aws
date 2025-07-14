@@ -1,0 +1,58 @@
+{
+  "id": 3468848,
+  "codigo_real": "91.1.10",
+  "disciplina_real": "Geografia",
+  "assunto_real": "Industrialização - Industrialização",
+  "bancas_nome": "Instituto Legatus",
+  "bancas_sigla": "Legatus",
+  "orgaos_nome": "Prefeitura de Parnaíba",
+  "cargos_descricao": "Professor Classe A - Área Geografia",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Como a expansão do modo de produção capitalista desde o século XV reorganizou o espaço geográfico?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A expansão do capitalismo articulou continentes, regiões e lugares, criando uma Divisão Internacional do Trabalho e configurando um espaço geográfico mundial.</p>",
+      "corpo_clean": "A expansão do capitalismo articulou continentes, regiões e lugares, criando uma Divisão Internacional do Trabalho e configurando um espaço geográfico mundial.",
+      "id": 14144206,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O capitalismo expandiu-se, mas não consolidou plenamente suas características, impedindo a formação de um espaço geográfico heterogêneo. </p>",
+      "corpo_clean": "O capitalismo expandiu-se, mas não consolidou plenamente suas características, impedindo a formação de um espaço geográfico heterogêneo. ",
+      "id": 14144207,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O capitalismo desenvolveu-se plenamente e integrou todos os continentes, criando um espaço geográfico mundial homogêneo.</p>",
+      "corpo_clean": "O capitalismo desenvolveu-se plenamente e integrou todos os continentes, criando um espaço geográfico mundial homogêneo.",
+      "id": 14144208,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O espaço geográfico capitalista se caracteriza por uma densidade técnica resultante da modernização dos processos produtivos.</p>",
+      "corpo_clean": "O espaço geográfico capitalista se caracteriza por uma densidade técnica resultante da modernização dos processos produtivos.",
+      "id": 14144209,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O capitalismo comercial entre os séculos XV e XVIII foi consolidado pelas trocas comerciais internacionalizadas e pela colonização de novas terras.</p>",
+      "corpo_clean": "O capitalismo comercial entre os séculos XV e XVIII foi consolidado pelas trocas comerciais internacionalizadas e pela colonização de novas terras.",
+      "id": 14144210,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14144206",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 407636,
+  "codigo_real": "146.1",
+  "disciplina_real": "Ética",
+  "assunto_real": "Teorias Éticas",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Senado Federal",
+  "cargos_descricao": "Analista Legislativo - Área Administração",
+  "ano": 2008,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>O avanço tecnológico verificado no final do século XVIII\r\nganhou velocidade ao longo do século XX e no início do XXI,\r\nde sorte que a sociedade muda cada vez mais rapidamente.\r\nEmbora se trate de fenômeno contínuo, tem sido costume\r\nsegmentar as mudanças das instituições econômicas em\r\n“eras”, rotulando-se as que seguiram à feudal em préindustrial,\r\nindustrial e pós-industrial. Em cada uma dessas\r\n“eras”, as normas, crenças e valores vigentes, ou seja, os\r\npreceitos da cultura estão em sintonia com a situação,\r\norientando comportamentos coletivos específicos\r\ndenominados “éticas”. No que tange à era pré-industrial, em\r\nque as pessoas eram dependentes, havia poucas opções de\r\nmodos de vida e o mundo era estável e com alto grau de\r\ncertezas. Nesse cenário, a ética na era pré-industrial estava\r\ndirecionada para:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>a sobrevivência.</p>",
+      "corpo_clean": "a sobrevivência.",
+      "id": 1458935,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>a independência.</p>",
+      "corpo_clean": "a independência.",
+      "id": 1458936,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>o individualismo.</p>",
+      "corpo_clean": "o individualismo.",
+      "id": 1458937,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>a segurança.</p>",
+      "corpo_clean": "a segurança.",
+      "id": 1458938,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>a fraternidade.</p>",
+      "corpo_clean": "a fraternidade.",
+      "id": 1458939,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1458935",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

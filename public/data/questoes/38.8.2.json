@@ -1,0 +1,51 @@
+{
+  "id": 1207195,
+  "codigo_real": "38.8.2",
+  "disciplina_real": "Direito Eleitoral",
+  "assunto_real": "Direito ao sufrágio",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Tribunal de Justiça de Minas Gerais",
+  "cargos_descricao": "Juiz de Direito Substituto",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>É correto afirmar que o candidato com pedido de registro <em>sub\r\njudice</em></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>poderá prosseguir a campanha eleitoral.</p>",
+      "corpo_clean": "poderá prosseguir a campanha eleitoral.",
+      "id": 4347006,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>poderá prosseguir a campanha eleitoral, exceto a participação\r\nna propaganda pelo rádio e TV (horário gratuito),\r\nconforme recente interpretação jurisprudencial\r\ndo Tribunal Superior Eleitoral.</p>",
+      "corpo_clean": "poderá prosseguir a campanha eleitoral, exceto a participação na propaganda pelo rádio e TV (horário gratuito), conforme recente interpretação jurisprudencial do Tribunal Superior Eleitoral.",
+      "id": 4347007,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>poderá prosseguir a campanha eleitoral, exceto a divulgação\r\nda propaganda pela internet, conforme recente\r\ninterpretação jurisprudencial do Tribunal Superior\r\nEleitoral.</p>",
+      "corpo_clean": "poderá prosseguir a campanha eleitoral, exceto a divulgação da propaganda pela internet, conforme recente interpretação jurisprudencial do Tribunal Superior Eleitoral.",
+      "id": 4347008,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>não poderá prosseguir a campanha eleitoral.</p>",
+      "corpo_clean": "não poderá prosseguir a campanha eleitoral.",
+      "id": 4347009,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4347006",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

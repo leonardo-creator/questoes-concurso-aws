@@ -1,0 +1,58 @@
+{
+  "id": 2050298,
+  "codigo_real": "51.7.7.3.5.2",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Da Competência - Art. 16 a 19",
+  "bancas_nome": "Fundação de Apoio à Educação e Desenvolvimento Tecnológico da Bahia",
+  "bancas_sigla": "CEFETBAHIA",
+  "orgaos_nome": "Prefeitura de Irecê",
+  "cargos_descricao": "Psicólogo",
+  "ano": 2017,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A lei nº 8.080, de 19 de setembro de 1990, dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes. Sobre as atribuições que são da competência da direção municipal do SUS, analise as opções e identifique com <strong>V</strong> as verdadeiras e com<strong> F</strong> as falsas. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">( ) Gerir laboratórios públicos de saúde e hemocentros. </p><p style=\"text-align: justify;\">( ) Formular, avaliar e apoiar políticas de alimentação e nutrição. </p><p style=\"text-align: justify;\">( ) Controlar e fiscalizar os procedimentos dos serviços privados de saúde. </p><p style=\"text-align: justify;\">( ) Coordenar e, em caráter complementar, executar ações e serviços de alimentação e nutrição. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">A alternativa que contém a sequência correta, de cima para baixo, é</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>V F V F</p>",
+      "corpo_clean": "V F V F",
+      "id": 7999181,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>V V F F</p>",
+      "corpo_clean": "V V F F",
+      "id": 7999182,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>F V F V</p>",
+      "corpo_clean": "F V F V",
+      "id": 7999183,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>F F V V</p>",
+      "corpo_clean": "F F V V",
+      "id": 7999184,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>F V V F</p>",
+      "corpo_clean": "F V V F",
+      "id": 7999185,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7999181",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

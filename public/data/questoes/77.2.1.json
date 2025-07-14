@@ -1,0 +1,58 @@
+{
+  "id": 2534173,
+  "codigo_real": "77.2.1",
+  "disciplina_real": "Engenharia Mecânica",
+  "assunto_real": "Modelagem Estática e Dinâmica - Dinâmica",
+  "bancas_nome": "Instituto Federal do Piauí - IF/PI",
+  "bancas_sigla": "IFPI",
+  "orgaos_nome": "Instituto Federal de Educação Ciência e Tecnologia do Piauí",
+  "cargos_descricao": "Professor do Ensino Básico, Técnico e Tecnológico - Área: Física",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Na figura, o fio e as polias são ideais, o coeficiente de atrito estático entre o plano inclinado e o bloco A vale 0,25 e o coeficiente de atrito dinâmico vale 0, 15. Os blocos são idênticos e possuem massas iguais a 10kg. Com base nestas informações, podemos dizer que o bloco A irá</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Use: |g|=10m/s<sup>2</sup></p><p style=\"text-align: justify;\">sen <span class=\"ql-formula\" data-value=\"\\theta\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.69444em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.02778em;\">θ</span></span></span></span></span></span> = 0,6</p><p style=\"text-align: justify;\">cos <span class=\"ql-formula\" data-value=\"\\theta\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.69444em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.02778em;\">θ</span></span></span></span></span></span> = 0,8</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/84872/questao/2534173-20220812161732000000-0.png\" width=\"461\" style=\"display: block; margin: auto;\" align=\"center\"></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">subir o plano com aceleração de módulo aproximadamente igual a 3,2m/s<sup>2</sup>.</p>",
+      "corpo_clean": "subir o plano com aceleração de módulo aproximadamente igual a 3,2m/s2.",
+      "id": 10087759,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">descer o plano com aceleração de módulo aproximadamente igual a 2,6m/s<sup>2</sup>.</p>",
+      "corpo_clean": "descer o plano com aceleração de módulo aproximadamente igual a 2,6m/s2.",
+      "id": 10087760,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">subir o plano com aceleração de módulo aproximadamente igual a 2,6m/s<sup>2</sup>.</p>",
+      "corpo_clean": "subir o plano com aceleração de módulo aproximadamente igual a 2,6m/s2.",
+      "id": 10087761,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">descer o plano com aceleração de módulo aproximadamente igual a 3,2m/s<sup>2</sup>.</p>",
+      "corpo_clean": "descer o plano com aceleração de módulo aproximadamente igual a 3,2m/s2.",
+      "id": 10087762,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">permanecer em repouso.</p>",
+      "corpo_clean": "permanecer em repouso.",
+      "id": 10087763,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10087761",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

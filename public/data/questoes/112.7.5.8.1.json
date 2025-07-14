@@ -1,0 +1,58 @@
+{
+  "id": 1975633,
+  "codigo_real": "112.7.5.8.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Discurso",
+  "bancas_nome": "Objetiva Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Venâncio Aires",
+  "cargos_descricao": "Técnico Administrativo",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considerando-se seu sentido figurado, a palavra sublinhada em “(...) ou que, com trabalho e estudos on-line, a um clique de distância, <u>desencanou</u> de acordar cedo (...)” pode ser substituída, sem alteração de sentido, por:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: center;\">Acordar uma hora mais cedo pode reduzir o risco de depressão em 23%, sugere estudo</p><p style=\"text-align: justify;\"><br></p><p style=\"text-indent: 2em; text-align: justify;\">\tSe você é daquelas pessoas que não têm hora para dormir – ou que, com trabalho e estudos on-line, a um clique de distância, desencanou de acordar cedo –, talvez seja bom revisar sua rotina de sono. Um novo estudo descobriu que levantar da cama apenas uma hora antes que o habitual pode reduzir o risco de depressão em 23%.</p><p style=\"text-indent: 2em; text-align: justify;\">\tA pesquisa, realizada por cientistas da Universidade do Colorado, em Boulder, e do Instituto Broad, de Harvard e do MIT (Instituto de Tecnologia de Massachussets), conseguiu sólidas evidências de que o cronotipo influencia no risco de depressão. Ela também está entre as primeiras pesquisas a quantificar as mudanças necessárias nos horários de dormir e despertar para trazer melhorias _____ saúde mental.</p><p style=\"text-indent: 2em; text-align: justify;\">\tCronotipo é o que se costuma chamar de “relógio biológico” – a sincronização dos nossos ritmos circadianos. É que o nosso cérebro produz alguns hormônios essenciais para o funcionamento do corpo dependendo da exposição _____ luz solar, como a melatonina, responsável por induzir o sono. É por isso que algumas pessoas são mais dispostas de dia e outras _____ noite: elas têm cronotipos diferentes.</p><p style=\"text-indent: 2em; text-align: justify;\">\tEstudos anteriores já mostraram que quem demora a ir para (e sair da) cama tem duas vezes mais possibilidade de sofrer de depressão do que aqueles que despertam no comecinho do dia, independentemente das horas dormidas.</p><p style=\"text-indent: 2em; text-align: justify;\">\tSegundo a pesquisa, pessoas com predisposições genéticas para acordar mais cedo têm menor risco de sofrer com a depressão. Além disso, quanto mais cedo se deita para dormir, menor o risco de apresentar a doença. Eles estimaram que, se uma pessoa for dormir uma hora mais cedo que o habitual, há 23% menos risco de depressão; se antecipar o sono em duas horas, a redução pode chegar a 40%.</p><p style=\"text-indent: 2em; text-align: justify;\">\tPor enquanto, ainda não está claro o que pode explicar esse efeito, mas algumas pesquisas sugerem que acordar mais cedo faz com que a pessoa obtenha maior exposição _____ raios solares, o que influenciaria positivamente o humor. Outra causa possível é que os matutinos estão de acordo com os horários estabelecidos socialmente, enquanto a galera “da noite” pode se sentir em constante desalinhamento com o restante das pessoas.</p><p style=\"text-indent: 2em; text-align: justify;\">\t</p><p style=\"text-indent: 2em; text-align: right;\">\t<sub>(Site: Abril - adaptado.) </sub></p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Procedeu.</p>",
+      "corpo_clean": "Procedeu.",
+      "id": 7665227,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Desistiu.</p>",
+      "corpo_clean": "Desistiu.",
+      "id": 7665228,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Esqueceu.</p>",
+      "corpo_clean": "Esqueceu.",
+      "id": 7665229,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Tratou.</p>",
+      "corpo_clean": "Tratou.",
+      "id": 7665230,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Necessitou.</p>",
+      "corpo_clean": "Necessitou.",
+      "id": 7665231,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7665228",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

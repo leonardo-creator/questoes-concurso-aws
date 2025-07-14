@@ -1,0 +1,51 @@
+{
+  "id": 2803638,
+  "codigo_real": "112.2.2.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Grafia correta das palavras",
+  "bancas_nome": "Instituto Unifil",
+  "bancas_sigla": "Unifil",
+  "orgaos_nome": "Prefeitura de Fazenda Rio Grande",
+  "cargos_descricao": "Operador de Máquinas Pesadas",
+  "ano": 2023,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Hidrogênio é grafado com –g, assim como</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>Leia o texto para responder as questões de 1 a 5. </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\">Brasil pode ser a Arábia Saudita do hidrogênio verde e virar referência no combustível do futuro </p><p style=\"text-align: center;\">Condições favoráveis no mercado internacional e matriz energética limpa do país devem contribuir para produção do H2V </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify; text-indent: 1em;\">Uma série de condições favoráveis pode tornar o Brasil líder em exportação de hidrogênio verde (H2V), classificado assim quando é obtido por meio de fontes renováveis. A afirmação foi feita no estudo Green Hydrogen Opportunity in Brazil, publicado em janeiro pela Roland Berger. </p><p style=\"text-align: justify; text-indent: 1em;\">A expectativa é de que o Brasil seja a referência do combustível sustentável, assim como a Arábia Saudita é no petróleo. E há algumas condições que indicam isso. </p><p style=\"text-align: justify; text-indent: 1em;\">A primeira delas é o resgate do protagonismo ambiental de outros tempos feito pelo Governo Federal. O segundo cenário, que também vem se confirmando, é a busca da Alemanha (principal economia europeia) pela transformação de sua matriz energia, que ainda depende muito de petróleo, gás e carvão. </p><p style=\"text-align: justify; text-indent: 1em;\">O terceiro ponto é mais difícil. É preciso que o consumo global de hidrogênio seja praticamente sextuplicado, passando dos atuais 90 milhões de toneladas por ano para 527 milhões de toneladas até 2050. </p><p style=\"text-align: justify; text-indent: 1em;\">Essa mudança deverá movimentar US$ 1 trilhão em todo o planeta, e o Brasil deverá ser responsável por R$ 150 bilhões, sendo R$ 100 bilhões em exportações. </p><p style=\"text-align: justify; text-indent: 1em;\">Com as complicações da guerra entre Rússia e Ucrânia, a Alemanha precisou acelerar a transformação da sua matriz energética. Vale ressaltar que a Rússia fornece boa parte do gás utilizado pelos alemães. </p><p style=\"text-align: justify; text-indent: 1em;\">Dessa forma, a maior economia da União Europeia lançou o primeiro edital para a compra de hidrogênio verde em contratos de dez anos. </p><p style=\"text-align: justify; text-indent: 1em;\">No entanto, a grande vantagem do Brasil está no uso de energias geradas em usinas hidroelétricas, eólicas ou solares. Dessa forma, enquanto a produção do hidrogênio verde tem custo entre US$ 3 e US$ 8 por kg (R$ 15 a R$ 41) no mercado internacional, no Brasil esse valor flutuaria entre US$ 2,2 e US$ 5,2 (de R$ 11 a R$ 28). [...] </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\">Disponível em https://autoesporte.globo.com/um-so-planeta/noticia/2023/02/brasil-pode-ser-a-arabia-saudita-do-hidrogenio-verde-e-virar-referencia-no-combustivel-do-futuro.ghtml</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>gênio.</p>",
+      "corpo_clean": "gênio.",
+      "id": 11270226,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>gipe.</p>",
+      "corpo_clean": "gipe.",
+      "id": 11270227,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>giboia.</p>",
+      "corpo_clean": "giboia.",
+      "id": 11270228,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>ganela.</p>",
+      "corpo_clean": "ganela.",
+      "id": 11270229,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11270226",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

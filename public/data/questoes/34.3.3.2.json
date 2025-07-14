@@ -1,0 +1,58 @@
+{
+  "id": 1774613,
+  "codigo_real": "34.3.3.2",
+  "disciplina_real": "Direito Civil",
+  "assunto_real": "Domicílio da Pessoa Natural (Art. 70 ao 74)",
+  "bancas_nome": "Fundação AJURI",
+  "bancas_sigla": "AJURI",
+  "orgaos_nome": "Agência de Desenvolvimento de Roraima",
+  "cargos_descricao": "Advogado",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considerando as assertivas a seguir em relação ao domicílio da pessoa natural: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. No caso daquela que não tenha residência habitual, é o lugar onde for encontrada. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">II. É o lugar onde ela estabelece a sua residência com ânimo definitivo. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">III. No caso de servidores públicos, é o lugar onde exerce suas funções habituais. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">IV. No caso em que estiver presa, será o local onde cumpre a sentença. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">É correto afirmar que estão corretas: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I, II, III e IV.</p>",
+      "corpo_clean": "I, II, III e IV.",
+      "id": 6771209,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>II e III somente.</p>",
+      "corpo_clean": "II e III somente.",
+      "id": 6771210,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>II e IV somente. </p>",
+      "corpo_clean": "II e IV somente. ",
+      "id": 6771211,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>III e IV somente. </p>",
+      "corpo_clean": "III e IV somente. ",
+      "id": 6771212,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>I, II e III somente. </p>",
+      "corpo_clean": "I, II e III somente. ",
+      "id": 6771213,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6771209",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3784244,
+  "codigo_real": "116.5.3.3",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Pressão atmosférica (baropatias)",
+  "bancas_nome": "Universidade de Blumenau",
+  "bancas_sigla": "FURB",
+  "orgaos_nome": "Prefeitura de Florianópolis",
+  "cargos_descricao": "Médico Pneumologista",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A atual classificação da Hipertensão Pulmonar (HP) está dividida em cinco grandes grupos, conforme os mecanismos fisiopatológicos similares, apresentação clínica, características hemodinâmicas e abordagem terapêutica. De acordo com essa classificação de HP, assinale a alternativa correta que indica a doença associada à HP do grupo III: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>HP por doença valvar cardíaca.</p>",
+      "corpo_clean": "HP por doença valvar cardíaca.",
+      "id": 15415631,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>HP associada à infecção por HIV. </p>",
+      "corpo_clean": "HP associada à infecção por HIV. ",
+      "id": 15415632,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>HP associada à doença pulmonar obstrutiva.</p>",
+      "corpo_clean": "HP associada à doença pulmonar obstrutiva.",
+      "id": 15415633,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>HP por trombembolismo pulmonar crônico. </p>",
+      "corpo_clean": "HP por trombembolismo pulmonar crônico. ",
+      "id": 15415634,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">HP induzida por fármacos.</p>",
+      "corpo_clean": "HP induzida por fármacos.",
+      "id": 15415635,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15415633",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

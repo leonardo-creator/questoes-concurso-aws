@@ -1,0 +1,58 @@
+{
+  "id": 635523,
+  "codigo_real": "117.8.42",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Pediatria",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Secretaria de Estado da Saúde do Espírito Santo",
+  "cargos_descricao": "Médico - Área Intensivista Pediátrico",
+  "ano": 2013,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>O traumatismo cranioencefálico (TCE) é uma patologia altamente\r\nletal, com taxas de mortalidade que variam de 20% a 50%.\r\nRevisões sistemáticas evidenciam que a terapia nutricional melhora\r\na mortalidade e os desfechos neurológicos. Acerca da terapia\r\nnutricional no TCE grave, assinale a opção correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Deve-se admitir a hiperglicemia, porque a tentativa de controle\r\ndos níveis glicêmicos tem efeitos adversos sobre o\r\nesvaziamento gástrico.</p>",
+      "corpo_clean": "Deve-se admitir a hiperglicemia, porque a tentativa de controle dos níveis glicêmicos tem efeitos adversos sobre o esvaziamento gástrico.",
+      "id": 2204767,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>A disfagia no TCE é infrequente e não constitui obstáculo para\r\na alimentação oral.</p>",
+      "corpo_clean": "A disfagia no TCE é infrequente e não constitui obstáculo para a alimentação oral.",
+      "id": 2204768,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>A dosagem sérica da albumina e da transferrina e a contagem\r\nde linfócitos podem ser utilizadas na avaliação nutricional, mas\r\ndeve-se considerar que sofrem influência da hidratação e do\r\nhipercatabolismo nas duas primeiras semanas após o TCE.</p>",
+      "corpo_clean": "A dosagem sérica da albumina e da transferrina e a contagem de linfócitos podem ser utilizadas na avaliação nutricional, mas deve-se considerar que sofrem influência da hidratação e do hipercatabolismo nas duas primeiras semanas após o TCE.",
+      "id": 2204769,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Pacientes com lesões cerebrais graves apresentam redução das\r\nsuas necessidades energéticas basais, chegando a apenas 30%\r\na 40% do gasto energético basal estimado.</p>",
+      "corpo_clean": "Pacientes com lesões cerebrais graves apresentam redução das suas necessidades energéticas basais, chegando a apenas 30% a 40% do gasto energético basal estimado.",
+      "id": 2204770,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>O início da terapêutica nutricional deve ser tardio, entre o\r\nquarto e o quinto dia após a admissão na unidade de terapia\r\nintensiva.</p>",
+      "corpo_clean": "O início da terapêutica nutricional deve ser tardio, entre o quarto e o quinto dia após a admissão na unidade de terapia intensiva.",
+      "id": 2204771,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2204769",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

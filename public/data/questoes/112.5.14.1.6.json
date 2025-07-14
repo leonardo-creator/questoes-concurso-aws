@@ -1,0 +1,51 @@
+{
+  "id": 1119680,
+  "codigo_real": "112.5.14.1.6",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Uso das aspas",
+  "bancas_nome": "Instituto Brasileiro de Formação e Capacitação",
+  "bancas_sigla": "IBFC",
+  "orgaos_nome": "Empresa Municipal de Desenvolvimento de Campinas S.A.",
+  "cargos_descricao": "Assistente Administrativo",
+  "ano": 2016,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>\tAo fazer uso do vocábulo \"miopias\", no primeiro parágrafo, o autor emprega esse termo no sentido:</p>",
+  "grupoQuestao_enunciado": "<p align=justify><p align=\"justify\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/38489/T1.GIF\"></p><p align=\"justify\"><br></p></p>",
+  "alternativas": [
+    {
+      "corpo": "\tirônico",
+      "corpo_clean": "\tirônico",
+      "id": 3978793,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>\tcômico</p>",
+      "corpo_clean": "\tcômico",
+      "id": 3978794,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>metafórico</p>",
+      "corpo_clean": "metafórico",
+      "id": 3978795,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>\tcientífico</p>",
+      "corpo_clean": "\tcientífico",
+      "id": 3978796,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "3978795",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

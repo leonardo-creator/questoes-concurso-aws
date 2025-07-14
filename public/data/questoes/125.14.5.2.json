@@ -1,0 +1,58 @@
+{
+  "id": 3384747,
+  "codigo_real": "125.14.5.2",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Concepções teóricas de aquisição e desenvolvimento da linguagem escrita",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Prefeitura de Caconde",
+  "cargos_descricao": "Psicopedagogo",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Qual dos seguintes fatores é considerado um dos maiores precursores para o desenvolvimento da linguagem escrita em crianças?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Habilidade de desenhar e colorir de maneira expressiva.</p>",
+      "corpo_clean": "Habilidade de desenhar e colorir de maneira expressiva.",
+      "id": 13786014,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Domínio precoce de habilidades matemáticas.</p>",
+      "corpo_clean": "Domínio precoce de habilidades matemáticas.",
+      "id": 13786015,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Exposição frequente, desde a infância, à histórias a partir de diversos autores da literatura infantil, desde clássicos até contemporâneos.</p>",
+      "corpo_clean": "Exposição frequente, desde a infância, à histórias a partir de diversos autores da literatura infantil, desde clássicos até contemporâneos.",
+      "id": 13786016,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Participação ativa em esportes desde tenra idade.</p>",
+      "corpo_clean": "Participação ativa em esportes desde tenra idade.",
+      "id": 13786017,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Uso avançado de tecnologia desde uma idade precoce.</p>",
+      "corpo_clean": "Uso avançado de tecnologia desde uma idade precoce.",
+      "id": 13786018,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13786016",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

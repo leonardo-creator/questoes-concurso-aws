@@ -1,0 +1,51 @@
+{
+  "id": 2103947,
+  "codigo_real": "51.10",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Vigilância em Saúde",
+  "bancas_nome": "FUNDEP Gestão de Concursos",
+  "bancas_sigla": "FUNDEP",
+  "orgaos_nome": "Prefeitura de Lagoa Santa",
+  "cargos_descricao": "Cargos de Nível Médio",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A integração entre a Vigilância em Saúde e a Atenção Básica é condição essencial para o alcance de resultados que atendam às necessidades de saúde da população. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Sobre a Atenção Básica, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O processo de territorialização e mapeamento da área de atuação é responsabilidade exclusiva dos Agentes Comunitários de Saúde.</p>",
+      "corpo_clean": "O processo de territorialização e mapeamento da área de atuação é responsabilidade exclusiva dos Agentes Comunitários de Saúde.",
+      "id": 8227517,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A Política Nacional de Atenção Básica recomenda que o parâmetro populacional seja de uma equipe para cada grupo de 2.000 a 5.500 pessoas.</p>",
+      "corpo_clean": "A Política Nacional de Atenção Básica recomenda que o parâmetro populacional seja de uma equipe para cada grupo de 2.000 a 5.500 pessoas.",
+      "id": 8227518,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">São várias as diretrizes da Atenção Básica, dentre elas, a longitudinalidade, a organização da rede de atenção e a participação da comunidade.</p>",
+      "corpo_clean": "São várias as diretrizes da Atenção Básica, dentre elas, a longitudinalidade, a organização da rede de atenção e a participação da comunidade.",
+      "id": 8227519,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A prescrição de medicamentos nas Unidades Básicas só pode ser realizada pelos médicos.</p>",
+      "corpo_clean": "A prescrição de medicamentos nas Unidades Básicas só pode ser realizada pelos médicos.",
+      "id": 8227520,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "8227519",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

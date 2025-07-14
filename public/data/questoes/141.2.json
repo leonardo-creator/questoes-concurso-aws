@@ -1,0 +1,51 @@
+{
+  "id": 3487999,
+  "codigo_real": "141.2",
+  "disciplina_real": "Teologia e Religiões",
+  "assunto_real": "Ensino Religioso e Sociedade",
+  "bancas_nome": "Objetiva Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Santa Leopoldina",
+  "cargos_descricao": "Professor - Área: Ensino Religioso",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\"> A respeito da Imanência e Transcendência, relacionar as colunas e assinalar a sequência correspondente. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">(1) Imanência. </p><p style=\"text-align: justify;\">(2) Transcendência. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">( ) Está ligada à realidade imaterial, de uma natureza metafísica e puramente teórica e racional. </p><p style=\"text-align: justify;\">( ) As tradições judaico-cristã e islâmica estão baseadas na noção de um Deus sublime. </p><p style=\"text-align: justify;\">( ) Está ligada à realidade material, apreendida imediatamente pelos sentidos do corpo. Relaciona-se às religiões panteístas, como as religiões africanas e o hinduísmo.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>1 - 1 - 2. </p>",
+      "corpo_clean": "1 - 1 - 2. ",
+      "id": 14226772,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>1 - 2 - 2.</p>",
+      "corpo_clean": "1 - 2 - 2.",
+      "id": 14226773,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>2 - 1 - 2. </p>",
+      "corpo_clean": "2 - 1 - 2. ",
+      "id": 14226774,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p> 2 - 2 - 1.</p>",
+      "corpo_clean": " 2 - 2 - 1.",
+      "id": 14226775,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "14226775",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

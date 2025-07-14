@@ -1,0 +1,58 @@
+{
+  "id": 2659751,
+  "codigo_real": "25.12.8",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Demonstração do Valor Adicionado - DVA",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Polícia Técnico-Científica",
+  "cargos_descricao": "Perito Criminal - Área: Ciências Contábeis",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Uma sociedade empresária contraiu um empréstimo bancário no valor de R$20.000, com vencimento em 2 anos, para adquirir estoques de longa maturação. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Os juros mensais relativos ao empréstimo são de R$400 e são adicionados ao principal para pagamento em 2 anos. Eles são reconhecidos como custo do estoque. A entidade estima vender os estoques em 3 anos. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a opção que indica a contabilização dos juros na Demonstração do Valor Adicionado da entidade, em Distribuição do Valor Adicionado.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Impostos, Taxas e Contribuições no momento da baixa do estoque.</p>",
+      "corpo_clean": "Impostos, Taxas e Contribuições no momento da baixa do estoque.",
+      "id": 10633532,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Impostos, Taxas e Contribuições mensalmente, conforme o reconhecimento contábil.</p>",
+      "corpo_clean": "Impostos, Taxas e Contribuições mensalmente, conforme o reconhecimento contábil.",
+      "id": 10633533,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Remuneração de Capital de Terceiros no momento da baixa do estoque.</p>",
+      "corpo_clean": "Remuneração de Capital de Terceiros no momento da baixa do estoque.",
+      "id": 10633534,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Remuneração de Capital de Terceiros no momento do pagamento do empréstimo.</p>",
+      "corpo_clean": "Remuneração de Capital de Terceiros no momento do pagamento do empréstimo.",
+      "id": 10633535,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Remuneração de Capital de Terceiros mensalmente, conforme o reconhecimento contábil.</p>",
+      "corpo_clean": "Remuneração de Capital de Terceiros mensalmente, conforme o reconhecimento contábil.",
+      "id": 10633536,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10633534",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

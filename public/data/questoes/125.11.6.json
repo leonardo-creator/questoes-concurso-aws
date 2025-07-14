@@ -1,0 +1,58 @@
+{
+  "id": 2369849,
+  "codigo_real": "125.11.6",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Educação, sociedade e prática escolar",
+  "bancas_nome": "Consultoria Técnica e Planejamento LTDA",
+  "bancas_sigla": "Contemax",
+  "orgaos_nome": "Prefeitura de Desterro",
+  "cargos_descricao": "Professor - Área: Educação Física",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Com relação à função social da escola, julgue as afirmativas abaixo:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I- A prática social da educação deve ocorrer em diferentes espaços e tempos pedagógicos, a fim de atender às diferentes necessidades.</p><p style=\"text-align: justify;\">II- Como prática social, a educação tem como lócus o desfavorecido sistema escolar, entendida como espaço de imoderação de direitos.</p><p style=\"text-align: justify;\">III - A educação escolar deverá vincular-se ao mundo do trabalho e à prática social.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Está(ão) Incorreta(s)</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas a afirmativa I.</p>",
+      "corpo_clean": "Apenas a afirmativa I.",
+      "id": 9378465,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas a afirmativa II.<span class=\"ql-cursor\"></span></p>",
+      "corpo_clean": "Apenas a afirmativa II.",
+      "id": 9378466,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas as afirmativas I e II.</p>",
+      "corpo_clean": "Apenas as afirmativas I e II.",
+      "id": 9378467,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas as afirmativas I e III.</p>",
+      "corpo_clean": "Apenas as afirmativas I e III.",
+      "id": 9378468,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As afirmativas I, II e III.</p>",
+      "corpo_clean": "As afirmativas I, II e III.",
+      "id": 9378469,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9378466",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1066995,
+  "codigo_real": "98.3.6.31",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Polícia Militar do Estado de São Paulo - PM SP",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Polícia Militar de São Paulo",
+  "cargos_descricao": "Polícia Militar - Área Tecnólogo de Administração",
+  "ano": 2011,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Em relação às reuniões de Análise Crítica, pode-se afirmar\r\nque",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "a de nível II é realizada bimestralmente e dirigida pelo\r\nCmt Pol Int ou Cmt Pol Área para análise exclusiva\r\ndos indicadores operacionais, particularizada por OPM\r\nsubordinada.",
+      "corpo_clean": "a de nível II é realizada bimestralmente e dirigida pelo Cmt Pol Int ou Cmt Pol Área para análise exclusiva dos indicadores operacionais, particularizada por OPM subordinada.",
+      "id": 3745560,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "a de nível III é realizada mensalmente e dirigida pelo\r\nCoord Op PM para análise dos indicadores criminais\r\nconsiderados pela Coordenadoria de Análise e Planejamento\r\n(CAP).",
+      "corpo_clean": "a de nível III é realizada mensalmente e dirigida pelo Coord Op PM para análise dos indicadores criminais considerados pela Coordenadoria de Análise e Planejamento (CAP).",
+      "id": 3745561,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "a de nível I é realizada trimestralmente e dirigida pelo\r\nCmt das OPM de nível Btl para análise dos indicadores de\r\nhomicídios, furtos e roubos de veículos, furtos e roubos\r\noutros.",
+      "corpo_clean": "a de nível I é realizada trimestralmente e dirigida pelo Cmt das OPM de nível Btl para análise dos indicadores de homicídios, furtos e roubos de veículos, furtos e roubos outros.",
+      "id": 3745562,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "a de nível II é realizada trimestralmente, dirigida pelo\r\nCmt Pol Int ou Cmt Pol Área, para análise crítica dos\r\nresultados dos indicadores criminais e operacionais.",
+      "corpo_clean": "a de nível II é realizada trimestralmente, dirigida pelo Cmt Pol Int ou Cmt Pol Área, para análise crítica dos resultados dos indicadores criminais e operacionais.",
+      "id": 3745563,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "a de nível I é realizada mensalmente, dirigida pelo Cmt\r\nPol Int ou Cmt Pol Área, para análise crítica dos resultados\r\ndos indicadores criminais e operacionais.",
+      "corpo_clean": "a de nível I é realizada mensalmente, dirigida pelo Cmt Pol Int ou Cmt Pol Área, para análise crítica dos resultados dos indicadores criminais e operacionais.",
+      "id": 3745564,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3745563",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

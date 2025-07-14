@@ -1,0 +1,51 @@
+{
+  "id": 2778113,
+  "codigo_real": "94.4.21.23",
+  "disciplina_real": "História",
+  "assunto_real": "Santa Catarina - Santa Catarina",
+  "bancas_nome": "Associação dos Municípios do Extremo Oeste de Santa Catarina",
+  "bancas_sigla": "AMEOSC",
+  "orgaos_nome": "Prefeitura de Santa Helena",
+  "cargos_descricao": "Professor com Licenciatura Plena em Pedagogia - Educação Infantil",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O estado de Santa Catarina foi colonizado principalmente por imigrantes alemães e italianos, que chegaram ao território em 1829 e 1877, respectivamente, e fundaram a primeira colônia europeia do estado em:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Santa Cruz da Figueira.</p>",
+      "corpo_clean": "Santa Cruz da Figueira.",
+      "id": 11158012,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Rancho Queimado.</p>",
+      "corpo_clean": "Rancho Queimado.",
+      "id": 11158013,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">São Pedro de Alcântara.</p>",
+      "corpo_clean": "São Pedro de Alcântara.",
+      "id": 11158014,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Taquaras. </p>",
+      "corpo_clean": "Taquaras. ",
+      "id": 11158015,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11158014",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

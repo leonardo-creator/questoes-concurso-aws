@@ -1,0 +1,58 @@
+{
+  "id": 1750479,
+  "codigo_real": "94.4.6",
+  "disciplina_real": "História",
+  "assunto_real": "Processo de Independência: dos movimentos nativistas à libertação de Portugal - Processo de Independência: dos movimentos nativistas à libertação de Portugal",
+  "bancas_nome": "Secretaria da Educação do Ceará",
+  "bancas_sigla": "SEDUC CE",
+  "orgaos_nome": "Secretaria de Educação do Ceará",
+  "cargos_descricao": "Professor - Área: História",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\"><strong>Leia o texto abaixo. </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">“[…] O pavor inspirava cada gesto. Era gente querendo embarcar à força, eram senhoras distintas afogando-se nas águas do Tejo, era o povo apupando os que se retiravam. Diz-se mesmo que a única pessoa disposta a resistir era Dona Maria I, a demente rainha-mãe, que respirava o ar das ruas após 16 anos de reclusão: ‘Não corram tanto! Vão pensar que estamos fugindo!’, gritava do coche que a conduzia, célere […]”. </p><p style=\"text-align: justify;\">In: Biografia da Biblioteca Nacional, disponível em http://objdigital.bn.br/acervo_digital/div_obrasgerais/drg1229521.pdf. Acesso em 08/04/2016.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Sobre os desdobramentos da chegada da Família Real portuguesa no Brasil: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. D. João e parte de sua comitiva aportaram à Bahia em janeiro de 1808. Em fevereiro, embarcaram para o Rio de Janeiro, onde foram recebidos em março de 1808 com efusiva festa. No entanto, não demorou muito para que surgissem hostilidades entre moradores do Rio de Janeiro e os membros da comitiva recém-chegada. Da mesma forma, foi imenso e crescente o descontentamento da burguesia lusitana.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"> II. Aproveitando a abertura dos portos, os privilégios alfandegários e as dificuldades da conjuntura europeia (que fechava mercados tradicionais à Inglaterra), os comerciantes ingleses inundaram os mercados brasileiros com inúmeros artigos.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"> III. Foi um processo de britanização sistemática de nossa economia. Em grande medida, o Brasil deixou a condição de colônia em 1808. Todavia, no plano político-administrativo, a condição colonial só foi extinta em 1815, com a elevação do Brasil à categoria de Reino Unido a Portugal e Algarves. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Das informações acima, são <strong><u>corretas</u></strong>: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I, II e III.</p>",
+      "corpo_clean": "I, II e III.",
+      "id": 6661313,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>I e II apenas. </p>",
+      "corpo_clean": "I e II apenas. ",
+      "id": 6661314,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p> I e III apenas.</p>",
+      "corpo_clean": " I e III apenas.",
+      "id": 6661315,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>II e III apenas. </p>",
+      "corpo_clean": "II e III apenas. ",
+      "id": 6661316,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p> I apenas. </p>",
+      "corpo_clean": " I apenas. ",
+      "id": 6661317,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6661313",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

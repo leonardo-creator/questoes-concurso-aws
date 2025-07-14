@@ -1,0 +1,37 @@
+{
+  "id": 1882147,
+  "codigo_real": "139.2",
+  "disciplina_real": "Sociologia (Ciências Sociais)",
+  "assunto_real": "Teorias sociológicas e Autores - Teorias sociológicas e Autores",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Polícia Militar do Alagoas",
+  "cargos_descricao": "Oficial Combatente",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">A ausência de atores e artistas negros nos meios de comunicação de massa naturaliza, nas subjetividades, a falta dos negros em posições de prestígio. </p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Segundo o jurista Silvio Almeida, ainda que o Brasil tenha mais de 50% da sua população declarada como negra, o racismo, impregnado nas relações políticas, econômicas e nas subjetividades, é um fenômeno estrutural e estruturante da sociedade brasileira. Com relação a esse assunto, julgue os itens a seguir</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 7248015,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 7248016,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7248015",
+  "dificuldade": "Difícil",
+  "anulada": true,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 568234,
+  "codigo_real": "98.4.12.78.1",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Legislação Aplicada - Telebrás",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Agência Nacional de Telecomunicações",
+  "cargos_descricao": "Analista Administrativo",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>O Poder Executivo tem a prerrogativa de estabelecer limites\r\nrelativos à participação do capital estrangeiro nas empresas\r\nprestadoras de serviços de telecomunicações no Brasil.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Julgue os seguintes itens, a respeito de normas e procedimentos\r\ndeterminados pela Lei Geral de Telecomunicações (LGT), que\r\nestabeleceu a criação da Agência Nacional de Telecomunicações\r\n(ANATEL) e que dispõe sobre a organização dos serviços de\r\ntelecomunicações.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2020054,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2020055,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2020054",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

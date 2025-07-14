@@ -1,0 +1,58 @@
+{
+  "id": 470989,
+  "codigo_real": "9.9.4",
+  "disciplina_real": "Arquitetura",
+  "assunto_real": "Térmico/Climatização - Térmico/Climatização",
+  "bancas_nome": "Fundação Universa",
+  "bancas_sigla": "FUNIVERSA",
+  "orgaos_nome": "Secretaria de Estado de Justiça e Cidadania do Distrito Federal",
+  "cargos_descricao": "Arquiteto",
+  "ano": 2010,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Em relação aos aspectos bioclimáticos, especificamente\r\nquanto aos elementos do clima a serem controlados no\r\nprojeto urbano ou no projeto da edificação, assinale a\r\nalternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Quanto aos ventos, em climas amenos dos planaltos,\r\ndeve-se incrementar o movimento do ar no período\r\númido e no período seco sem pó.</p>",
+      "corpo_clean": "Quanto aos ventos, em climas amenos dos planaltos, deve-se incrementar o movimento do ar no período úmido e no período seco sem pó.",
+      "id": 1688874,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Quanto aos ventos, para estações quentes e secas,\r\ndevem ser aplicadas estratégias que incrementem o\r\nmovimento do ar durante o dia e à noite.</p>",
+      "corpo_clean": "Quanto aos ventos, para estações quentes e secas, devem ser aplicadas estratégias que incrementem o movimento do ar durante o dia e à noite.",
+      "id": 1688875,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Quanto à umidade, para estações quentes e úmidas,\r\ndevem ser aplicadas estratégias que aumentem a\r\numidade com a introdução de superfícies de água.</p>",
+      "corpo_clean": "Quanto à umidade, para estações quentes e úmidas, devem ser aplicadas estratégias que aumentem a umidade com a introdução de superfícies de água.",
+      "id": 1688876,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Em relação às chuvas, para estações quentes e úmidas,\r\ndeve-se estabelecer mínima proteção nos espaços\r\npúblicos.</p>",
+      "corpo_clean": "Em relação às chuvas, para estações quentes e úmidas, deve-se estabelecer mínima proteção nos espaços públicos.",
+      "id": 1688877,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>Em relação à umidade, para climas amenos dos\r\nplanaltos, deve-se reduzir a absorção de radiação no\r\nurbano, permitindo a radiação nos edifícios,\r\nprincipalmente no período seco.</p>",
+      "corpo_clean": "Em relação à umidade, para climas amenos dos planaltos, deve-se reduzir a absorção de radiação no urbano, permitindo a radiação nos edifícios, principalmente no período seco.",
+      "id": 1688878,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1688874",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

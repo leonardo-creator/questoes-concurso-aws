@@ -1,0 +1,58 @@
+{
+  "id": 3208253,
+  "codigo_real": "63.8.2",
+  "disciplina_real": "Engenharia Civil",
+  "assunto_real": "Sistemas de captação e distribuição de água",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Águas de Joinville Companhia de Saneamento Básico",
+  "cargos_descricao": "Agente - Área: Operação",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>A principal diferença do registro de gaveta para o registro de pressão é que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">o registro de gaveta funciona apenas totalmente aberto e não regula a vazão, enquanto o registro de pressão regula a vazão.</p>",
+      "corpo_clean": "o registro de gaveta funciona apenas totalmente aberto e não regula a vazão, enquanto o registro de pressão regula a vazão.",
+      "id": 13034800,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o registro de gaveta funciona apenas totalmente fechado e não regula a vazão, enquanto o registro de pressão regula a vazão.</p>",
+      "corpo_clean": "o registro de gaveta funciona apenas totalmente fechado e não regula a vazão, enquanto o registro de pressão regula a vazão.",
+      "id": 13034801,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o registro de gaveta regula a vazão, enquanto o registro de pressão funciona totalmente aberto ou totalmente fechado e não regula a vazão.</p>",
+      "corpo_clean": "o registro de gaveta regula a vazão, enquanto o registro de pressão funciona totalmente aberto ou totalmente fechado e não regula a vazão.",
+      "id": 13034802,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o registro de gaveta funciona totalmente aberto ou totalmente fechado e não regula a vazão, enquanto o registro de pressão regula a vazão.</p>",
+      "corpo_clean": "o registro de gaveta funciona totalmente aberto ou totalmente fechado e não regula a vazão, enquanto o registro de pressão regula a vazão.",
+      "id": 13034803,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o registro de gaveta funciona apenas totalmente aberto, enquanto o registro de pressão não regula a vazão.</p>",
+      "corpo_clean": "o registro de gaveta funciona apenas totalmente aberto, enquanto o registro de pressão não regula a vazão.",
+      "id": 13034804,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13034803",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

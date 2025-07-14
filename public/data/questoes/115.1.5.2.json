@@ -1,0 +1,58 @@
+{
+  "id": 1568839,
+  "codigo_real": "115.1.5.2",
+  "disciplina_real": "Matemática",
+  "assunto_real": "Regra de Três Composta",
+  "bancas_nome": "CONSCAM - Assessoria e Consultoria",
+  "bancas_sigla": "",
+  "orgaos_nome": "Fundação Regional Educacional de Avaré",
+  "cargos_descricao": "Auxiliar de Limpeza",
+  "ano": 2018,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Cinco pedreiros constroem um muro de três metros em 60 dias. Quantos pedreiros, no mínimo, serão necessários para construir este mesmo muro em 45 dias?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">6. </p>",
+      "corpo_clean": "6. ",
+      "id": 5881540,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">7.</p>",
+      "corpo_clean": "7.",
+      "id": 5881541,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">8.</p>",
+      "corpo_clean": "8.",
+      "id": 5881542,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">9.</p>",
+      "corpo_clean": "9.",
+      "id": 5881543,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">10.</p>",
+      "corpo_clean": "10.",
+      "id": 5881544,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5881541",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

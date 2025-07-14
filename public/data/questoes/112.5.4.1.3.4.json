@@ -1,0 +1,58 @@
+{
+  "id": 2197490,
+  "codigo_real": "112.5.4.1.3.4",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Adjunto adverbial versus agente da passiva",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Empresa de Saneamento do Estado de Mato Grosso do Sul",
+  "cargos_descricao": "Técnico em Segurança do Trabalho",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa em que o verbo “sair” apresenta o mesmo sentido que em “[...] o grupo submetido à tarefa enfadonha saiu-se melhor [...]”.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: center;\"><strong>O texto a seguir refere-se às questões de 1 a 10. </strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong>TÉDIO: A MISSÃO </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify; text-indent: 3em;\">Se você está lendo essa revista agora é só porque seus antepassados sentiram medo, muito medo. Não fosse por isso, a espécie humana já teria desaparecido da face da Terra há muito tempo. É o medo, dizem os cientistas, que nos coloca em estado de alerta e nos prepara para lutar ou fugir diante de uma ameaça, seja ela real ou imaginária. Mas e o tédio? Para que serve? Onde vive? Do que se alimenta? “Se o medo nos ajuda a evitar o perigo, o tédio nos encoraja a explorar novos territórios”, explica a psicóloga britânica Sandi Mann, da Universidade de Lancashire, no Reino Unido, uma das poucas cientistas especialistas no assunto: “Se nossos antepassados não tivessem sentido tédio, a humanidade não teria realizado inúmeras façanhas”. </p><p style=\"text-align: justify; text-indent: 3em;\">Sandi prova o que diz no estudo Being Bored at Work Can Make Us More Creative (Sentir-se Entediado no Trabalho Pode nos Tornar Mais Criativos, livre tradução), publicado na revista British Psychological Society. Primeiro, ela submeteu um grupo de 40 voluntários a uma atividade para lá de maçante: copiar, por 15 minutos, uma extensa lista de números telefônicos. Um segundo grupo, com a mesma quantidade de participantes, foi poupado dessa tarefa inglória. Depois, Sandi solicitou às duas turmas que bolassem o maior número possível de usos para dois prosaicos copos plásticos. Resultado: o grupo submetido à tarefa enfadonha saiu-se melhor no teste. “O tédio é um excelente aliado da criatividade”, assegura. </p><p style=\"text-align: justify; text-indent: 3em;\">Mas turbinar a criatividade não é a única vantagem do tédio. O neurocientista canadense James Danckert, da Universidade de Waterloo, aponta outra: a necessidade de mudança. Segundo ele, permanecer muito tempo parado em um mesmo lugar, por exemplo, pode ser prejudicial à sobrevivência de uma espécie, pois torna o animal mais vulnerável à ação de predadores. “Quando queimamos o dedo, a dor nos avisa que precisamos retirá-lo o mais depressa possível de perto do fogo. Quando sentimos um gosto ruim na boca, o nojo nos alerta que aquela comida pode estar estragada. Exatamente o mesmo processo acontece quando sentimos tedio. Ele é uma espécie de alarme que dispara sempre que algo precisa ser mudado em nossa vida”, compara.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"font-size: 11px;\">(Adaptado de: BERNARDO, André. Tédio: a missão. Revista Galileu. Mar. 2016.) </span></p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Seu livro acaba de sair.</p>",
+      "corpo_clean": "Seu livro acaba de sair.",
+      "id": 8627786,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Mariana vai sair na escola de samba.</p>",
+      "corpo_clean": "Mariana vai sair na escola de samba.",
+      "id": 8627787,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">João saiu da escola e foi direto para casa.</p>",
+      "corpo_clean": "João saiu da escola e foi direto para casa.",
+      "id": 8627788,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Eu me saí mal no teste de ontem.</p>",
+      "corpo_clean": "Eu me saí mal no teste de ontem.",
+      "id": 8627789,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Esta mancha não quer sair.</p>",
+      "corpo_clean": "Esta mancha não quer sair.",
+      "id": 8627790,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8627789",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

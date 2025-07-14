@@ -1,0 +1,58 @@
+{
+  "id": 2120250,
+  "codigo_real": "112.4.7.4",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Locuções e perífrases verbais",
+  "bancas_nome": "Fundação de Apoio à Pesquisa ao Ensino e à Cultura",
+  "bancas_sigla": "FAPEC",
+  "orgaos_nome": "Polícia Civil do Mato Grosso do Sul",
+  "cargos_descricao": "Agente de Polícia Científica",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No texto, ocorrem algumas perífrases verbais (verbo auxiliar + verbo “principal” no infinitivo, sem ou com preposição), como é o caso de “havia de ser”, “seria complicar”, “queria devassar” e (ninguém) pode botar”. A informação verdadeira sobre o sentido veiculado, no conjunto das relações textuais, pelo verbo auxiliar das perífrases está indicada na alternativa:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Leia o texto a seguir para responder às questões <strong>de 07 a 10</strong>.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-indent: 2em; text-align: justify;\">\tRecomendaram-lhe que se deitasse cedo, para acordar à hora da passagem do ano. A julgar pela insistência da recomendação, o ano não passa se os garotos ficarem de vigília. E como havia de ser, se não passasse? Era a vida do mundo inteiro que se perturbava. Tudo que estava para acontecer a partir de meia-noite bruscamente ficaria retido em malas, pacotes, na escuridão. Seria complicar tanto a vida dos outros, e a sua própria, que o menino se decidiu a acatar a ordem ingrata. Ou a fingir acatamento. Iria deitar-se, que remédio? Fecharia os olhos, pois esse é o testemunho de sono que as mães procuram no rosto dos filhos. Mas dormir de verdade, isso não. Imóvel, como nas ocasiões em que brincava de morrer, continuaria atento ao que ocorresse noite afora, pelo mundo solto. Queria devassar o mistério da passagem do ano, que ninguém sabe explicar.</p><p style=\"text-indent: 2em; text-align: justify;\">\tA bá falara numa faixa de luz, que corta o céu de lado a lado, verdadeiro arco-íris, tão intenso que ninguém pode botar-lhe os olhos em cima; corusca, ouve-se um coro de anjos, tudo some de repente: o ano velho se foi, chega o ano-novo. Mas seu tio, piloto da Varig, voou numa noite de 31 de dezembro e não confirmou a luz e os anjos; o ano-novo desce é de paraquedas, bem no centro da praça General Osório; traz na mochila talco, escova de dentes, pombas. “Pra que pombas?” “Pra soltar em sinal de alegria” Quanto ao ano velho, acaba feito balão que perdeu gás, muito chocho.</p><p style=\"text-align: right;\"><br></p><p style=\"text-align: right;\">(Andrade, Carlos Drummond de. “Maneira de olhar”. In: <strong>70 historinhas</strong>. São Paulo: Companhia das Letras, 2016)</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Em “havia de ser” e “queria devassar”, as formas auxiliares “havia de” e “queria” indicam permissão e incapacidade, respectivamente.</p>",
+      "corpo_clean": "Em “havia de ser” e “queria devassar”, as formas auxiliares “havia de” e “queria” indicam permissão e incapacidade, respectivamente.",
+      "id": 8289840,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Em “seria complicar” e “(ninguém) pode botar”, as formas auxiliares “seria” e “pode” indicam necessidade e capacidade, respectivamente.</p>",
+      "corpo_clean": "Em “seria complicar” e “(ninguém) pode botar”, as formas auxiliares “seria” e “pode” indicam necessidade e capacidade, respectivamente.",
+      "id": 8289841,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Em \"seria complicar” e “queria devassar”, as formas auxiliares “seria” e “queria” expressam tempo futuro e possibilidade, respectivamente. </p>",
+      "corpo_clean": "Em \"seria complicar” e “queria devassar”, as formas auxiliares “seria” e “queria” expressam tempo futuro e possibilidade, respectivamente. ",
+      "id": 8289842,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Em “havia de ser” e “(ninguém) pode botar”, as formas auxiliares “havia de” e “(ninguém) pode” expressam certeza e possibilidade, respectivamente.</p>",
+      "corpo_clean": "Em “havia de ser” e “(ninguém) pode botar”, as formas auxiliares “havia de” e “(ninguém) pode” expressam certeza e possibilidade, respectivamente.",
+      "id": 8289843,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Em “queria devassar” e “(ninguém) pode botar”, as formas auxiliares “queria” e “(ninguém) pode” expressam capacidade e tempo futuro, respectivamente.</p>",
+      "corpo_clean": "Em “queria devassar” e “(ninguém) pode botar”, as formas auxiliares “queria” e “(ninguém) pode” expressam capacidade e tempo futuro, respectivamente.",
+      "id": 8289844,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8289842",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

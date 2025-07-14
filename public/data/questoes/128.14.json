@@ -1,0 +1,58 @@
+{
+  "id": 43673,
+  "codigo_real": "128.14",
+  "disciplina_real": "Psicologia",
+  "assunto_real": "Psicodiagnóstico e Avaliação Psicológica - Psicodiagnóstico e Avaliação Psicológica",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional do Trabalho da 9ª Região",
+  "cargos_descricao": "Analista Judiciário - Área Psicologia",
+  "ano": 2004,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Quanto à devolução a respeito do psicodiagnóstico\r\nrealizado, é correto afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>as informações não causam surpresa, pois o\r\nindivíduo certamente sabe, exatamente, porque foi\r\nencaminhado ao psicólogo.</p>",
+      "corpo_clean": "as informações não causam surpresa, pois o indivíduo certamente sabe, exatamente, porque foi encaminhado ao psicólogo.",
+      "id": 207583,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>a finalização de um psicodiagnóstico deve necessariamente\r\nser sucedida pelo início de uma psicoterapia\r\nfamiliar ou individual.</p>",
+      "corpo_clean": "a finalização de um psicodiagnóstico deve necessariamente ser sucedida pelo início de uma psicoterapia familiar ou individual.",
+      "id": 207584,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>as informações possibilitam ao sujeito conceber a si\r\npróprio com melhores critérios de realidade, com\r\nmenos distorções idealizadas ou pejorativas.</p>",
+      "corpo_clean": "as informações possibilitam ao sujeito conceber a si próprio com melhores critérios de realidade, com menos distorções idealizadas ou pejorativas.",
+      "id": 207585,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>o sujeito terá acesso aos resultados, obrigatoriamente,\r\npor meio oral e não por documento escrito.</p>",
+      "corpo_clean": "o sujeito terá acesso aos resultados, obrigatoriamente, por meio oral e não por documento escrito.",
+      "id": 207586,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>o sujeito terá acesso aos resultados somente na\r\ndata de audiência designada pelo juiz, no decorrer\r\ndo processo judicial.</p>",
+      "corpo_clean": "o sujeito terá acesso aos resultados somente na data de audiência designada pelo juiz, no decorrer do processo judicial.",
+      "id": 207587,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "207585",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

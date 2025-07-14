@@ -1,0 +1,51 @@
+{
+  "id": 2553751,
+  "codigo_real": "136.19",
+  "disciplina_real": "Segurança e Saúde no Trabalho (Teoria e Normas)",
+  "assunto_real": "Noções de biossegurança - Biossegurança",
+  "bancas_nome": "Consultoria e Planejamento em Administração Pública LTDA",
+  "bancas_sigla": "Consulplan",
+  "orgaos_nome": "Prefeitura de Macaíba",
+  "cargos_descricao": "Técnico de Farmácia",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Biossegurança é o conjunto de ações voltadas para eliminação, prevenção da liberação ou eliminação de agentes prejudiciais à saúde no ambiente de trabalho. Para o fracionamento de preparações estéreis contendo fármacos citostáticos é obrigatória a presença de Equipamentos de Proteção Coletiva (EPCs) e de Equipamentos de Proteção Individual (EPIs); assinale-os.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Fluxo laminar; jaleco, touca e óculos de proteção.</p>",
+      "corpo_clean": "Fluxo laminar; jaleco, touca e óculos de proteção.",
+      "id": 10174133,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Máscara, dois pares de luva de látex e óculos de proteção; capela.</p>",
+      "corpo_clean": "Máscara, dois pares de luva de látex e óculos de proteção; capela.",
+      "id": 10174134,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Exaustor para gases e vapores; protetor facial, avental longo e máscara.</p>",
+      "corpo_clean": "Exaustor para gases e vapores; protetor facial, avental longo e máscara.",
+      "id": 10174135,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Cabine de segurança biológica tipo II B2; máscara, dois pares de luva de látex e macacão longo.</p>",
+      "corpo_clean": "Cabine de segurança biológica tipo II B2; máscara, dois pares de luva de látex e macacão longo.",
+      "id": 10174136,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10174136",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

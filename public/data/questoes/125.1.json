@@ -1,0 +1,58 @@
+{
+  "id": 1667380,
+  "codigo_real": "125.1",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Temas Educacionais Pedagógicos",
+  "bancas_nome": "Consultoria Técnica e Planejamento LTDA",
+  "bancas_sigla": "Contemax",
+  "orgaos_nome": "Prefeitura de Vista Serrana",
+  "cargos_descricao": "Fonoaudiólogo",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Ao atingir o nível ______________________, a criança passa a escrever pautando-se na marca da oralidade, considerando que a sílaba será separada em unidades menores. Tem consciência da função social que a escrita traz e que quando se escreve, é para que alguém possa ler. À medida que vão interagindo com a linguagem escrita, vão percebendo que a escrita não é uma representação fiel da fala e aparecem novos problemas de escrita. V/F, T/D, S/Z, J/G, H, O e E final de palavra, a separação das palavras entre outras. Nos primeiros períodos em que a criança apresenta sua escrita alfabética ainda podemos encontrar as seguintes características: - Omissões de letras nas sílabas. </p><p style=\"text-align: justify;\">Refere-se a que hipótese da escrita (segundo Emília Ferrero)?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>nível pré silábico.</p>",
+      "corpo_clean": "nível pré silábico.",
+      "id": 6289471,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>nível silábico.</p>",
+      "corpo_clean": "nível silábico.",
+      "id": 6289472,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>nível silábico alfabético</p>",
+      "corpo_clean": "nível silábico alfabético",
+      "id": 6289473,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>nível intermediário II.</p>",
+      "corpo_clean": "nível intermediário II.",
+      "id": 6289474,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>nível alfabético.</p>",
+      "corpo_clean": "nível alfabético.",
+      "id": 6289475,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6289475",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2812836,
+  "codigo_real": "88.20",
+  "disciplina_real": "Fonoaudiologia",
+  "assunto_real": "Avaliação e Intervenção Fonoaudiológica nos Distúrbios da Linguagem Oral - Avaliação e Intervenção Fonoaudiológica nos Distúrbios da Linguagem Oral",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Prefeitura de Bagé",
+  "cargos_descricao": "Fonoaudiólogo",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Analise as assertivas abaixo com base no que afirma Ribas (2015) sobre fonoterapia da fala com enfoque fonológico: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. O trabalho com dificuldades de linguagem oral necessita de ênfase na informação auditiva escrita e, por isso, sugere-se o uso de palavras escritas associadas a figuras trabalhadas em terapia. </p><p style=\"text-align: justify;\">II. O modelo de terapia que tem como objetivos a conscientização do alvo a ser trabalhado (sons ou combinação de sons) e a articulação adequada destes, viabilizando a estimulação e a produção é chamado, Modelo de Ciclos. </p><p style=\"text-align: justify;\">III. O modelo de Oposições Múltiplas é fundamentado na abordagem contrastiva e é utilizado com pacientes cuja fala é abundante em homônimos; os alvos tratados são aqueles em que o sistema fonológico da criança não mostra a contrastividade necessária. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Quais estão corretas?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Apenas II.</p>",
+      "corpo_clean": "Apenas II.",
+      "id": 11311961,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Apenas III.</p>",
+      "corpo_clean": "Apenas III.",
+      "id": 11311962,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Apenas I e II.</p>",
+      "corpo_clean": "Apenas I e II.",
+      "id": 11311963,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Apenas II e III.</p>",
+      "corpo_clean": "Apenas II e III.",
+      "id": 11311964,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>I, II e III.</p>",
+      "corpo_clean": "I, II e III.",
+      "id": 11311965,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11311964",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

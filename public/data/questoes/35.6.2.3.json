@@ -1,0 +1,58 @@
+{
+  "id": 1041687,
+  "codigo_real": "35.6.2.3",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Comissão Parlamentar de Inquérito (CPI) e Outras Comissões",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Agência de Fomento do Amapá",
+  "cargos_descricao": "Analista de Fomento - Área Advogado",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Nos termos da Constituição da República Federativa do Brasil e da jurisprudência do Supremo Tribunal Federal, as comissões parlamentares de inquérito</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">podem, por conta de seus poderes de investigação, determinar busca e apreensão domiciliar.</p>",
+      "corpo_clean": "podem, por conta de seus poderes de investigação, determinar busca e apreensão domiciliar.",
+      "id": 3644065,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">podem requerer quebra do sigilo bancário, por se tratar de competência sujeita à cláusula de reserva de jurisdição.</p>",
+      "corpo_clean": "podem requerer quebra do sigilo bancário, por se tratar de competência sujeita à cláusula de reserva de jurisdição.",
+      "id": 3644066,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">têm como limite intransponível de duração o termo final da legislatura em que foram constituídas, em razão da necessidade de desenvolverem seus trabalhos por prazo certo.</p>",
+      "corpo_clean": "têm como limite intransponível de duração o termo final da legislatura em que foram constituídas, em razão da necessidade de desenvolverem seus trabalhos por prazo certo.",
+      "id": 3644067,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">terão poderes de investigação próprios das autoridades policiais, além de outros previstos nos regimentos das respectivas Casas, e serão criadas pela Câmara dos Deputados e pelo Senado Federal, em conjunto ou separadamente.</p>",
+      "corpo_clean": "terão poderes de investigação próprios das autoridades policiais, além de outros previstos nos regimentos das respectivas Casas, e serão criadas pela Câmara dos Deputados e pelo Senado Federal, em conjunto ou separadamente.",
+      "id": 3644068,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">poderão adotar medidas restritivas de direitos por determinação de seu presidente, independentemente de deliberações dos membros da Comissão.</p>",
+      "corpo_clean": "poderão adotar medidas restritivas de direitos por determinação de seu presidente, independentemente de deliberações dos membros da Comissão.",
+      "id": 3644069,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3644067",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

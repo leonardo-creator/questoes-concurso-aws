@@ -1,0 +1,58 @@
+{
+  "id": 2954528,
+  "codigo_real": "20.3",
+  "disciplina_real": "Comunicação Social",
+  "assunto_real": "Jornalismo",
+  "bancas_nome": "Objetiva Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Canoas",
+  "cargos_descricao": "Jornalista",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Acerca da redação de textos jornalísticos, marcar C para as afirmativas certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">(_) O lead, ou cabeça, destina-se a atrair e prender a atenção do leitor, fazendo-o parar de ler ali. </p><p style=\"text-align: justify;\">(_) Deve-se ler sempre a matéria antes de entregá-la. </p><p style=\"text-align: justify;\">(_) Não começar parágrafos com a mesma palavra. </p><p style=\"text-align: justify;\">(_) Não usar repetidamente a mesma estrutura de frase. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>C - E - C - C.</p>",
+      "corpo_clean": "C - E - C - C.",
+      "id": 11931447,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>E - C - E - C.</p>",
+      "corpo_clean": "E - C - E - C.",
+      "id": 11931448,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>C - C - C- E.</p>",
+      "corpo_clean": "C - C - C- E.",
+      "id": 11931449,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>E - C - C - C.</p>",
+      "corpo_clean": "E - C - C - C.",
+      "id": 11931450,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>E - E - E - E.</p>",
+      "corpo_clean": "E - E - E - E.",
+      "id": 11931451,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11931450",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

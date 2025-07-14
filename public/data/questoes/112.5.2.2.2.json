@@ -1,0 +1,58 @@
+{
+  "id": 2081524,
+  "codigo_real": "112.5.2.2.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Classificação dos verbos quanto à predicação (transitividade)",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Procuradoria Geral do Estado",
+  "cargos_descricao": "Procurador",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Na oração “O capataz não estaria àquela hora” (l. 29), sintaticamente, o verbo se classifica como</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>transitivo direto.</p>",
+      "corpo_clean": "transitivo direto.",
+      "id": 8136576,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>transitivo indireto.</p>",
+      "corpo_clean": "transitivo indireto.",
+      "id": 8136577,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>transitivo direto e indireto.</p>",
+      "corpo_clean": "transitivo direto e indireto.",
+      "id": 8136578,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>verbo de ligação.</p>",
+      "corpo_clean": "verbo de ligação.",
+      "id": 8136579,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>intransitivo.</p>",
+      "corpo_clean": "intransitivo.",
+      "id": 8136580,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8136580",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

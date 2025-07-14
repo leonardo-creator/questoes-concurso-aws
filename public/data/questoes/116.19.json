@@ -1,0 +1,51 @@
+{
+  "id": 2967026,
+  "codigo_real": "116.19",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Patologia",
+  "bancas_nome": "Apoio às residências em saúde",
+  "bancas_sigla": "ARES",
+  "orgaos_nome": "Universidade Federal do Ceará",
+  "cargos_descricao": "Residência em Neurologia",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Observe atentamente a figura abaixo de um determinado teste neurofisiológico não invasivo. Marque o item correto.</p><p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/112162/questao/2967026-20230804153551000000-0.png\" style=\"display: block; margin: auto;\" align=\"center\"></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A figura mostrada isoladamente não permite inferir nenhum tipo de conclusão.</p>",
+      "corpo_clean": "A figura mostrada isoladamente não permite inferir nenhum tipo de conclusão.",
+      "id": 11987363,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Esse teste neurofisiológico não costuma se alterar em pacientes com atrofia de múltiplos sistemas. </p>",
+      "corpo_clean": "Esse teste neurofisiológico não costuma se alterar em pacientes com atrofia de múltiplos sistemas. ",
+      "id": 11987364,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Trata-se de uma curva anormal de teste de variabilidade de frequência cardíaca diminuída, tipicamente encontrada em casos de neuropatia diabética.</p>",
+      "corpo_clean": "Trata-se de uma curva anormal de teste de variabilidade de frequência cardíaca diminuída, tipicamente encontrada em casos de neuropatia diabética.",
+      "id": 11987365,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Trata-se de uma curva fisiológica obtida durante manobra de ortostase com índice de variabilidade de frequência cardíaca, index 30/15, aparentemente normal.</p>",
+      "corpo_clean": "Trata-se de uma curva fisiológica obtida durante manobra de ortostase com índice de variabilidade de frequência cardíaca, index 30/15, aparentemente normal.",
+      "id": 11987366,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11987366",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

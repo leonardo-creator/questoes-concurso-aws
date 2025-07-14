@@ -1,0 +1,58 @@
+{
+  "id": 2006084,
+  "codigo_real": "83.46.5",
+  "disciplina_real": "Farmácia",
+  "assunto_real": "Portaria Ministério da Saúde nº 344/1998: Aprova o Regulamento Técnico sobre substâncias e medicamentos sujeitos a controle especial. - Portaria Ministério da Saúde nº 344/1998: Aprova o Regulamento Técnico sobre substâncias e medicamentos sujeitos a controle especial.",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Prefeitura de Esteio",
+  "cargos_descricao": "Auxiliar de Farmácia",
+  "ano": 2018,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Sobre a Portaria nº 344/1998, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A Notificação de Receita \"A\" será válida por 15 (quinze) dias a contar da data de sua emissão somente dentro da Unidade Federativa que concedeu a numeração.</p>",
+      "corpo_clean": "A Notificação de Receita \"A\" será válida por 15 (quinze) dias a contar da data de sua emissão somente dentro da Unidade Federativa que concedeu a numeração.",
+      "id": 7802876,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A prescrição e o aviamento de fórmulas magistrais contendo associação medicamentosa das substâncias anorexígenas e ansiolíticas, segundo a Portaria nº 344/1998, são permitidas. </p>",
+      "corpo_clean": "A prescrição e o aviamento de fórmulas magistrais contendo associação medicamentosa das substâncias anorexígenas e ansiolíticas, segundo a Portaria nº 344/1998, são permitidas. ",
+      "id": 7802877,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A Notificação de Receita é o documento que, acompanhado de receita, autoriza a dispensação de medicamentos à base de substâncias constantes das listas “A1”, “A2”, “A3”, “B1”, “B2”, “C2” e “C3”, sendo personalizada e intransferível.</p>",
+      "corpo_clean": "A Notificação de Receita é o documento que, acompanhado de receita, autoriza a dispensação de medicamentos à base de substâncias constantes das listas “A1”, “A2”, “A3”, “B1”, “B2”, “C2” e “C3”, sendo personalizada e intransferível.",
+      "id": 7802878,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os cirurgiões dentistas poderão receitar medicamentos constantes de quaisquer listas dessa Portaria, independente de qual seja a indicação de uso. </p>",
+      "corpo_clean": "Os cirurgiões dentistas poderão receitar medicamentos constantes de quaisquer listas dessa Portaria, independente de qual seja a indicação de uso. ",
+      "id": 7802879,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Substâncias proscritas são substâncias cujo uso está liberado no Brasil.</p>",
+      "corpo_clean": "Substâncias proscritas são substâncias cujo uso está liberado no Brasil.",
+      "id": 7802880,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7802878",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

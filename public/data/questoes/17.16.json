@@ -1,0 +1,58 @@
+{
+  "id": 2538931,
+  "codigo_real": "17.16",
+  "disciplina_real": "Biologia",
+  "assunto_real": "Biossegurança",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Prefeitura de Cariacica",
+  "cargos_descricao": "Professor de Ciências",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">“Apesar da possibilidade, nenhuma região do Espírito Santo conseguiu atingir a meta de vacinação de adolescentes, adultos e doses de reforço para ser avaliada em risco muito baixo”. Fonte: https://g1.globo.com/es/espirito-santo/noticia/2021/11/12/es-continua-com-uma-cidadeem-risco-moderado-para-covid-19.ghtml</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\">Sobre vacinas e sistema imune, analise as assertivas abaixo:</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\">I. O sistema imune inato compreende barreiras físicas, químicas e biológicas, células especializadas e moléculas solúveis.</p><p style=\"text-align: justify;\">II. O sistema imune adaptativo responde de forma específica a um agente patogênico e tem memória, diferentemente do sistema imune inato.</p><p style=\"text-align: justify;\">III. Existem diversos tipos de vacina em uso ou em desenvolvimento para prevenção de doenças infecciosas.</p><p style=\"text-align: justify;\">IV. A vacinação é um método de imunização ativa a qual induz a produção de anticorpos pelos linfócitos T.</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\">Quais estão corretas? </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas I e IV.</p>",
+      "corpo_clean": "Apenas I e IV.",
+      "id": 10107796,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas II e III.</p>",
+      "corpo_clean": "Apenas II e III.",
+      "id": 10107797,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas I, II e III.</p>",
+      "corpo_clean": "Apenas I, II e III.",
+      "id": 10107798,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas II, III e IV.</p>",
+      "corpo_clean": "Apenas II, III e IV.",
+      "id": 10107799,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I, II, III e IV. </p>",
+      "corpo_clean": "I, II, III e IV. ",
+      "id": 10107800,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10107798",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

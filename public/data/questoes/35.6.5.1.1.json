@@ -1,0 +1,37 @@
+{
+  "id": 1049670,
+  "codigo_real": "35.6.5.1.1",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Conceito e natureza jurídica ou posição constitucional ou posição institucional",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Conselho Regional de Medicina do Estado do Acre",
+  "cargos_descricao": "Analista Administrativo",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">O presidente da República no Brasil possui o papel de chefe de Estado e chefe de governo. Como chefe de Estado, representa o Estado Brasileiro nas suas relações internacionais e, como chefe de governo, gerencia os negócios internos, sejam de natureza política ou de natureza administrativa.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify; text-indent: 3em;\">O Poder Executivo tem a função de governar o povo e administrar os interesses públicos de acordo as leis previstas na CF. No Brasil, País que adota o regime presidencialista, o líder do Poder Executivo é o presidente da República. O presidente é eleito democraticamente para mandato com duração de quatro anos e possibilidade de uma reeleição consecutiva para igual período. </p><p style=\"text-align: justify; text-indent: 3em;\">Ao tomar posse, o chefe do Executivo tem o dever de sustentar a integridade e a independência do Brasil, apresentar um plano de governo com programas prioritários, projeto de lei de diretrizes orçamentárias e propostas de orçamento. Cabe ao Poder Executivo executar as leis elaboradas pelo Poder Legislativo, mas o presidente da República também pode iniciar esse processo. Em caso de relevância e urgência, adota medidas provisórias e propõe emendas à Constituição, projetos de leis complementares e ordinárias e leis delegadas. </p><p><br></p><p style=\"text-align: right;\">Internet: &lt;www.brasil.gov.br&gt; (com adaptações). </p><p>A respeito do Poder Executivo, julgue os itens de <strong>77 </strong>a <strong>80 </strong>à luz da CF.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 3674726,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 3674727,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3674726",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

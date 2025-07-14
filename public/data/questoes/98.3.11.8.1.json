@@ -1,0 +1,58 @@
+{
+  "id": 2623223,
+  "codigo_real": "98.3.11.8.1",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Legislação Aplicada - Fundação Ezequiel Dias/MG",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Senado Federal",
+  "cargos_descricao": "Analista Legislativo - Área Processo Legislativo",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Luiza, presidente da organização não governamental <em>Alfa</em>, é entusiasta do <em>Programa e-Cidadania</em> do Senado Federal, buscando divulgá-lo em todas as reuniões de que participa com outras organizações congêneres. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Em uma dessas reuniões, Luiza foi questionada em relação à destinação a ser dada à ideia legislativa apresentada por um cidadão, no interior da Casa Legislativa, na perspectiva da produção normativa. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Em resposta ao questionamento apresentado, Luiza informou corretamente que a referida ideia</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">pode se tornar uma sugestão legislativa caso obtenha o apoio de vinte mil cidadãos em quatro meses, recebendo o trâmite regimental correspondente.</p>",
+      "corpo_clean": "pode se tornar uma sugestão legislativa caso obtenha o apoio de vinte mil cidadãos em quatro meses, recebendo o trâmite regimental correspondente.",
+      "id": 10467132,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">é recebida como sugestão legislativa e tramitará como projeto de lei caso não receba parecer negativo da Comissão de Direitos Humanos e Legislação Participativa.</p>",
+      "corpo_clean": "é recebida como sugestão legislativa e tramitará como projeto de lei caso não receba parecer negativo da Comissão de Direitos Humanos e Legislação Participativa.",
+      "id": 10467133,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">tornar-se-á sugestão legislativa caso obtenha, no portal específico, o apoio do número de cidadãos exigido para a apresentação de projetos de lei de iniciativa popular.</p>",
+      "corpo_clean": "tornar-se-á sugestão legislativa caso obtenha, no portal específico, o apoio do número de cidadãos exigido para a apresentação de projetos de lei de iniciativa popular.",
+      "id": 10467134,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">deve receber o mesmo tratamento jurídico dispensado às sugestões legislativas apresentadas por associações e órgãos de classe, sindicatos e entidades organizadas da sociedade civil.</p>",
+      "corpo_clean": "deve receber o mesmo tratamento jurídico dispensado às sugestões legislativas apresentadas por associações e órgãos de classe, sindicatos e entidades organizadas da sociedade civil.",
+      "id": 10467135,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">é recebida como sugestão legislativa e, caso obtenha o apoio de trinta mil cidadãos em três meses, será encaminhada à Comissão de Direitos Humanos e Legislação Participativa para parecer.</p>",
+      "corpo_clean": "é recebida como sugestão legislativa e, caso obtenha o apoio de trinta mil cidadãos em três meses, será encaminhada à Comissão de Direitos Humanos e Legislação Participativa para parecer.",
+      "id": 10467136,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10467132",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

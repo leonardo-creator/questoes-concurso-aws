@@ -1,0 +1,58 @@
+{
+  "id": 2082297,
+  "codigo_real": "112.1.27.2.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Relações de sinonímia e antonímia (sinônimos e antônimos)",
+  "bancas_nome": "Fundação de Apoio ao Desenvolvimento do Ensino Superior do Norte de Minas",
+  "bancas_sigla": "COTEC FADENOR",
+  "orgaos_nome": "Prefeitura de São João da Ponte",
+  "cargos_descricao": "Auxiliar de Serviços Gerais",
+  "ano": 2021,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa que contém a palavra sinônima de <strong>atenuadas</strong> (linha 13):</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>INSTRUÇÃO:</strong> Para responder às questões 01 a 04, leia o texto a seguir.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>1</em> <span style=\"color: rgb(255, 255, 255);\">_____</span> Na era da inclusão [...] há um interessante movimento de atração dos autistas para o cotidiano. No fim do ano</p><p style=\"text-align: justify;\">passado, a Arena Corinthians inaugurou o espaço TEA (sigla para “transtorno do espectro autista”). Trata-se de uma</p><p style=\"text-align: justify;\">sala adaptada, protegida por vidros espessos, que reduzem em 90% o barulho externo. Nela, ainda são</p><p style=\"text-align: justify;\">disponibilizados fones de ouvido para abafar os ruídos. A luz é baixa. Televisores exibem programação infantil, e</p><p style=\"text-align: justify;\"><em>5</em> existem sofás para os pais. Os minitorcedores podem assistir à partida da arquibancada e utilizar a sala apenas em</p><p style=\"text-align: justify;\">caso de crise – ou, se preferirem, ali permanecer o tempo todo. “É a terceira vez que trago meu filho ao estádio, mas</p><p style=\"text-align: justify;\">é a primeira vez que ele comemora um gol”, disse à VEJA o gerente de projetos Robson Aparecido da Silva, de 35</p><p style=\"text-align: justify;\">anos, que acompanhou a vitória contra o Santos por 2 a 0, ao lado de Henrique, de 6 anos. “Nas outras ocasiões, no</p><p style=\"text-align: justify;\">meio da torcida, ele fechava os olhos e tapava os ouvidos por causa do barulho.” Para Caio Campos,</p><p style=\"text-align: justify;\"><em>10</em> superintendente de <em>marketing </em>do Corinthians, a ideia nasceu da falta de opções. “Felizmente conseguimos nos</p><p style=\"text-align: justify;\">adaptar”, afirma ele.</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">_____</span>Adaptação é o nome do jogo. Em São Paulo, uma lei sancionada pelo prefeito Bruno Covas determinou que, a</p><p style=\"text-align: justify;\">partir de abril, todas as salas de cinema da cidade ofereçam ao menos uma sessão mensal com luzes atenuadas e</p><p style=\"text-align: justify;\">som mais baixo durante o filme, e sem <em>trailers</em>, de modo a evitar a ansiedade. Em janeiro, o governo federal</p><p style=\"text-align: justify;\"><em>15</em> sancionou a lei Romeo Mion, que criou a Carteira de Identificação da Pessoa com Transtorno do Espectro Autista. A</p><p style=\"text-align: justify;\">medida garante prioridade no atendimento de cidadãos diagnosticados. O nome é uma homenagem ao filho mais</p><p style=\"text-align: justify;\">velho do apresentador Marcos Mion, que tem autismo.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Fonte: <strong>Revista VEJA</strong>, 14 fev. 2020, p. 78. Adaptado.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>apagadas.</p>",
+      "corpo_clean": "apagadas.",
+      "id": 8139795,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>tapadas. </p>",
+      "corpo_clean": "tapadas. ",
+      "id": 8139796,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>adaptadas. </p>",
+      "corpo_clean": "adaptadas. ",
+      "id": 8139797,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>acesas. </p>",
+      "corpo_clean": "acesas. ",
+      "id": 8139798,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>diminuídas. </p>",
+      "corpo_clean": "diminuídas. ",
+      "id": 8139799,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8139799",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

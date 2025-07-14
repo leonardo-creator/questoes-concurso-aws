@@ -1,0 +1,58 @@
+{
+  "id": 1433345,
+  "codigo_real": "112.5.2.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Sujeito",
+  "bancas_nome": "Ministério Público do Rio Grande do Sul",
+  "bancas_sigla": "MPRS",
+  "orgaos_nome": "Ministério Público do Rio Grande do Sul",
+  "cargos_descricao": "Promotor de Justiça",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considere as seguintes relações entre forma verbal e referente correspondente ao sujeito da forma verbal indicada.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. <strong><em>soar </em></strong>(l. 5) – os forasteiros</p><p style=\"text-align: justify;\">II. <strong><em>marcou </em></strong>(l. 20) – Aureliano</p><p style=\"text-align: justify;\">III. <strong><em>esquecessem </em></strong>(l. 30) – os habitantes de Macondo</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Quais relações são corretas?</p><p><br></p>",
+  "grupoQuestao_enunciado": "<p><strong>Instrução</strong>: As questões 11 a 20 referem-se ao texto abaixo.</p><p><br></p><p>1         Quando José Arcádio Buendia percebeu que a peste 1 tinha invadido a povoação,</p><p>2 reuniu os chefes de família para ........ o que sabia sobre a doença da insônia – que</p><p>3 consumia a memória. Estabeleceram, então, medidas para impedir que o flagelo se</p><p>4 alastrasse para outras povoações. Os forasteiros que chegavam a Macondo tinham que</p><p>5 fazer soar um sininho para que todos soubessem que estavam sãos. Não se lhes permitia</p><p>6 comer nem beber nada durante sua estada, pois a doença só se transmitia pela boca, e</p><p>7 todas as coisas de comer e de beber estavam contaminadas pela insônia. Desta forma,</p><p>8 manteve-se a peste circunscrita ao perímetro do povoado. Tão eficaz foi a quarentena</p><p>9 que chegou o dia em que a situação de emergência passou a ser encarada como coisa</p><p>10 natural e ninguém em Macondo voltou a se preocupar com o inútil costume de dormir.</p><p>11       Aureliano concebeu, então, uma fórmula que, por alguns meses, havia de ........ das</p><p>12 evasões da memória. Descobriu-a por acaso. Um dia, procurando a pequena bigorna que</p><p>13 utilizava para laminar metais, não se lembrou do seu nome e perguntou ao pai, que lhe</p><p>14 disse: “tás”. Escreveu, então, o nome num papel que pregou com cola na bigorninha:</p><p>15 “tás”. Assim, ficou convencido de que não esqueceria dele no futuro. Não lhe ocorreu</p><p>16 que fosse aquela a primeira manifestação da doença. Poucos dias depois, entretanto,</p><p>17 descobriu que estava com dificuldade de se lembrar de quase todas as coisas do</p><p>18 laboratório. Então, marcou-as com o nome respectivo. Quando seu pai ........ de seu</p><p>19 pavor de esquecer-se de tudo, Aureliano lhe explicou o método, e José Arcádio Buendia</p><p>20 o pôs em prática. Com um pincel cheio de tinta, marcou cada coisa com o seu nome:</p><p>21 <em>mesa, cadeira, relógio, porta, parede, cama, panela. Foi ao curral e marcou os animais e</em></p><p><em>22 as plantas: vaca, cabrito, porco, galinha, aipim, taioba, bananeira.</em></p><p>23      Chegou o dia em que, embora reconhecendo as coisas por suas inscrições, não se</p><p>24 recordava de sua utilidade. Então foi mais explícito. O letreiro que pendurou no cachaço</p><p>25 da vaca era uma amostra exemplar da forma pela qual os habitantes de Macondo</p><p>26 estavam dispostos a lutar contra o esquecimento: “Esta é a vaca, tem-se de ordenhar</p><p>27 todas as manhãs para que produza o leite. O leite, é preciso ferver para misturá-lo com</p><p>28 o café e fazer café com leite.” Assim, continuaram vivendo numa realidade escorregadia</p><p>29 momentaneamente capturada pelas palavras, mas que haveria de fugir sem remédio</p><p>30 quando esquecessem os valores das letras escritas.</p><p><br></p><p>Extraído e adaptado de: Gabriel Garcia Marques, Cem Anos de Solidão. Trad. Eliane</p><p>Zagury. Rio de Janeiro: Record, 1975, p. 37-38.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas I.</p><p><br></p>",
+      "corpo_clean": "Apenas I.",
+      "id": 5293926,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas III.</p><p><br></p>",
+      "corpo_clean": "Apenas III.",
+      "id": 5293927,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas I e II.</p><p><br></p>",
+      "corpo_clean": "Apenas I e II.",
+      "id": 5293928,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas II e III.</p><p><br></p>",
+      "corpo_clean": "Apenas II e III.",
+      "id": 5293929,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I, II e III.</p><p><br></p>",
+      "corpo_clean": "I, II e III.",
+      "id": 5293930,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5293927",
+  "dificuldade": "Média",
+  "anulada": true,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

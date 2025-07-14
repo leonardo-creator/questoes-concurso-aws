@@ -1,0 +1,58 @@
+{
+  "id": 2179638,
+  "codigo_real": "49.26.1",
+  "disciplina_real": "Direito Processual Penal Militar",
+  "assunto_real": "Princípios relacionados ao Direito Processual Penal Militar",
+  "bancas_nome": "Inaz do Pará Concursos",
+  "bancas_sigla": "INAZ do Para",
+  "orgaos_nome": "Polícia Civil da Bahia",
+  "cargos_descricao": "Escrivão de Polícia",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Como prescreve o art. 282 do CPP, as medidas cautelares deverão ser aplicadas observando-se: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A necessidade para aplicação da lei penal, para a investigação ou a instrução criminal e, nos casos expressamente previstos, para evitar a prática de infrações penais.</p>",
+      "corpo_clean": "A necessidade para aplicação da lei penal, para a investigação ou a instrução criminal e, nos casos expressamente previstos, para evitar a prática de infrações penais.",
+      "id": 8551191,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A adequação da medida à gravidade do crime, circunstâncias do fato, não sendo necessário as condições pessoais do indiciado ou acusado.</p>",
+      "corpo_clean": "A adequação da medida à gravidade do crime, circunstâncias do fato, não sendo necessário as condições pessoais do indiciado ou acusado.",
+      "id": 8551192,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As medidas cautelares não poderão ser aplicadas isolada ou cumulativamente, mediante requerimento do Ministério Público. </p>",
+      "corpo_clean": "As medidas cautelares não poderão ser aplicadas isolada ou cumulativamente, mediante requerimento do Ministério Público. ",
+      "id": 8551193,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Que o juiz não poderá revogar a medida cautelar ou substituí-la quando verificar a falta de motivo para que subsista, bem como voltar a decretá-la, se sobrevierem razões que a justifiquem.</p>",
+      "corpo_clean": "Que o juiz não poderá revogar a medida cautelar ou substituí-la quando verificar a falta de motivo para que subsista, bem como voltar a decretá-la, se sobrevierem razões que a justifiquem.",
+      "id": 8551194,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Mesmo nos casos de urgência ou de perigo de ineficácia da medida, o juiz, ao receber o pedido de medida cautelar, determinará a intimação da parte contrária, acompanhada de cópia do requerimento e das peças necessárias, permanecendo os autos em juízo.</p>",
+      "corpo_clean": "Mesmo nos casos de urgência ou de perigo de ineficácia da medida, o juiz, ao receber o pedido de medida cautelar, determinará a intimação da parte contrária, acompanhada de cópia do requerimento e das peças necessárias, permanecendo os autos em juízo.",
+      "id": 8551195,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8551191",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2694173,
+  "codigo_real": "140.6.8",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Qualidade de Software",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "BB Tecnologia e Serviços/ Banco do Brasil",
+  "cargos_descricao": "Analista - Área: Requisitos de Software",
+  "ano": 2015,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um trabalho fundamental para garantia de sucesso no desenvolvimento de software é o teste. O ideal de um teste seria a verificação completa e exaustiva, mas sabemos que isso é impossível sob o aspecto de viabilidade econômica e disponibilidade de tempo. Assinale a alternativa que contém elementos que mais colaboram para a orientação e limitação adequada da quantidade e profundidade de um processo de testes.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Pontos de Função; Tamanho da Base de Dados. </p>",
+      "corpo_clean": "Pontos de Função; Tamanho da Base de Dados. ",
+      "id": 10780921,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Abrangência; Ciclo de Vida.</p>",
+      "corpo_clean": "Abrangência; Ciclo de Vida.",
+      "id": 10780922,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Número de Pontos de Função; Ciclo de Vida.</p>",
+      "corpo_clean": "Número de Pontos de Função; Ciclo de Vida.",
+      "id": 10780923,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p> Integração dos Processos; Pontos de Função. </p>",
+      "corpo_clean": " Integração dos Processos; Pontos de Função. ",
+      "id": 10780924,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Riscos; Prioridades. </p>",
+      "corpo_clean": "Riscos; Prioridades. ",
+      "id": 10780925,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10780925",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

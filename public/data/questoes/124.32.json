@@ -1,0 +1,37 @@
+{
+  "id": 168653,
+  "codigo_real": "124.32",
+  "disciplina_real": "Odontologia",
+  "assunto_real": "Materiais Dentários",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Prefeitura de Vitória",
+  "cargos_descricao": "Técnico - Área: Prótese Dentária",
+  "ano": 2007,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Compatibilidade e facilidade de fusão, de fundição, de\r\nsoldagem e de polimento são propriedades desejáveis das\r\nligas metálicas.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Considerando as propriedades das ligas metálicas de uso no\r\nlaboratório de prótese dental, julgue os itens seguintes.</p>",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 731326,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 731325,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "731325",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

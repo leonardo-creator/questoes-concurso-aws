@@ -1,0 +1,58 @@
+{
+  "id": 2371093,
+  "codigo_real": "9.2.4",
+  "disciplina_real": "Arquitetura",
+  "assunto_real": "Edificações",
+  "bancas_nome": "Consultoria Técnica e Planejamento LTDA",
+  "bancas_sigla": "Contemax",
+  "orgaos_nome": "Câmara de Flores",
+  "cargos_descricao": "Artífice",
+  "ano": 2020,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Acerca das fundações, assinale a alternativa incorreta:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">As fundações são elementos estruturais que têm a função de receber as cargas oriundas da superestrutura de uma edificação e transmiti-las ao solo.</p>",
+      "corpo_clean": "As fundações são elementos estruturais que têm a função de receber as cargas oriundas da superestrutura de uma edificação e transmiti-las ao solo.",
+      "id": 9383446,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os tipos de fundações podem ser divididos em fundações rasas e fundações profundas.</p>",
+      "corpo_clean": "Os tipos de fundações podem ser divididos em fundações rasas e fundações profundas.",
+      "id": 9383447,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As fundações rasas ou fundações diretas são aquelas em que a carga é transmitida ao solo por meio de elementos superficiais, sem a necessidade de equipamentos de grande porte para a cravação ou escavação de seus componentes </p>",
+      "corpo_clean": "As fundações rasas ou fundações diretas são aquelas em que a carga é transmitida ao solo por meio de elementos superficiais, sem a necessidade de equipamentos de grande porte para a cravação ou escavação de seus componentes ",
+      "id": 9383448,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">São exemplos de tipos de fundações rasas as estacas, tubulões (a céu aberto ou a ar comprimido) e os caixões.</p>",
+      "corpo_clean": "São exemplos de tipos de fundações rasas as estacas, tubulões (a céu aberto ou a ar comprimido) e os caixões.",
+      "id": 9383449,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As fundações profundas ou fundações indiretas são aquelas executadas nas camadas mais profundas do solo e, em sua grande maioria, são realizadas com o auxílio de um equipamento de escavação ou cravação</p>",
+      "corpo_clean": "As fundações profundas ou fundações indiretas são aquelas executadas nas camadas mais profundas do solo e, em sua grande maioria, são realizadas com o auxílio de um equipamento de escavação ou cravação",
+      "id": 9383450,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9383449",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

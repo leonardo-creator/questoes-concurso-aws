@@ -1,0 +1,51 @@
+{
+  "id": 970335,
+  "codigo_real": "3.19",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Gestão de Projetos",
+  "bancas_nome": "Comissão Permanente do Vestibular da Universidade Federal do Rio Grande do Norte",
+  "bancas_sigla": "COMPERVE UFRN",
+  "orgaos_nome": "Secretaria Estadual de Saúde",
+  "cargos_descricao": "Administrador",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "O gerenciamento de projetos pode ser feito por intermédio do uso de metodologias específicas, como o Project Model Canvas, que",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "utiliza conceitos de gerenciamento, neurociência e design thinking para simplificar a sua elaboração e tem um caráter completamente visual.",
+      "corpo_clean": "utiliza conceitos de gerenciamento, neurociência e design thinking para simplificar a sua elaboração e tem um caráter completamente visual.",
+      "id": 3393550,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "integra as tarefas de identificação, mapeamento, coleta e registro de informações para a análise e melhoria de processos.",
+      "corpo_clean": "integra as tarefas de identificação, mapeamento, coleta e registro de informações para a análise e melhoria de processos.",
+      "id": 3393551,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "utiliza uma metodologia ágil (Scrum) com mudanças rápidas ou requerimentos emergentes.",
+      "corpo_clean": "utiliza uma metodologia ágil (Scrum) com mudanças rápidas ou requerimentos emergentes.",
+      "id": 3393552,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "integra processos e subprocessos para descrever, de forma organizada, o trabalho a ser realizado durante o projeto.",
+      "corpo_clean": "integra processos e subprocessos para descrever, de forma organizada, o trabalho a ser realizado durante o projeto.",
+      "id": 3393553,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "3393550",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

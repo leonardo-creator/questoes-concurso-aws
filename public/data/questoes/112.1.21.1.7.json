@@ -1,0 +1,51 @@
+{
+  "id": 2779080,
+  "codigo_real": "112.1.21.1.7",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Texto Dissertativo-expositivo",
+  "bancas_nome": "Associação Catarinense de Estudos e Pesquisas",
+  "bancas_sigla": "ACEP",
+  "orgaos_nome": "Prefeitura de Aracati",
+  "cargos_descricao": "Analista - Área Investimentos",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Do ponto de vista da tipologia textual, o texto em estudo pode ser classificado como: </p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: center;\"><strong>TEXTO </strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong>ANTÍDOTO À RESSACA VIRTUAL</strong></p><p style=\"text-align: center;\"><br></p><p>1 A Cura do Cibervício está em uma invenção ancestral: o livro</p><p>2 Sócrates não gostava de livros. Ao menos, é o que sugere certa passagem em Fedro, de Platão. Para demonstrar que o</p><p>3 diálogo pessoal é superior à leitura, Sócrates conta a seguinte parábola sobre a invenção da escrita: o deus egípcio</p><p>4 Tot foi criador das artes e ciências; terminado o rol de inovações, mostrou-as a Amon, divindade rabugenta e</p><p>5 previdente. Amon aprovou a álgebra, a geometria e o jogo de xadrez, mas franziu o cenho ao ver o alfabeto (ou, no</p><p>6 caso, os hieróglifos). \"Essa invenção vai introduzir o esquecimento no espírito de todos que a aprenderem\", previu.</p><p>7 \"Os homens deixarão de exercitar a memória, pois colocarão toda sua fé em signos externos.\"</p><p>8 O discurso antilivresco de Sócrates é dos primeiros exemplos do que mais tarde seria chamado ludismo - a ideia de</p><p>9 que o avanço tecnológico acabará nos conduzindo a uma catástrofe generalizada. É estranho, e revelador, que a</p><p>10 condenação socrática tenha chegado até nós por meio de um livro: ocorre que as ondas tecnofóbicas costumam se</p><p>11 propagar exatamente nos meios que condenam.</p><p>12 Mas vale notar também que, num ponto, Sócrates - ou Amon - estava certo: a introdução da escrita alterou a forma</p><p>13 como o cérebro humano funciona. Os milhares de versos da Ilíada e da Odisseia foram criados oralmente e</p><p>14 guardados na lembrança; mas eu não conseguiria compor metade deste parágrafo sem fazer duas ou três notas.</p><p>15 Depois de assimilarmos a invenção de Tot, nossa memória jamais foi a mesma.</p><p>16 Toda inovação técnica implica acréscimos mas também subtrações à experiência humana. Os ganhos da revolução</p><p>17 digital são inegáveis - mas ela também implicou perdas e síndromes que já configuram uma ressaca virtual</p><p>19 globalizada. O cérebro humano está mudando de novo, e nem sempre para melhor: a chuva meteórica de</p><p>20 informações fragmentárias prejudicou nossa capacidade para a contemplação e o raciocínio linear; o imediatismo das</p><p>21 redes nos condiciona a reagir de forma superficial e raivosa à complexidade do mundo; o <em>ethos</em> da exposição</p><p>22 constante faz com que o íntimo se amolde ao coletivo, e o resultado é um sectarismo alucinado, intrometido e</p><p>23 onipresente. Não me entendam mal; não sou um ludista, nem pretendo deletar minhas contas nas redes sociais. Mas</p><p>24 toda ressaca precisa de um antídoto. O remédio que encontrei contra os excessos da nova reprogramação cerebral foi</p><p>25 recorrer à velhíssima invenção de Tot: curei os achaques do cibervício retornando, com voracidade dupla, à leitura</p><p>26 de imersão. Para que funcione, essa terapia deve ocorrer em doses diárias e envolver obras que nada tenham a ver</p><p>27 com temas urgentes ou profissionais; quanto mais aparentemente inúteis, melhor. Alegar falta de tempo é</p><p>28 autoengano: meia hora de leitura concentrada todos os dias é o suficiente para salvar nossa alma - ou aquelas partes</p><p>29 de nosso antigo cérebro que não deveriam cair na lixeira da evolução.</p><p>30 Claro, todo remédio tem seu efeito colateral: li tanto, nos últimos meses, que perdi temporariamente a disposição</p><p style=\"text-align: justify;\">31 para conversar cara a cara. Não sei o que Sócrates diria a respeito.</p><p style=\"text-align: justify;\"><br></p><p>José Francisco Botelho. Publicado em VEJA de 6 de fevereiro de 2019, edição nº 2620</p><p>(Disponível em: https://veja.abril.com.br/entretenimento/antidoto-a-ressaca-virtual/Acesso em 08/02/2019).</p>",
+  "alternativas": [
+    {
+      "corpo": "<p> injuntivo.</p>",
+      "corpo_clean": " injuntivo.",
+      "id": 11162024,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>narrativo. </p>",
+      "corpo_clean": "narrativo. ",
+      "id": 11162025,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>dissertativo.</p>",
+      "corpo_clean": "dissertativo.",
+      "id": 11162026,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>prescritivo.</p>",
+      "corpo_clean": "prescritivo.",
+      "id": 11162027,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11162026",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

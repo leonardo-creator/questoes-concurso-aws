@@ -1,0 +1,37 @@
+{
+  "id": 993918,
+  "codigo_real": "98.4.12.73",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Sociedade Brasileira de Radioterapia - SBRT",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Conselho Regional de Medicina do Paraná",
+  "cargos_descricao": "Advogado",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">O cidadão estrangeiro nascido em um dos países-membros do Mercosul que tenham assinado e ratificado o Acordo de Livre Residência com o Brasil poderá exercer a medicina em território brasileiro, ficando desobrigado de outras exigências caso apresente o visto de permanência.</p>",
+  "grupoQuestao_enunciado": "<p>Com relação às Resoluções do CFM, julgue os itens de <strong>63 </strong>a <strong>66</strong>.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 3471093,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 3471094,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3471094",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

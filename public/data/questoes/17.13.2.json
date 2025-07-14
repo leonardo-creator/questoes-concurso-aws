@@ -1,0 +1,58 @@
+{
+  "id": 2206441,
+  "codigo_real": "17.13.2",
+  "disciplina_real": "Biologia",
+  "assunto_real": "Práticas Laboratoriais",
+  "bancas_nome": "Instituto Brasileiro de Formação e Capacitação",
+  "bancas_sigla": "IBFC",
+  "orgaos_nome": "Empresa Brasileira de Serviços Hospitalares - EBSERH",
+  "cargos_descricao": "Biólogo",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa correta. O teste de tolerância oral à glicose é muito utilizado para auxiliar o diagnóstico do diabetes. O resultado deste teste revelou, na amostra de 2 horas após ingestão de 75 gramas de glicose, 141 mg/dL. Este achado indica: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Diabetes</p>",
+      "corpo_clean": "Diabetes",
+      "id": 8664838,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Metabolismo normal de carboidratos</p>",
+      "corpo_clean": "Metabolismo normal de carboidratos",
+      "id": 8664839,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Pré - diabetes </p>",
+      "corpo_clean": "Pré - diabetes ",
+      "id": 8664840,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">É necessário o valor da glicemia de jejum para interpretação do teste </p>",
+      "corpo_clean": "É necessário o valor da glicemia de jejum para interpretação do teste ",
+      "id": 8664841,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Obesidade </p>",
+      "corpo_clean": "Obesidade ",
+      "id": 8664842,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8664840",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1746659,
+  "codigo_real": "113.4",
+  "disciplina_real": "Línguas (Outras)",
+  "assunto_real": "Libras",
+  "bancas_nome": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais – IFSULDEMINAS",
+  "bancas_sigla": "IFSULDEMINAS",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais – IFSULDEMINAS",
+  "cargos_descricao": "Tradutor e Intérprete de Linguagem de Sinais",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Quando se trata de derivação de nome e verbos na Libras, uma das principais funções da morfologia é a mudança de classe, isto é, a utilização da ideia de uma palavra em uma outra classe gramatical.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Analisando as imagens abaixo, qual delas está em desacordo com essa explicação?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/57621/item-questao/6644048-20210610134645000000-0.png\"></p>",
+      "corpo_clean": "",
+      "id": 6644048,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/57621/item-questao/6644049-20210610134645000000-0.png\"></p>",
+      "corpo_clean": "",
+      "id": 6644049,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/57621/item-questao/6644050-20210610134645000000-0.png\"></p>",
+      "corpo_clean": "",
+      "id": 6644050,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/57621/item-questao/6644051-20210610134645000000-0.png\"></p>",
+      "corpo_clean": "",
+      "id": 6644051,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "6644049",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": true
+}

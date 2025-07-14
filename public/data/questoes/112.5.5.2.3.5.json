@@ -1,0 +1,51 @@
+{
+  "id": 3821831,
+  "codigo_real": "112.5.5.2.3.5",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Orações subordinadas substantivas predicativas",
+  "bancas_nome": "Associação dos Municípios do Extremo Oeste de Santa Catarina",
+  "bancas_sigla": "AMEOSC",
+  "orgaos_nome": "Prefeitura de Guarujá do Sul",
+  "cargos_descricao": "Professor Intérprete de Libras",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Leia com atenção as afirmativas abaixo: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>I.Todos nós temos a necessidade de que nos amem. </em></p><p style=\"text-align: justify;\"><em>II.O meu sonho é que eu ganhe um sorteio de um carro.</em></p><p style=\"text-align: justify;\"><em> III.É possível que ele chegue cedo hoje. </em></p><p style=\"text-align: justify;\"><em>IV.Ainda me lembro de que você implicava comigo na infância. </em></p><p style=\"text-align: justify;\"><em>V.Meu medo é que você se perca no caminho. </em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Em quais das afirmativas lidas há o emprego de uma oração subordinada predicativa?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p> II e V.</p>",
+      "corpo_clean": " II e V.",
+      "id": 15583480,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>I e II. </p>",
+      "corpo_clean": "I e II. ",
+      "id": 15583481,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>I e IV. </p>",
+      "corpo_clean": "I e IV. ",
+      "id": 15583482,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p> III e V.</p>",
+      "corpo_clean": " III e V.",
+      "id": 15583483,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "15583480",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

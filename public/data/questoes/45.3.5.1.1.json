@@ -1,0 +1,58 @@
+{
+  "id": 2708393,
+  "codigo_real": "45.3.5.1.1",
+  "disciplina_real": "Direito Previdenciário",
+  "assunto_real": "Aposentadoria por incapacidade permanente - Aposentadoria por incapacidade permanente",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Advocacia-Geral da União",
+  "cargos_descricao": "Advogado da União",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Com relação aos benefícios do Regime-Geral de Previdência Social, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Para a aposentadoria programada do segurado homem, são exigidos 65 anos de idade, 15 anos de tempo de contribuição e 180 meses de carência.</p>",
+      "corpo_clean": "Para a aposentadoria programada do segurado homem, são exigidos 65 anos de idade, 15 anos de tempo de contribuição e 180 meses de carência.",
+      "id": 10844490,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Para a aposentadoria programada da segurada mulher, são exigidos 60 anos de idade, 15 anos de tempo de contribuição e 180 meses de carência.</p>",
+      "corpo_clean": "Para a aposentadoria programada da segurada mulher, são exigidos 60 anos de idade, 15 anos de tempo de contribuição e 180 meses de carência.",
+      "id": 10844491,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">No caso da aposentadoria por invalidez, a incapacidade precisa ser devidamente comprovada através de um laudo médico pericial.</p>",
+      "corpo_clean": "No caso da aposentadoria por invalidez, a incapacidade precisa ser devidamente comprovada através de um laudo médico pericial.",
+      "id": 10844492,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">São requisitos da aposentadoria dos professores da rede pública e privada de ensino, que passaram a contribuir com a previdência após aprovada a Reforma de 2019, 25 anos de contribuição. Para os professores da iniciativa pública, desses 25 anos de contribuição, são necessários 15 anos de serviço público e 10 anos no cargo em que se der a aposentadoria.</p>",
+      "corpo_clean": "São requisitos da aposentadoria dos professores da rede pública e privada de ensino, que passaram a contribuir com a previdência após aprovada a Reforma de 2019, 25 anos de contribuição. Para os professores da iniciativa pública, desses 25 anos de contribuição, são necessários 15 anos de serviço público e 10 anos no cargo em que se der a aposentadoria.",
+      "id": 10844493,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A aposentadoria da pessoa com deficiência será concedida aos indivíduos que possuem impedimento a longo prazo e desde que não consigam trabalhar nesta condição.</p>",
+      "corpo_clean": "A aposentadoria da pessoa com deficiência será concedida aos indivíduos que possuem impedimento a longo prazo e desde que não consigam trabalhar nesta condição.",
+      "id": 10844494,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10844492",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1749455,
+  "codigo_real": "117.8.10.1",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Cancerologia Cirúrgica - Oncologia (Cancerologia Clínica)",
+  "bancas_nome": "Instituto Brasileiro de Apoio e Desenvolvimento Executivo",
+  "bancas_sigla": "IBADE",
+  "orgaos_nome": "Empresa Maranhense de Serviços Hospitalares - EMSERH",
+  "cargos_descricao": "Residência Médica - Área: Mastologia",
+  "ano": 2017,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Com relação aos linfomas do aparelho digestório, o sítio mais frequente de acometimento é: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>íleo terminal. </p>",
+      "corpo_clean": "íleo terminal. ",
+      "id": 6656642,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>esôfago torácico.</p>",
+      "corpo_clean": "esôfago torácico.",
+      "id": 6656643,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>duodeno. </p>",
+      "corpo_clean": "duodeno. ",
+      "id": 6656644,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>esôfago cervical. </p>",
+      "corpo_clean": "esôfago cervical. ",
+      "id": 6656645,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>estômago. </p>",
+      "corpo_clean": "estômago. ",
+      "id": 6656646,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6656646",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

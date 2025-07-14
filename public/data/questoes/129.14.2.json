@@ -1,0 +1,58 @@
+{
+  "id": 1750711,
+  "codigo_real": "129.14.2",
+  "disciplina_real": "Química",
+  "assunto_real": "Eletroquímica: Oxirredução, Potenciais Padrão de Redução, Pilha, Eletrólise e Leis de Faraday.",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Universidade Estadual de Feira de Santana",
+  "cargos_descricao": "Técnico Universitário - Área: Técnica em Química",
+  "ano": 2018,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considere as seguintes reações para células eletroquímicas e assinale a alternativa correta.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">1.\t\tCu²<sup>+</sup> + Zn<sup>0</sup>\t<span class=\"ql-formula\" data-value=\"\\rightleftharpoons\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.682em; vertical-align: -0.011em;\"></span><span class=\"mrel\">⇌</span></span></span></span></span></span> Cu<sup>0</sup> + Zn<sup>2+ </sup><span class=\"ql-formula\" data-value=\"\\qquad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 2em;\"></span></span></span></span></span></span> E = 1,1V</p><p style=\"text-align: justify;\">2.\t\tCu<sup>0</sup> + Zn<sup>2+</sup> \t<span class=\"ql-formula\" data-value=\"\\rightleftharpoons\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.682em; vertical-align: -0.011em;\"></span><span class=\"mrel\">⇌</span></span></span></span></span></span> Cu<sup>2+</sup> + Zn<sup>0 </sup><span class=\"ql-formula\" data-value=\"\\qquad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 2em;\"></span></span></span></span></span></span> E = -1,1V</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A reação 1 representa uma célula eletrolítica.</p>",
+      "corpo_clean": "A reação 1 representa uma célula eletrolítica.",
+      "id": 6662473,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A reação 2 representa uma célula voltaica.</p>",
+      "corpo_clean": "A reação 2 representa uma célula voltaica.",
+      "id": 6662474,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Na reação 1, o cobre sofre oxidação.</p>",
+      "corpo_clean": "Na reação 1, o cobre sofre oxidação.",
+      "id": 6662475,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A reação 2 requer uma fonte externa de energia elétrica para sua operação.</p>",
+      "corpo_clean": "A reação 2 requer uma fonte externa de energia elétrica para sua operação.",
+      "id": 6662476,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Na reação 1, o cobre é o anodo.</p>",
+      "corpo_clean": "Na reação 1, o cobre é o anodo.",
+      "id": 6662477,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6662476",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

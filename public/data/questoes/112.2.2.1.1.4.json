@@ -1,0 +1,51 @@
+{
+  "id": 1912240,
+  "codigo_real": "112.2.2.1.1.4",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Emprego das letras G e J",
+  "bancas_nome": "GS ASSESSORIA E CONSULTORIA",
+  "bancas_sigla": "GS",
+  "orgaos_nome": "Prefeitura de Saltinho",
+  "cargos_descricao": "Agente Comunitário de Saúde",
+  "ano": 2021,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Assinale a alternativa que contenha as palavras escritas <strong>incorretamente</strong>. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>geladeira, anjo, agenda. </p>",
+      "corpo_clean": "geladeira, anjo, agenda. ",
+      "id": 7380001,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>jipe, gengiva, agitado. </p>",
+      "corpo_clean": "jipe, gengiva, agitado. ",
+      "id": 7380002,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>injeção, massagem, jogo. </p>",
+      "corpo_clean": "injeção, massagem, jogo. ",
+      "id": 7380003,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>giló, jente, geito. </p>",
+      "corpo_clean": "giló, jente, geito. ",
+      "id": 7380004,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "7380004",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

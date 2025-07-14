@@ -1,0 +1,37 @@
+{
+  "id": 2598513,
+  "codigo_real": "31.11",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Responsabilidade Civil do Estado",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Instituto Nacional do Seguro Social",
+  "cargos_descricao": "Técnico do Seguro Social",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">As pessoas jurídicas de direito público ou de direito privado prestadoras de serviços públicos respondem objetivamente pelos danos que seus agentes, nessa qualidade, dão causa, sendo assegurado a elas o direito de regresso nos casos de dolo ou culpa.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">À luz das regras constitucionais sobre a responsabilidade civil extracontratual pública, julgue.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 10366282,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 10366283,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10366282",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2895611,
+  "codigo_real": "51.12",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Sistemas de Informação em Saúde",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Pindamonhangaba",
+  "cargos_descricao": "Fiscal Sanitário",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um sistema de informação em saúde deve ser eficaz, eficiente e efetivo no enfrentamento da situação de saúde indicada. Para isso, a qualidade dos indicadores escolhidos é fundamental. Um indicador deve possuir, entre outras, qualidades como simplicidade e robustez, por meio de dados</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">fáceis de serem calculados e pouco afetados indevidamente por valores atípicos ou outras pequenas discrepâncias.</p>",
+      "corpo_clean": "fáceis de serem calculados e pouco afetados indevidamente por valores atípicos ou outras pequenas discrepâncias.",
+      "id": 11672586,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">precisos na mensuração das informações e que medem o que de fato se deseja medir.</p>",
+      "corpo_clean": "precisos na mensuração das informações e que medem o que de fato se deseja medir.",
+      "id": 11672587,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">discriminatórios para vários níveis de condições de saúde e indicativos de alterações que ocorram com o tempo.</p>",
+      "corpo_clean": "discriminatórios para vários níveis de condições de saúde e indicativos de alterações que ocorram com o tempo.",
+      "id": 11672588,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">disponíveis ou de fácil obtenção e capazes de medir a variável em questão com o mínimo de erro.</p>",
+      "corpo_clean": "disponíveis ou de fácil obtenção e capazes de medir a variável em questão com o mínimo de erro.",
+      "id": 11672589,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">capazes de proporcionar medidas consistentes em várias tentativas e ao longo do tempo e medir objetivamente uma determinada informação.</p>",
+      "corpo_clean": "capazes de proporcionar medidas consistentes em várias tentativas e ao longo do tempo e medir objetivamente uma determinada informação.",
+      "id": 11672590,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11672586",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 969694,
+  "codigo_real": "31.14.5.1.2",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Da competência administrativa",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Superior Tribunal Militar",
+  "cargos_descricao": "Analista Judiciário - Área: Judiciária",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "De acordo com o princípio da autoexecutoriedade, os atos\r\nadministrativos podem ser aplicados pela própria\r\nadministração pública, de forma coativa, sem a necessidade de\r\nprévio consentimento do Poder Judiciário.",
+  "grupoQuestao_enunciado": "Considerando a doutrina majoritária, julgue os próximos itens,\r\nreferentes aos poderes administrativos, à organização administrativa\r\nfederal e aos princípios básicos da administração pública.",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 3390869,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 3390870,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3390869",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

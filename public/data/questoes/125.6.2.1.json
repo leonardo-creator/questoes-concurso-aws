@@ -1,0 +1,58 @@
+{
+  "id": 310629,
+  "codigo_real": "125.6.2.1",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Da Educação",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Secretaria da Educação, do Esporte e da Cultura de Sergipe",
+  "cargos_descricao": "Secretário de Escola",
+  "ano": 2003,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify><P><EM>Adriana, mãe de um aluno matriculado na sexta série de uma escola pública estadual, precisava requerer uma declaração de matrícula de seu filho, para fins de comprovação de escolaridade. Ao dirigir-se à escola em que ele estuda deparou-se com um cartaz com os seguintes dizeres: </EM></P>\r\n<P><EM>Esta escola permanecerá fechada durante o recesso escolar de julho</EM>. </P>\r\n<P> </P>\r\n<P>O fechamento da escola a que o texto se refere</P></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>está de acordo com as normas em vigor, que dispensa\r\ndo ponto por dez dias os funcionários administrativos,\r\ndurante o recesso escolar.</p>",
+      "corpo_clean": "está de acordo com as normas em vigor, que dispensa do ponto por dez dias os funcionários administrativos, durante o recesso escolar.",
+      "id": 1129743,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>contraria a legislação vigente, pois cabe ao Diretor\r\nde Escola garantir a continuidade dos trabalhos\r\ntécnico-administrativos durante o recesso escolar.</p>",
+      "corpo_clean": "contraria a legislação vigente, pois cabe ao Diretor de Escola garantir a continuidade dos trabalhos técnico-administrativos durante o recesso escolar.",
+      "id": 1129744,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>é assegurado por lei complementar, que atribui\r\ncompetência ao Diretor de Escola para decidir sobre a\r\nabertura ou o fechamento da escola no recesso escolar.</p>",
+      "corpo_clean": "é assegurado por lei complementar, que atribui competência ao Diretor de Escola para decidir sobre a abertura ou o fechamento da escola no recesso escolar.",
+      "id": 1129745,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>é motivado pela ausência de funcionários e servidores,\r\nque são impedidos, por lei, de trabalhar durante o\r\nrecesso escolar.</p>",
+      "corpo_clean": "é motivado pela ausência de funcionários e servidores, que são impedidos, por lei, de trabalhar durante o recesso escolar.",
+      "id": 1129746,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>apóia-se no regimento comum das escolas públicas\r\nestaduais, que dispõe sobre o direito de descanso\r\nremunerado dos funcionários administrativos no recesso\r\nescolar.</p>",
+      "corpo_clean": "apóia-se no regimento comum das escolas públicas estaduais, que dispõe sobre o direito de descanso remunerado dos funcionários administrativos no recesso escolar.",
+      "id": 1129747,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1129745",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

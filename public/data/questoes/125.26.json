@@ -1,0 +1,51 @@
+{
+  "id": 2960934,
+  "codigo_real": "125.26",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Autores filosóficos, psicológicos, históricos e sociológicos da educação",
+  "bancas_nome": "Universidade de Rio Verde",
+  "bancas_sigla": "UniRV",
+  "orgaos_nome": "Prefeitura de Rio Verde",
+  "cargos_descricao": "Intérprete de Libras",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Analise o fragmento de texto a seguir: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">“Percebo que muitas pessoas têm dificuldades de entender a realidade e a cultura surda. Precisamos ajudar os que ainda não entendem que nós temos uma cultura diferente. Trata-se de uma questão intercultural. Surdos devem respeitar a cultura dos ouvintes e vice-versa. Essa troca é muito importante e respeitosa”. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\">Karin Strobel</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa que faz a real interpretação do texto:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Inter-relação entre a cultura surda e a cultura ouvinte.</p>",
+      "corpo_clean": "Inter-relação entre a cultura surda e a cultura ouvinte.",
+      "id": 11961156,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Cada cultura possui a sua peculiaridade, mas não devem se relacionar mutuamente.</p>",
+      "corpo_clean": "Cada cultura possui a sua peculiaridade, mas não devem se relacionar mutuamente.",
+      "id": 11961157,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Relação de diferença entre a cultura surda e a cultura ouvinte.</p>",
+      "corpo_clean": "Relação de diferença entre a cultura surda e a cultura ouvinte.",
+      "id": 11961158,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Cada cultura é diferente uma da outra, não possibilitando uma simbiose entre elas.</p>",
+      "corpo_clean": "Cada cultura é diferente uma da outra, não possibilitando uma simbiose entre elas.",
+      "id": 11961159,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11961156",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3406268,
+  "codigo_real": "116.7.11",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Exumação",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Prefeitura de Cachoeiro de Itapemirim",
+  "cargos_descricao": "Médico - Área Clínica Geral",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">O diagnóstico preciso do quadro em apreço demandará a realização de uma espirometria.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> Uma paciente com 30 anos de idade, auxiliar de cozinha, procurou o ambulatório de clínica médica, informando apresentar dispneia e chiados no peito há 10 anos, que pioram após contato com produtos de limpeza à base de amoníacos, mofo, poeira, fumaça de cigarro e mudança brusca da temperatura. No último ano, ela percebeu um agravamento da doença, tendo os sintomas passado a ser diários, com, em média, 4 episódios noturnos, sendo que, há 7 dias, ela teve de procurar assistência em uma UPA. A paciente, que faz uso de salbutamol por via inalatória somente quando observa o agravamento dos sintomas, informou que um irmão dela e seu pai têm o diagnóstico de rinite alérgica. Ela negou tabagismo e etilismo. O exame físico mostrou sibilos expiratórios esparsos em ambos os pulmões.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Com referência a esse quadro clínico hipotético, julgue os itens que se seguem.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 13873753,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 13873754,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13873754",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2037953,
+  "codigo_real": "117.8.8",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Clínica Geral - Clínica Geral",
+  "bancas_nome": "FAFIPA Fundação de Apoio",
+  "bancas_sigla": "FAFIPA",
+  "orgaos_nome": "Prefeitura de Carlópolis",
+  "cargos_descricao": "Médico Plantonista",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A base do tratamento da condição da questão 15 é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Ciclosporina.</p>",
+      "corpo_clean": "Ciclosporina.",
+      "id": 7944480,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Ciclofosfamida.</p>",
+      "corpo_clean": "Ciclofosfamida.",
+      "id": 7944481,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Metotrexate.</p>",
+      "corpo_clean": "Metotrexate.",
+      "id": 7944482,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Corticosteroides.</p>",
+      "corpo_clean": "Corticosteroides.",
+      "id": 7944483,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "7944483",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

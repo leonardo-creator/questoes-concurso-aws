@@ -1,0 +1,37 @@
+{
+  "id": 795007,
+  "codigo_real": "140.7.2.9.7",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Gerenciamento de Sistemas de Arquivos",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Superior Tribunal de Justiça",
+  "cargos_descricao": "Analista Judiciário - Área Suporte em Tecnologia da Informação",
+  "ano": 2015,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "Caso o sistema de arquivos do referido computador seja o\r\nNTFS, o sistema estará corrompido quando a máquina for\r\nreiniciada.",
+  "grupoQuestao_enunciado": "Considerando que um computador de um analista de TI do STJ\r\ntenha desligado inesperadamente quando ele estava atualizando o\r\narquivo c:\\dados\\planilha.txt, julgue os itens que se seguem,\r\nacerca dos conceitos de sistemas de arquivos e tecnologias de\r\nbackup.",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2741284,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2741285,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2741285",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

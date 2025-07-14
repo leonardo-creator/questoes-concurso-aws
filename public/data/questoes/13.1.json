@@ -1,0 +1,58 @@
+{
+  "id": 1712076,
+  "codigo_real": "13.1",
+  "disciplina_real": "Atualidades e Conhecimentos Gerais",
+  "assunto_real": "Mundo",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Agência Reguladora dos Serviços de Saneamento das Bacias dos Rios Piracicaba, Capivari e Jundiaí",
+  "cargos_descricao": "Assistente Administrativo",
+  "ano": 2018,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Após uma campanha com recorde de políticos assassinados, Andrés Manuel López Obrador venceu a disputa pela Presidência, em 01 de julho. Sua vitória já vinha sendo apontada em pesquisas anteriores ao pleito. Com o resultado confirmado, será o primeiro presidente de esquerda do país em décadas, que enfrentará desafios para governar com estabilidade. </p><p style=\"text-align: right;\">(O Globo. Disponível em https://glo.bo/2mDSzjL. 01.07.2018. Adaptado) </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">A notícia destaca a eleição presidencial</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>do México.</p>",
+      "corpo_clean": "do México.",
+      "id": 6487221,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>da Colômbia.</p>",
+      "corpo_clean": "da Colômbia.",
+      "id": 6487222,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>do Chile.</p>",
+      "corpo_clean": "do Chile.",
+      "id": 6487223,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>da Nicarágua.</p>",
+      "corpo_clean": "da Nicarágua.",
+      "id": 6487224,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>do Paraguai.</p>",
+      "corpo_clean": "do Paraguai.",
+      "id": 6487225,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6487221",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

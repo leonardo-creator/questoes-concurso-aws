@@ -1,0 +1,51 @@
+{
+  "id": 2540151,
+  "codigo_real": "51.7.7.3.4",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Da Organização, da Direção e da Gestão - Art. 8º ao 14-B",
+  "bancas_nome": "Fundação de Saúde Pública de São Sebastião",
+  "bancas_sigla": "FSPSS",
+  "orgaos_nome": "Fundação de Saúde Pública de São Sebastião",
+  "cargos_descricao": "Auxiliar Administrativo",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>A Lei Federal no 8.080/1990 prevê que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">a participação complementar dos serviços privados para garantir a cobertura assistencial do SUS será formalizada mediante concessão, estabelecida por normas predominantemente privadas.</p>",
+      "corpo_clean": "a participação complementar dos serviços privados para garantir a cobertura assistencial do SUS será formalizada mediante concessão, estabelecida por normas predominantemente privadas.",
+      "id": 10112989,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a utilização do critério baseado no perfil demográfico é vedada para o estabelecimento de valores a serem transferidos a Estados, Distrito Federal e Municípios.</p>",
+      "corpo_clean": "a utilização do critério baseado no perfil demográfico é vedada para o estabelecimento de valores a serem transferidos a Estados, Distrito Federal e Municípios.",
+      "id": 10112990,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">os cargos e funções de chefia, direção e assessoramento, no âmbito do SUS, só poderão ser exercidos em regime de tempo integral.</p>",
+      "corpo_clean": "os cargos e funções de chefia, direção e assessoramento, no âmbito do SUS, só poderão ser exercidos em regime de tempo integral.",
+      "id": 10112991,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">os Municípios, dentre as atribuições estatuídas nessa lei, ficam vedados de administrar os recursos orçamentários e financeiros destinados à saúde, em cada ano.</p>",
+      "corpo_clean": "os Municípios, dentre as atribuições estatuídas nessa lei, ficam vedados de administrar os recursos orçamentários e financeiros destinados à saúde, em cada ano.",
+      "id": 10112992,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10112991",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2013954,
+  "codigo_real": "3.18",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Gestão de Pessoas - Gestão de Pessoas",
+  "bancas_nome": "Ganzaroli Assessoria, Consultoria e Concursos",
+  "bancas_sigla": "Ganzaroli",
+  "orgaos_nome": "Prefeitura de Montividiu do Norte",
+  "cargos_descricao": "Agente de Recursos Humanos",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Colocação de pessoal é um passo para que as organizações mantenham sempre as pessoas certas, nos lugares corretos, e nos momentos propícios, e consiste no Planejamento, Recrutamento, Seleção e Integração de Pessoal. Ela é dividida em quatro fases distintas:</p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/65848/questao/2013954-20211104160648000000-0.png\" style=\"display: block; margin: auto;\" align=\"center\"></p><p style=\"text-align: justify;\">Analise as afirmações a seguir:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I - Planejamento: procura estimar as necessidades futuras de pessoal;</p><p style=\"text-align: justify;\">II - Recrutamento: procura candidatos para ocuparem as vagas existentes;</p><p style=\"text-align: justify;\">III - Seleção: identifica o Candidato mais qualificado entre os recrutados;</p><p style=\"text-align: justify;\">IV - Integração: Deve ter como foco a adaptação do indivíduo ao trabalho e à empresa.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Está(ão) correta (as):</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Uma afirmação</p>",
+      "corpo_clean": "Uma afirmação",
+      "id": 7840086,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Duas afirmações</p>",
+      "corpo_clean": "Duas afirmações",
+      "id": 7840087,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Três afirmações</p>",
+      "corpo_clean": "Três afirmações",
+      "id": 7840088,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Quatro afirmações</p>",
+      "corpo_clean": "Quatro afirmações",
+      "id": 7840089,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "7840089",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

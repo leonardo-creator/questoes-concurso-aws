@@ -1,0 +1,51 @@
+{
+  "id": 3396703,
+  "codigo_real": "116.15",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Infortunística",
+  "bancas_nome": "Instituto de Consultoria e Concursos",
+  "bancas_sigla": "ITAME",
+  "orgaos_nome": "Prefeitura de Nova Glória",
+  "cargos_descricao": "Médico",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A insuficiência cardíaca (IC) é uma condição progressiva, debilitante e potencialmente fatal. É responsável por elevado número de hospitalizações, altas taxas de mortalidade, morbidade e redução da qualidade de vida. No Brasil, a IC é a primeira causa de internação hospitalar em pessoas acima de 60 anos. Sabe-se que algumas medicações conseguiram reduzir a mortalidade cardiovascular e as hospitalizações decorrentes da IC. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Sobre a terapêutica desta doença, qual das medicações utilizadas previamente no controle glicêmico, foi a mais recente a ser aprovada pela Anvisa (em 2021)?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Dapaglifozina</p>",
+      "corpo_clean": "Dapaglifozina",
+      "id": 13836691,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Empagliflozina</p>",
+      "corpo_clean": "Empagliflozina",
+      "id": 13836692,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Vildaglipitina</p>",
+      "corpo_clean": "Vildaglipitina",
+      "id": 13836693,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Metformina</p>",
+      "corpo_clean": "Metformina",
+      "id": 13836694,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "13836692",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

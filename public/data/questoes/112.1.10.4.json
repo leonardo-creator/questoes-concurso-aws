@@ -1,0 +1,58 @@
+{
+  "id": 3045236,
+  "codigo_real": "112.1.10.4",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Linguagem profissional (jargão)",
+  "bancas_nome": "Cetro Concursos Públicos",
+  "bancas_sigla": "CETRO",
+  "orgaos_nome": "Agência Nacional de Vigilância Sanitária",
+  "cargos_descricao": "Analista Administrativo - Área Informática",
+  "ano": 2013,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com a norma-padrão da Língua Portuguesa e levando em consideração o terceiro parágrafo do texto e as orientações da prescrição gramatical no que se refere a textos escritos, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"> Leia o texto abaixo, para responder às questões de 1 a 6. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify; text-indent: 3em;\">É inevitável que venham a existir lacunas na nossa compreensão do cenário global de regulamentações sobre o <em>marketing</em> de alimentos para crianças. É de interesse especial a implicação das regulamentações para a alimentação saudável. Infelizmente, há relativamente poucas experiências nos países que possam ser utilizadas para melhor compreender se as regulamentações são eficazes para incentivar dietas mais balanceadas. </p><p style=\"text-align: justify; text-indent: 3em;\">A inexistência de sistemas regulatórios específicos para o <em>marketing </em>de alimentos para crianças significa que há poucos modelos e poucas evidências que possam embasar futuras políticas. Embora as cláusulas existentes, ao exigirem que as propagandas não incentivem a alimentação não saudável, tenham o potencial de afetar como os alimentos e as bebidas são apresentados nas propagandas, essa abordagem não foi avaliada em termos do seu impacto nas dietas infantis. Da mesma forma, é difícil, no momento, avaliar a eficácia das proibições à publicidade. Embora as proibições pareçam reduzir a exposição à publicidade e os apelos das marcas divulgadas, seus efeitos na dieta total não estão claros. Além do mais, as proibições existentes são enfraquecidas pela publicidade transfronteira e pelas técnicas de <em>marketing </em>alternativas, fatores que complicam ainda mais a avaliação. Na verdade, a avaliação dos efeitos das regulamentações de todos os tipos é geralmente inadequada. </p><p style=\"text-align: justify; text-indent: 3em;\">A falta de pesquisas objetivas sobre os efeitos da regulamentação nos padrões alimentares e na saúde a longo prazo é uma lacuna de conhecimento séria que precisa ser sanada. A compreensão dos efeitos dos sistemas regulatórios – incluindo proibições publicitárias estatutárias, restrições à venda de produtos, regulamentações sobre promoções de vendas, códigos autorregulatórios e iniciativas da indústria alimentícia – ajudaria a determinar se as regulamentações do <em>marketing </em>são mecanismos eficazes ou ineficazes para desencorajar dietas não balanceadas. As informações também auxiliariam todas as entidades e pessoas envolvidas a direcionarem suas energias para soluções produtivas, contrapondo-se às políticas que não terão o efeito pretendido de melhorar as dietas infantis e a saúde em longo prazo.</p><p style=\"text-align: justify; text-indent: 3em;\"><br></p><p style=\"text-align: right; text-indent: 3em;\">Hawkes, Corinna. Marketing de alimentos para crianças: o cenário global das regulamentações / Organização Mundial da Saúde; Agência Nacional de Vigilância Sanitária, 2006. </p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O primeiro período do parágrafo ficaria mais claro se a expressão “a longo prazo” fosse colocada após “pesquisas objetivas”, onde estaria mais próximo a seu referente.</p>",
+      "corpo_clean": "O primeiro período do parágrafo ficaria mais claro se a expressão “a longo prazo” fosse colocada após “pesquisas objetivas”, onde estaria mais próximo a seu referente.",
+      "id": 12325603,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">No primeiro período, o uso da vírgula antes da oração “que precisa ser sanada” alteraria a classificação dessa oração, mas, nesse contexto, não representaria prejuízo para o sentido. </p>",
+      "corpo_clean": "No primeiro período, o uso da vírgula antes da oração “que precisa ser sanada” alteraria a classificação dessa oração, mas, nesse contexto, não representaria prejuízo para o sentido. ",
+      "id": 12325604,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Em “se as regulamentações do <em>marketing </em><strong><u>são</u></strong> mecanismos eficazes ou ineficazes para <strong><u>desencorajar</u></strong> dietas”, os termos destacados podem ser substituídos, respectivamente, por “tratam-se de” e “desestimular”, sem prejuízo para a correção gramatical ou para o sentido.</p>",
+      "corpo_clean": "Em “se as regulamentações do marketing são mecanismos eficazes ou ineficazes para desencorajar dietas”, os termos destacados podem ser substituídos, respectivamente, por “tratam-se de” e “desestimular”, sem prejuízo para a correção gramatical ou para o sentido.",
+      "id": 12325605,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">No último período, o deslocamento do termo “também” para depois dos termos “auxiliariam” ou “envolvidas” manteria a organização sintática e o sentido original do trecho, sem a necessidade de novas alterações.</p>",
+      "corpo_clean": "No último período, o deslocamento do termo “também” para depois dos termos “auxiliariam” ou “envolvidas” manteria a organização sintática e o sentido original do trecho, sem a necessidade de novas alterações.",
+      "id": 12325606,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">No último período do parágrafo, a partícula “se” em “contrapondo-se” tem uma função apenas de realce, de modo que pode ser suprimida sem que isso represente prejuízo para a organização do trecho ou para o sentido. </p>",
+      "corpo_clean": "No último período do parágrafo, a partícula “se” em “contrapondo-se” tem uma função apenas de realce, de modo que pode ser suprimida sem que isso represente prejuízo para a organização do trecho ou para o sentido. ",
+      "id": 12325607,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12325604",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

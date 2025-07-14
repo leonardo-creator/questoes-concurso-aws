@@ -1,0 +1,58 @@
+{
+  "id": 3355946,
+  "codigo_real": "31.19.40.2.10.6",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Do Registro Cadastral",
+  "bancas_nome": "Legalle Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Universidade Federal de Rondônia",
+  "cargos_descricao": "Assistente Administrativo",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Uma das licenças previstas aos servidores públicos civis da União, das autarquias e das fundações públicas federais é por motivo de afastamento do cônjuge. Ela determina que poderá ser concedida licença ao servidor para acompanhar cônjuge ou companheiro que foi deslocado para outro ponto do território nacional, para o exterior ou para o exercício de mandato eletivo dos Poderes Executivo e Legislativo. Essa licença se dará: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Por prazo determinado e sem remuneração. </p>",
+      "corpo_clean": "Por prazo determinado e sem remuneração. ",
+      "id": 13658011,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Por prazo determinado e com remuneração parcial. </p>",
+      "corpo_clean": "Por prazo determinado e com remuneração parcial. ",
+      "id": 13658012,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Por prazo indeterminado e com remuneração integral. </p>",
+      "corpo_clean": "Por prazo indeterminado e com remuneração integral. ",
+      "id": 13658013,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Por prazo indeterminado e sem remuneração. </p>",
+      "corpo_clean": "Por prazo indeterminado e sem remuneração. ",
+      "id": 13658014,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Por prazo determinado e com remuneração integral. </p>",
+      "corpo_clean": "Por prazo determinado e com remuneração integral. ",
+      "id": 13658015,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13658014",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

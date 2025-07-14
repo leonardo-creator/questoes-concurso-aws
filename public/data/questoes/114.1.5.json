@@ -1,0 +1,58 @@
+{
+  "id": 2047267,
+  "codigo_real": "114.1.5",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Logaritmos na Matemática Financeira",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de São José dos Campos",
+  "cargos_descricao": "Analista Técnico - Área: Engenharia Civil",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Do total de docentes em uma escola, 24% são maratonistas, e o número de maratonistas mulheres é 6 a mais do que o número de maratonistas homens. Nessa escola, 56% dos docentes são mulheres, e o número de mulheres excede o número de homens em 9. O número de docentes homens que são maratonistas é</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>2.</p>",
+      "corpo_clean": "2.",
+      "id": 7985334,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>4.</p>",
+      "corpo_clean": "4.",
+      "id": 7985335,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>6.</p>",
+      "corpo_clean": "6.",
+      "id": 7985336,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>8.</p>",
+      "corpo_clean": "8.",
+      "id": 7985337,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>10.</p>",
+      "corpo_clean": "10.",
+      "id": 7985338,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7985336",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

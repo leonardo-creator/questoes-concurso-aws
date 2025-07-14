@@ -1,0 +1,37 @@
+{
+  "id": 290762,
+  "codigo_real": "112.2.1.3.2.1.3",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Proparoxítonas",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Prefeitura de Vitória",
+  "cargos_descricao": "Técnico - Área: Enfermagem",
+  "ano": 2007,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>As organelas, ajudam a processar nutrientes e gerar energia,\r\ncomo minúsculos pulmões, estômagos e outros orgãos.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Nos itens a seguir, os fragmentos constituem trechos sucessivos\r\nde um texto. Julgue-os quanto à pontuação, à concordância e à\r\nacentuação.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1080708,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1080709,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1080709",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

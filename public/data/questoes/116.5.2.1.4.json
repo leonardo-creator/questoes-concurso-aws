@@ -1,0 +1,58 @@
+{
+  "id": 709059,
+  "codigo_real": "116.5.2.1.4",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Rubefação",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional Federal da 3ª Região",
+  "cargos_descricao": "Analista Judiciário - Área Apoio Especializado - Especialidade: Medicina",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Ocorre em cerca de 5 a 20% dos pacientes com febre\r\nreumática, principalmente crianças e adolescentes, sendo\r\nem torno de três vezes mais comum no sexo feminino. É\r\nconsiderada a manifestação mais específica da doença.</p>\r\nO texto acima refere-se a",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "cardite.",
+      "corpo_clean": "cardite.",
+      "id": 2428579,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "eritema marginado.",
+      "corpo_clean": "eritema marginado.",
+      "id": 2428580,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "nódulos subcutâneos.",
+      "corpo_clean": "nódulos subcutâneos.",
+      "id": 2428581,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "coreia de Sydenham.",
+      "corpo_clean": "coreia de Sydenham.",
+      "id": 2428582,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "artrite.",
+      "corpo_clean": "artrite.",
+      "id": 2428583,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2428582",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

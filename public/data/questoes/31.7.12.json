@@ -1,0 +1,58 @@
+{
+  "id": 2404663,
+  "codigo_real": "31.7.12",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Recursos Administrativos dos Contratos",
+  "bancas_nome": "Fundação de Apoioao Desenvolvimento Unicentro",
+  "bancas_sigla": "FAU UNICENTRO",
+  "orgaos_nome": "Prefeitura de Iguatu",
+  "cargos_descricao": "Auxiliar Administrativo",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Contrato administrativo é o que a Administração Pública firma com particular ou outra entidade administrativa para a realização de serviço ou execução de obra. Para um contrato administrativo ter valor, são necessárias as seguintes formalidades, EXCETO:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Que seja celebrado por autoridade competente para empenhar despesa.</p>",
+      "corpo_clean": "Que seja celebrado por autoridade competente para empenhar despesa.",
+      "id": 9521279,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Que seja realizado para a execução de serviços autorizados em lei.</p>",
+      "corpo_clean": "Que seja realizado para a execução de serviços autorizados em lei.",
+      "id": 9521280,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Que haja citação da lei que o autoriza.</p>",
+      "corpo_clean": "Que haja citação da lei que o autoriza.",
+      "id": 9521281,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Que nele se faça a indicação minuciosa dos serviços a serem realizados e dispensa-se a definição dos respectivos preços.</p>",
+      "corpo_clean": "Que nele se faça a indicação minuciosa dos serviços a serem realizados e dispensa-se a definição dos respectivos preços.",
+      "id": 9521282,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Que guarde conformidade com as propostas proferidas nas concorrências.</p>",
+      "corpo_clean": "Que guarde conformidade com as propostas proferidas nas concorrências.",
+      "id": 9521283,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9521282",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

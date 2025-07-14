@@ -1,0 +1,58 @@
+{
+  "id": 390536,
+  "codigo_real": "10.8",
+  "disciplina_real": "Arquivologia",
+  "assunto_real": "Automação de arquivos - Automação de arquivos",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional do Trabalho da 3ª Região",
+  "cargos_descricao": "Analista Judiciário - Área Arquivologia",
+  "ano": 2009,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>O Sistema Integrado de Protocolização e Fluxo de Documentos\r\nEletrônicos do Tribunal Regional do Trabalho da\r\n3ª Região (e-DOC)</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>gera ao remetente o comprovante de entrega da petição.</p>",
+      "corpo_clean": "gera ao remetente o comprovante de entrega da petição.",
+      "id": 1398053,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>não aceita documentos em formato PDF.</p>",
+      "corpo_clean": "não aceita documentos em formato PDF.",
+      "id": 1398054,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>admite o fracionamento da petição e dos documentos\r\nque a acompanham.</p>",
+      "corpo_clean": "admite o fracionamento da petição e dos documentos que a acompanham.",
+      "id": 1398055,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>não exime o usuário da apresentação posterior de\r\ndocumentos originais.</p>",
+      "corpo_clean": "não exime o usuário da apresentação posterior de documentos originais.",
+      "id": 1398056,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>é um serviço de uso obrigatório para o envio de toda\r\ne qualquer petição.</p>",
+      "corpo_clean": "é um serviço de uso obrigatório para o envio de toda e qualquer petição.",
+      "id": 1398057,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1398053",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

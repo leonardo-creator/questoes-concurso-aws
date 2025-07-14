@@ -1,0 +1,58 @@
+{
+  "id": 2035069,
+  "codigo_real": "58.7.20",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Hanseníase",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Hospital das Clínicas da Faculdade de Medicina da Usp",
+  "cargos_descricao": "Enfermagem",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Ao realizar o exame físico de P.J., 9 anos, sexo masculino, o enfermeiro constatou a presença de mancha única na pele do tórax, de cor mais clara do que a pele ao redor. Observou, ainda, que a lesão não era elevada e apresentava bordas mal delimitadas. A mãe da criança informou que estava preocupada desde o aparecimento dessa mancha há cerca de três meses, porque notou que a pele local era seca, não produzia suor e seu filho parecia não sentir dor no local, pois havia se arranhado em brincadeiras e não percebeu o ferimento. Relatou ainda que seu sogro, que havia morado com a família por muitos anos, mas se mudara para outro estado há cerca de seis meses, fora diagnosticado com hanseníase recentemente. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">A partir dos dados obtidos, o enfermeiro deve solicitar avaliação médica suspeitando se tratar de um caso de hanseníase na forma</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">virchowiana, e manter o paciente em isolamento por contato.</p>",
+      "corpo_clean": "virchowiana, e manter o paciente em isolamento por contato.",
+      "id": 7931580,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">indeterminada, sendo desnecessária a adoção de medidas especiais de isolamento por motivo da suspeita.</p>",
+      "corpo_clean": "indeterminada, sendo desnecessária a adoção de medidas especiais de isolamento por motivo da suspeita.",
+      "id": 7931581,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">tuberculoide, e manter o paciente em isolamento respiratório.</p>",
+      "corpo_clean": "tuberculoide, e manter o paciente em isolamento respiratório.",
+      "id": 7931582,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">tuberculoide, sendo desnecessária a adoção de medidas especiais de isolamento por motivo da suspeita.</p>",
+      "corpo_clean": "tuberculoide, sendo desnecessária a adoção de medidas especiais de isolamento por motivo da suspeita.",
+      "id": 7931583,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">multibacilar, e manter o paciente em isolamento respiratório.</p>",
+      "corpo_clean": "multibacilar, e manter o paciente em isolamento respiratório.",
+      "id": 7931584,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7931581",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

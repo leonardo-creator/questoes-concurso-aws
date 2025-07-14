@@ -1,0 +1,58 @@
+{
+  "id": 3412568,
+  "codigo_real": "114.10",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Cálculo Financeiro",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Consórcio Intermunicipal de Saneamento Básico da Região do Circuito das Águas",
+  "cargos_descricao": "Contador",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Qual é a Quota de Amortização anual da conta Farma, pelo método linear, em 3112x1, considerando que a referida conta tinha um saldo igual a R$ 36.000,00 e que o tempo de vida útil foi estimado em 8 anos? </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>R$ 3.600,00 </p>",
+      "corpo_clean": "R$ 3.600,00 ",
+      "id": 13897686,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>R$ 3.000,00 </p>",
+      "corpo_clean": "R$ 3.000,00 ",
+      "id": 13897687,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>R$ 4.000,00 </p>",
+      "corpo_clean": "R$ 4.000,00 ",
+      "id": 13897688,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>R$ 1.800,00 </p>",
+      "corpo_clean": "R$ 1.800,00 ",
+      "id": 13897689,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>R$ 4.500,00 </p>",
+      "corpo_clean": "R$ 4.500,00 ",
+      "id": 13897690,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13897690",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

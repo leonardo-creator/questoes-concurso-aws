@@ -1,0 +1,58 @@
+{
+  "id": 2587067,
+  "codigo_real": "116.7.8",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Necropsia",
+  "bancas_nome": "Universidade Federal do Paraná",
+  "bancas_sigla": "FUNPAR NC UFPR",
+  "orgaos_nome": "Universidade Federal do Paraná",
+  "cargos_descricao": "Médico - Área Neurorradiologia",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Quanto às dissecções da artéria carótida interna extracraniana, assinale a alternativa INCORRETA.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Correspondem a 20% dos acidentes vasculares isquêmicos em jovens. </p>",
+      "corpo_clean": "Correspondem a 20% dos acidentes vasculares isquêmicos em jovens. ",
+      "id": 10318009,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Podem ocorrer de forma espontânea ou associadas a uma vasculopatia de base, como a doença fibromuscular. </p>",
+      "corpo_clean": "Podem ocorrer de forma espontânea ou associadas a uma vasculopatia de base, como a doença fibromuscular. ",
+      "id": 10318010,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Quanto ao aspecto angiográfico das dissecções, o achado mais comum é um flap de íntima – uma falsa luz ou presença de um pseudoaneurisma.</p>",
+      "corpo_clean": "Quanto ao aspecto angiográfico das dissecções, o achado mais comum é um flap de íntima – uma falsa luz ou presença de um pseudoaneurisma.",
+      "id": 10318011,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As dissecções da artéria carótida interna poupam tipicamente o bulbo carotídeo. </p>",
+      "corpo_clean": "As dissecções da artéria carótida interna poupam tipicamente o bulbo carotídeo. ",
+      "id": 10318012,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A apresentação clínica é variável, sendo algumas assintomáticas, e os sintomas mais comuns são cefaleia e dor cervical ou subociptal. </p>",
+      "corpo_clean": "A apresentação clínica é variável, sendo algumas assintomáticas, e os sintomas mais comuns são cefaleia e dor cervical ou subociptal. ",
+      "id": 10318013,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10318011",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

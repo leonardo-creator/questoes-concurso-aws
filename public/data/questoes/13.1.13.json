@@ -1,0 +1,37 @@
+{
+  "id": 255902,
+  "codigo_real": "13.1.13",
+  "disciplina_real": "Atualidades e Conhecimentos Gerais",
+  "assunto_real": "Guerras, Terrorismo, Segurança, Violência e Narcotráfico",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Prefeitura de Vitória",
+  "cargos_descricao": "Analista de Tecnologia da Informação - Área Infraestrutura",
+  "ano": 2007,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>No mundo contemporâneo, o denominado crime organizado\r\ncostuma agir em escala global e, para usufruir do elevado\r\nmontante de recursos que amealha, faz uso de mecanismos\r\npara tornar legalizado o dinheiro que obtém ilicitamente.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify; text-indent: 3em;\"> Os governadores de Minas e do Espírito Santo, Aécio Neves e Paulo Hartung, mais o prefeito de Ipatinga e a ex-primeira dama da França, Danielle Miterrand, protagonizaram um encontro incomum de consciência ecológica e vontade política. Melhor. Com decisões e ações efetivas em prol da recuperação de um rio situado em uma das bacias hidrográficas mais degradadas hoje de todo o Sudeste brasileiro. Era a abertura do 3.º Fórum das Águas do Rio Doce – Integração e Sustentabilidade. </p><p style=\"text-align: justify; text-indent: 3em;\">“Estamos construindo um novo modelo democrático de recuperação ambiental. Nossas águas estão saturadas devido a um modelo antigo de exploração econômica que se comprovou insustentável”, afirmou Aécio Neves. “Se nós conseguimos acabar com a corrupção instalada em todos os setores dos poderes Executivo, Legislativo e Judiciário do Espírito Santo, e controlar a violência e a influência do narcotráfico em um estado símbolo e secular de desmando como o nosso, por que não podemos sanear nossas águas?”, disse Paulo Hartung. </p><p style=\"text-align: justify; text-indent: 3em;\"><br></p><p style=\"text-align: right; text-indent: 3em;\"><strong>JB Ecológico</strong>, ano 5, n.º 63, abril de 2007, p. 21-2 (com adaptações).</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Tendo o texto acima como referência inicial e considerando a abrangência do tema por ele focalizado, além dos demais aspectos que suscita, julgue os itens que se seguem. </p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 980562,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 980563,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "980562",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

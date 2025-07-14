@@ -1,0 +1,37 @@
+{
+  "id": 458882,
+  "codigo_real": "6.17",
+  "disciplina_real": "Antropologia",
+  "assunto_real": "Antropologia Biológica",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Secretaria de Estado de Gestão e Recursos Humanos do Espírito Santo",
+  "cargos_descricao": "Especialista em Desenvolvimento Humano - Área Antropologia",
+  "ano": 2011,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>são construídas por meio de mecanismos que garantem maior\r\nprecisão conceitual, a fim de se evitarem os mesmos equívocos\r\ndas antigas definições, que eram, em geral, muito abrangentes\r\ne pouco produtivas.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>As teorias modernas da cultura</p>",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1634663,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1634662,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "1634662",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

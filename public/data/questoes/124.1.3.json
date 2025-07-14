@@ -1,0 +1,51 @@
+{
+  "id": 3734541,
+  "codigo_real": "124.1.3",
+  "disciplina_real": "Odontologia",
+  "assunto_real": "Instrumentos Odontológicos",
+  "bancas_nome": "Objetiva Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Arvorezinha",
+  "cargos_descricao": "Auxiliar em Saúde Bucal",
+  "ano": 2025,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A caneta ultrassom se configura como um instrumento essencial e versátil na prática odontológica, desempenhando múltiplas funções que visam otimizar a eficiência dos procedimentos. Considerando-se suas características e indicações, qual é a principal função deste equipamento?</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/181633/questao/3734541-20250402100921000000-0.png\"></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Limpeza e desinfecção de canais radiculares durante o tratamento endodôntico.</p>",
+      "corpo_clean": "Limpeza e desinfecção de canais radiculares durante o tratamento endodôntico.",
+      "id": 15205401,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Desmineralização e remoção de tecido cariado amolecido, facilitando a restauração.</p>",
+      "corpo_clean": "Desmineralização e remoção de tecido cariado amolecido, facilitando a restauração.",
+      "id": 15205402,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Remoção de depósitos de cálculo dental aderido na região supragengival.</p>",
+      "corpo_clean": "Remoção de depósitos de cálculo dental aderido na região supragengival.",
+      "id": 15205403,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Irrigação e limpeza do alvéolo pós-exodontia, promovendo a cicatrização.</p>",
+      "corpo_clean": "Irrigação e limpeza do alvéolo pós-exodontia, promovendo a cicatrização.",
+      "id": 15205404,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "15205403",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

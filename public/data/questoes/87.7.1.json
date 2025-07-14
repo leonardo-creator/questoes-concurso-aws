@@ -1,0 +1,37 @@
+{
+  "id": 520356,
+  "codigo_real": "87.7.1",
+  "disciplina_real": "Fisioterapia",
+  "assunto_real": "Pneumologia - Pneumologia",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Ministério da Saúde",
+  "cargos_descricao": "Médico - Área: Pneumologia",
+  "ano": 2010,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>A indicação de oxigenoterapia domiciliar prolongada baseia-se\r\nna medida da PaO2 em repouso, durante exercício e durante o\r\nsono.</p>",
+  "grupoQuestao_enunciado": "Quanto aos métodos diagnósticos em pneumologia, julgue os\r\npróximos itens.",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1895738,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1895737,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "1895737",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

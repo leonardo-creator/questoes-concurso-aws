@@ -1,0 +1,37 @@
+{
+  "id": 620069,
+  "codigo_real": "115.6",
+  "disciplina_real": "Matemática",
+  "assunto_real": "Análise Combinatória",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Conselho Nacional do Desenvolvimento Científico e Tecnológico",
+  "cargos_descricao": "Analista Pleno I - Área Ciências Sociais",
+  "ano": 2004,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>A probabilidade de um determinado especialista da lista ser\r\nescolhido para compor esse comitê é inferior a 0,1.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Para compor um comitê científico do CNPq, quatro especialistas\r\nforam selecionados aleatoriamente de uma lista contendo 30\r\nnomes. Dos integrantes dessa lista, 5 são da região Nordeste, 4 da\r\nregião Centro-Oeste, 1 da região Norte, 8 da região Sul e 12 da\r\nregião Sudeste. Com base nessas informações, julgue os itens a\r\nseguir.</p>",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2166396,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2166395,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "2166396",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

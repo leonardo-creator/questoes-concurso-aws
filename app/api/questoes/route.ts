@@ -6,7 +6,42 @@ import fs from 'fs';
 import path from 'path';
 import type { QuestaoManifesto, Questao, FiltroQuestoes, OrdenacaoQuestoes } from '@/types';
 
-const QUESTOES_PER_PAGE = 50;
+// Interface para busca hierárquica
+interface BuscaHierarquica {
+  codigoParaAssunto: Record<string, string>;
+  assuntoParaCodigo: Record<string, string>;
+  disciplinas: Record<string, any>;
+  buscaHierarquica: Record<string, {
+    proprio: string;
+    filhos: string[];
+    todos: string[];
+  }>;
+}
+
+const QUESTOES_PER_PAGE = 120;
+
+/**
+ * Função para expandir códigos de assuntos considerando hierarquia
+ */
+function expandirAssuntosHierarquicos(assuntos: string[], buscaHierarquica: BuscaHierarquica['buscaHierarquica']): string[] {
+  if (!assuntos || assuntos.length === 0) return [];
+
+  const codigosExpandidos = new Set<string>();
+
+  for (const assunto of assuntos) {
+    // Adicionar o assunto selecionado
+    codigosExpandidos.add(assunto);
+
+    // Se existe na busca hierárquica, adicionar todos os filhos
+    if (buscaHierarquica[assunto]) {
+      buscaHierarquica[assunto].todos.forEach(codigo => {
+        codigosExpandidos.add(codigo);
+      });
+    }
+  }
+
+  return Array.from(codigosExpandidos);
+}
 
 export async function GET(request: NextRequest) {
   try {
@@ -22,7 +57,7 @@ export async function GET(request: NextRequest) {
     
     // Parâmetros de paginação
     const page = parseInt(searchParams.get('page') || '1');
-    const limit = Math.min(parseInt(searchParams.get('limit') || String(QUESTOES_PER_PAGE)), 100);
+    const limit = Math.min(parseInt(searchParams.get('limit') || String(QUESTOES_PER_PAGE)), 120);
     
     // Parâmetros de filtro
     const filtros: FiltroQuestoes = {
@@ -50,7 +85,35 @@ export async function GET(request: NextRequest) {
       );
     }
 
+    // Carregar busca hierárquica
+    const buscaHierarquicaPath = path.join(process.cwd(), 'public/data/indices/busca-hierarquica.json');
+    let buscaHierarquica: BuscaHierarquica | null = null;
+    
+    if (fs.existsSync(buscaHierarquicaPath)) {
+      try {
+        buscaHierarquica = JSON.parse(fs.readFileSync(buscaHierarquicaPath, 'utf8'));
+      } catch (error) {
+        console.warn('Erro ao carregar busca hierárquica:', error);
+      }
+    }
+
     const manifesto: QuestaoManifesto[] = JSON.parse(fs.readFileSync(manifestoPath, 'utf8'));
+
+    // Expandir assuntos considerando hierarquia
+    let assuntosExpandidos = filtros.assuntos;
+    if (buscaHierarquica && filtros.assuntos?.length) {
+      // Tentar mapear nomes de assuntos para códigos
+      const codigosAssuntos = filtros.assuntos.map(assunto => {
+        return buscaHierarquica!.assuntoParaCodigo[assunto] || assunto;
+      });
+      
+      assuntosExpandidos = expandirAssuntosHierarquicos(codigosAssuntos, buscaHierarquica.buscaHierarquica);
+      
+      // Converter códigos de volta para nomes de assuntos
+      assuntosExpandidos = assuntosExpandidos.map(codigo => {
+        return buscaHierarquica!.codigoParaAssunto[codigo] || codigo;
+      });
+    }
 
     // Se usuário escolheu não repetir questões, buscar questões já respondidas
     let questoesRespondidas: Set<string> = new Set();
@@ -97,8 +160,8 @@ export async function GET(request: NextRequest) {
         return false;
       }
 
-      // Filtro por assuntos
-      if (filtros.assuntos?.length && !filtros.assuntos.includes(questao.assunto_real)) {
+      // Filtro por assuntos (agora com hierarquia)
+      if (assuntosExpandidos?.length && !assuntosExpandidos.includes(questao.assunto_real)) {
         return false;
       }
 

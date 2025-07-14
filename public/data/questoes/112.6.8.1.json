@@ -1,0 +1,37 @@
+{
+  "id": 802057,
+  "codigo_real": "112.6.8.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Literatura colonial",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Defensoria Pública da União",
+  "cargos_descricao": "Economista",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Sem prejuízo do sentido e da correção gramatical do texto, o primeiro período poderia ser reescrito da seguinte forma: A própria colonização do Brasil, ainda no século XVI, pode ser considerada marco da história da assistência jurídica, ou justiça gratuita, no país.</p>",
+  "grupoQuestao_enunciado": "<p><strong>Texto para os itens de 1 a 14</strong></p><p><br></p><p>1<span style=\"color: rgb(255, 255, 255);\">____</span>No Brasil, pode-se considerar marco da história da</p><p style=\"text-indent: 1em;\">\tassistência jurídica, ou justiça gratuita, a própria colonização</p><p style=\"text-indent: 1em;\">\tdo país, ainda no século XVI. O surgimento de lides</p><p>4 provenientes das inúmeras formas de relação jurídica então</p><p style=\"text-indent: 1em;\">\texistentes — e o chamamento da jurisdição para resolver essas</p><p style=\"text-indent: 1em;\">\tcontendas — já dava início a situações em que constantemente</p><p>7 as partes se viam impossibilitadas de arcar com os possíveis</p><p style=\"text-indent: 1em;\">\tcustos judiciais das demandas. A partir de então, a</p><p style=\"text-indent: 1em;\">\tchamada assistência judiciária praticamente evoluiu junto com</p><p>10 o direito pátrio. Sua importância atravessou os séculos, e ela</p><p style=\"text-indent: 1em;\">\tpassou a ser garantida nas cartas constitucionais.</p><p style=\"text-indent: 3em;\">\tNo século XX, o texto constitucional de 1934, no</p><p>13 capítulo II, “Dos direitos e das garantias individuais”, em seu</p><p style=\"text-indent: 1em;\">\tart. 113, fez menção a essa proteção, ao prever que “A União</p><p style=\"text-indent: 1em;\">\te os estados concederão aos necessitados assistência judiciária,</p><p>16 criando para esse efeito órgãos especiais e assegurando a</p><p style=\"text-indent: 1em;\">\tisenção de emolumentos, custas, taxas e selos”. Por sua vez, a</p><p style=\"text-indent: 1em;\">\tConstituição de 1946 previu, no mesmo capítulo que a de</p><p>19 1934, em seu art. 141, § 35, que “O poder público, na forma</p><p style=\"text-indent: 1em;\">\tque a lei estabelecer, concederá assistência judiciária aos</p><p style=\"text-indent: 1em;\">\tnecessitados”. A lei extravagante veio em 1950, materializada</p><p>22 na Lei n.º 1.060, que especifica normas para a concessão de</p><p style=\"text-indent: 1em;\">\tassistência judiciária aos necessitados. No art. 4.º dessa lei,</p><p style=\"text-indent: 1em;\">\thavia menção ao “rendimento ou vencimento que percebe e os</p><p>25 encargos próprios e os da família” e constava a exigência de</p><p style=\"text-indent: 1em;\">\tatestado de pobreza, expedido pela autoridade policial ou pelo</p><p style=\"text-indent: 1em;\">\tprefeito municipal. Foi o art. 1.º, § 2.º, da Lei n.º 5.478/1968</p><p>28 que criou a simples afirmação (da pobreza), ratificado pela</p><p style=\"text-indent: 1em;\">\tLei n.º 7.510/1986, que deu nova redação a dispositivos da</p><p style=\"text-indent: 1em;\">\tLei n.º 1.060/1950.</p><p>31<span style=\"color: rgb(255, 255, 255);\">___</span>Em 1988, a Carta Cidadã ampliou o escopo da</p><p style=\"text-indent: 1em;\">\tassistência judiciária ao empregar o termo assistência jurídica</p><p style=\"text-indent: 1em;\">\tintegral e gratuita, que é mais abrangente e que abarca o termo</p><p>34 usado anteriormente, restrito apenas à assistência de demanda</p><p style=\"text-indent: 1em;\">\tjudicial já proposta ou a ser interposta. O termo atual também</p><p style=\"text-indent: 1em;\">\tengloba atos jurídicos extrajudiciais, aconselhamento jurídico,</p><p>37 patrocínio da causa, além de ações coletivas e mediação.</p><p style=\"text-indent: 3em;\">\tHoje, portanto, alguém que se vê incapaz de arcar com</p><p style=\"text-indent: 1em;\">\tos custos que uma lide judicial impõe, mas necessita da</p><p>40 imediata prestação jurisdicional, pode, mediante simples</p><p style=\"text-indent: 1em;\">\tafirmativa, postular as benesses dessa prerrogativa,</p><p style=\"text-indent: 1em;\">\tgarantida pela Constituição Federal vigente.</p><p><br></p><p style=\"text-align: right;\"><sub>Uma história para a gratuidade jurídica no Brasil.</sub></p><p style=\"text-align: right;\"><sub>Internet: &lt;http://jus.com.br&gt; (com adaptações).</sub></p><p><br></p><p>No que se refere às ideias e informações do texto, julgue os itens a seguir.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 2763982,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 2763983,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2763982",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2902473,
+  "codigo_real": "116.5.2.1.9",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Outras",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Pindamonhangaba",
+  "cargos_descricao": "Médico Cardiologista",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa que descreve paciente e pressão arterial (PA) com indicação de iniciar terapia anti-hipertensiva com combinação fixa de dois fármacos.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Homem, 50 anos, PA: 150 x 90 mmHg, sem outros fatores de risco.</p>",
+      "corpo_clean": "Homem, 50 anos, PA: 150 x 90 mmHg, sem outros fatores de risco.",
+      "id": 11704239,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Mulher, 60 anos, PA: 155 x 95 mmHg, sem outros fatores de risco.</p>",
+      "corpo_clean": "Mulher, 60 anos, PA: 155 x 95 mmHg, sem outros fatores de risco.",
+      "id": 11704240,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Homem, 45 anos, PA: 160 x 100 mmHg, dislipidêmico.</p>",
+      "corpo_clean": "Homem, 45 anos, PA: 160 x 100 mmHg, dislipidêmico.",
+      "id": 11704241,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Mulher, 60 anos, PA: 135 x 85 mmHg, diabético e dislipidêmico.</p>",
+      "corpo_clean": "Mulher, 60 anos, PA: 135 x 85 mmHg, diabético e dislipidêmico.",
+      "id": 11704242,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Homem, 85 anos, PA: 180 x 110 mmHg, dislipidêmico, idoso frágil.</p>",
+      "corpo_clean": "Homem, 85 anos, PA: 180 x 110 mmHg, dislipidêmico, idoso frágil.",
+      "id": 11704243,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11704241",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

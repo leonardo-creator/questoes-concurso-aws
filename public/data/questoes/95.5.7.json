@@ -1,0 +1,58 @@
+{
+  "id": 2995763,
+  "codigo_real": "95.5.7",
+  "disciplina_real": "Informática",
+  "assunto_real": "Segurança Física, Lógica e Controle de Acesso",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Prefeitura de Morungaba",
+  "cargos_descricao": "Analista de Sistemas",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Qual das seguintes opções é a melhor prática para gerenciar o controle de acesso: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Ignorar completamente o processo. </p>",
+      "corpo_clean": "Ignorar completamente o processo. ",
+      "id": 12112706,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Aplicar políticas rigorosas. </p>",
+      "corpo_clean": "Aplicar políticas rigorosas. ",
+      "id": 12112707,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Analisar as necessidades dos usuários. </p>",
+      "corpo_clean": "Analisar as necessidades dos usuários. ",
+      "id": 12112708,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Conceder acesso a todos os usuários. </p>",
+      "corpo_clean": "Conceder acesso a todos os usuários. ",
+      "id": 12112709,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Estabelecer papéis e funções. </p>",
+      "corpo_clean": "Estabelecer papéis e funções. ",
+      "id": 12112710,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12112710",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

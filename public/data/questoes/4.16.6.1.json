@@ -1,0 +1,58 @@
+{
+  "id": 877260,
+  "codigo_real": "4.16.6.1",
+  "disciplina_real": "Administração Pública",
+  "assunto_real": "Revisão Jurisdicional dos Atos Administrativos - Atos Administrativos",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Procuradoria Geral do Estado",
+  "cargos_descricao": "Analista PGE - Área Bacharel em Direito",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Órgão competente da Administração pública do Estado do Mato Grosso outorga licença a empresa do setor privado. Sete anos\r\ndepois, constata vício insanável de legalidade no ato administrativo de licença. Deveras, verifica que o mesmo foi efetuado\r\nilegalmente e de maneira insanável, por falha da própria Administração pública, sem que a empresa tenha agido de má-fé ou de\r\nqualquer modo concorrido para tanto. Nessas circunstâncias, compete ao órgão da Administração mato-grossense",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "manter o seu próprio ato de licença, com base na boa-fé da empresa favorecida que, assim, não pode ser prejudicada por\r\nanulação de ato do qual lhe tenham decorrido efeitos favoráveis.",
+      "corpo_clean": "manter o seu próprio ato de licença, com base na boa-fé da empresa favorecida que, assim, não pode ser prejudicada por anulação de ato do qual lhe tenham decorrido efeitos favoráveis.",
+      "id": 3060030,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "anular seu próprio ato de licença, observado que não houve o transcurso do prazo decadencial de 10 anos para a\r\nAdministração pública estadual anular seus próprios atos, sendo dispensáveis a observância do contraditório e da ampla\r\ndefesa, nesse caso, por tratar-se de invalidação de ofício.",
+      "corpo_clean": "anular seu próprio ato de licença, observado que não houve o transcurso do prazo decadencial de 10 anos para a Administração pública estadual anular seus próprios atos, sendo dispensáveis a observância do contraditório e da ampla defesa, nesse caso, por tratar-se de invalidação de ofício.",
+      "id": 3060031,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "manter o seu próprio ato de licença, observado que, apesar da ilegalidade constatada, já houve o transcurso do prazo\r\ndecadencial de 5 anos para a Administração pública estadual anular seus próprios atos de que decorram efeitos favoráveis\r\naos destinatários.",
+      "corpo_clean": "manter o seu próprio ato de licença, observado que, apesar da ilegalidade constatada, já houve o transcurso do prazo decadencial de 5 anos para a Administração pública estadual anular seus próprios atos de que decorram efeitos favoráveis aos destinatários.",
+      "id": 3060032,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "revogar seu próprio ato de licença, editando outro escoimado do vício de legalidade constatado no ato revogado.",
+      "corpo_clean": "revogar seu próprio ato de licença, editando outro escoimado do vício de legalidade constatado no ato revogado.",
+      "id": 3060033,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "anular seu próprio ato de licença, observado que não houve o transcurso do prazo decadencial de 10 anos para a\r\nAdministração pública estadual anular seus próprios atos, assegurando à empresa favorecida a ampla defesa e o contraditório.",
+      "corpo_clean": "anular seu próprio ato de licença, observado que não houve o transcurso do prazo decadencial de 10 anos para a Administração pública estadual anular seus próprios atos, assegurando à empresa favorecida a ampla defesa e o contraditório.",
+      "id": 3060034,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3060032",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

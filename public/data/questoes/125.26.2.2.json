@@ -1,0 +1,58 @@
+{
+  "id": 2025212,
+  "codigo_real": "125.26.2.2",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Importância da linguagem - Interpretação de Texto",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Garça",
+  "cargos_descricao": "Professor de Educação Básica",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com Magda Soares, o domínio da linguagem é uma forma de</p>",
+  "grupoQuestao_enunciado": "<p>Leia o trecho da entrevista da professora Magda Soares à <em>Pesquisa Fapesp</em> para responder às questões de números <strong>03</strong> a <strong>11</strong>.</p><p><br></p><p style=\"text-indent: 2em; text-align: justify;\">\tO sociólogo Pierre Bourdieu foi meu grande guru. Ele mostrou como a linguagem é usada como instrumento de poder na sociedade. Portanto, é importante dar às pessoas esse instrumento. As camadas populares têm que lutar muito contra a discriminação e a injustiça, e a linguagem é um instrumento fundamental. Alfabetização e letramento têm esse objetivo: dar às pessoas o domínio da língua como instrumento de inserção na sociedade e de luta por direitos fundamentais. Em relação à língua escrita, a criança tem que aprender duas coisas. Uma é o sistema de representação, que é o sistema alfabético. Esse é um processo que trabalha determinadas operações cognitivas e tem que levar em conta as características do sistema alfabético, é saber decodificar o que está escrito, ou codificar o que deseja escrever. Mas isso deve ser feito em contexto de letramento, com textos reais, não com o clássico exemplo “Eva viu a uva”. Que Eva? Que uva? Tradicionalmente a alfabetização se resumia a codificar e decodificar, porque o foco era a criança aprender apenas o código. Mas a questão é que a criança precisa aprender o código sabendo para o que ele serve.</p><p style=\"text-indent: 2em; text-align: justify;\">\tA escrita é uma tecnologia como outras. É importante aprender a escrever, conhecer a relação fonema-letra, saber que se escreve de cima para baixo, da esquerda para a direita, aprender as convenções da escrita. Mas essa tecnologia, como toda tecnologia, só tem sentido para ser usada: para saber interpretar textos, fazer inferências, ler diferentes gêneros, o que significa outra coisa e exige outras habilidades e competências. Aprender o sistema de escrita é alfabetização. Aprender os usos sociais do sistema de escrita é letramento.</p><p style=\"text-indent: 2em; text-align: justify;\">\t</p><p style=\"text-indent: 2em; text-align: right;\">\t(http://revistapesquisa.fapesp.br. Adaptado)</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">cisão da ordem social.</p>",
+      "corpo_clean": "cisão da ordem social.",
+      "id": 7887699,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">manutenção das diferenças.</p>",
+      "corpo_clean": "manutenção das diferenças.",
+      "id": 7887700,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">garantia dos direitos sociais.</p>",
+      "corpo_clean": "garantia dos direitos sociais.",
+      "id": 7887701,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">esteio da discriminação.</p>",
+      "corpo_clean": "esteio da discriminação.",
+      "id": 7887702,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> retração do poder na sociedade.</p>",
+      "corpo_clean": " retração do poder na sociedade.",
+      "id": 7887703,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7887701",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

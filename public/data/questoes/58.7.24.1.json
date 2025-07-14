@@ -1,0 +1,58 @@
+{
+  "id": 3089916,
+  "codigo_real": "58.7.24.1",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Hepatite A",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Fundação de Saúde de Rio Claro",
+  "cargos_descricao": "Enfermeiro PSF",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre a “Hepatite A” assinale a alternativa INCORRETA. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>A transmissão é fecal-oral. </p>",
+      "corpo_clean": "A transmissão é fecal-oral. ",
+      "id": 12525142,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A vacina é a principal medida de prevenção da doença. </p>",
+      "corpo_clean": "A vacina é a principal medida de prevenção da doença. ",
+      "id": 12525143,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Crianças podem manter a eliminação viral até 5 meses após a resolução clínica da doença </p>",
+      "corpo_clean": "Crianças podem manter a eliminação viral até 5 meses após a resolução clínica da doença ",
+      "id": 12525144,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Relações sexuais não transmitem hepatite A. </p>",
+      "corpo_clean": "Relações sexuais não transmitem hepatite A. ",
+      "id": 12525145,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Não há nenhum tratamento específico para hepatite A. </p>",
+      "corpo_clean": "Não há nenhum tratamento específico para hepatite A. ",
+      "id": 12525146,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12525145",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

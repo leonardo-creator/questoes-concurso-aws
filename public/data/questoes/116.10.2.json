@@ -1,0 +1,51 @@
+{
+  "id": 1388236,
+  "codigo_real": "116.10.2",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Aborto",
+  "bancas_nome": "Centro de Instrução e Adaptação",
+  "bancas_sigla": "CIAAR",
+  "orgaos_nome": "Ministério da Defesa - Aeronáutica",
+  "cargos_descricao": "Oficial Médico (EA-CAMAR) - Especialidade: Ginecologia e Obstetrícia",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Paciente de 52 anos comparece à consulta com ginecologista sem queixas, com intenção exclusiva de\nrealizar “exames periódicos de saúde”. Tem história de 2 partos vaginais prévios, é hipertensa e informa fazer\nuso regular de Losartana. Informa que não vai ao ginecologista ou a qualquer médico há 4 anos.\n</p><p style=\"text-align: justify;\">A respeito desse caso, é correto afirmar que a melhor conduta para a paciente é solicitar</p>",
+  "grupoQuestao_enunciado": null,
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">ultrassonografia endovaginal para rastreio de câncer de endométrio e lesões anexiais.</p>",
+      "corpo_clean": "ultrassonografia endovaginal para rastreio de câncer de endométrio e lesões anexiais.",
+      "id": 5106680,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">mamografia para rastreio de câncer de mama e coleta de esfregaço cervical para citologia oncótica.</p>",
+      "corpo_clean": "mamografia para rastreio de câncer de mama e coleta de esfregaço cervical para citologia oncótica.",
+      "id": 5106681,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">mamografia para rastreio de câncer de mama e ultrassonografia endovaginal para rastreio de câncer de\nendométrio.</p>",
+      "corpo_clean": "mamografia para rastreio de câncer de mama e ultrassonografia endovaginal para rastreio de câncer de\nendométrio.",
+      "id": 5106682,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">ultrassonografia endovaginal para rastreio de lesões anexiais e citologia oncótica para rastreio de câncer\nde colo uterino.</p>",
+      "corpo_clean": "ultrassonografia endovaginal para rastreio de lesões anexiais e citologia oncótica para rastreio de câncer\nde colo uterino.",
+      "id": 5106683,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5106681",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

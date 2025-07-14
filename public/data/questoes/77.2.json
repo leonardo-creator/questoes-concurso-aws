@@ -1,0 +1,58 @@
+{
+  "id": 392488,
+  "codigo_real": "77.2",
+  "disciplina_real": "Engenharia Mecânica",
+  "assunto_real": "Mecânica dos Sólidos",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional do Trabalho da 4ª Região",
+  "cargos_descricao": "Analista Judiciário - Área Engenharia",
+  "ano": 2009,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Cinco molas, com rigidez igual a 15 kN/m cada, estão dispostas paralelamente em um suporte de apoio de um motor com peso total de 300 N. A frequência natural do motor é dada por <IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/7401/42.gif>, sendo k, a constante total das molas, e m, a massa do motor. Adotando-se a aceleração da gravidade igual a 10 m/s<SUP>2</SUP>, a velocidade crítica do motor, dada em rpm, será de, aproximadamente,",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>1.</p>",
+      "corpo_clean": "1.",
+      "id": 1406813,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>8.</p>",
+      "corpo_clean": "8.",
+      "id": 1406814,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>150.</p>",
+      "corpo_clean": "150.",
+      "id": 1406815,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>480.</p>",
+      "corpo_clean": "480.",
+      "id": 1406816,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>1200.</p>",
+      "corpo_clean": "1200.",
+      "id": 1406817,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1406816",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

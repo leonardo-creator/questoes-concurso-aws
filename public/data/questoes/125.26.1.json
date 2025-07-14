@@ -1,0 +1,51 @@
+{
+  "id": 2068606,
+  "codigo_real": "125.26.1",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Piaget",
+  "bancas_nome": "CONSESP Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Guararema",
+  "cargos_descricao": "Professor - Área: Educação Infantil",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Com bases na teoria de Jean Piaget, Maria da Glória Seber, no livro Piaget:<em> O Diálogo com a Criança e o Desenvolvimento do Raciocínio</em>, sustenta que “O organismo interage continuamente com os objetos do meio. Apesar das sucessivas trocas, não existe descontinuidade entre os diferentes estados do organismo. Há transformações, mas há também conservação: o organismo se conserva por meio da própria atividade, integrando elementos do meio e modificando-os em substâncias necessárias à sua conservação. Essa integração é denominada assimilação, e a modificação decorrente,</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>cognição.”</p>",
+      "corpo_clean": "cognição.”",
+      "id": 8079420,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>acomodação.”</p>",
+      "corpo_clean": "acomodação.”",
+      "id": 8079421,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>absorção.”</p>",
+      "corpo_clean": "absorção.”",
+      "id": 8079422,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>interação.”</p>",
+      "corpo_clean": "interação.”",
+      "id": 8079423,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "8079421",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

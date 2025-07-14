@@ -1,0 +1,58 @@
+{
+  "id": 395238,
+  "codigo_real": "122.1.3",
+  "disciplina_real": "Nutrição",
+  "assunto_real": "Dietética",
+  "bancas_nome": "SUSTENTE Instituto Brasileiro de Desenvolvimento Sustentável",
+  "bancas_sigla": "",
+  "orgaos_nome": "Tribunal de Justiça de Pernambuco",
+  "cargos_descricao": "Nutricionista",
+  "ano": 2009,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>A principal tríade determinante das\r\nnecessidades energéticas totais de um\r\nindivíduo adulto é :</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Metabolismo basal, sexo e atividade física.</p>",
+      "corpo_clean": "Metabolismo basal, sexo e atividade física.",
+      "id": 1419849,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Temperatura ambiente, sexo e atividade\r\nfísica.</p>",
+      "corpo_clean": "Temperatura ambiente, sexo e atividade física.",
+      "id": 1419850,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Metabolismo basal, ação dinâmico-específica\r\ndos alimentos e atividade física.</p>",
+      "corpo_clean": "Metabolismo basal, ação dinâmico-específica dos alimentos e atividade física.",
+      "id": 1419851,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Metabolismo basal, sexo e ação dinâmicoespecífica\r\ndos alimentos.</p>",
+      "corpo_clean": "Metabolismo basal, sexo e ação dinâmicoespecífica dos alimentos.",
+      "id": 1419852,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>Temperatura ambiente, ação dinâmicoespecífica\r\ndos alimentos e atividade física.</p>",
+      "corpo_clean": "Temperatura ambiente, ação dinâmicoespecífica dos alimentos e atividade física.",
+      "id": 1419853,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1419851",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

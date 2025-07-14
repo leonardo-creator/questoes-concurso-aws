@@ -1,0 +1,51 @@
+{
+  "id": 3752640,
+  "codigo_real": "51.6",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Saúde Coletiva",
+  "bancas_nome": "Instituto Avançar",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Borrazópolis",
+  "cargos_descricao": "Psicólogo",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A Saúde Mental Coletiva busca a promoção, a prevenção e a reabilitação psicossocial a partir de uma articulação entre os princípios do SUS e os princípios da Reforma Psiquiátrica, assim, podemos considerar como conceitos fundamentais em tal articulação:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I- o conceito de território.</p><p style=\"text-align: justify;\">II-a intersetorialidade.</p><p style=\"text-align: justify;\">III- o conceito de abstinência total.</p><p style=\"text-align: justify;\">IV- a organização em rede.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Estão corretas as afirmativas: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">I e IV.</p>",
+      "corpo_clean": "I e IV.",
+      "id": 15276688,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">II, III e IV.</p>",
+      "corpo_clean": "II, III e IV.",
+      "id": 15276689,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">II e III.</p>",
+      "corpo_clean": "II e III.",
+      "id": 15276690,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I, II e IV.</p>",
+      "corpo_clean": "I, II e IV.",
+      "id": 15276691,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "15276691",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

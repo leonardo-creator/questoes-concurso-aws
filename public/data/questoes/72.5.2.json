@@ -1,0 +1,58 @@
+{
+  "id": 91408,
+  "codigo_real": "72.5.2",
+  "disciplina_real": "Engenharia Elétrica e Engenharia Eletrônica",
+  "assunto_real": "Eletrônica digital - Eletrônica digital",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional Federal da 2ª Região",
+  "cargos_descricao": "Analista Judiciário - Área Engenharia Eletrônica",
+  "ano": 2007,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "A forma de onda gerada, considerando que a alimentação\r\nseja ligada no instante t, é",
+  "grupoQuestao_enunciado": "<P><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/563/52.JPG></P>",
+  "alternativas": [
+    {
+      "corpo": "<IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/563/53A.JPG>",
+      "corpo_clean": "",
+      "id": 555126,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/563/53B.JPG>",
+      "corpo_clean": "",
+      "id": 555127,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/563/53c.JPG>",
+      "corpo_clean": "",
+      "id": 555128,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/563/53d.JPG>",
+      "corpo_clean": "",
+      "id": 555129,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/563/53e.JPG>",
+      "corpo_clean": "",
+      "id": 555130,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "555126",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": true
+}

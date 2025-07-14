@@ -1,0 +1,51 @@
+{
+  "id": 1953699,
+  "codigo_real": "58.27.2",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Vigilância saúde do trabalhador",
+  "bancas_nome": "Universidade Federal do Goiás",
+  "bancas_sigla": "UFG",
+  "orgaos_nome": "Empresa de Saneamento de Goiás S.A.",
+  "cargos_descricao": "Analista de saúde - Área: Enfermeiro do Trabalho",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Ao avaliar o estado de saúde do trabalhador, é recomendável ao enfermeiro do trabalho seguir passos que o auxiliarão a realizar uma investigação sistemática e correta. Nesta perspectiva, a sequência lógica desses passos envolve coleta de dados</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">validação dos dados, agrupamento de dados, identificação de padrões e registro de dados. </p>",
+      "corpo_clean": "validação dos dados, agrupamento de dados, identificação de padrões e registro de dados. ",
+      "id": 7563715,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">identificação de padrões, agrupamento de dados, validação de dados e registro de dados.</p>",
+      "corpo_clean": "identificação de padrões, agrupamento de dados, validação de dados e registro de dados.",
+      "id": 7563716,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">diagnóstico de enfermagem, planejamento, implementação e avaliação da assistência. </p>",
+      "corpo_clean": "diagnóstico de enfermagem, planejamento, implementação e avaliação da assistência. ",
+      "id": 7563717,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">agrupamento de dados, diagnóstico de enfermagem, planejamento e avaliação</p>",
+      "corpo_clean": "agrupamento de dados, diagnóstico de enfermagem, planejamento e avaliação",
+      "id": 7563718,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "7563717",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

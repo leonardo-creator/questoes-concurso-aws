@@ -1,0 +1,58 @@
+{
+  "id": 1380458,
+  "codigo_real": "122.4.2.5",
+  "disciplina_real": "Nutrição",
+  "assunto_real": "Doenças do Trato digestivo",
+  "bancas_nome": "Instituto de Apoio à Universidade de Pernambuco",
+  "bancas_sigla": "UPENET IAUPE",
+  "orgaos_nome": "Secretaria de Estado da Saúde de Pernambuco",
+  "cargos_descricao": "Residência em Cuidados Paliativos - Área: Nutrição",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\">Associe a classificação da diarreia com a etiologia.</p><p align=\"justify\">\r\n1. Osmótica\r\n</p><p align=\"justify\">2. Secretória\r\n</p><p align=\"justify\">3. Exsudativa\r\n</p><p align=\"justify\">4. Contato mucoso limitado\r\n</p><p align=\"justify\">( ) Síndrome do intestino curto\r\n</p><p align=\"justify\"><br></p><p align=\"justify\">( ) Enterite por radiação</p><p align=\"justify\"><br></p><p align=\"justify\">\r\n( ) Exotoxina bacteriana</p><p align=\"justify\"><br></p><p align=\"justify\">\r\n( ) Deficiência de lactase</p><p align=\"justify\"><br></p><p align=\"justify\">\r\n( ) Exotoxina viral\r\n</p><p align=\"justify\"><br></p><p align=\"justify\">( ) Colite ulcerativa\r\n</p><p align=\"justify\"><br></p><p align=\"justify\">Assinale a alternativa que apresenta a sequência CORRETA.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>3-4-4-1-1-2\r\n</p>",
+      "corpo_clean": "3-4-4-1-1-2 ",
+      "id": 5075596,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>4-3-2-1-1-2</p>",
+      "corpo_clean": "4-3-2-1-1-2",
+      "id": 5075597,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>4-3-3-1-2-1\r\n</p>",
+      "corpo_clean": "4-3-3-1-2-1 ",
+      "id": 5075598,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>2-1-2-3-3-3</p>",
+      "corpo_clean": "2-1-2-3-3-3",
+      "id": 5075599,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>4-3-2-1-2-3</p>",
+      "corpo_clean": "4-3-2-1-2-3",
+      "id": 5075600,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5075600",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

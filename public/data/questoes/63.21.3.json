@@ -1,0 +1,37 @@
+{
+  "id": 497231,
+  "codigo_real": "63.21.3",
+  "disciplina_real": "Engenharia Civil",
+  "assunto_real": "Drenagem",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Ministério do Planejamento Orçamento e Gestão",
+  "cargos_descricao": "Analista de Infraestrutura - Área V",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Em condutos forçados, a perda de energia decorrente da\r\nredução do diâmetro dos condutos provoca decaimento da\r\nlinha de energia de forma definitiva e irrecuperável, o que não\r\nocorre nos condutos livres, dada a existência de compensação\r\nentre o ganho e a perda de energia.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Com relação ao dimensionamento de obras hidráulicas, julgue os\r\nitens subsequentes.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1798383,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1798384,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1798383",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

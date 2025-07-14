@@ -1,0 +1,51 @@
+{
+  "id": 1181541,
+  "codigo_real": "117.8.10.12",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Neurocirurgia - Neurocirurgia",
+  "bancas_nome": "Polícia Militar RJ",
+  "bancas_sigla": "PM RJ",
+  "orgaos_nome": "Polícia Militar do Rio de Janeiro",
+  "cargos_descricao": "1° Tenente - Área: Neurocirurgia",
+  "ano": 2010,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Assinale a associação da posição do paciente e a\r\ncomplicação relatada.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Macroglossia (edema severo da língua) –\r\ndecúbito dorsal.</p>",
+      "corpo_clean": "Macroglossia (edema severo da língua) – decúbito dorsal.",
+      "id": 4240798,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "Embolia aérea – decúbito ventral.",
+      "corpo_clean": "Embolia aérea – decúbito ventral.",
+      "id": 4240799,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "Quadriplegia – posição semisentada.",
+      "corpo_clean": "Quadriplegia – posição semisentada.",
+      "id": 4240800,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Paraplegia – posição neutra.",
+      "corpo_clean": "Paraplegia – posição neutra.",
+      "id": 4240801,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4240800",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

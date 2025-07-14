@@ -1,0 +1,37 @@
+{
+  "id": 406509,
+  "codigo_real": "63.27",
+  "disciplina_real": "Engenharia Civil",
+  "assunto_real": "Desenho na Engenharia Civil",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Ministério Público da União",
+  "cargos_descricao": "Técnico de Apoio Especializado - Área Edificação",
+  "ano": 2010,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Nessa situação, embora os comprimentos representados no\r\ndesenho sejam desproporcionais, o comprimento da peça é\r\nigual a 30 centímetros.</p>",
+  "grupoQuestao_enunciado": "<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/10828/08.gif></P>\r\n<P align=justify>Em relação ao desenho técnico e às suas normas de cotagem, e considerando o desenho acima de uma peça metálica cujas cotas estejam em centímetros, julgue os itens a seguir.</P>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1455337,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1455338,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1455337",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

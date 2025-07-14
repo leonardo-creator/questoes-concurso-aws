@@ -1,0 +1,58 @@
+{
+  "id": 1762853,
+  "codigo_real": "112.3",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Morfologia",
+  "bancas_nome": "COPEVE/UFAL - FUNDEPES",
+  "bancas_sigla": "",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia de Alagoas",
+  "cargos_descricao": "Auxiliar em Administração",
+  "ano": 2016,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: center;\"><strong>Por que as abelhas estão morrendo </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify; text-indent: 2em;\">Desde 2006, uma doença está dizimando abelhas nos Estados Unidos e Europa. As abelhas saem das colmeias para a polinização e <strong><u>simplesmente</u></strong> não retornam, morrendo longe de casa. Em pouco tempo, a colmeia entra em colapso. Esse fenômeno, batizado de <em>Desordem do Colapso das Colmeias</em>, preocupa produtores de mel. Estima-se que a população de abelhas caiu 40% nos Estados Unidos e 50% na Europa nos últimos 25 anos. As causas desse colapso ainda não estão completamente explicadas pela ciência. Várias teorias foram formuladas, e ambientalistas culpam o uso <strong><u>indiscriminado</u></strong> de <strong><u>agrotóxicos</u></strong>. A situação é tão complicada que a União Europeia baniu, nesta semana, o uso de um tipo de pesticida pelos próximos dois anos. </p><p style=\"text-align: justify; text-indent: 2em;\"><br></p><p style=\"text-align: right; text-indent: 2em;\">Disponível em:&lt;http://colunas.revistaepoca.globo.com/planeta/2013/05/04/por-que-as-abelhas-estaomorrendo/&gt;. Acesso em: 27 jul. 2016. </p><p style=\"text-align: justify; text-indent: 2em;\"><br></p><p style=\"text-align: justify;\">As palavras <strong>simplesmente, indiscriminado </strong>e<strong> agrotóxicos,</strong> destacadas no texto, são formadas, respectivamente, a partir de processos de</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">hibridismo, prefixação e sufixação, derivação prefixal.</p>",
+      "corpo_clean": "hibridismo, prefixação e sufixação, derivação prefixal.",
+      "id": 6716519,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">derivação sufixal, prefixação e sufixação, derivação prefixal.</p>",
+      "corpo_clean": "derivação sufixal, prefixação e sufixação, derivação prefixal.",
+      "id": 6716520,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">derivação sufixal, composição por justaposição, derivação prefixal.</p>",
+      "corpo_clean": "derivação sufixal, composição por justaposição, derivação prefixal.",
+      "id": 6716521,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">derivação sufixal, prefixação e sufixação, composição por justaposição.</p>",
+      "corpo_clean": "derivação sufixal, prefixação e sufixação, composição por justaposição.",
+      "id": 6716522,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">prefixação e sufixação, derivação parassintética, composição por aglutinação.</p>",
+      "corpo_clean": "prefixação e sufixação, derivação parassintética, composição por aglutinação.",
+      "id": 6716523,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6716520",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

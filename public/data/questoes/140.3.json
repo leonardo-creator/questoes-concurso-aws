@@ -1,0 +1,58 @@
+{
+  "id": 2236068,
+  "codigo_real": "140.3",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Business Intelligence (Análise de dados)",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Secretaria da Fazenda de Sergipe",
+  "cargos_descricao": "Auditor Técnico de Tributos",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Tableau, QlikView e Power-Bi (entre outras) integram uma família de ferramentas classificadas como:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Data Science.</p>",
+      "corpo_clean": "Data Science.",
+      "id": 8796429,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Data Mart.</p>",
+      "corpo_clean": "Data Mart.",
+      "id": 8796430,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Data Driver.</p>",
+      "corpo_clean": "Data Driver.",
+      "id": 8796431,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Data Exchange.</p>",
+      "corpo_clean": "Data Exchange.",
+      "id": 8796432,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Data Discovery.</p>",
+      "corpo_clean": "Data Discovery.",
+      "id": 8796433,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8796433",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

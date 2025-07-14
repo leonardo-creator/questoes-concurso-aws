@@ -1,0 +1,58 @@
+{
+  "id": 68031,
+  "codigo_real": "115.9.2.10",
+  "disciplina_real": "Matemática",
+  "assunto_real": "Volumes",
+  "bancas_nome": "Fundação CESGRANRIO",
+  "bancas_sigla": "CESGRANRIO",
+  "orgaos_nome": "Petrobras Transporte S.A",
+  "cargos_descricao": "Técnico - Área Naval",
+  "ano": 2006,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Um tanque de certo navio tem 20m de comprimento e se\r\nestende exatamente ao longo de três seções transversais\r\n(balizas) igualmente espaçadas, definidas no plano de linhas.\r\nAs áreas destas seções, entre o fundo até o calado correspondente\r\nao topo do tanque, são 50m2, 58m2 e 86m2.\r\nO volume total do tanque assim definido, em m3, está entre:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "1.005 e 1.100",
+      "corpo_clean": "1.005 e 1.100",
+      "id": 321044,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "1.105 e 1.200",
+      "corpo_clean": "1.105 e 1.200",
+      "id": 321045,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "1.205 e 1.300",
+      "corpo_clean": "1.205 e 1.300",
+      "id": 321048,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "1.305 e 1.400",
+      "corpo_clean": "1.305 e 1.400",
+      "id": 321050,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "1.405 e 1.500",
+      "corpo_clean": "1.405 e 1.500",
+      "id": 321052,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "321048",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

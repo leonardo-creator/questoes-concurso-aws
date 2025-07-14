@@ -1,0 +1,58 @@
+{
+  "id": 2584783,
+  "codigo_real": "34.11.3.3.5.1",
+  "disciplina_real": "Direito Civil",
+  "assunto_real": "Características do Direito de Uso",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Polícia Civil de Roraima",
+  "cargos_descricao": "Delegado de Polícia Civil",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Acerca do usufruto, uso e habitação, é correto afirmar:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">o usufruto e a habitação permitem a percepção dos frutos da coisa, o que não se permite no uso.</p>",
+      "corpo_clean": "o usufruto e a habitação permitem a percepção dos frutos da coisa, o que não se permite no uso.",
+      "id": 10309750,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a disciplina da percepção dos frutos no usufruto e no uso são idênticas, sendo mitigada apenas na habitação.</p>",
+      "corpo_clean": "a disciplina da percepção dos frutos no usufruto e no uso são idênticas, sendo mitigada apenas na habitação.",
+      "id": 10309751,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">no direito de habitação, permite-se a percepção dos frutos da coisa, mas apenas no valor das necessidades do titular do direito real e de sua família.</p>",
+      "corpo_clean": "no direito de habitação, permite-se a percepção dos frutos da coisa, mas apenas no valor das necessidades do titular do direito real e de sua família.",
+      "id": 10309752,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o titular do direito real de usufruto, tal como o titular do direito de uso, pode alugar a coisa, desde que reverta o produto da alienação às suas necessidades e de sua família.</p>",
+      "corpo_clean": "o titular do direito real de usufruto, tal como o titular do direito de uso, pode alugar a coisa, desde que reverta o produto da alienação às suas necessidades e de sua família.",
+      "id": 10309753,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a percepção dos frutos da coisa é livre pelo usufrutuário, limitadamente às necessidades do usuário e de sua família pelo usuário e vedada ao titular do direito de habitação.</p>",
+      "corpo_clean": "a percepção dos frutos da coisa é livre pelo usufrutuário, limitadamente às necessidades do usuário e de sua família pelo usuário e vedada ao titular do direito de habitação.",
+      "id": 10309754,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10309754",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

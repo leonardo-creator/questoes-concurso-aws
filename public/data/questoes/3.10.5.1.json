@@ -1,0 +1,58 @@
+{
+  "id": 2574789,
+  "codigo_real": "3.10.5.1",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Efeitos Comportamentais no Processo de Controle",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional do Trabalho da 22ª Região",
+  "cargos_descricao": "Analista Judiciário - Área: Administrativa",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em um processo de gestão de desempenho, na etapa de avaliação, em que tenha sido checada a ocorrência de possíveis vícios ou desvios que podem acometer processos dessa natureza, apontou-se a ocorrência do denominado efeito halo, o que significa</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">a presença de viés por parte do avaliador em relação ao universo de avaliados, sendo mais leniente em relação a determinados grupos com os quais se identifica.</p>",
+      "corpo_clean": "a presença de viés por parte do avaliador em relação ao universo de avaliados, sendo mais leniente em relação a determinados grupos com os quais se identifica.",
+      "id": 10264117,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a consideração apenas do desempenho e dos comportamentos mais recentes dos avaliados.</p>",
+      "corpo_clean": "a consideração apenas do desempenho e dos comportamentos mais recentes dos avaliados.",
+      "id": 10264118,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">tendência central por parte do avaliador, avaliando todos como medianos e evitando comprometer-se com resultados muito negativos.</p>",
+      "corpo_clean": "tendência central por parte do avaliador, avaliando todos como medianos e evitando comprometer-se com resultados muito negativos.",
+      "id": 10264119,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a contaminação do resultado global da avaliação a partir de um extrato específico de avaliados, tidos como muito ruins, distorcendo os resultados individuais.</p>",
+      "corpo_clean": "a contaminação do resultado global da avaliação a partir de um extrato específico de avaliados, tidos como muito ruins, distorcendo os resultados individuais.",
+      "id": 10264120,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a extrapolação do resultado da avaliação de um aspecto específico do avaliado para todos os demais aspectos, levando a uma generalização indevida.</p>",
+      "corpo_clean": "a extrapolação do resultado da avaliação de um aspecto específico do avaliado para todos os demais aspectos, levando a uma generalização indevida.",
+      "id": 10264121,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10264121",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

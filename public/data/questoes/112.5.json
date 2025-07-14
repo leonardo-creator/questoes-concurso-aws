@@ -1,0 +1,37 @@
+{
+  "id": 287516,
+  "codigo_real": "112.5",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Morfossintaxe do período",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Tribunal Superior do Trabalho",
+  "cargos_descricao": "Técnico Judiciário - Área: Administrativa",
+  "ano": 2008,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Na linha 6, o pronome \"se\", indicativo de sujeito\r\nindeterminado, refere-se a \"Gente boa\".</p>",
+  "grupoQuestao_enunciado": "<p><em>1</em><span class=\"ql-formula\" data-value=\"\\qquad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 2em;\"></span></span></span></span></span></span> <span class=\"ql-formula\" data-value=\"\\qquad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 2em;\"></span></span></span></span></span></span> Os trabalhadores cada vez mais precisam assumir</p><p style=\"text-indent: 1em;\">\tnovos papéis para atender às exigências das empresas.</p><p style=\"text-indent: 1em;\">\tMuitos países já estão revendo seus conceitos comerciais e</p><p><em>4 </em>os profissionais familiarizados com políticas e práticas</p><p style=\"text-indent: 1em;\">\tsociais terão cada vez mais destaque no mercado de trabalho.</p><p style=\"text-indent: 1em;\">\tGente boa em inclusão social é o que se quer.</p><p><em>7 </em><span class=\"ql-formula\" data-value=\"\\qquad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 2em;\"></span></span></span></span></span></span> <span class=\"ql-formula\" data-value=\"\\qquad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 2em;\"></span></span></span></span></span></span> Trocando em miúdos, o desenvolvimento</p><p style=\"text-indent: 1em;\">\teconômico e social de um país depende do compromisso</p><p style=\"text-indent: 1em;\">\tético de empresas e governos.</p><p><br></p><p>In: Escola, jan./fev., 2004 (com adaptações).</p><p><br></p><p style=\"text-align: justify;\">A respeito das estruturas lingüísticas do texto acima e dos sentidos por ele produzidos, julgue os itens seguintes.</p>",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1072550,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1072549,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "1072550",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2409741,
+  "codigo_real": "137.5",
+  "disciplina_real": "Serviço Social",
+  "assunto_real": "O Serviço Social nas ONGs",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Companhia Catarinense de Águas e Saneamento",
+  "cargos_descricao": "Assistente Social",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O trabalho do Assistente Social em Organizações Não Governamentais deve:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Promover a garantia de direitos apenas implantando os benefícios sociais.</p>",
+      "corpo_clean": "Promover a garantia de direitos apenas implantando os benefícios sociais.",
+      "id": 9544299,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Encaminhar a população usuária aos recursos oferecidos apenas pela prefeitura do município em que a ONG possui a sua sede.</p>",
+      "corpo_clean": "Encaminhar a população usuária aos recursos oferecidos apenas pela prefeitura do município em que a ONG possui a sua sede.",
+      "id": 9544300,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apoiar o setor administrativo da instituição e elaborar, executar e avaliar o Plano Gestor Institucional.</p>",
+      "corpo_clean": "Apoiar o setor administrativo da instituição e elaborar, executar e avaliar o Plano Gestor Institucional.",
+      "id": 9544301,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Desenvolver pesquisas para elaboração de projetos voltados para os usuários do município em que a ONG atua.</p>",
+      "corpo_clean": "Desenvolver pesquisas para elaboração de projetos voltados para os usuários do município em que a ONG atua.",
+      "id": 9544302,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Identificar exclusivamente as necessidades individuais apresentadas pelos usuários que incorporam a instituição na perspectiva do atendimento social.</p>",
+      "corpo_clean": "Identificar exclusivamente as necessidades individuais apresentadas pelos usuários que incorporam a instituição na perspectiva do atendimento social.",
+      "id": 9544303,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9544301",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

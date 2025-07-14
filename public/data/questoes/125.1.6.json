@@ -1,0 +1,37 @@
+{
+  "id": 1335063,
+  "codigo_real": "125.1.6",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Paradigmas educacionais",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Prefeitura de São Cristóvão",
+  "cargos_descricao": "Professor de Educação Básica - Área: Infantil e Fundamental (1º ao 5º ano)",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Na educação infantil, de acordo com a BNCC, o planejamento\r\ndidático dos professores e o desenvolvimento das estratégias\r\nde aprendizagem devem estar vinculados a seis campos de\r\nexperiência: conviver, brincar, participar, explorar, expressar\r\ne conhecer.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>A respeito das competências e habilidades propostas pela BNCC\r\npara a educação infantil e para os anos iniciais do ensino\r\nfundamental, bem como acerca da organização do processo didático\r\nnas escolas, julgue os itens que se seguem.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 4883549,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 4883550,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4883550",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

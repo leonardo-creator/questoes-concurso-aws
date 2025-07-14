@@ -1,0 +1,58 @@
+{
+  "id": 3818134,
+  "codigo_real": "125.6.3.8",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Diretrizes Operacionais para o atendimento educacional especializado na Educação Básica, modalidade Educação Especial",
+  "bancas_nome": "Instituto Brasileiro de Apoio e Desenvolvimento Executivo",
+  "bancas_sigla": "IBADE",
+  "orgaos_nome": "Prefeitura de Rolim de Moura",
+  "cargos_descricao": "Pedagogo Técnico",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com o Art. 3º do Decreto que regulamenta o atendimento educacional especializado, assinale a alternativa que <strong>NÃO </strong>corresponde a um dos objetivos desse atendimento.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\"> Prover condições de acesso, participação e aprendizagem no ensino regular, garantindo serviços de apoio especializados.</p>",
+      "corpo_clean": " Prover condições de acesso, participação e aprendizagem no ensino regular, garantindo serviços de apoio especializados.",
+      "id": 15567434,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Garantir a transversalidade das ações da educação especial no ensino regular.</p>",
+      "corpo_clean": "Garantir a transversalidade das ações da educação especial no ensino regular.",
+      "id": 15567435,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Fomentar o desenvolvimento de recursos didáticos e pedagógicos que eliminem as barreiras no processo de ensino e aprendizagem.</p>",
+      "corpo_clean": "Fomentar o desenvolvimento de recursos didáticos e pedagógicos que eliminem as barreiras no processo de ensino e aprendizagem.",
+      "id": 15567436,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Assegurar condições para a continuidade de estudos nos demais níveis, etapas e modalidades de ensino.</p>",
+      "corpo_clean": "Assegurar condições para a continuidade de estudos nos demais níveis, etapas e modalidades de ensino.",
+      "id": 15567437,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Preconizar o acesso de estudantes com necessidades educacionais especiais a escolas especializadas, sem integração ao ensino regular.</p>",
+      "corpo_clean": "Preconizar o acesso de estudantes com necessidades educacionais especiais a escolas especializadas, sem integração ao ensino regular.",
+      "id": 15567438,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15567438",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

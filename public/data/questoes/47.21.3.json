@@ -1,0 +1,58 @@
+{
+  "id": 2035529,
+  "codigo_real": "47.21.3",
+  "disciplina_real": "Direito Processual Civil - CPC 2015",
+  "assunto_real": "Do agravo de instrumento",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Ministério Público de Tocantins",
+  "cargos_descricao": "Promotor de Justiça Substituto",
+  "ano": 2004,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Ainda em relação aos recursos, assinale a opção correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">No julgamento dos recursos, há nítida cisão da competência entre o juízo <em>a quo</em> — que exerce o controle tão-somente da admissibilidade recursal — e do juízo<em> ad quem</em> — responsável apenas pelo julgamento do mérito do recurso.</p>",
+      "corpo_clean": "No julgamento dos recursos, há nítida cisão da competência entre o juízo a quo — que exerce o controle tão-somente da admissibilidade recursal — e do juízo ad quem — responsável apenas pelo julgamento do mérito do recurso.",
+      "id": 7933740,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O princípio da insignificância e da economia processual excluem o interesse recursal da parte que, saindo vencedora da demanda, tenha decaído de parte mínima do pedido, não se justificando, por isso, a interposição de recurso para obter a pequena parte em relação à qual não obteve êxito.</p>",
+      "corpo_clean": "O princípio da insignificância e da economia processual excluem o interesse recursal da parte que, saindo vencedora da demanda, tenha decaído de parte mínima do pedido, não se justificando, por isso, a interposição de recurso para obter a pequena parte em relação à qual não obteve êxito.",
+      "id": 7933741,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O pedido de reconsideração endereçado ao juiz não suspende o prazo de interposição do agravo contra as decisões que são objeto da reconsideração solicitada.</p>",
+      "corpo_clean": "O pedido de reconsideração endereçado ao juiz não suspende o prazo de interposição do agravo contra as decisões que são objeto da reconsideração solicitada.",
+      "id": 7933742,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Nos pleitos em que um dos pólos é ocupado pela fazenda pública, havendo sucumbência recíproca, o vencido pode aderir ao reexame obrigatório da sentença se a fazenda não recorrer voluntariamente.</p>",
+      "corpo_clean": "Nos pleitos em que um dos pólos é ocupado pela fazenda pública, havendo sucumbência recíproca, o vencido pode aderir ao reexame obrigatório da sentença se a fazenda não recorrer voluntariamente.",
+      "id": 7933743,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Sentenciado o feito, no qual houve intervenção do <em>parquet</em>, este será sempre intimado antes das partes para dizer se tem interesse em recorrer. Somente após o esgotamento do prazo recursal para o Ministério Público é que as partes serão intimadas da sentença.</p>",
+      "corpo_clean": "Sentenciado o feito, no qual houve intervenção do parquet, este será sempre intimado antes das partes para dizer se tem interesse em recorrer. Somente após o esgotamento do prazo recursal para o Ministério Público é que as partes serão intimadas da sentença.",
+      "id": 7933744,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7933742",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": true,
+  "hasImage": false,
+  "hasImageItens": false
+}

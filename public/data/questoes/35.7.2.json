@@ -1,0 +1,37 @@
+{
+  "id": 3235191,
+  "codigo_real": "35.7.2",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Forças armadas (artigos 142 e 143 da CF)",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Prefeitura de Cachoeiro de Itapemirim",
+  "cargos_descricao": "Guarda Municipal",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">As forças armadas são instituições nacionais permanentes e regulares, cuja organização institucional se baseia na hierarquia, na disciplina e na ética militar. </p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">A respeito das forças armadas, julgue os itens que se seguem. </p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 13142640,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 13142641,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13142641",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

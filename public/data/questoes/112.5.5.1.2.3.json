@@ -1,0 +1,58 @@
+{
+  "id": 998442,
+  "codigo_real": "112.5.5.1.2.3",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Orações coordenadas alternativas",
+  "bancas_nome": "Ministério Público de Goiás",
+  "bancas_sigla": "MPE GO",
+  "orgaos_nome": "Ministério Público de Goiás",
+  "cargos_descricao": "Secretário Auxiliar",
+  "ano": 2018,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "Assinale a alternativa de vocábulo incorretamente acentuado",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "ideia",
+      "corpo_clean": "ideia",
+      "id": 3488115,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "plateia",
+      "corpo_clean": "plateia",
+      "id": 3488116,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "europeia",
+      "corpo_clean": "europeia",
+      "id": 3488117,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "alcateia",
+      "corpo_clean": "alcateia",
+      "id": 3488118,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "geléia",
+      "corpo_clean": "geléia",
+      "id": 3488119,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3488119",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

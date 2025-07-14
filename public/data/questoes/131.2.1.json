@@ -1,0 +1,58 @@
+{
+  "id": 2363942,
+  "codigo_real": "131.2.1",
+  "disciplina_real": "Redação Oficial",
+  "assunto_real": "As comunicações oficiais",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Secretaria de Estado de Administração de Goiás",
+  "cargos_descricao": "Analista de Gestão - Área Desenvolvimento de Sistemas",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre as bases da comunicação oficial, assinale a alternativa correta. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A redação oficial requer a observância de padrões relacionados a linguagem, estilo, conteúdo e formatação.</p>",
+      "corpo_clean": "A redação oficial requer a observância de padrões relacionados a linguagem, estilo, conteúdo e formatação.",
+      "id": 9351113,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">É desejável que se utilize o preciosismo linguístico na redação oficial, uma vez que se trata de uma comunicação formal.</p>",
+      "corpo_clean": "É desejável que se utilize o preciosismo linguístico na redação oficial, uma vez que se trata de uma comunicação formal.",
+      "id": 9351114,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A concisão refere-se a uma economia de vocábulos e de conteúdo, já que esse atributo da comunicação oficial é o mais importante de todos. </p>",
+      "corpo_clean": "A concisão refere-se a uma economia de vocábulos e de conteúdo, já que esse atributo da comunicação oficial é o mais importante de todos. ",
+      "id": 9351115,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As expressões “ilustres (ou nobres) parlamentares” e “honrosa presença”, por contribuírem para a objetividade da mensagem, são recomendadas na redação oficial.</p>",
+      "corpo_clean": "As expressões “ilustres (ou nobres) parlamentares” e “honrosa presença”, por contribuírem para a objetividade da mensagem, são recomendadas na redação oficial.",
+      "id": 9351116,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A necessidade de formalidade na redação oficial pressupõe o eruditismo e o uso de jargões burocráticos.</p>",
+      "corpo_clean": "A necessidade de formalidade na redação oficial pressupõe o eruditismo e o uso de jargões burocráticos.",
+      "id": 9351117,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9351113",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

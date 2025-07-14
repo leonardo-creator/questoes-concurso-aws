@@ -1,0 +1,51 @@
+{
+  "id": 2490649,
+  "codigo_real": "94.4.22.20",
+  "disciplina_real": "História",
+  "assunto_real": "Caraguatatuba - SP",
+  "bancas_nome": "SELECON Instituto Nacional de Seleções e Concursos",
+  "bancas_sigla": "SELECON",
+  "orgaos_nome": "Prefeitura de Campo Novo do Parecis",
+  "cargos_descricao": "Professor - Área: História",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">“O linchamento público de um jovem negro e favelado, Cleidenilson da Silva, ocorrido em plena praça pública na periferia da capital maranhense, no dia 7 de julho de 2015, virou capa histórica do jornal carioca Extra (dia 8/7/2015). A manchete do jornal fazia uma comparação entre a situação do país à época e a vivida no período da escravidão:</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\">Os 200 anos entre as duas cenas servem de reflexão: evoluímos ou regredimos?</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\">Se antes os escravos eram chamados à praça para verem com os próprios olhos o corretivo que poupava apenas os homens de sangue azul: os juízes, o clero, os oficiais e os vereadores; hoje avançamos para trás.”</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\">Extraído: www.cartacapital.com.br/blogs/midiatico/em-capahistorica-jornal-estampa-o-atraso-do-brasil-2887.html</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/83835/questao/2490649-20220720165515000000-0.png\" style=\"display: block; margin: auto;\" align=\"center\"></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">O noticiário, que envergonha a toda a humanidade, em especial os brasileiros, pois foram séculos do sistema escravista que marcaram nossa História, permite afirmar corretamente acerca das heranças da escravidão no Brasil que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">abolida a escravidão em 1888, com a assinatura da Lei Áurea, a jovem República tratou de inserir os libertos na sociedade, assegurando-lhes, mesmo que de forma restrita, a cidadania</p>",
+      "corpo_clean": "abolida a escravidão em 1888, com a assinatura da Lei Áurea, a jovem República tratou de inserir os libertos na sociedade, assegurando-lhes, mesmo que de forma restrita, a cidadania",
+      "id": 9899014,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a primeira Constituição republicana, aprovada em 1891, restringiu a cidadania brasileira ao estabelecer o Voto Censitário, excluindo os negros da participação política</p>",
+      "corpo_clean": "a primeira Constituição republicana, aprovada em 1891, restringiu a cidadania brasileira ao estabelecer o Voto Censitário, excluindo os negros da participação política",
+      "id": 9899015,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">passados mais de cem anos da abolição da escravidão, os negros e afrodescendentes continuam a ser discriminados e marginalizados, sofrendo ações racistas e excludentes</p>",
+      "corpo_clean": "passados mais de cem anos da abolição da escravidão, os negros e afrodescendentes continuam a ser discriminados e marginalizados, sofrendo ações racistas e excludentes",
+      "id": 9899016,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o fato de a população negra e de afrodescendentes brasileiros constituírem uma minoria, acaba contribuindo para que o racismo e a exclusão dessa parcela ainda prevaleça no país</p>",
+      "corpo_clean": "o fato de a população negra e de afrodescendentes brasileiros constituírem uma minoria, acaba contribuindo para que o racismo e a exclusão dessa parcela ainda prevaleça no país",
+      "id": 9899017,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9899016",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

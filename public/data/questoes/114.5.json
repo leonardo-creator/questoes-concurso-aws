@@ -1,0 +1,58 @@
+{
+  "id": 1099736,
+  "codigo_real": "114.5",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Rendas (Séries de Pagamentos)",
+  "bancas_nome": "Superintendência de Gestão e Desenvolvimento de Pessoas da UFRPE",
+  "bancas_sigla": "SUGEP UFRPE",
+  "orgaos_nome": "Universidade Federal Rural de Pernambuco",
+  "cargos_descricao": "Assistente em Administração",
+  "ano": 2016,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>João precisa pagar uma dívida de R$ 700,00, outra de R$ 900,00 e uma terceira de R$ 1.100,00. Como só dispõe de R$ 1.620,00, João resolveu abater das dívidas quantias propocionais a cada dívida. O credor da menor dívida receberá:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>R$ 400,00.</p>",
+      "corpo_clean": "R$ 400,00.",
+      "id": 3891189,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>R$ 410,00.</p>",
+      "corpo_clean": "R$ 410,00.",
+      "id": 3891190,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>R$ 420,00.</p>",
+      "corpo_clean": "R$ 420,00.",
+      "id": 3891191,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>R$ 430,00.</p>",
+      "corpo_clean": "R$ 430,00.",
+      "id": 3891192,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>R$ 440,00.</p>",
+      "corpo_clean": "R$ 440,00.",
+      "id": 3891193,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3891191",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 286491,
+  "codigo_real": "16.5.1",
+  "disciplina_real": "Biblioteconomia",
+  "assunto_real": "Princípios e funções administrativas em bibliotecas, estrutura organizacional, as grandes áreas funcionais da biblioteca, marketing",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis",
+  "cargos_descricao": "Analista Ambiental - Área Informação",
+  "ano": 2009,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>A tomada de decisão é entendida como uma função\r\nadministrativa, mas também é um elemento comum às\r\ndemais funções como o planejamento, a organização, a\r\ndireção e o controle. </p>",
+  "grupoQuestao_enunciado": "<P align=justify>Julgue os itens a seguir que abordam as atividades de planejamento, de <EM>marketing</EM> e o serviço de referência em bibliotecas.</P>",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1070050,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1070049,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "1070049",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

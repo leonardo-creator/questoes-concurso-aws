@@ -1,0 +1,51 @@
+{
+  "id": 1214641,
+  "codigo_real": "15.2.2",
+  "disciplina_real": "Auditoria",
+  "assunto_real": "Finalidade e Objetivos da Auditoria Interna",
+  "bancas_nome": "Fundação de Apoio à Educação e Desenvolvimento Tecnológico de Minas Gerais",
+  "bancas_sigla": "Fundacao CEFETMINAS",
+  "orgaos_nome": "Prefeitura de Ponte Nova",
+  "cargos_descricao": "Médico Auditor",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Os objetivos da sistemática de análise de AIH x prontuário\r\nsão, EXCETO</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>avaliar a propriedade, a eficiência, a eficácia e a\r\nqualidade dos serviços prestados.</p>",
+      "corpo_clean": "avaliar a propriedade, a eficiência, a eficácia e a qualidade dos serviços prestados.",
+      "id": 4376788,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>verificar a observância dos procedimentos frente\r\naos padrões, parâmetros, indicadores e critérios estabelecidos.</p>",
+      "corpo_clean": "verificar a observância dos procedimentos frente aos padrões, parâmetros, indicadores e critérios estabelecidos.",
+      "id": 4376789,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>identificar e documentar distorções, porém sem\r\npermitir que sejam propostas medidas corretivas.</p>",
+      "corpo_clean": "identificar e documentar distorções, porém sem permitir que sejam propostas medidas corretivas.",
+      "id": 4376790,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>obter subsídios para a elaboração ou a reformulação\r\ndas necessidades de cobertura da assistência\r\nhospitalar.</p>",
+      "corpo_clean": "obter subsídios para a elaboração ou a reformulação das necessidades de cobertura da assistência hospitalar.",
+      "id": 4376791,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4376790",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3271685,
+  "codigo_real": "35.1.13",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Histórico das Constituições brasileiras ou as constituições brasileiras ou evolução constitucional brasileira",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Fundação de Arte e Cultura de Ubatuba",
+  "cargos_descricao": "Museólogo",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Promover e proteger o patrimônio cultural do Brasil é uma atribuição do poder público e da comunidade.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Uma das formas previstas na Constituição da República Federativa do Brasil de 1988 para proteger o patrimônio cultural brasileiro é por meio de:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Inventários.</p>",
+      "corpo_clean": "Inventários.",
+      "id": 13297345,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Manipulação.</p>",
+      "corpo_clean": "Manipulação.",
+      "id": 13297346,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Iluminação.</p>",
+      "corpo_clean": "Iluminação.",
+      "id": 13297347,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Publicações.</p>",
+      "corpo_clean": "Publicações.",
+      "id": 13297348,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Replicação.</p>",
+      "corpo_clean": "Replicação.",
+      "id": 13297349,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13297345",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1705578,
+  "codigo_real": "4.1.3",
+  "disciplina_real": "Administração Pública",
+  "assunto_real": "Administração Pública",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Consórcio Intermunicipal de Saúde do Oeste de Santa Catarina",
+  "cargos_descricao": "Controlador Interno",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No ciclo de políticas públicas, “uma lista de assuntos ou problemas nos quais representantes do governo e pessoas fora do governo […], estão seriamente prestando atenção a qualquer momento”, denota:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Avaliação.</p>",
+      "corpo_clean": "Avaliação.",
+      "id": 6456873,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Implementação.</p>",
+      "corpo_clean": "Implementação.",
+      "id": 6456874,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Tomada de decisão.</p>",
+      "corpo_clean": "Tomada de decisão.",
+      "id": 6456875,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Formulação de alternativas.</p>",
+      "corpo_clean": "Formulação de alternativas.",
+      "id": 6456876,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Formação da agenda pública.</p>",
+      "corpo_clean": "Formação da agenda pública.",
+      "id": 6456877,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6456877",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

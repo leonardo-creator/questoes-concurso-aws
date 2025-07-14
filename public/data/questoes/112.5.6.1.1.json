@@ -1,0 +1,51 @@
+{
+  "id": 2837232,
+  "codigo_real": "112.5.6.1.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Regras gerais",
+  "bancas_nome": "Objetiva Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Câmara de Vereadores de Passo Fundo",
+  "cargos_descricao": "Motorista",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: center;\">Água</p><p><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify; text-indent: 2em;\">\tEm janeiro de 1997, entrou em vigor a Lei nº 9.433/1997, também conhecida como Lei das Águas. O instrumento legal instituiu a Política Nacional de Recursos Hídricos (PNRH) e criou o Sistema Nacional de Gerenciamento de Recursos Hídricos (SINGREH). Segundo a Lei das Águas, a Política Nacional de Recursos Hídricos tem seis fundamentos. A água é considerada um bem de domínio público e um recurso natural limitado, dotado de valor ____________.</p><p style=\"text-align: justify; text-indent: 2em;\">\tA Lei prevê que a gestão dos recursos hídricos deve proporcionar os usos múltiplos das águas, de forma descentralizada e participativa, contando com a participação do Poder Público, dos usuários e das comunidades. Também determina que, em situações de escassez, o uso prioritário da água é para o consumo humano e para a dessedentação de animais. Outro fundamento é o de que a bacia hidrográfica é a unidade de atuação do SINGREH e de implementação da PNRH.</p><p style=\"text-align: justify; text-indent: 2em;\">\tO segundo artigo da Lei explicita os objetivos da PNRH: assegurar a disponibilidade de água de qualidade às gerações presentes e futuras, promover uma utilização racional e integrada dos recursos hídricos e a prevenção e defesa contra eventos hidrológicos (chuvas, secas e enchentes), sejam eles naturais ou decorrentes do mau uso dos recursos naturais.</p><p style=\"text-align: justify; text-indent: 2em;\">\tO território brasileiro contém cerca de 12% de toda a água doce do planeta. Ao todo, são 200 mil ___________ espalhadas em 12 regiões hidrográficas, como as bacias do São Francisco, do Paraná e a Amazônica (a mais extensa do mundo, sendo 60% dela localizada no Brasil). É um enorme potencial hídrico, capaz de prover um volume de água por pessoa 19 vezes superior ao mínimo estabelecido pela Organização das Nações Unidas (ONU), que é de 1.700 m³/s por habitante por ano.</p><p style=\"text-align: justify; text-indent: 2em;\">\tApesar da abundância, os recursos hídricos brasileiros não são inesgotáveis. O acesso à água não é igual para todos. As características geográficas de cada região e as mudanças de __________ dos rios, que ocorrem devido às variações climáticas ao longo do ano, afetam a distribuição.</p><p style=\"text-indent: 2em; text-align: justify;\">\t<span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: right; text-indent: 2em;\">\t(Fonte: Antigo Ministério do Meio Ambiente - adaptado.)</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\">A Lei das Águas, nome popular da Lei nº 9.433/1997, estabeleceu fundamentos para o manejo de recursos hídricos. Portanto, de acordo com o texto, é INCORRETO afirmar como fundamento dessa lei que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>A água é um bem de domínio público.</p>",
+      "corpo_clean": "A água é um bem de domínio público.",
+      "id": 11417285,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Sua gestão deve ser feita de forma descentralizada e participativa.</p>",
+      "corpo_clean": "Sua gestão deve ser feita de forma descentralizada e participativa.",
+      "id": 11417286,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O uso múltiplo das águas deve ser subjugado ao interesse estatal.</p>",
+      "corpo_clean": "O uso múltiplo das águas deve ser subjugado ao interesse estatal.",
+      "id": 11417287,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A defesa contra eventos hidrológicos ajuda a assegurar a disponibilidade de água às gerações futuras.</p>",
+      "corpo_clean": "A defesa contra eventos hidrológicos ajuda a assegurar a disponibilidade de água às gerações futuras.",
+      "id": 11417288,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11417287",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

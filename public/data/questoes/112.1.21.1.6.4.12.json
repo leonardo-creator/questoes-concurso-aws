@@ -1,0 +1,51 @@
+{
+  "id": 2725529,
+  "codigo_real": "112.1.21.1.6.4.12",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "A pós-verdade",
+  "bancas_nome": "Fundação Mariana Resende Costa",
+  "bancas_sigla": "FUMARC",
+  "orgaos_nome": "Assembléia Legislativa de Minas Gerais",
+  "cargos_descricao": "Consultor de Processo Legislativo",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em: “Confesso: já <strong>fui </strong>a festa no dia seguinte ao marcado.”, sobre o verbo destacado <strong>neste trecho</strong>, é correto afirmar que é o</p>",
+  "grupoQuestao_enunciado": "<p><strong><u>TEXTO 01</u></strong></p><p><strong style=\"color: rgb(255, 255, 255);\"><u>-</u></strong></p><p style=\"text-align: center;\"><strong>Questão de horário</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: right;\">Walcyr Carrasco</p><p style=\"text-align: right;\"><br></p><p style=\"text-align: justify; text-indent: 2em;\">\tEu sou um chato, do tipo que faz questão de chegar na hora certa. Há países em que o horário é um rito religioso. Ninguém se atrasa. Uma vez, na Holanda, demorei cinco minutos extras para descer de elevador e fui recebido de cara feia. Mas aqui, entre nós, brasileiros, é muito diferente. Certa vez, pertencia a uma associação. Marcou-se uma reunião às 19 horas no Rio de Janeiro. Meia hora depois, ninguém. O primeiro membro só apareceu às 20h30. O diretor, às 21. A reunião começou às 22, quando eu, exausto, só queria ir embora. Todos os outros ostentavam sorrisos, bom humor. Óbvio, nunca mais fui a encontro algum dessa associação.</p><p style=\"text-align: justify; text-indent: 2em;\">\tHoje, trabalho com pessoas muito pontuais, e as reuniões <em>on-line</em> nos tornaram mais pontuais ainda. Horário é horário, ninguém suportaria permanecer 45 minutos olhando a tela em branco, aguardando o ingresso na reunião. Somos exceção. Tenho um amigo, por exemplo, capaz de marcar algo às 10 da manhã, um novo compromisso às 10h15, outro às 10h30. Dá errado, sempre. Ou certo, porque as pessoas com quem ele marca também se atrasam, e ele teria de ficar esperando. É uma pessoa agradável e simpática. Não é nem por má vontade. Parece que há uma inabilidade de calcular o tempo. Sempre na última hora surge algo para fazer e ele corre.</p><p style=\"text-align: justify; text-indent: 2em;\">\tQuinze minutos é o máximo que se deve esperar, segundo aprendi. Mas se a gente quer muito o encontro, seja por motivo pessoal ou profissional, por que não dar mais um tempinho na esperança de, enfim, resolver? O pior é ter de continuar simpático, sorridente, após um chá de cadeira. Mas se é para ficar de cara feia, melhor nem esperar. Tenho um amigo que conta cada instante. E diz: “Você chegou quinze segundos atrasado”. Também é um exagero. Gasta-se meia hora apenas para acalmá-lo. Aí, a alegria do encontro já foi embora.</p><p style=\"text-align: justify; text-indent: 2em;\">\tPerder o <em>timing </em>pode mudar uma vida inteira. O horário do Enem ou da prova de vestibular, por exemplo, é rígido. Quem chega depois, chora. Há restaurantes que seguram a reserva só quinze minutos. Em compensação, nada mais injusto que os horários de voos. Aviões atrasam, são cancelados, a gente passa horas no aeroporto e fica por isso mesmo. Eu nunca posso me atrasar, mas eles sim.</p><p style=\"text-align: justify; text-indent: 2em;\">\tFormigas e abelhas têm estruturas organizacionais sólidas. E nenhuma usa relógio. Assim como os pássaros que sabem a hora de migrar. Nós, humanos, é que nos atrapalhamos. Confesso: já fui a festa no dia seguinte ao marcado. Um desastre. Há noivos que esperam horas no altar, e noivas que aguardam anos para o pedido de casamento. Em Minas há uma cidade, no interior, chamada Espera Feliz. Mas é possível existir felicidade em uma espera? Só fico feliz quando aguardo o vaivém dos pratos de um bom jantar. A gula estimula a paciência. Já quando se está com fome e o menu demora é o fim do mundo.</p><p style=\"text-align: justify; text-indent: 2em;\">\tHorário também é questão de empatia. O que se tem de mais precioso é o tempo. Por que alguém se acha no direito de deixar o outro esperando?</p><p style=\"text-align: justify; text-indent: 2em;\">\t</p><p style=\"text-align: justify; text-indent: 2em;\">\tDisponível em: <u>https://veja.abril.com.br/coluna/walcyr-carrasco/questao-de-horario</u>/ (Adaptado) Acesso em: 07 jan. 2023.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">pretérito imperfeito do indicativo do verbo ir.</p>",
+      "corpo_clean": "pretérito imperfeito do indicativo do verbo ir.",
+      "id": 10921355,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">pretérito imperfeito do indicativo do verbo ser</p>",
+      "corpo_clean": "pretérito imperfeito do indicativo do verbo ser",
+      "id": 10921356,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">pretérito perfeito do indicativo do verbo ir.</p>",
+      "corpo_clean": "pretérito perfeito do indicativo do verbo ir.",
+      "id": 10921357,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">pretérito perfeito do indicativo do verbo ser.</p>",
+      "corpo_clean": "pretérito perfeito do indicativo do verbo ser.",
+      "id": 10921358,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10921357",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

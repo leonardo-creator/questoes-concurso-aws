@@ -1,0 +1,51 @@
+{
+  "id": 3650822,
+  "codigo_real": "58.5.4",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Central de material e esterilização",
+  "bancas_nome": "SELECON Instituto Nacional de Seleções e Concursos",
+  "bancas_sigla": "SELECON",
+  "orgaos_nome": "Prefeitura de Sinop",
+  "cargos_descricao": "Técnico de Enfermagem",
+  "ano": 2025,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O técnico de enfermagem encaminhou materiais utilizados no Centro Cirúrgico para a Central de Material e Esterilização. De modo a garantir que o processamento de artigos hospitalares, como materiais cirúrgicos e equipamentos reutilizáveis, seja realizado de acordo com as normas de biossegurança, a conduta mais indicada é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">o processamento deve iniciar com a lavagem do material em água fria, seguido pela esterilização em autoclave, sem a necessidade de secagem, desde que o material esteja livre de resíduos</p>",
+      "corpo_clean": "o processamento deve iniciar com a lavagem do material em água fria, seguido pela esterilização em autoclave, sem a necessidade de secagem, desde que o material esteja livre de resíduos",
+      "id": 14871649,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o processamento deve iniciar com a desinfecção simples dos artigos com álcool, seguido pela secagem manual e armazenagem, sem a necessidade de esterilização, já que o álcool é suficiente para eliminar os micro-organismos</p>",
+      "corpo_clean": "o processamento deve iniciar com a desinfecção simples dos artigos com álcool, seguido pela secagem manual e armazenagem, sem a necessidade de esterilização, já que o álcool é suficiente para eliminar os micro-organismos",
+      "id": 14871650,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o processamento pode ser realizado apenas com a secagem manual e armazenamento do material, pois a esterilização não é necessária para materiais não críticos, como luvas e gazes</p>",
+      "corpo_clean": "o processamento pode ser realizado apenas com a secagem manual e armazenamento do material, pois a esterilização não é necessária para materiais não críticos, como luvas e gazes",
+      "id": 14871651,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o processamento deve começar com a lavagem do material em água quente e detergente enzimático, seguida pela secagem adequada, esterilização e armazenamento em local adequado, respeitando as orientações de segurança e de controle de infecção</p>",
+      "corpo_clean": "o processamento deve começar com a lavagem do material em água quente e detergente enzimático, seguida pela secagem adequada, esterilização e armazenamento em local adequado, respeitando as orientações de segurança e de controle de infecção",
+      "id": 14871652,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "14871652",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

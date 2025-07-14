@@ -1,0 +1,58 @@
+{
+  "id": 3157302,
+  "codigo_real": "125.19.6.2",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Metodologia de projetos - Metodologia de projetos",
+  "bancas_nome": "Ntcs",
+  "bancas_sigla": "NTCS",
+  "orgaos_nome": "Prefeitura Municipal de Mucajaí",
+  "cargos_descricao": "Professor Pedagogo",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa que apresenta a nomenclatura das metodologias referidas nas afirmações acima, respectivamente.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Leia as definições de metodologias de ensino e responda à questão 50.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"> I. O docente é o detentor do conhecimento, que é passado aos alunos pela transmissão de conteúdos escritos, leituras e realização de exercícios. </p><p style=\"text-align: justify;\">II. O aluno é o agente principal e os professores, no caso, atuam como facilitadores, provendo os meios, conhecimentos e ferramentas necessárias para que o aluno desenvolva seu potencial.</p><p style=\"text-align: justify;\"> III. É baseada em atividades de grupo, nas quais os alunos são estimulados a criar projetos e a interagir uns com os outros. </p><p style=\"text-align: justify;\">IV. O aluno também é agente da própria formação, sendo o professor um observador do processo, intervindo apenas quando necessário e o ambiente é preparado para dar a eles os estímulos para aprender. </p><p style=\"text-align: justify;\">V. Favorecem uma postura ativa por parte do aluno, em vez do tradicional comportamento passivo. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Disponível em: https://fia.com.br/novasmetodologias-de-ensino/amp/ Acesso em jan, 2024.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Tradicional; Sociointeracionista; Montessoriano; Construtivista; Metodologias Ativas.</p>",
+      "corpo_clean": "Tradicional; Sociointeracionista; Montessoriano; Construtivista; Metodologias Ativas.",
+      "id": 12817267,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Tradicional; Montessoriano; Metodologias Ativas; Sociointeracionista; Construtivista.</p>",
+      "corpo_clean": "Tradicional; Montessoriano; Metodologias Ativas; Sociointeracionista; Construtivista.",
+      "id": 12817268,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Tradicional; Metodologias Ativas; Freireano; Behaviorista; Sociointeracionista.</p>",
+      "corpo_clean": "Tradicional; Metodologias Ativas; Freireano; Behaviorista; Sociointeracionista.",
+      "id": 12817269,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Tradicional; Construtivista; Sociointeracionista; Montessoriano; Metodologias Ativas.</p>",
+      "corpo_clean": "Tradicional; Construtivista; Sociointeracionista; Montessoriano; Metodologias Ativas.",
+      "id": 12817270,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Tradicional; Behaviorista; Sociointeracionista; Montessoriano; Metodologias Ativas.</p>",
+      "corpo_clean": "Tradicional; Behaviorista; Sociointeracionista; Montessoriano; Metodologias Ativas.",
+      "id": 12817271,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12817270",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

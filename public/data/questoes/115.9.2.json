@@ -1,0 +1,51 @@
+{
+  "id": 3185750,
+  "codigo_real": "115.9.2",
+  "disciplina_real": "Matemática",
+  "assunto_real": "Geometria Espacial",
+  "bancas_nome": "Instituto de Estudos Superiores do Extremo Sul",
+  "bancas_sigla": "IESES",
+  "orgaos_nome": "Prefeitura de Gaspar",
+  "cargos_descricao": "Operador de ETA",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Uma lata tem a forma de um cilindro com 8 centímetros de diâmetro e 3 centímetros de altura. Assinale a alternativa que indica corretamente o volume desta lata. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>48π cm cúbicos. </p>",
+      "corpo_clean": "48π cm cúbicos. ",
+      "id": 12938109,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>24π cm cúbicos. </p>",
+      "corpo_clean": "24π cm cúbicos. ",
+      "id": 12938110,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>36π cm cúbicos. </p>",
+      "corpo_clean": "36π cm cúbicos. ",
+      "id": 12938111,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>192π cm cúbicos. </p>",
+      "corpo_clean": "192π cm cúbicos. ",
+      "id": 12938112,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "12938109",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

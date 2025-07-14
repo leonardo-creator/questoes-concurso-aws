@@ -1,0 +1,37 @@
+{
+  "id": 1013533,
+  "codigo_real": "3.17.8",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Empatia e Compreensão Mútua",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Conselho Regional de Biomedicina da 6ª Região",
+  "cargos_descricao": "Auxiliar Administrativo",
+  "ano": 2018,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "A empatia não influencia na compreensão e na\r\ncomunicação e é irrelevante na superação dos\r\nobstáculos interpostos pelos diferentes participantes de\r\numa equipe.",
+  "grupoQuestao_enunciado": "Quanto ao trabalho em equipe, julgue os próximos itens.",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 3546154,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 3546155,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3546155",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

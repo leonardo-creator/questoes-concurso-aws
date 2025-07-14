@@ -1,0 +1,58 @@
+{
+  "id": 1720530,
+  "codigo_real": "117.8.10.7",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Cirurgia Pediátrica - Cirurgia Pediátrica",
+  "bancas_nome": "Fundação Professor Carlos Augusto Bittencourt",
+  "bancas_sigla": "FUNCAB",
+  "orgaos_nome": "Prefeitura de Boa Vista",
+  "cargos_descricao": "Médico Cirurgião Pediatra",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A melhor opção de tratamento para a atresia do delgado tipo III b com inadequado comprimento intestinal é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">ressecção do segmento proximal dilatado e anastomose término-terminal.</p>",
+      "corpo_clean": "ressecção do segmento proximal dilatado e anastomose término-terminal.",
+      "id": 6528074,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">anastomose término-terminal sem ressecção.</p>",
+      "corpo_clean": "anastomose término-terminal sem ressecção.",
+      "id": 6528075,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">jejunoplastia proximal e anastomose término-terminal.</p>",
+      "corpo_clean": "jejunoplastia proximal e anastomose término-terminal.",
+      "id": 6528076,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">jejunostomia com anastomose tardia.</p>",
+      "corpo_clean": "jejunostomia com anastomose tardia.",
+      "id": 6528077,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">anastomose término-lateral sem ressecção.</p>",
+      "corpo_clean": "anastomose término-lateral sem ressecção.",
+      "id": 6528078,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6528076",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

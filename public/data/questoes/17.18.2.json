@@ -1,0 +1,58 @@
+{
+  "id": 1885594,
+  "codigo_real": "17.18.2",
+  "disciplina_real": "Biologia",
+  "assunto_real": "Entomologia forense",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Guarulhos",
+  "cargos_descricao": "Especialista em Saúde - Área: Biólogo",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com o Ministério da Saúde, as aranhas representam o terceiro grupo de animais que mais causa acidentes por envenenamento no Brasil. A maioria das aranhas produz veneno, porém, dentre elas, algumas não conseguem inoculá-lo na pele humana. Isso ocorre devido à disposição do ferrão que inocula veneno, que pode estar disposto de duas formas diferentes, como se vê na figura a seguir, que representa a parte anterior do cefalotorax desses animais.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/61624/questao/1885594-20210903095840000000-0.png\"></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\">(http://www.mzufba.ufba.br/WEB/MZV_https://arquivos.infra-questoes.grancursosonline.com.br/arquivos/artropodes_aranhas.html. Adaptado) </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Nessa ilustração, a estrutura A é denominada</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">quelícera e está conectada com a glândula de veneno.</p>",
+      "corpo_clean": "quelícera e está conectada com a glândula de veneno.",
+      "id": 7261820,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">fiandeira e está conectada com a peçonha do animal.</p>",
+      "corpo_clean": "fiandeira e está conectada com a peçonha do animal.",
+      "id": 7261821,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">pedipalpo e é responsável pela produção de veneno.</p>",
+      "corpo_clean": "pedipalpo e é responsável pela produção de veneno.",
+      "id": 7261822,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">papo, que produz o veneno a ser liberado pelo ferrão.</p>",
+      "corpo_clean": "papo, que produz o veneno a ser liberado pelo ferrão.",
+      "id": 7261823,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">mandíbula, responsável pela inoculação de veneno na presa.</p>",
+      "corpo_clean": "mandíbula, responsável pela inoculação de veneno na presa.",
+      "id": 7261824,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7261820",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

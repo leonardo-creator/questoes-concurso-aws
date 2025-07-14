@@ -1,0 +1,58 @@
+{
+  "id": 2336554,
+  "codigo_real": "8.069",
+  "disciplina_real": "Lei nº",
+  "assunto_real": "- Das Medidas Sócio-Educativas",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Ministério Público de Pernambuco",
+  "cargos_descricao": "Promotor de Justiça",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O órgão de execução do Ministério Público, em primeira instância, tendo tomado conhecimento da prática de ato infracional atribuído a adolescente, analisou as informações e entendeu não ser caso de arquivamento ou remissão, decidindo dar início ao procedimento para aplicação da medida socioeducativa através de</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">apresentação do adolescente apreendido em flagrante perante a autoridade judiciária.</p>",
+      "corpo_clean": "apresentação do adolescente apreendido em flagrante perante a autoridade judiciária.",
+      "id": 9233452,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">representação oferecida à autoridade judiciária.</p>",
+      "corpo_clean": "representação oferecida à autoridade judiciária.",
+      "id": 9233453,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">oferecimento de queixa perante o juiz competente.</p>",
+      "corpo_clean": "oferecimento de queixa perante o juiz competente.",
+      "id": 9233454,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">oitiva informal do adolescente, na presença de seus familiares.</p>",
+      "corpo_clean": "oitiva informal do adolescente, na presença de seus familiares.",
+      "id": 9233455,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">denúncia por prática de ato infracional.</p>",
+      "corpo_clean": "denúncia por prática de ato infracional.",
+      "id": 9233456,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9233453",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

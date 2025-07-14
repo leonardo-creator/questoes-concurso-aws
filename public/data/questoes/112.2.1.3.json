@@ -1,0 +1,51 @@
+{
+  "id": 2782800,
+  "codigo_real": "112.2.1.3",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Tonicidade",
+  "bancas_nome": "Associação dos Municípios do Extremo Oeste de Santa Catarina",
+  "bancas_sigla": "AMEOSC",
+  "orgaos_nome": "Prefeitura de Bandeirante",
+  "cargos_descricao": "Auxiliar Administrativo",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Acerca da crônica \"Bonitas mesmo\" de Martha Medeiros, julgue as afirmações que seguem: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I.Com um olhar atento e crítico, o texto começa por apontar e comentar as pressões estéticas a que as mulheres estão sujeitas e as diversas cobranças que existem em torno da sua aparência. </p><p style=\"text-align: justify;\">II.Apresentando sua definição da verdadeira beleza, a autora se distancia das imposições sociais e dos padrões redutores. Segundo ela, as mulheres são ainda mais bonitas quando estão confortáveis, quando nem estão preocupando com isso. </p><p style=\"text-align: justify;\">III.Observando e enaltecendo os gestos cotidianos e os atos mais comuns, a autora traça um elogio ao poder feminino que existe em todas as mulheres e vai muito além da imagem de cada uma. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Está CORRETO o que se afirma em:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>O texto seguinte servirá de base para responder às questões de 21 a 30. </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><u>Bonitas mesmo</u></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Quando é que uma mulher é realmente bonita? No momento em que sai do cabeleireiro? Quando está numa festa? Quando posa para uma foto? Clic, clic, clic. Sorriso amarelo, postura artificial, desempenho para o público. Bonitas mesmo somos quando ninguém está nos vendo.</p><p style=\"text-align: justify;\">Atirada no sofá, com uma calça de ficar em casa, uma blusa faltando um botão, as pernas enroscadas uma na outra, o cabelo caindo de qualquer jeito pelo ombro, nenhuma preocupação se o batom resistiu ou não à longa passagem do dia. Um livro nas mãos, o olhar perdido dentro de tantas palavras, um ar de descoberta no rosto. Linda.</p><p style=\"text-align: justify;\">(...)</p><p style=\"text-align: justify;\">Saindo do banho, a toalha abandonada no chão, o corpo ainda úmido, as mãos desembaçando o espelho, creme hidratante nas pernas, desodorante, um último minuto de relaxamento, há um dia inteiro pra percorrer e assim que a porta do banheiro for aberta já não será mais dona de si mesma. Escovar os dentes, cuspir, enxugar a boca, respirar fundo. Espetacular.</p><p style=\"text-align: justify;\">(...)</p><p style=\"text-align: justify;\">O carro estacionado às pressas numa rua desconhecida, uma necessidade urgente de chorar por causa de uma música ou de uma lembrança, a cabeça jogada sobre o volante, as lágrimas quentes, fartas, um lenço de papel catado na bolsa, o nariz sendo assoado, os dedos limpando as pálpebras, o retrovisor acusando os olhos vermelhos e mesmo assim servindo de amparo, estou aqui com você, só eu estou te vendo. Encantadora.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"font-size: 11px;\">Martha Medeiros. https://www.culturagenial.com/cronicas-curtas-com-interpretacao/ </span></p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">I e III, apenas.</p>",
+      "corpo_clean": "I e III, apenas.",
+      "id": 11177830,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">II e III, apenas.</p>",
+      "corpo_clean": "II e III, apenas.",
+      "id": 11177831,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I e II, apenas.</p>",
+      "corpo_clean": "I e II, apenas.",
+      "id": 11177832,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I, II e III.</p>",
+      "corpo_clean": "I, II e III.",
+      "id": 11177833,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11177833",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1368990,
+  "codigo_real": "18.3",
+  "disciplina_real": "Ciência Política",
+  "assunto_real": "Política Brasileira",
+  "bancas_nome": "Prime Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Santo Expedito",
+  "cargos_descricao": "Médico Veterinário",
+  "ano": 2017,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Qual o nome do atual Presidente da República do Brasil, trata-se de:\r\n</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Michel Miguel Elias Temer Lulia.\r\n</p>",
+      "corpo_clean": "Michel Miguel Elias Temer Lulia. ",
+      "id": 5029026,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Dilma Rousseff</p>",
+      "corpo_clean": "Dilma Rousseff",
+      "id": 5029027,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify> Luiz Inácio Lula da Silva\r\n</p>",
+      "corpo_clean": " Luiz Inácio Lula da Silva ",
+      "id": 5029028,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify> Renan Calheiro</p>",
+      "corpo_clean": " Renan Calheiro",
+      "id": 5029029,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5029026",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

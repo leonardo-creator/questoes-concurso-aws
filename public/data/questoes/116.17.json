@@ -1,0 +1,58 @@
+{
+  "id": 3826733,
+  "codigo_real": "116.17",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Deontologia médica",
+  "bancas_nome": "Fundação de Apoioao Desenvolvimento Unicentro",
+  "bancas_sigla": "FAU UNICENTRO",
+  "orgaos_nome": "Prefeitura de Dois Vizinhos",
+  "cargos_descricao": "Médico Urologista",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A Medicina de Família e Comunidade (MFC) é definida como a especialidade médica que: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I - Presta assistência à saúde de forma continuada, integral e abrangente para pessoas, suas famílias e a comunidade.</p><p style=\"text-align: justify;\"> II - Integra ciências biológicas, clínicas e comportamentais; abrange todas as idades, ambos os sexos, cada sistema orgânico e cada doença; trabalha com sinais, sintomas e problemas de saúde; e proporciona o contato das pessoas com o médico mesmo antes que exista uma situação de doença ou depois que esta se resolva.</p><p style=\"text-align: justify;\"> III - Também tem como característica especial, o acesso do médico de família e comunidade ao domicílio das pessoas.</p><p style=\"text-align: justify;\">IV - A MFC (Medicina Familia e Comunidade) tem se desenvolvido, em todo o mundo, como a opção eficaz para promover a mudança na abordagem aos problemas de saúde das pessoas (nível individual), das famílias (nível familiar), em grupos, em instituições e nas comunidades (nível coletivo), pois é um campo do conhecimento médico comprometido e orientado por princípios de atuação que rompem com a prática médica tradicional, enfrentando efetivamente as dificuldades na prestação do cuidado à saúde dispensado hoje.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"> Assinale a alternativa correta: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Somente I e II estão corretas.</p>",
+      "corpo_clean": "Somente I e II estão corretas.",
+      "id": 15605183,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>I, II, III e IV estão corretas.</p>",
+      "corpo_clean": "I, II, III e IV estão corretas.",
+      "id": 15605184,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Somente II, III e IV estão corretas.</p>",
+      "corpo_clean": "Somente II, III e IV estão corretas.",
+      "id": 15605185,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Somente II e IV estão corretas.</p>",
+      "corpo_clean": "Somente II e IV estão corretas.",
+      "id": 15605186,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Somente I, III e IV estão corretas.</p>",
+      "corpo_clean": "Somente I, III e IV estão corretas.",
+      "id": 15605187,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15605184",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

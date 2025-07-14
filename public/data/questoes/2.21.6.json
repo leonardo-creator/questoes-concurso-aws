@@ -1,0 +1,51 @@
+{
+  "id": 1648045,
+  "codigo_real": "2.21.6",
+  "disciplina_real": "Administração Financeira e Orçamentária - AFO",
+  "assunto_real": "Transferências Voluntárias (Art. 25)",
+  "bancas_nome": "Associação dos Municípios do Extremo Oeste de Santa Catarina",
+  "bancas_sigla": "AMEOSC",
+  "orgaos_nome": "Prefeitura de Barra Bonita",
+  "cargos_descricao": "Auxiliar Administrativo",
+  "ano": 2019,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Augusto estava confuso após a aula de Direito Financeiro na qual foi apresentada a conceituação de transferência voluntária. Diante de sua confusão, buscou auxílio com sua colega de classe Aline, que lhe informou que o conceito estaria previsto na Lei Complementar n<sup>o</sup> 101/2000, que diz que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Entende-se por transferência voluntária a entrega de recursos correntes ou de capital a outro ente da Federação, a título de cooperação, auxílio ou assistência financeira, que não decorra de determinação constitucional, legal ou os destinados ao Sistema Único de Saúde.</p>",
+      "corpo_clean": "Entende-se por transferência voluntária a entrega de recursos correntes ou de capital a outro ente da Federação, a título de cooperação, auxílio ou assistência financeira, que não decorra de determinação constitucional, legal ou os destinados ao Sistema Único de Saúde.",
+      "id": 6208269,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Entende-se como transferência voluntária o montante total apurado sem duplicidade, das obrigações financeiras do ente da Federação, assumidas em virtude de leis, contratos, convênios ou tratados e da realização de operações de crédito, para amortização em prazo superior a doze meses.</p>",
+      "corpo_clean": "Entende-se como transferência voluntária o montante total apurado sem duplicidade, das obrigações financeiras do ente da Federação, assumidas em virtude de leis, contratos, convênios ou tratados e da realização de operações de crédito, para amortização em prazo superior a doze meses.",
+      "id": 6208270,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Entende-se como transferência voluntária o somatório dos gastos do ente da Federação com os ativos, os inativos e os pensionistas, relativos a mandatos eletivos, cargos, funções ou empregos, civis, militares e de membros de Poder, com quaisquer espécies remuneratórias, tais como vencimentos e vantagens, fixas e variáveis, subsídios, proventos da aposentadoria, reformas e pensões, inclusive adicionais, gratificações, horas extras e vantagens pessoais de qualquer natureza, bem como encargos sociais e contribuições recolhidas pelo ente às entidades de previdência.</p>",
+      "corpo_clean": "Entende-se como transferência voluntária o somatório dos gastos do ente da Federação com os ativos, os inativos e os pensionistas, relativos a mandatos eletivos, cargos, funções ou empregos, civis, militares e de membros de Poder, com quaisquer espécies remuneratórias, tais como vencimentos e vantagens, fixas e variáveis, subsídios, proventos da aposentadoria, reformas e pensões, inclusive adicionais, gratificações, horas extras e vantagens pessoais de qualquer natureza, bem como encargos sociais e contribuições recolhidas pelo ente às entidades de previdência.",
+      "id": 6208271,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Entende-se como transferência voluntária o compromisso financeiro assumido em razão de mútuo, abertura de crédito, emissão e aceite de título, aquisição financiada de bens, recebimento antecipado de valores provenientes da venda a termo de bens e serviços, arrendamento mercantil e outras operações assemelhadas, inclusive com o uso de derivativos financeiros.</p>",
+      "corpo_clean": "Entende-se como transferência voluntária o compromisso financeiro assumido em razão de mútuo, abertura de crédito, emissão e aceite de título, aquisição financiada de bens, recebimento antecipado de valores provenientes da venda a termo de bens e serviços, arrendamento mercantil e outras operações assemelhadas, inclusive com o uso de derivativos financeiros.",
+      "id": 6208272,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "6208269",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

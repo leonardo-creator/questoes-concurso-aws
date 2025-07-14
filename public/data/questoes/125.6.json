@@ -1,0 +1,51 @@
+{
+  "id": 3675861,
+  "codigo_real": "125.6",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Legislação Educacional",
+  "bancas_nome": "Evolução Consultoria",
+  "bancas_sigla": "Instituto Evo",
+  "orgaos_nome": "Prefeitura Municipal de Marapoama",
+  "cargos_descricao": "Psicopedagogo",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com Estatuto da Criança e do Adolescente, complete as lacunas, respectivamente, em: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">“Se houver indícios de ato ________ de criança ou de adolescente, o juiz ____________ o fato ao __________e encaminhará os documentos pertinentes </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p> infracional, comunicará, Conselho Municipal</p>",
+      "corpo_clean": " infracional, comunicará, Conselho Municipal",
+      "id": 14968436,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>de violação de deveres, comunicará, Ministério Público</p>",
+      "corpo_clean": "de violação de deveres, comunicará, Ministério Público",
+      "id": 14968437,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>de violação de direitos, comunicará,Ministério Público </p>",
+      "corpo_clean": "de violação de direitos, comunicará,Ministério Público ",
+      "id": 14968438,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>de violação de direitos, comunicará, Defensor Público</p>",
+      "corpo_clean": "de violação de direitos, comunicará, Defensor Público",
+      "id": 14968439,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "14968438",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

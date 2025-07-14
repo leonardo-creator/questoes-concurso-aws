@@ -1,0 +1,51 @@
+{
+  "id": 1016212,
+  "codigo_real": "91.2.4",
+  "disciplina_real": "Geografia",
+  "assunto_real": "Geografia Física",
+  "bancas_nome": "Universidade Estadual do Ceará",
+  "bancas_sigla": "UECE",
+  "orgaos_nome": "Secretaria de Estado de Planejamento e Gestão do Ceará",
+  "cargos_descricao": "Professor - Área: Geografia",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Relacione corretamente as atividades\r\napresentadas a seguir com os possíveis impactos\r\nambientais decorrentes ou a elas associados,\r\nnumerando a Coluna II de acordo com a Coluna I.</p><p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/33574/11.gif\"></p><p> A sequência correta de cima para baixo é</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "1, 1, 1, 2, 3.\r\n",
+      "corpo_clean": "1, 1, 1, 2, 3. ",
+      "id": 3555937,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": " 2, 1, 3, 1, 1.",
+      "corpo_clean": " 2, 1, 3, 1, 1.",
+      "id": 3555938,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "2, 2, 3, 3, 2.\r\n",
+      "corpo_clean": "2, 2, 3, 3, 2. ",
+      "id": 3555939,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": " 3, 2, 1, 1, 3.",
+      "corpo_clean": " 3, 2, 1, 1, 3.",
+      "id": 3555940,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "3555940",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

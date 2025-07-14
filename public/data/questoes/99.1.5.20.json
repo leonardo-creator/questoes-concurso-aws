@@ -1,0 +1,58 @@
+{
+  "id": 919842,
+  "codigo_real": "99.1.5.20",
+  "disciplina_real": "Legislação Estadual, Distrital e Municipal",
+  "assunto_real": "Lei Estadual nº 11.378/2009 - Dispõe sobre organização, planejamento, fiscalização e poder de polícia do Sistema de Transporte Rodoviário Intermunicipal de Passageiros do Estado da Bahia - SRI",
+  "bancas_nome": "Instituto Brasileiro de Formação e Capacitação",
+  "bancas_sigla": "IBFC",
+  "orgaos_nome": "Agência Estadual de Regulação de Serviços Públicos de Energia, Transportes e Comunicações da Bahia",
+  "cargos_descricao": "Técnico em Regulação",
+  "ano": 2017,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "Considerando as disposições expressas do decreto\r\nestadual nº 11.832, de 09 de novembro de 2009, que\r\ninstitui a Política Estadual de Transporte Rodoviário\r\nIntermunicipal de Passageiros - POTIP, regulamenta\r\na Lei nº 11.378 , de 18 de fevereiro de 2009, sobre\r\norganização, planejamento, fiscalização e poder\r\nde polícia do Sistema de Transporte Rodoviário\r\nIntermunicipal de Passageiros do Estado da Bahia -\r\nSRI, e dá outras providências, assinale a alternativa\r\ncorreta.",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "A prestação do serviço público de transporte rodoviário\r\nintermunicipal de passageiros está sujeita à delegação,\r\nmediante contrato de concessão ou permissão, através\r\nde licitação, realizada pela Agência Estadual de\r\nRegulação de Serviços Públicos de Energia, Transportes\r\ne Comunicações da Bahia - AGERBA",
+      "corpo_clean": "A prestação do serviço público de transporte rodoviário intermunicipal de passageiros está sujeita à delegação, mediante contrato de concessão ou permissão, através de licitação, realizada pela Agência Estadual de Regulação de Serviços Públicos de Energia, Transportes e Comunicações da Bahia - AGERBA",
+      "id": 3227626,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "A prestação do serviço público de transporte rodoviário\r\nintermunicipal de passageiros está sujeita à delegação,\r\napenas mediante contrato de concessão, através de\r\nlicitação, realizada pela Agência Estadual de Regulação\r\nde Serviços Públicos de Energia, Transportes e\r\nComunicações da Bahia - AGERBA",
+      "corpo_clean": "A prestação do serviço público de transporte rodoviário intermunicipal de passageiros está sujeita à delegação, apenas mediante contrato de concessão, através de licitação, realizada pela Agência Estadual de Regulação de Serviços Públicos de Energia, Transportes e Comunicações da Bahia - AGERBA",
+      "id": 3227627,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "A prestação do serviço público de transporte rodoviário\r\nintermunicipal de passageiros está sujeita à delegação,\r\napenas mediante contrato de permissão, através de\r\nlicitação, realizada pela Agência Estadual de Regulação\r\nde Serviços Públicos de Energia, Transportes e\r\nComunicações da Bahia - AGERBA",
+      "corpo_clean": "A prestação do serviço público de transporte rodoviário intermunicipal de passageiros está sujeita à delegação, apenas mediante contrato de permissão, através de licitação, realizada pela Agência Estadual de Regulação de Serviços Públicos de Energia, Transportes e Comunicações da Bahia - AGERBA",
+      "id": 3227628,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "A prestação do serviço público de transporte rodoviário\r\nintermunicipal de passageiros está sujeita à delegação,\r\napenas mediante contrato de permissão, através de\r\nlicitação, realizada pelo Gabinete do Governador",
+      "corpo_clean": "A prestação do serviço público de transporte rodoviário intermunicipal de passageiros está sujeita à delegação, apenas mediante contrato de permissão, através de licitação, realizada pelo Gabinete do Governador",
+      "id": 3227629,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "A prestação do serviço público de transporte rodoviário\r\nintermunicipal de passageiros está sujeita à delegação,\r\nmediante contrato de concessão ou permissão, através\r\nde licitação, realizada pelo Gabinete do Governador",
+      "corpo_clean": "A prestação do serviço público de transporte rodoviário intermunicipal de passageiros está sujeita à delegação, mediante contrato de concessão ou permissão, através de licitação, realizada pelo Gabinete do Governador",
+      "id": 3227630,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3227626",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

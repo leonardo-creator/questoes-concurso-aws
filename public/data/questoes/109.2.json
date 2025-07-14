@@ -1,0 +1,58 @@
+{
+  "id": 1544743,
+  "codigo_real": "109.2",
+  "disciplina_real": "Língua Espanhola",
+  "assunto_real": "Gramática - Língua Espanhola",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Receita Federal do Brasil",
+  "cargos_descricao": "Auditor Fiscal",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Según el texto, se puede afirmar que:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: center;\"><strong>Termina el plazo para abonar el segundo pago de la declaración de la Renta</strong></p><p style=\"text-align: center;\"><strong>2018/2019</strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>1 </em><em style=\"color: rgb(255, 255, 255);\">____ </em>Aquellos contribuyentes a los que la declaración de la Renta les salió a pagar tuvieron la</p><p style=\"text-align: justify; text-indent: 1em;\">posibilidad de fraccionar el pago en dos para verse obligados a desembolsar todo el dinero</p><p style=\"text-align: justify; text-indent: 1em;\">de una vez. Así, el primer abono fue de un 60% del total al presentar el borrador y el 40%</p><p style=\"text-align: justify; text-indent: 1em;\">tendrá que ser ingresado antes del 5 de noviembre como fecha límite. Si se optó por la</p><p style=\"text-align: justify;\"><em>5 </em>domiciliación en cuenta, el propio banco se encargará en cargar el importe que corresponde</p><p style=\"text-align: justify; text-indent: 1em;\">y hará llegar después el justificante de pago al cliente. Por ello, desde la OCU recuerdan la</p><p style=\"text-align: justify; text-indent: 1em;\">importancia de tener saldo suficiente en la cuenta para afrontar este segundo pago el próximo</p><p style=\"text-align: justify; text-indent: 1em;\">martes.</p><p style=\"text-align: justify; text-indent: 3em;\">Para las declaraciones con resultado a ingresar en las que no se opte por la</p><p style=\"text-align: justify;\"><em>10 </em>domiciliación bancaria, el contribuyente podrá obtener un documento con el que podrá efectuar</p><p style=\"text-align: justify; text-indent: 1em;\">directa y personalmente el ingreso del importe resultante de su declaración en las oficinas de</p><p style=\"text-align: justify; text-indent: 1em;\">las entidades colaboradoras con la Agencia Tributaria.</p><p style=\"text-align: justify; text-indent: 3em;\">No obstante, en los territorios forales los plazos para pagar esta cantidad pendiente</p><p style=\"text-align: justify; text-indent: 1em;\">son diferentes. En el País Vasco, el segundo pago fraccionado del IRPF – que es del 40% –</p><p style=\"text-align: justify;\"><em>15 </em>deberá ser abonado antes del 11 de noviembre. Por su parte, en Navarra, el segundo plazo es</p><p style=\"text-align: justify; text-indent: 1em;\">de una cuantía del 50% del total del impuesto y se cargará el próximo 20 de noviembre.</p><p style=\"text-align: justify; text-indent: 3em;\">Por otro lado, la Administración dispone de seis meses desde el término del plazo de presentación</p><p style=\"text-align: justify; text-indent: 1em;\">de las declaraciones – el pasado 1 de julio fue el último día – para practicar la liquidación provisional</p><p style=\"text-align: justify; text-indent: 1em;\">que confirme, o rectifique, el importe de la devolución solicitada por el declarante. Si la liquidación</p><p style=\"text-align: justify;\"><em>20 </em>provisional no se hubiera practicado en el mencionado plazo, la Agencia Tributaria procederá</p><p style=\"text-align: justify; text-indent: 1em;\">a devolver de oficio el exceso de pagos a cuenta sobre la cuota autoliquidada, sin perjuicio</p><p style=\"text-align: justify; text-indent: 1em;\">de la práctica de las liquidaciones ulteriores, provisionales o definitivas, que pudieran resultar</p><p style=\"text-align: justify; text-indent: 1em;\">procedentes.</p><p style=\"text-align: justify; text-indent: 3em;\">Transcurrido el plazo de seis meses sin que haya sido ordenado el pago de la devolución por</p><p style=\"text-align: justify;\"><em>25 </em>causa imputable a la Administración tributaria, se aplicará a la cantidad pendiente de devolución</p><p style=\"text-align: justify; text-indent: 1em;\">el interés de demora tributario desde el día siguiente al de la finalización de dicho plazo y hasta</p><p style=\"text-align: justify; text-indent: 1em;\">la fecha en que se ordene su pago, sin necesidad de que el contribuyente lo reclame.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\">https://www.abc.es/economia/abci-termina-plazo-para-abonar-segundo-pagodeclaracion-</p><p style=\"text-align: right;\">renta-20182019-201910311236_noticia.html#vca=mod-friso-p3&amp;vmc=playprogramastvnoche&amp;</p><p style=\"text-align: right;\">vso=Termina%20el%20plazo%20para%20abonar%20el%20</p><p style=\"text-align: right;\">segundo%20pago%20de%20la%20declaraci%C3%B3n%20de%20la%20Renta%20</p><p style=\"text-align: right;\">2018%2F2019&amp;vli=portadilla.economia (Com adaptaciones)</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Los contribuyentes podrán pagar el impuesto de la renta en dos cuotas de igual valor.</p>",
+      "corpo_clean": "Los contribuyentes podrán pagar el impuesto de la renta en dos cuotas de igual valor.",
+      "id": 5782342,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Los contribuyentes podrán recibir los ingresos del importe en dos fracciones: una de 60% y otra de 40%.</p>",
+      "corpo_clean": "Los contribuyentes podrán recibir los ingresos del importe en dos fracciones: una de 60% y otra de 40%.",
+      "id": 5782343,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">El contribuyente tendrá que reclamar la devolución del importe pago en exceso hasta seis meses después del plazo de presentación.</p>",
+      "corpo_clean": "El contribuyente tendrá que reclamar la devolución del importe pago en exceso hasta seis meses después del plazo de presentación.",
+      "id": 5782344,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Hay por lo menos dos maneras de que el contribuyente tenga da devolución del importe excedente pago a la Administración.</p>",
+      "corpo_clean": "Hay por lo menos dos maneras de que el contribuyente tenga da devolución del importe excedente pago a la Administración.",
+      "id": 5782345,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Los contribuyentes a los que les salieron pagar tienen como fecha límite el 5 de noviembre para efectuar el pago de la primera cuota.</p>",
+      "corpo_clean": "Los contribuyentes a los que les salieron pagar tienen como fecha límite el 5 de noviembre para efectuar el pago de la primera cuota.",
+      "id": 5782346,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5782346",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

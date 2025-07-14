@@ -1,0 +1,51 @@
+{
+  "id": 3652183,
+  "codigo_real": "58.22.12",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Sinais vitais",
+  "bancas_nome": "Gama Consultoria",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Cotriguaçu",
+  "cargos_descricao": "Técnico de Enfermagem",
+  "ano": 2025,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre a avaliação dos sinais vitais em um paciente crítico, assinale a alternativa CORRETA:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A aferição da pressão arterial deve ser realizada apenas uma vez durante a admissão do paciente.</p>",
+      "corpo_clean": "A aferição da pressão arterial deve ser realizada apenas uma vez durante a admissão do paciente.",
+      "id": 14876939,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A frequência respiratória é um parâmetro importante, porém sua avaliação pode ser negligenciada.</p>",
+      "corpo_clean": "A frequência respiratória é um parâmetro importante, porém sua avaliação pode ser negligenciada.",
+      "id": 14876940,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A temperatura corporal deve ser verificada apenas quando o paciente relatar queixas de febre.</p>",
+      "corpo_clean": "A temperatura corporal deve ser verificada apenas quando o paciente relatar queixas de febre.",
+      "id": 14876941,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A monitorização contínua da frequência cardíaca é fundamental para detectar instabilidades hemodinâmicas precocemente.</p>",
+      "corpo_clean": "A monitorização contínua da frequência cardíaca é fundamental para detectar instabilidades hemodinâmicas precocemente.",
+      "id": 14876942,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "14876942",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

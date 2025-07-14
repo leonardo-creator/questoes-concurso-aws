@@ -1,0 +1,37 @@
+{
+  "id": 199483,
+  "codigo_real": "35.14.23.2",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "CE/SC - Dos Direitos e Garantias Fundamentais",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Auditoria Geral do Estado do Espírito Santo",
+  "cargos_descricao": "Auditor - Área Direito",
+  "ano": 2004,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>O postulado da universalidade da cobertura e do atendimento\r\nimpede a concessão de benefícios diferenciados a segurados\r\nurbanos e rurais, ainda que possam existir peculiaridades e\r\nespecificidades que diferenciem essas categorias de\r\ntrabalhadores.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Com relação aos princípios constitucionais que informam a\r\nprevidência social no Brasil, julgue os itens subseqüentes.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 830086,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 830087,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "830086",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": true,
+  "hasImage": false,
+  "hasImageItens": false
+}

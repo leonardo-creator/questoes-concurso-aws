@@ -1,0 +1,58 @@
+{
+  "id": 3196485,
+  "codigo_real": "25.12.3",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Balanço Patrimonial (BP) - Balanço Patrimonial (BP)",
+  "bancas_nome": "Instituto Brasileiro de Formação e Capacitação",
+  "bancas_sigla": "IBFC",
+  "orgaos_nome": "Autarquia Municipal da Previdência e Assistência à Saúde dos Servidores",
+  "cargos_descricao": "Analista de Previdência e Assistência à Saúde - Área Ciência Atuarial",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">( ) Embasado na afirmação que não existe aplicação sem origem de recursos, justificamos o motivo da obrigatoriedade do Balanço Patrimonial - símbolo do equilíbrio da empresa – sempre apresentar o mesmo valor nos dois lados da demonstração. </p><p style=\"text-align: justify;\">( ) Sobre as origens dos recursos, o Passivo compõe o capital de terceiros, enquanto o Patrimônio Líquido compõe o capital próprio da organização. </p><p style=\"text-align: justify;\">( ) Capital Próprio é a definição do valor total do PL do Balanço Patrimonial, enquanto o Capital Social diz respeito ao montante que os sócios inseriram na empresa. Sendo assim, podemos afirmar que o Capital Social totaliza o Capital Próprio da organização. </p><p style=\"text-align: justify;\">( ) Sobre as origens dos recursos, apenas o capital próprio da organização – o PL – tem seus valores aplicados no Ativo, pois o capital de terceiros não é utilizado para esse fim.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa que apresenta a sequência correta de cima para baixo.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">V - V - F - V</p>",
+      "corpo_clean": "V - V - F - V",
+      "id": 12983141,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">V - V - F - F</p>",
+      "corpo_clean": "V - V - F - F",
+      "id": 12983142,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">F - F - F - V </p>",
+      "corpo_clean": "F - F - F - V ",
+      "id": 12983143,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">V - F - V - V</p>",
+      "corpo_clean": "V - F - V - V",
+      "id": 12983144,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">F - V - V - F </p>",
+      "corpo_clean": "F - V - V - F ",
+      "id": 12983145,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12983142",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

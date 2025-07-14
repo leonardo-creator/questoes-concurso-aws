@@ -1,0 +1,58 @@
+{
+  "id": 3544256,
+  "codigo_real": "43.11.1.6",
+  "disciplina_real": "Direito Penal Militar",
+  "assunto_real": "Crimes Contra a Incolumidade Pública",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Tribunal de Justiça de Pernambuco",
+  "cargos_descricao": "Juiz Substituto",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Maria, funcionária pública, propõe a João, profissional liberal, ação conjunta visando à subtração de bem pertencente ao órgão público em que trabalha, aproveitando-se da ausência de vigilância no estabelecimento. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Sobre a situação, é correto afirmar que: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Maria responderá pelo crime de peculato-furto e João, pelo crime de furto, pois o peculato-furto é um crime funcional próprio; </p>",
+      "corpo_clean": "Maria responderá pelo crime de peculato-furto e João, pelo crime de furto, pois o peculato-furto é um crime funcional próprio; ",
+      "id": 14448145,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Maria responderá pelo crime de peculato-furto e João não responderá por nenhum delito, por não ser funcionário público;</p>",
+      "corpo_clean": "Maria responderá pelo crime de peculato-furto e João não responderá por nenhum delito, por não ser funcionário público;",
+      "id": 14448146,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">segundo posição do Superior Tribunal de Justiça, a depender do valor do bem subtraído por Maria e João, é possível aplicar o princípio da insignificância;</p>",
+      "corpo_clean": "segundo posição do Superior Tribunal de Justiça, a depender do valor do bem subtraído por Maria e João, é possível aplicar o princípio da insignificância;",
+      "id": 14448147,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">João responderá por peculato-furto, pois ciente da condição funcional de Maria;</p>",
+      "corpo_clean": "João responderá por peculato-furto, pois ciente da condição funcional de Maria;",
+      "id": 14448148,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Maria e João responderão pelo delito de furto, pois o peculato só admite as formas de apropriação ou desvio. </p>",
+      "corpo_clean": "Maria e João responderão pelo delito de furto, pois o peculato só admite as formas de apropriação ou desvio. ",
+      "id": 14448149,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14448148",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2775507,
+  "codigo_real": "95.2.7.5",
+  "disciplina_real": "Informática",
+  "assunto_real": "Router (Roteador)",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Corpo de Bombeiro Militar de Tocantins",
+  "cargos_descricao": "Praça",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify; text-indent: 2em;\">Determinado usuário verificou que seu roteador <em>wi-fi</em> transmite dados nas faixas de frequência de 2,4 GHz e 5 GHz, respectivamente. </p><p style=\"text-align: justify; text-indent: 2em;\"><br></p><p style=\"text-align: justify;\">A partir dessa situação hipotética, assinale a opção correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O roteador <em>wi-fi</em> permite que as redes sejam utilizadas, exclusivamente, de maneira não concorrente.</p>",
+      "corpo_clean": "O roteador wi-fi permite que as redes sejam utilizadas, exclusivamente, de maneira não concorrente.",
+      "id": 11146997,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A frequência de rede de 5 GHz, por padrão, é mais veloz que a frequência de rede de 2,4 GHz, porém o alcance da primeira é menor que o da segunda.</p>",
+      "corpo_clean": "A frequência de rede de 5 GHz, por padrão, é mais veloz que a frequência de rede de 2,4 GHz, porém o alcance da primeira é menor que o da segunda.",
+      "id": 11146998,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A rede com frequência nominal de 2,4 GHz é imune a interferência de sinal de rádio, pois a imunidade ao ruído é diretamente proporcional à velocidade de transferência de dados.</p>",
+      "corpo_clean": "A rede com frequência nominal de 2,4 GHz é imune a interferência de sinal de rádio, pois a imunidade ao ruído é diretamente proporcional à velocidade de transferência de dados.",
+      "id": 11146999,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O roteador <em>wi-fi </em>permite que a velocidade de transmissão das duas frequências sejam somadas, o que resulta em uma rede com frequência nominal de 7,4 GHz e com alcance ainda menor que o da rede com frequência nominal de 5 GHz. </p>",
+      "corpo_clean": "O roteador wi-fi permite que a velocidade de transmissão das duas frequências sejam somadas, o que resulta em uma rede com frequência nominal de 7,4 GHz e com alcance ainda menor que o da rede com frequência nominal de 5 GHz. ",
+      "id": 11147000,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11146998",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

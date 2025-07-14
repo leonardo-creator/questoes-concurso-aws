@@ -1,0 +1,37 @@
+{
+  "id": 405894,
+  "codigo_real": "116.11.3.1.4",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Idade",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Ministério Público da União",
+  "cargos_descricao": "Analista de Saúde - Área Psiquiatria",
+  "ano": 2010,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Em geral indivíduos muito idosos ou muito jovens têm menos\r\ndificuldades com eventos traumáticos que as pessoas na\r\nmeia idade.</p>",
+  "grupoQuestao_enunciado": "<P align=justify>Cláudio compareceu ao hospital público de sua cidade relatando ao médico de plantão que se encontrava em uma festa quando sobreveio um incêndio, do qual teria sido resgatado inconsciente pelo corpo de bombeiros. Disse que fez uso de bebida alcoólica na festa. Relatou, ainda, que passou a apresentar insônia e pesadelos, nos quais revivia a experiência do evento, e deixou de se relacionar com as pessoas que encontrou no dia do ocorrido, porque sentia ansiedade intensa quando imaginava encontrá-las. Solicitou, por fim, uma licença por se sentir incapaz de exercer suas atividades laborativas. </P>\r\n<P align=justify>Acerca da situação hipotética apresentada, julgue os itens a seguir.</P>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1454107,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1454108,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1454108",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2323780,
+  "codigo_real": "51.7.2",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Organização e Funcionamento do Sistema Único de Saúde (SUS) - Organização e Funcionamento do Sistema Único de Saúde (SUS)",
+  "bancas_nome": "Comissão permanente de Seleção da Universidade Federal do Piauí",
+  "bancas_sigla": "COPESE UFPI",
+  "orgaos_nome": "Prefeitura de Oeiras",
+  "cargos_descricao": "Cirurgião Dentista - Área Pacientes Especiais",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Quando mencionamos \"reconhecer as necessidades de saúde da população sob sua responsabilidade, organizando as necessidades desta população em relação aos outros pontos de atenção à saúde, contribuindo para que o planejamento das ações, assim como, a programação dos serviços de saúde, parta das necessidades de saúde das pessoas\", estamos tratando da diretriz da Atenção Básica:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Regionalização.</p>",
+      "corpo_clean": "Regionalização.",
+      "id": 9176030,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Longitudinalidade do cuidado.</p>",
+      "corpo_clean": "Longitudinalidade do cuidado.",
+      "id": 9176031,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Coordenar o cuidado.</p>",
+      "corpo_clean": "Coordenar o cuidado.",
+      "id": 9176032,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Ordenar as redes.</p>",
+      "corpo_clean": "Ordenar as redes.",
+      "id": 9176033,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Integralidade.</p>",
+      "corpo_clean": "Integralidade.",
+      "id": 9176034,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9176033",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

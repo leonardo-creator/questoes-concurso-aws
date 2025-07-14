@@ -1,0 +1,58 @@
+{
+  "id": 3108236,
+  "codigo_real": "137.25.2",
+  "disciplina_real": "Serviço Social",
+  "assunto_real": "Lei 8.742/93 - Lei Orgânica da Assistência Social - LOAS - Dispõe sobre a organização da Assistência Social e dá outras providências.",
+  "bancas_nome": "Instituto Americano de Desenvolvimento",
+  "bancas_sigla": "IADES",
+  "orgaos_nome": "Secretaria Municipal de Saúde de São Paulo",
+  "cargos_descricao": "Residência Multiprofissional em Saúde Mental - Área: Serviço Social",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com a Lei Orgânica de Assistência Social (LOAS), compete ao Conselho Nacional de Assistência Social</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">elaborar e encaminhar a proposta orçamentária da assistência social.</p>",
+      "corpo_clean": "elaborar e encaminhar a proposta orçamentária da assistência social.",
+      "id": 12607043,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">acompanhar e fiscalizar o processo de certificação das entidades e organizações de assistência social.</p>",
+      "corpo_clean": "acompanhar e fiscalizar o processo de certificação das entidades e organizações de assistência social.",
+      "id": 12607044,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">coordenar e articular as ações no campo da assistência social.</p>",
+      "corpo_clean": "coordenar e articular as ações no campo da assistência social.",
+      "id": 12607045,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">desenvolver estudos e pesquisas para fundamentar as análises de necessidades e elaborar proposições para a assistência social.</p>",
+      "corpo_clean": "desenvolver estudos e pesquisas para fundamentar as análises de necessidades e elaborar proposições para a assistência social.",
+      "id": 12607046,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">formular a política para a qualificação sistemática e continuada de recursos humanos no campo da assistência social.</p>",
+      "corpo_clean": "formular a política para a qualificação sistemática e continuada de recursos humanos no campo da assistência social.",
+      "id": 12607047,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12607044",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

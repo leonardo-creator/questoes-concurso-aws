@@ -1,0 +1,58 @@
+{
+  "id": 826723,
+  "codigo_real": "108.7",
+  "disciplina_real": "Lei Orgânica do Distrito Federal - LODF",
+  "assunto_real": "Da Política Urbana e Rural",
+  "bancas_nome": "Fundação Universa",
+  "bancas_sigla": "FUNIVERSA",
+  "orgaos_nome": "Companhia Imobiliária de Brasília",
+  "cargos_descricao": "Desenhista",
+  "ano": 2010,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "Acerca dos dispositivos que tratam da administração pública\r\ndo Distrito Federal, assinale a alternativa correta de acordo\r\ncom a LODF vigente.",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "São os princípios da administração pública expressos\r\nem seu texto a legalidade, a moralidade, a publicidade,\r\na impessoalidade e, também, a eficiência.",
+      "corpo_clean": "São os princípios da administração pública expressos em seu texto a legalidade, a moralidade, a publicidade, a impessoalidade e, também, a eficiência.",
+      "id": 2855268,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "O Distrito Federal instituirá regime jurídico único e\r\nplanos de carreira para os servidores da administração\r\npública direta, autarquias e fundações públicas,\r\nsociedades de economia mista e empresas públicas,\r\nnos termos do art. 39 da Constituição Federal.",
+      "corpo_clean": "O Distrito Federal instituirá regime jurídico único e planos de carreira para os servidores da administração pública direta, autarquias e fundações públicas, sociedades de economia mista e empresas públicas, nos termos do art. 39 da Constituição Federal.",
+      "id": 2855269,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "É dever do Poder Público fornecer a qualquer cidadão, no\r\nprazo máximo de quinze dias úteis, independentemente\r\nde pagamento de taxas ou emolumentos, certidão de\r\natos, contratos, decisões ou pareceres, para defesa de\r\nseus direitos e esclarecimento de situações de interesse\r\npessoal ou coletivo.",
+      "corpo_clean": "É dever do Poder Público fornecer a qualquer cidadão, no prazo máximo de quinze dias úteis, independentemente de pagamento de taxas ou emolumentos, certidão de atos, contratos, decisões ou pareceres, para defesa de seus direitos e esclarecimento de situações de interesse pessoal ou coletivo.",
+      "id": 2855270,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "A remuneração dos servidores e empregados do Poder\r\nExecutivo está submetida ao teto máximo recebido a\r\ntítulo de subsídio pelos desembargadores do Tribunal\r\nde Justiça do Distrito Federal e dos Territórios.",
+      "corpo_clean": "A remuneração dos servidores e empregados do Poder Executivo está submetida ao teto máximo recebido a título de subsídio pelos desembargadores do Tribunal de Justiça do Distrito Federal e dos Territórios.",
+      "id": 2855271,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "As funções e os cargos de confiança serão\r\npreferencialmente exercidos por servidores de carreira.",
+      "corpo_clean": "As funções e os cargos de confiança serão preferencialmente exercidos por servidores de carreira.",
+      "id": 2855272,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2855271",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": true,
+  "hasImage": false,
+  "hasImageItens": false
+}

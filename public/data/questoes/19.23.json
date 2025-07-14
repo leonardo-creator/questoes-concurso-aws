@@ -1,0 +1,58 @@
+{
+  "id": 1576742,
+  "codigo_real": "19.23",
+  "disciplina_real": "Ciências Aeronáuticas",
+  "assunto_real": "Conhecimentos técnicos de planejamento de voo para operação de aviões e helicópteros - Conhecimentos técnicos de planejamento de voo para operação de aviões e helicópteros",
+  "bancas_nome": "Escola de Administração Fazendária",
+  "bancas_sigla": "ESAF",
+  "orgaos_nome": "Agência Nacional de Aviação Civil",
+  "cargos_descricao": "Especialista em Regulação de Aviação Civil",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Você está planejando um voo para o aeroporto de Val-deCans em Belém do Pará. Você encontra no ROTAER as seguintes informações: </p><p style=\"text-align: justify;\"><br></p><p><strong>BELÉM / Val-de-Cans/Júlio Cezar Ribeiro, PA SBBE </strong>01 23</p><p>05S/048 28 44W</p><p>INTL PUB/MIL 6N UTC-3 VFR IFR L21, 23, 26 INFRAERO 17 <strong>(54)</strong></p><p><strong>06</strong> –L4,9(1),12A – (2800 x 45 ASPH 65/F/A/X/T 14A 15) – L12A – <strong>24</strong></p><p><strong>02</strong> – L9(1),12 – (1830 x 45 ASPH 50/F/A/X/T L14,15) – L12 – <strong>20</strong></p><p><strong>HELPN</strong> (5) (6) (7) (8) 07 – (33 x 33 CONC 10,0t L30, 34) – <strong>20</strong></p><p><strong>CMB</strong> – PF, TF <strong>SER</strong> – S1 <strong>RFFS</strong> – CAT-8</p><p><strong>MET</strong> – (91) 3210-6380 CMA* (4) (1 a 11) (91) 3182-9348</p><p>CMM (10) (1 a 12)</p><p><strong>COM</strong> – SOLO (2) 121.90 TORRE 118.70 121.50 (3)</p><p>METEORO vide AMAZÔNICA/FIR</p><p><strong>RDONAV</strong> – ILS/DME 06 IBE 109.30</p><p>VOR/DME BEL 117.30 01 23.06S/048 28.72W</p><p>NDB BEL 250 01 23.39S/048 28.87W</p><p>IE (LM) 395 01 23.67S/048 29.50W</p><p style=\"text-align: justify;\">AIS - (4) (91) 3210-6382 <strong>AIS-MIL</strong> – (9) (11) (91) 3182-9359</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><br></p><p>A partir desses dados, assinale a opção <u>incorreta</u>. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A distância do aeroporto a partir da cidade é de 6 milhas náuticas, no rumo Norte.</p>",
+      "corpo_clean": "A distância do aeroporto a partir da cidade é de 6 milhas náuticas, no rumo Norte.",
+      "id": 5914809,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> Não existe disponibilidade de combustível para abastecimento para aviões com motor a pistão. </p>",
+      "corpo_clean": " Não existe disponibilidade de combustível para abastecimento para aviões com motor a pistão. ",
+      "id": 5914810,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>A frequência do controle de solo é de 121,9 MHz. </p>",
+      "corpo_clean": "A frequência do controle de solo é de 121,9 MHz. ",
+      "id": 5914811,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Só existe ILS/DME para a pista 06. </p>",
+      "corpo_clean": "Só existe ILS/DME para a pista 06. ",
+      "id": 5914812,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>A frequência do NDB BEL é 250 KHz.</p>",
+      "corpo_clean": "A frequência do NDB BEL é 250 KHz.",
+      "id": 5914813,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5914813",
+  "dificuldade": "Difícil",
+  "anulada": true,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

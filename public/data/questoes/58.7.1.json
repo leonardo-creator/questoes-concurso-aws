@@ -1,0 +1,58 @@
+{
+  "id": 1847218,
+  "codigo_real": "58.7.1",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Tuberculose",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Secretaria de Saúde do Amazonas",
+  "cargos_descricao": "Enfermeiro",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em relação ao <em>tratamento da tuberculose</em>, analise as afirmativas a seguir.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. A transmissibilidade está presente desde os primeiros sintomas respiratórios, caindo rapidamente após o início de tratamento efetivo.</p><p style=\"text-align: justify;\">II. O esquema básico de tratamento é indicado para casos novos em adultos e adolescentes (&gt; 10 anos), em todas as formas de tuberculose pulmonar e extrapulmonar (exceto a forma meningoencefálica).</p><p style=\"text-align: justify;\">III. O tratamento das formas extrapulmonares (exceto a meningoencefálica) terá a duração de seis meses, assim como o tratamento dos pacientes coinfectados com HIV.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>se somente a afirmativa I estiver correta.</p>",
+      "corpo_clean": "se somente a afirmativa I estiver correta.",
+      "id": 7099129,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>se somente a afirmativa II estiver correta.</p>",
+      "corpo_clean": "se somente a afirmativa II estiver correta.",
+      "id": 7099130,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>se somente a afirmativa III estiver correta.</p>",
+      "corpo_clean": "se somente a afirmativa III estiver correta.",
+      "id": 7099131,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>se somente as afirmativas I e II estiverem corretas.</p>",
+      "corpo_clean": "se somente as afirmativas I e II estiverem corretas.",
+      "id": 7099132,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>se todas as alternativas estiverem corretas.</p>",
+      "corpo_clean": "se todas as alternativas estiverem corretas.",
+      "id": 7099133,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7099133",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

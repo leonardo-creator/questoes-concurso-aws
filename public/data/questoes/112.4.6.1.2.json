@@ -1,0 +1,58 @@
+{
+  "id": 1105425,
+  "codigo_real": "112.4.6.1.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Pronomes pessoais retos",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Tribunal de Justiça do Pará",
+  "cargos_descricao": "Analista Judiciário - Área Engenharia do Trabalho",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<div align=\"justify\">Leia o trecho do primeiro parágrafo para responder às questões\r\nde números 11 a 13.</div><div align=\"justify\">Meu amigo lusitano, Diniz, está traduzindo para o francês\r\nmeus dois primeiros romances, Os <i>Éguas </i>e <i>Moscow</i>. Temos trocado\r\n<i>e-mails</i> <b>muito </b>interessantes, <b>por conta de</b> palavras e gírias\r\ncomuns no <b>meu </b>Pará e absolutamente sem sentido para ele. Às\r\nvezes é <b>bem </b>difícil explicar, como na cena em que alguém empina\r\npapagaio e corta o adversário “no gasgo”.</div><div align=\"justify\"><br></div><p align=\"justify\">O pronome possessivo em – “meu Pará” – atribui ao termo\r\nPará a ideia de que se trata de um lugar</p>",
+  "grupoQuestao_enunciado": "<p align=justify><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/38152/Q7a13.GIF\"></p>",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>adquirido pelo autor.</p>",
+      "corpo_clean": "adquirido pelo autor.",
+      "id": 3916668,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>desdenhado pelo autor.</p>",
+      "corpo_clean": "desdenhado pelo autor.",
+      "id": 3916669,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>estimado pelo autor.</p>",
+      "corpo_clean": "estimado pelo autor.",
+      "id": 3916670,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>subjugado pelo autor.</p>",
+      "corpo_clean": "subjugado pelo autor.",
+      "id": 3916671,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>abandonado pelo autor.</p>",
+      "corpo_clean": "abandonado pelo autor.",
+      "id": 3916672,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3916670",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 732203,
+  "codigo_real": "19.17",
+  "disciplina_real": "Ciências Aeronáuticas",
+  "assunto_real": "Metrologia",
+  "bancas_nome": "Fundação CESGRANRIO",
+  "bancas_sigla": "CESGRANRIO",
+  "orgaos_nome": "Petróleo Brasileiro S.A",
+  "cargos_descricao": "Técnico de Exploração de Petróleo Júnior - Área Geodésia",
+  "ano": 2014,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Uma das formas de medir distâncias é por observações taqueométricas. Ao visar uma mira sob ângulo zenital 90º, foram obtidas as leituras 1800, 1600 e 1400 para os fios superior, médio e inferior, respectivamente, todas em milímetros. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">A distância, em metros, de um equipamento (com constante de construção igual a 100) à mira é de</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>1,6</p>",
+      "corpo_clean": "1,6",
+      "id": 2506911,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>4</p>",
+      "corpo_clean": "4",
+      "id": 2506912,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>40</p>",
+      "corpo_clean": "40",
+      "id": 2506913,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>160</p>",
+      "corpo_clean": "160",
+      "id": 2506914,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>400</p>",
+      "corpo_clean": "400",
+      "id": 2506915,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2506913",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

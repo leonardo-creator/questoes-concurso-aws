@@ -1,0 +1,58 @@
+{
+  "id": 2223626,
+  "codigo_real": "51.3.1.1.6.1",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Estratégia Saúde da Família (ou Programa Saúde da Família)",
+  "bancas_nome": "Instituto de Administração e Tecnologia",
+  "bancas_sigla": "ADM TEC",
+  "orgaos_nome": "Prefeitura de Pão de Açúcar",
+  "cargos_descricao": "Psicólogo (Geral)",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Leia as afirmativas a seguir:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"> I. A Unidade de Saúde da Família trabalha com território de abrangência definido, sendo responsável pelo cadastramento e acompanhamento desta população. </p><p style=\"text-align: justify;\">II. As informações do cadastro realizado pelas equipes das Unidades Saúde da Família, juntamente com outras fontes de informação, levam ao conhecimento da realidade da população da área de abrangência, seus principais problemas de saúde e seu modo de vida.</p><p style=\"text-align: justify;\"> III. Além dos trabalhadores da saúde, a Vigilância à Saúde incorpora à prática de saúde a população organizada. </p><p style=\"text-align: justify;\">IV. Entre os objetivos da Estratégia Saúde da Família inclui-se a não intervenção sobre os fatores de risco a que a população está exposta. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Marque a alternativa CORRETA: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Nenhuma afirmativa está correta. </p>",
+      "corpo_clean": "Nenhuma afirmativa está correta. ",
+      "id": 8741948,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p> Apenas uma afirmativa está correta. </p>",
+      "corpo_clean": " Apenas uma afirmativa está correta. ",
+      "id": 8741949,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Apenas duas afirmativas estão corretas. </p>",
+      "corpo_clean": "Apenas duas afirmativas estão corretas. ",
+      "id": 8741950,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Apenas três afirmativas estão corretas. </p>",
+      "corpo_clean": "Apenas três afirmativas estão corretas. ",
+      "id": 8741951,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Todas as afirmativas estão corretas. </p>",
+      "corpo_clean": "Todas as afirmativas estão corretas. ",
+      "id": 8741952,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8741951",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

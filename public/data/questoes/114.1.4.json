@@ -1,0 +1,51 @@
+{
+  "id": 2560293,
+  "codigo_real": "114.1.4",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Regras de três",
+  "bancas_nome": "FUNECE",
+  "bancas_sigla": "FUNECE IEPRO",
+  "orgaos_nome": "Companhia Cearense de Transportes Metropolitanos",
+  "cargos_descricao": "Assistente Operacional",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em um campeonato de futebol, as pontuações são 3, 1 e 0 para partida com vitória, empate ou derrota, respectivamente. Em uma certa data, os times jogaram entre si 25 vezes e, assim, a pontuação do time que venceu 10 partidas e perdeu outras 7 foi</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">37.</p>",
+      "corpo_clean": "37.",
+      "id": 10200211,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>35.</p>",
+      "corpo_clean": "35.",
+      "id": 10200212,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>36.</p>",
+      "corpo_clean": "36.",
+      "id": 10200213,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>38. </p>",
+      "corpo_clean": "38. ",
+      "id": 10200214,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10200214",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

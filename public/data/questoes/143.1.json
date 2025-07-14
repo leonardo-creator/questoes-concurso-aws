@@ -1,0 +1,58 @@
+{
+  "id": 1893242,
+  "codigo_real": "143.1",
+  "disciplina_real": "Turismo e Hotelaria",
+  "assunto_real": "Planejamento Turístico - Planejamento Turístico",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Prefeitura de Candelária",
+  "cargos_descricao": "Técnico em Turismo",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No setor de A&amp;B, garantir uma alimentação segura, seguindo as recomendações dos órgãos governamentais sobre o modo correto de se manipular e preparar os alimentos, deve ser um compromisso dos empreendimentos turísticos que fornecem este tipo de serviço. Um dos principais benefícios gerados pelo controle da qualidade no serviço de alimentação aos turistas é justamente a minimização do risco de contraírem Doenças Veiculadas por Alimentos. Em relação ao setor A&amp;B, é correto afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Quando há manipulação de alimentos, as operações devem ser efetuadas por qualquer pessoa sem higiene do setor, sem precisar ter nenhum cuidado com o alimento preparado.</p>",
+      "corpo_clean": "Quando há manipulação de alimentos, as operações devem ser efetuadas por qualquer pessoa sem higiene do setor, sem precisar ter nenhum cuidado com o alimento preparado.",
+      "id": 7294236,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os produtos perecíveis são aqueles que não necessitam de condições especiais e nem de temperatura para a sua conservação.</p>",
+      "corpo_clean": "Os produtos perecíveis são aqueles que não necessitam de condições especiais e nem de temperatura para a sua conservação.",
+      "id": 7294237,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Não é necessário manter o controle Integrado de Vetores e Pragas Urbanas nem impedir a atração, o abrigo, o acesso e ou a proliferação de vetores e pragas urbanas que comprometam a qualidade higiênico-sanitária do alimento no estabelecimento. </p>",
+      "corpo_clean": "Não é necessário manter o controle Integrado de Vetores e Pragas Urbanas nem impedir a atração, o abrigo, o acesso e ou a proliferação de vetores e pragas urbanas que comprometam a qualidade higiênico-sanitária do alimento no estabelecimento. ",
+      "id": 7294238,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Em relação a alimentos cozidos, não há necessidade de cuidados e eles devem ser mantidos fora de refrigeradores, congelados ou à temperatura ambiente, quer necessitem ou não de aquecimento antes do consumo.</p>",
+      "corpo_clean": "Em relação a alimentos cozidos, não há necessidade de cuidados e eles devem ser mantidos fora de refrigeradores, congelados ou à temperatura ambiente, quer necessitem ou não de aquecimento antes do consumo.",
+      "id": 7294239,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Deve haver a higienização, que é a operação que compreende duas etapas: a limpeza e a desinfecção.</p>",
+      "corpo_clean": "Deve haver a higienização, que é a operação que compreende duas etapas: a limpeza e a desinfecção.",
+      "id": 7294240,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7294240",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

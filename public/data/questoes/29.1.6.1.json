@@ -1,0 +1,58 @@
+{
+  "id": 1513981,
+  "codigo_real": "29.1.6.1",
+  "disciplina_real": "Criminologia",
+  "assunto_real": "Criminologia x Criminalística",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Polícia Civil do Ceará",
+  "cargos_descricao": "Delegado de Polícia",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A Criminologia adquiriu autonomia e status de ciência quando o positivismo generalizou o emprego de seu método. Nesse sentido, é correto afirmar que a criminologia é uma ciência</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">do “dever ser”; logo, utiliza-se do método abstrato, formal e dedutivo, baseado em deduções lógicas e da opinião tradicional.</p>",
+      "corpo_clean": "do “dever ser”; logo, utiliza-se do método abstrato, formal e dedutivo, baseado em deduções lógicas e da opinião tradicional.",
+      "id": 5653257,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">empírica e teorética; logo, utiliza-se do método indutivo e empírico, baseado em deduções lógicas e opinativas tradicionais.</p>",
+      "corpo_clean": "empírica e teorética; logo, utiliza-se do método indutivo e empírico, baseado em deduções lógicas e opinativas tradicionais.",
+      "id": 5653258,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">do “ser”; logo, serve-se do método indutivo e empírico, baseado na análise e observação da realidade.</p>",
+      "corpo_clean": "do “ser”; logo, serve-se do método indutivo e empírico, baseado na análise e observação da realidade.",
+      "id": 5653259,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">do “dever ser”; logo, utiliza-se do método indutivo e empírico, baseado na análise e observação da realidade.</p>",
+      "corpo_clean": "do “dever ser”; logo, utiliza-se do método indutivo e empírico, baseado na análise e observação da realidade.",
+      "id": 5653260,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">do “ser”; logo, serve-se do método abstrato, formal e dedutivo, baseado em deduções lógicas e da opinião tradicional.</p>",
+      "corpo_clean": "do “ser”; logo, serve-se do método abstrato, formal e dedutivo, baseado em deduções lógicas e da opinião tradicional.",
+      "id": 5653261,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5653259",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

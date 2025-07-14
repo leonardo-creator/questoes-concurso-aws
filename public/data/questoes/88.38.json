@@ -1,0 +1,58 @@
+{
+  "id": 3840146,
+  "codigo_real": "88.38",
+  "disciplina_real": "Fonoaudiologia",
+  "assunto_real": "Fonoaudiologia Educacional",
+  "bancas_nome": "Associação dos Municípios do Alto Uruguai Catarinense",
+  "bancas_sigla": "AMAUC",
+  "orgaos_nome": "Prefeitura de Piratuba",
+  "cargos_descricao": "Fonoaudiólogo",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Durante o processo de verificação da adaptação dos AASI na população pediátrica, é necessário utilizar medidas eletroacústicas objetivas com base em estímulos de fala padronizados, aplicados em diferentes intensidades. Essas medidas, ao serem comparadas com os valores prescritos pela regra escolhida, permitem avaliar se os sons da fala estão audíveis e confortáveis para a criança em diferentes situações do cotidiano. Há um parâmetro que é utilizado para estimar a proporção da fala que está acessível à criança, é expresso numericamente entre O e 1 (ou em porcentagem), reflete a audibilidade dos componentes da fala em determinada intensidade, sendo essencial para o acompanhamento do progresso no desenvolvimento auditivo e da linguagem. Trata-se do(a) ______.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa que corretamente completa a lacuna no excerto: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Fala em ruído (SNR)</p>",
+      "corpo_clean": "Fala em ruído (SNR)",
+      "id": 15660969,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Real Ear Coupler Difference (RECD)</p>",
+      "corpo_clean": "Real Ear Coupler Difference (RECD)",
+      "id": 15660970,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Nível de pressão sonora (NPS)</p>",
+      "corpo_clean": "Nível de pressão sonora (NPS)",
+      "id": 15660971,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Índice de Inteligibilidade de Fala (SII)</p>",
+      "corpo_clean": "Índice de Inteligibilidade de Fala (SII)",
+      "id": 15660972,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Ganho funcional</p>",
+      "corpo_clean": "Ganho funcional",
+      "id": 15660973,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15660972",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

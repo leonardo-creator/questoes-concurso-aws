@@ -1,0 +1,58 @@
+{
+  "id": 3327886,
+  "codigo_real": "95.3.14",
+  "disciplina_real": "Informática",
+  "assunto_real": "Ataques e Golpes",
+  "bancas_nome": "Universidade de Blumenau",
+  "bancas_sigla": "FURB",
+  "orgaos_nome": "Prefeitura de Florianópolis",
+  "cargos_descricao": "Técnico de Enfermagem",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Segurança da informação é uma série de ações adotadas estrategicamente para controlar e evitar riscos de roubo, danos e perdas dos dados, dispositivos, servidores, sistemas e redes. Sua função é identificar,  registrar e combater as ameaças que surgem. Assinale a alternativa que, corretamente, apresenta um ataque que tenta roubar seu dinheiro ou a sua identidade fazendo com que você revele informações pessoais, tais como números de cartão de crédito, informações bancárias ou senhas em sites ou e-mails que fingem ser legítimos: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>DDoS</p>",
+      "corpo_clean": "DDoS",
+      "id": 13536085,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Ransonware</p>",
+      "corpo_clean": "Ransonware",
+      "id": 13536086,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Phishing</p>",
+      "corpo_clean": "Phishing",
+      "id": 13536087,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Cavalo de Tróia</p>",
+      "corpo_clean": "Cavalo de Tróia",
+      "id": 13536088,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Ataque de senha</p>",
+      "corpo_clean": "Ataque de senha",
+      "id": 13536089,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13536087",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

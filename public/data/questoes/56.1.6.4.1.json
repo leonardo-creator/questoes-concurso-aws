@@ -1,0 +1,58 @@
+{
+  "id": 3462006,
+  "codigo_real": "56.1.6.4.1",
+  "disciplina_real": "Economia e Finanças",
+  "assunto_real": "Fatores que Afetam a Demanda",
+  "bancas_nome": "Instituto de Desenvolvimento e Capacitação",
+  "bancas_sigla": "IDCAP",
+  "orgaos_nome": "Prefeitura de Serra",
+  "cargos_descricao": "Economista",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Por que a curva de demanda é negativamente inclinada?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Devido ao benefício marginal decrescente, que indica que os consumidores estão dispostos a pagar menos por unidades adicionais de um bem à medida que consomem mais.</p>",
+      "corpo_clean": "Devido ao benefício marginal decrescente, que indica que os consumidores estão dispostos a pagar menos por unidades adicionais de um bem à medida que consomem mais.",
+      "id": 14112488,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Porque os consumidores preferem bens mais caros.</p>",
+      "corpo_clean": "Porque os consumidores preferem bens mais caros.",
+      "id": 14112489,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Porque os consumidores compram a mesma quantidade de um bem independentemente do preço.</p>",
+      "corpo_clean": "Porque os consumidores compram a mesma quantidade de um bem independentemente do preço.",
+      "id": 14112490,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Porque quanto maior o preço, maior a quantidade desejada pelos consumidores.</p>",
+      "corpo_clean": "Porque quanto maior o preço, maior a quantidade desejada pelos consumidores.",
+      "id": 14112491,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Porque os consumidores estão dispostos a pagar mais à medida que consomem mais de um bem. </p>",
+      "corpo_clean": "Porque os consumidores estão dispostos a pagar mais à medida que consomem mais de um bem. ",
+      "id": 14112492,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14112488",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

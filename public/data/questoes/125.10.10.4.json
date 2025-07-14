@@ -1,0 +1,51 @@
+{
+  "id": 3109608,
+  "codigo_real": "125.10.10.4",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Psicologia do desenvolvimento e da aprendizagem",
+  "bancas_nome": "Instituto de Desenvolvimento Educacional, Cultural e Assistencial Nacional",
+  "bancas_sigla": "IDECAN",
+  "orgaos_nome": "Prefeitura de São Caetano do Sul",
+  "cargos_descricao": "Professor - Área: Ensino Fundamental",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A psicologia da aprendizagem e do desenvolvimento se concentram no estudo das mudanças que ocorrem no indivíduo ao longo de sua vida e nos processos pelos quais adquirem novos conhecimentos. Isso inclui mudanças </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>físicas, cognitivas, emocionais e sociais.</p>",
+      "corpo_clean": "físicas, cognitivas, emocionais e sociais.",
+      "id": 12611504,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>motivacionais e intelectuais.</p>",
+      "corpo_clean": "motivacionais e intelectuais.",
+      "id": 12611505,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>estruturais, sociais e cognitivas.</p>",
+      "corpo_clean": "estruturais, sociais e cognitivas.",
+      "id": 12611506,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>sensoriais, sociais e motivacionais.</p>",
+      "corpo_clean": "sensoriais, sociais e motivacionais.",
+      "id": 12611507,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "12611504",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

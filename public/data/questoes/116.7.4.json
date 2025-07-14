@@ -1,0 +1,51 @@
+{
+  "id": 1381851,
+  "codigo_real": "116.7.4",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Cronotanatognose",
+  "bancas_nome": "Instituto Municipal de Desenvolvimento de Recursos Humanos",
+  "bancas_sigla": "IMPARH",
+  "orgaos_nome": "Prefeitura de Fortaleza",
+  "cargos_descricao": "Médico - Área: Ginecologista",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Clarisse de 32 anos vem ao ginecologista para exame\nde rotina. Ao ser interrogada refere dor em baixo ventre no\nseu período pré-menstrual. O exame bi-manual palpou-se\numa massa de consistência cística pequena (cerca de 5-\n6cm de diâmetro), levemente doloroso à palpação em\ntopografia anexial direita. Qual das características ultrasonogáficas\nabaixo levaria a necessidade de avaliação\ncirúrgica imediata?</p>",
+  "grupoQuestao_enunciado": null,
+  "alternativas": [
+    {
+      "corpo": "<p>Unilateralidade do tumor.</p>",
+      "corpo_clean": "Unilateralidade do tumor.",
+      "id": 5081358,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Conteúdo cístico anecoico.</p>",
+      "corpo_clean": "Conteúdo cístico anecoico.",
+      "id": 5081359,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Presença de vegetações papilíferas</p>",
+      "corpo_clean": "Presença de vegetações papilíferas",
+      "id": 5081360,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Demonstração de fluxo arterial e venoso no Doppler.</p>",
+      "corpo_clean": "Demonstração de fluxo arterial e venoso no Doppler.",
+      "id": 5081361,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5081360",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

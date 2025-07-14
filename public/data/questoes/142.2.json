@@ -1,0 +1,58 @@
+{
+  "id": 2000954,
+  "codigo_real": "142.2",
+  "disciplina_real": "Terapia Ocupacional",
+  "assunto_real": "Fundamentação para a prática - Fundamentação para a prática",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Fundação Regional de Saúde do Ceará",
+  "cargos_descricao": "Terapeuta Ocupacional",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A escala de Ashworth modificada avalia o grau de </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>espasticidade.</p>",
+      "corpo_clean": "espasticidade.",
+      "id": 7780095,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p> rigidez articular. </p>",
+      "corpo_clean": " rigidez articular. ",
+      "id": 7780096,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>sensibilidade.</p>",
+      "corpo_clean": "sensibilidade.",
+      "id": 7780097,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>amplitude articular.</p>",
+      "corpo_clean": "amplitude articular.",
+      "id": 7780098,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>dor. </p>",
+      "corpo_clean": "dor. ",
+      "id": 7780099,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7780095",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

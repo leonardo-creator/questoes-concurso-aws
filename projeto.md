@@ -53,6 +53,15 @@ Sistema web desenvolvido em Next.js 15 para gerenciamento e estudo de questões 
   - 70.350 assuntos únicos
 - [x] **Processamento de Dados**: Script para extrair dados únicos de 3.2M+ questões
 - [x] **Interface Responsiva**: Design otimizado para mobile e desktop
+- [x] **🆕 BUSCA HIERÁRQUICA DE ASSUNTOS**: Sistema avançado de hierarquia
+  - Mapeamento automático de 31.964+ códigos hierárquicos do arquivo `materias_globais.txt`
+  - Estrutura pai-filho baseada em códigos numéricos (ex: 1.1 → 1.1.1, 1.1.2)
+  - 6.903 relações hierárquicas identificadas em 146 disciplinas
+  - Interface de seleção com expansão/contração de níveis
+  - Busca inteligente: selecionar assunto pai inclui automaticamente todos os filhos
+  - Scripts automatizados: `generate-hierarchy.js` e `test-hierarchy.js`
+  - Índices otimizados: `hierarquia.json` e `busca-hierarquica.json`
+  - 91 de 92 códigos de questões mapeados com sucesso (99% compatibilidade)
 
 ## Problemas Resolvidos Recentemente
 - **JWT Decryption Error**: Configurado NEXTAUTH_SECRET para resolver erro de descriptografia

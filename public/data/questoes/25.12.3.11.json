@@ -1,0 +1,37 @@
+{
+  "id": 414130,
+  "codigo_real": "25.12.3.11",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Conciliação Bancária",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Tribunal Regional Eleitoral do Espírito Santo",
+  "cargos_descricao": "Técnico Judiciário - Área Administrativa - Especialidade: Contabiliidade",
+  "ano": 2011,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Um cheque emitido pela empresa a favor de cliente por motivo\r\nde devolução de venda, ainda não sacado pelo favorecido, gera\r\numa diferença a maior na conciliação bancária a favor da\r\ninstituição bancária — extrato bancário.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Considerando que a conciliação bancária confronta o razão banco,\r\nque mantém os registros contábeis da empresa, e o extrato bancário,\r\nque evidencia os registros contábeis da instituição bancária, julgue\r\nos próximos itens.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1480688,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1480689,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1480688",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

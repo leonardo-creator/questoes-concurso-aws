@@ -1,0 +1,58 @@
+{
+  "id": 3305622,
+  "codigo_real": "125.14.3",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Concepções de Educação Infantil - Concepções de Educação Infantil",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Prefeitura do Município de Valinhos",
+  "cargos_descricao": "Professor I",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com o Referencial Curricular Nacional para a Educação Infantil, é necessário modificar a concepção de educação assistencialista que caracterizou por muito tempo a Educação Infantil. Das asserções seguintes, qual não traduz essa mudança de concepção, por contrariar as reflexões propostas?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Atentar para várias questões que vão muito além dos aspectos legais.</p>",
+      "corpo_clean": "Atentar para várias questões que vão muito além dos aspectos legais.",
+      "id": 13441365,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Assumir as especificidades da educação infantil e rever concepções sobre a infância, as relações entre classes sociais, as responsabilidades da sociedade e o papel do Estado diante das crianças pequenas.</p>",
+      "corpo_clean": "Assumir as especificidades da educação infantil e rever concepções sobre a infância, as relações entre classes sociais, as responsabilidades da sociedade e o papel do Estado diante das crianças pequenas.",
+      "id": 13441366,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O cuidado não pode ser restrito apenas à concepção física que vê a criança como carente, frágil, dependente e passiva.</p>",
+      "corpo_clean": "O cuidado não pode ser restrito apenas à concepção física que vê a criança como carente, frágil, dependente e passiva.",
+      "id": 13441367,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Valorizar a singularidade e individualidade de cada criança.</p>",
+      "corpo_clean": "Valorizar a singularidade e individualidade de cada criança.",
+      "id": 13441368,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A polêmica entre a concepção que entende que a educação deve principalmente promover a construção das estruturas cognitivas e aquela que enfatiza a construção de conhecimentos como meta da educação contribui significativamente para a promoção do desenvolvimento das capacidades cognitivas do pensamento humano, a partir do processo das aprendizagens específicas que as experiências educacionais podem proporcionar.</p>",
+      "corpo_clean": "A polêmica entre a concepção que entende que a educação deve principalmente promover a construção das estruturas cognitivas e aquela que enfatiza a construção de conhecimentos como meta da educação contribui significativamente para a promoção do desenvolvimento das capacidades cognitivas do pensamento humano, a partir do processo das aprendizagens específicas que as experiências educacionais podem proporcionar.",
+      "id": 13441369,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13441369",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

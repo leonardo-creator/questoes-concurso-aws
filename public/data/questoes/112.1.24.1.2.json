@@ -1,0 +1,51 @@
+{
+  "id": 2880675,
+  "codigo_real": "112.1.24.1.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Equivalência e substituição de palavras, locuções, expressões e trechos. - Equivalência e substituição de palavras, locuções, expressões e trechos.",
+  "bancas_nome": "Instituto Brasileiro de Gestão e Pesquisa",
+  "bancas_sigla": "IBGP",
+  "orgaos_nome": "Prefeitura de Belo Horizonte",
+  "cargos_descricao": "Fiscal - Área: Controle Urbanístico e Ambiental",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considerando os elementos coesivos empregados na composição do texto, assinale a alternativa em que o conector em destaque se for substituído pelo termo entre os parênteses gera <strong>ALTERAÇÃO </strong>do sentido original.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-indent: 1em;\">\tINSTRUÇÃO: Leia o Texto 1 para responder às questões de 01 a 04.</p><p style=\"text-indent: 1em;\"><br></p><p style=\"text-indent: 1em;\"><span style=\"color: rgb(255, 255, 255);\">.\t</span></p><p style=\"text-indent: 1em;\">\t<u>TEXTO 1 </u></p><p style=\"text-indent: 1em;\"><span style=\"color: rgb(255, 255, 255);\">\t.</span></p><p style=\"text-indent: 1em;\">\t</p><p style=\"text-align: center; text-indent: 1em;\">\t<strong>\tUma agenda prioritária</strong></p><p style=\"text-align: center; text-indent: 1em;\">\t</p><p style=\"text-indent: 1em;\"><span style=\"color: rgb(255, 255, 255);\">\t.</span></p><p style=\"text-indent: 1em;\">\t<em>“Calamitosus est animus futuri anxius” </em>– traduzindo, “Infeliz é o espírito ansioso pelo futuro”. A máxima é de Sêneca (4 a.C.- 65 d.C.), monumento da filosofia latina. Seu foco era a importância de saber viver o presente; no entanto, é inegável que a ansiedade se vincula ao futuro, ao porvir. No Brasil, como se sabe, o futuro costuma durar muito tempo – daí o estado de ansiosa infelicidade diante das urgências que assolam o país em tantos e diversos aspectos da vida social.</p><p style=\"text-indent: 1em;\">\tEmbora seja uma das nações mais urbanizadas do mundo, o Brasil maltrata a parcela maior dos habitantes das urbes, formada exatamente pelos menos favorecidos. Assim, nem é preciso sublinhar o quanto de ansiedade existe em relação ao futuro a ser moldado pelos prefeitos e vereadores que se elegeram ou foram reconduzidos aos respectivos postos nas eleições. [...] Esses gestores locais se encontram diante de uma agenda emergencial: a viabilização de cidades de fato inclusivas social e ambientalmente, atentas aos territórios de maior vulnerabilidade, onde se aglomeram milhões de pessoas sem moradia digna, saneamento básico, equipamentos de lazer ou áreas verdes, para ficar em uma lista mínima de carências.</p><p style=\"text-indent: 1em;\">\tO enfrentamento desses problemas – de modo propositivo, consistente, incremental e contínuo, baseado em políticas públicas integradas e territorializadas, com as respectivas ações estratégicas, sistêmicas e locais – é o incontornável desafio que se apresenta às novas gestões. Ele exige modelos de governança nos quais a valorização da democracia, da ética, da ciência e da transparência, e a disposição em servir à sociedade realizando o bem comum – a razão primeira da arte da política – embasem as propostas e, em especial, as ações, planejadas com rigor.</p><p style=\"text-indent: 1em;\">\tNaturalmente, não há que se imaginar soluções padronizadas para diferentes regiões – é preciso levar em conta, antes de tudo, as especificidades locais. Apesar disso, a experiência acumulada, nacional e internacionalmente, permite apontar algumas medidas que merecem consideração por parte dos gestores. [...]</p><p style=\"text-indent: 1em;\">\tMuitos problemas das cidades exigem soluções em escala mais ampla que o território do município. As regiões metropolitanas, onde se encontra a maior parte da população brasileira, apresentam um tecido urbano conturbado, podendo ser caracterizadas como uma única cidade que se estende por vários municípios. A Constituição do país permite nesses casos que as funções públicas de interesse comum, como saneamento básico, mobilidade e controle da expansão urbana, sejam integradas por uma estrutura de governança interfederativa, da qual participem o estado e os municípios. Tal estrutura já existe, todavia é preciso que seja valorizada – com a devida cobrança nessa direção. [...]</p><p style=\"text-indent: 1em;\">\tDesde o deslocamento dos indivíduos e de cargas até o fornecimento de água, energia e telecomunicações, quanto maior a densidade de ocupação do espaço, menor o custo de provisão dos serviços e de manutenção da infraestrutura. Entretanto, na maior parte das cidades brasileiras está em curso um processo de crescimento horizontal excessivo, que produz bairros de baixíssima densidade, ao mesmo tempo em que as áreas centrais e históricas se degradam e são abandonadas. A reversão desse processo é imperativa, se não quisermos viver apenas entre condomínios fechados e shopping centers, conectados por avenidas muradas, deixando a maior parte da população vulnerável socialmente condenada a morar nas periferias distantes, sem infraestrutura urbana adequada. [...]</p><p><br></p><p style=\"text-align: right;\"><span style=\"font-size: 12px;\">Disponível em: https://piaui.folha.uol.com.br/uma-agenda-prioritaria/. Acesso em: 17 de abril de 2023.</span></p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\"><strong><u>Embora </u></strong>seja uma das nações mais urbanizadas do mundo, o Brasil maltrata a parcela maior dos habitantes das urbes [...] (CONQUANTO).</p>",
+      "corpo_clean": "Embora seja uma das nações mais urbanizadas do mundo, o Brasil maltrata a parcela maior dos habitantes das urbes [...] (CONQUANTO).",
+      "id": 11607592,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><strong><u>Apesar disso</u></strong>, a experiência acumulada, nacional e internacionalmente, permite apontar algumas medidas que merecem consideração por parte dos gestores. [...] (NÃO OBSTANTE).</p>",
+      "corpo_clean": "Apesar disso, a experiência acumulada, nacional e internacionalmente, permite apontar algumas medidas que merecem consideração por parte dos gestores. [...] (NÃO OBSTANTE).",
+      "id": 11607593,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Tal estrutura já existe, <strong><u>todavia</u></strong> é preciso que seja valorizada – com a devida cobrança nessa direção. [...] (NO ENTANTO).</p>",
+      "corpo_clean": "Tal estrutura já existe, todavia é preciso que seja valorizada – com a devida cobrança nessa direção. [...] (NO ENTANTO).",
+      "id": 11607594,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><strong><u>Entretanto</u></strong>, na maior parte das cidades brasileiras está em curso um processo de crescimento horizontal excessivo [...] (PORQUANTO).</p>",
+      "corpo_clean": "Entretanto, na maior parte das cidades brasileiras está em curso um processo de crescimento horizontal excessivo [...] (PORQUANTO).",
+      "id": 11607595,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11607595",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 63282,
+  "codigo_real": "58.19.22",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Taxa de abandono - Taxa de abandono",
+  "bancas_nome": "Instituto de Planejamento e Apoio ao Desenvolvimento Tecnológico e Científico",
+  "bancas_sigla": "IPAD",
+  "orgaos_nome": "Fundação de Hematologia e Hemoterapia de Pernambuco",
+  "cargos_descricao": "Enfermeiro",
+  "ano": 2006,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Sobre o câncer de pele, o enfermeiro deve saber que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>a ceratose é uma hiperqueratose, potencialmente maligna, \r\nque pode ser causada pela exposição crônica à luz do sol, \r\npor ingestão ou injeção de arsênico. </p>",
+      "corpo_clean": "a ceratose é uma hiperqueratose, potencialmente maligna, que pode ser causada pela exposição crônica à luz do sol, por ingestão ou injeção de arsênico. ",
+      "id": 298849,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>no xeroderma pigmentoso, observam-se lesões planas\r\nacastanhadas e de tamanho variável, presentes desde o\r\nnascimento ou surgidas depois, na infância ou juventude. </p>",
+      "corpo_clean": "no xeroderma pigmentoso, observam-se lesões planas acastanhadas e de tamanho variável, presentes desde o nascimento ou surgidas depois, na infância ou juventude. ",
+      "id": 298850,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>o carcinoma basocelular localiza-se preferencialmente no \r\ntronco e membros inferiores e se apresenta como uma lesão \r\nvegetante. </p>",
+      "corpo_clean": "o carcinoma basocelular localiza-se preferencialmente no tronco e membros inferiores e se apresenta como uma lesão vegetante. ",
+      "id": 298851,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>o melanoma se apresenta como um tumor brilhante, \r\nsangrante e formando uma crosta que descama \r\nconstantemente.</p>",
+      "corpo_clean": "o melanoma se apresenta como um tumor brilhante, sangrante e formando uma crosta que descama constantemente.",
+      "id": 298852,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>o carcinoma espinocelular ocorre preferencialmente nas \r\npalmas das mãos, plantas dos pés, mucosas bucal e anal. </p>",
+      "corpo_clean": "o carcinoma espinocelular ocorre preferencialmente nas palmas das mãos, plantas dos pés, mucosas bucal e anal. ",
+      "id": 298853,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "298849",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

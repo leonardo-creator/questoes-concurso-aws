@@ -1,0 +1,58 @@
+{
+  "id": 1424730,
+  "codigo_real": "140.2.5.9.10.2",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Segunda forma normal (2 fn)",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Instituto Brasileiro de Geografia e Estatística",
+  "cargos_descricao": "Analista Censitário - Área: Análise de Sistemas - Desenvolvimento Aplicações Web Mobile",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Normalização pode ser entendida como o processo de modelar o banco de dados levando em conta as informações que serão armazenadas, com o objetivo de eliminar ou, pelo menos, reduzir as redundâncias. Um banco de dados que leva em conta os padrões de normalização reduz a manutenção e aumenta o seu desempenho. Assim, analise as assertivas a seguir e assinale a alternativa que apresenta corretamente com qual forma normal cada assertiva está ligada. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. Quando analisamos uma tupla e não encontramos um atributo não chave dependente de outro atributo não chave. </p><p style=\"text-align: justify;\">II. Quando não existir dependências multivaloradas entre seus atributos. </p><p style=\"text-align: justify;\">III. Quando os registros na tabela, que não são chaves, dependam da chave primária em sua totalidade e não apenas parte dela. </p><p style=\"text-align: justify;\">IV. Quando todos os atributos contêm apenas um valor correspondente, singular, e não existem grupos de atributos repetidos.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">I. Quarta Forma Normal, II. Primeira Forma Normal, III. Segunda Formal Normal e IV. Terceira Forma Normal.</p>",
+      "corpo_clean": "I. Quarta Forma Normal, II. Primeira Forma Normal, III. Segunda Formal Normal e IV. Terceira Forma Normal.",
+      "id": 5256628,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I. Terceira Forma Normal, II. Primeira Forma Normal, III. Quarta Formal Normal e IV. Segunda Forma Normal.</p>",
+      "corpo_clean": "I. Terceira Forma Normal, II. Primeira Forma Normal, III. Quarta Formal Normal e IV. Segunda Forma Normal.",
+      "id": 5256629,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I. Terceira Forma Normal, II. Quarta Forma Normal, III. Segunda Formal Normal e IV. Primeira Forma Normal.</p>",
+      "corpo_clean": "I. Terceira Forma Normal, II. Quarta Forma Normal, III. Segunda Formal Normal e IV. Primeira Forma Normal.",
+      "id": 5256630,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I. Primeira Forma Normal, II. Segunda Forma Normal, III. Terceira Formal Normal e IV. Quarta Forma Normal.</p>",
+      "corpo_clean": "I. Primeira Forma Normal, II. Segunda Forma Normal, III. Terceira Formal Normal e IV. Quarta Forma Normal.",
+      "id": 5256631,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I. Quarta Forma Normal, II. Terceira Forma Normal, III. Segunda Formal Normal e IV. Primeira Forma Normal.</p>",
+      "corpo_clean": "I. Quarta Forma Normal, II. Terceira Forma Normal, III. Segunda Formal Normal e IV. Primeira Forma Normal.",
+      "id": 5256632,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5256630",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

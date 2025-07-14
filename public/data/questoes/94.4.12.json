@@ -1,0 +1,58 @@
+{
+  "id": 2122803,
+  "codigo_real": "94.4.12",
+  "disciplina_real": "História",
+  "assunto_real": "Era Vargas - 1930-1945",
+  "bancas_nome": "Centro de Treinamento e Desenvolvimento",
+  "bancas_sigla": "CETREDE",
+  "orgaos_nome": "Prefeitura de Paraipaba",
+  "cargos_descricao": "Professor - Área: História",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\"><strong style=\"font-size: 13px;\">Sobre a propaganda na Ditadura Civil Militar Brasileira, marque (V) para as afirmativas Verdadeiras e (F) para as Falsas.</strong></p><p style=\"text-align: justify;\"><span style=\"font-size: 13px;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 13px;\">( ) Durante o governo de Emílio Garrastazu Médice (1969- 1974) houve um grande investimento na criação de uma imagem positiva da ditadura com o enaltecimento do patriotismo e a negação da situação da classe trabalhadora brasileira.</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 13px;\">( ) O rádio tornou-se o principal meio de comunicação, graças à expansão do crédito realizada pelo “Milagre Econômico”.</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 13px;\">( ) Muitos slogans foram usados pelos militares como “Ninguém segura este país” e “Pra frente Brasil”.</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 13px;\">( ) A propaganda foi de fundamental importância para a manutenção do Regime Militar com a constante proliferação da mensagem ufanista e militarista que reverbera até os dias atuais no discurso da extrema direita brasileira. </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 13px;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </span></p><p style=\"text-align: justify;\"><strong style=\"font-size: 13px;\">Marque a alternativa que apresenta a sequência CORRETA.</strong></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\"><span style=\"font-size: 13px;\">V – V – V – F.</span></p>",
+      "corpo_clean": "V – V – V – F.",
+      "id": 8301569,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><span style=\"font-size: 13px;\">V – F – V – V.</span></p>",
+      "corpo_clean": "V – F – V – V.",
+      "id": 8301570,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><span style=\"font-size: 13px;\">V – V – F – F.</span></p>",
+      "corpo_clean": "V – V – F – F.",
+      "id": 8301571,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><span style=\"font-size: 13px;\">F – F – V – F.</span></p>",
+      "corpo_clean": "F – F – V – F.",
+      "id": 8301572,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><span style=\"font-size: 13px;\">F – F – V – V.</span></p>",
+      "corpo_clean": "F – F – V – V.",
+      "id": 8301573,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8301570",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3495319,
+  "codigo_real": "58.6.4.1",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "NANDA",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Prefeitura de Macaé",
+  "cargos_descricao": "Analista - Área Enfermagem",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No Diagnóstico de Enfermagem com base na taxonomia da NANDA, as influências que aumentam a vulnerabilidade de indivíduos, famílias, grupos ou comunidades a um evento não saudável são denominadas</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>fatores de risco.</p>",
+      "corpo_clean": "fatores de risco.",
+      "id": 14255955,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>condições associadas.</p>",
+      "corpo_clean": "condições associadas.",
+      "id": 14255956,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>fatores relacionados.</p>",
+      "corpo_clean": "fatores relacionados.",
+      "id": 14255957,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p> populações em risco.</p>",
+      "corpo_clean": " populações em risco.",
+      "id": 14255958,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>características definidoras.</p>",
+      "corpo_clean": "características definidoras.",
+      "id": 14255959,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14255955",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

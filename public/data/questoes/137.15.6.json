@@ -1,0 +1,37 @@
+{
+  "id": 279648,
+  "codigo_real": "137.15.6",
+  "disciplina_real": "Serviço Social",
+  "assunto_real": "Serviço Social e proteção social",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Ministério do Desenvolvimento Social e Combate à Fome",
+  "cargos_descricao": "Atividade Técnica Complexidade Intelectual",
+  "ano": 2008,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Os serviços desenvolvidos no âmbito da proteção social\r\nespecial de média complexidade são co-financiados pelo\r\ngoverno federal, com transferência regular e automática de\r\nrecursos para os fundos estaduais e municipais, tomando\r\ncomo referência os critérios de partilha e elegibilidade de\r\nmunicípios pactuados nas comissões intergestoras e\r\naprovados não só pelo órgão gestor, mas também pelos\r\nconselhos de assistência social dos respectivos entes\r\nfederados.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Julgue os itens de 96 a 105, relativos à PNAS e ao compromisso\r\nnacional de desenvolvimento.</p>",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1054275,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1054274,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "1054274",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

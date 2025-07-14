@@ -1,0 +1,58 @@
+{
+  "id": 1554673,
+  "codigo_real": "91.1.11.21",
+  "disciplina_real": "Geografia",
+  "assunto_real": "Rio Grande do Sul - RS",
+  "bancas_nome": "Objetiva Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Antônio Prado",
+  "cargos_descricao": "Contador",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Segundo a Lei Municipal nº 2.109/2002 - Regime Jurídico dos Servidores Públicos do Município, assinalar a alternativa INCORRETA: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\"> O servidor responde civil, penal e administrativamente pelos atos praticados enquanto no exercício do cargo. </p>",
+      "corpo_clean": " O servidor responde civil, penal e administrativamente pelos atos praticados enquanto no exercício do cargo. ",
+      "id": 5824787,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> A responsabilidade civil decorre de ato omissivo ou comissivo, doloso ou culposo, de que resulte prejuízo ao Erário ou a terceiros. </p>",
+      "corpo_clean": " A responsabilidade civil decorre de ato omissivo ou comissivo, doloso ou culposo, de que resulte prejuízo ao Erário ou a terceiros. ",
+      "id": 5824788,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A obrigação de reparar o dano é pessoal e intransferível, não podendo assim, ser executada contra sucessores. </p>",
+      "corpo_clean": "A obrigação de reparar o dano é pessoal e intransferível, não podendo assim, ser executada contra sucessores. ",
+      "id": 5824789,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> A responsabilidade penal abrange os crimes e contravenções imputados ao servidor. </p>",
+      "corpo_clean": " A responsabilidade penal abrange os crimes e contravenções imputados ao servidor. ",
+      "id": 5824790,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A responsabilidade administrativa resulta de ato omissivo ou comissivo praticado por servidor investido no cargo ou função pública. </p>",
+      "corpo_clean": "A responsabilidade administrativa resulta de ato omissivo ou comissivo praticado por servidor investido no cargo ou função pública. ",
+      "id": 5824791,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5824789",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

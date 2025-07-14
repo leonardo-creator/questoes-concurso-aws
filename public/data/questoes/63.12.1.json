@@ -1,0 +1,58 @@
+{
+  "id": 694834,
+  "codigo_real": "63.12.1",
+  "disciplina_real": "Engenharia Civil",
+  "assunto_real": "Aço",
+  "bancas_nome": "Fundação CESGRANRIO",
+  "bancas_sigla": "CESGRANRIO",
+  "orgaos_nome": "Petróleo Brasileiro S.A",
+  "cargos_descricao": "Engenheiro de Equipamentos Júnior- Área Dutos",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<P>Aços inoxidáveis são ligas ferrosas de alta resistência à corrosão em uma grande variedade de atmosferas, tendo como principal elemento de liga o cromo, numa concentração mínima de 11%p. Em relação às microestruturas características, os aços inoxidáveis se dividem em austeníticos, martensíticos e ferríticos. A respeito de corrosão, considere as afirmativas abaixo. </P>\r\n<P>I - Os austeníticos são os menos resistentes à corrosão. </P>\r\n<P>II - Os martensíticos são magnéticos. </P>\r\n<P>III - Os ferríticos podem ser endurecidos por encruamento. </P>\r\n<P>Está correto APENAS o que se afirma em</P>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "I",
+      "corpo_clean": "I",
+      "id": 2367365,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "II",
+      "corpo_clean": "II",
+      "id": 2367366,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "III",
+      "corpo_clean": "III",
+      "id": 2367367,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "I e II",
+      "corpo_clean": "I e II",
+      "id": 2367368,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "II e III",
+      "corpo_clean": "II e III",
+      "id": 2367369,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2367369",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

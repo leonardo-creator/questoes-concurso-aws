@@ -1,0 +1,58 @@
+{
+  "id": 715185,
+  "codigo_real": "72.2.1.4",
+  "disciplina_real": "Engenharia Elétrica e Engenharia Eletrônica",
+  "assunto_real": "Leis de Kirchhoff, Análise Nodal e por Malha - Leis de Kirchhoff, Análise Nodal e por Malha",
+  "bancas_nome": "Fundação Professor Carlos Augusto Bittencourt",
+  "bancas_sigla": "FUNCAB",
+  "orgaos_nome": "Companhia de Água e Esgoto do Ceará",
+  "cargos_descricao": "Tecnólogo em Eletromecânica",
+  "ano": 2013,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Qual é a perda de calor por efeito joule em um condutor de 3/8” de diâmetro com 100 m de comprimento percorrido por uma corrente de 100A? (resistividade do cobre = 1,72 x 10<sup>-8</sup>)</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>20,5 kW</p>",
+      "corpo_clean": "20,5 kW",
+      "id": 2452092,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>15,2 kW</p>",
+      "corpo_clean": "15,2 kW",
+      "id": 2452093,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>10,6 kW</p>",
+      "corpo_clean": "10,6 kW",
+      "id": 2452094,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>25,3 kW</p>",
+      "corpo_clean": "25,3 kW",
+      "id": 2452095,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>30,5 kW</p>",
+      "corpo_clean": "30,5 kW",
+      "id": 2452096,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2452095",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 956434,
+  "codigo_real": "87.7",
+  "disciplina_real": "Fisioterapia",
+  "assunto_real": "Fisioterapia Respiratória",
+  "bancas_nome": "Universidade Federal do Rio de Janeiro",
+  "bancas_sigla": "UFRJ",
+  "orgaos_nome": "Universidade Federal do Rio de Janeiro",
+  "cargos_descricao": "Fisioterapeuta",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "A assistência ventilatória em pós-operatório de crianças portadoras de cardiopatia congênita requer cuidado com os valores de pressão a serem aplicados. Quando a criança é encaminhada à unidade de pós-operatório, o ventilador deve ser testado e ajustado de acordo com a idade e o peso do paciente. Alguns dos parâmetros preconizados são:",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "PEEP: 4cmH<sub>2</sub>O; PIP: 20cmH<sub>2</sub>O.",
+      "corpo_clean": "PEEP: 4cmH2O; PIP: 20cmH2O.",
+      "id": 3345844,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "PIP 4cmH<sub>2</sub>O; FR: dois terços da frequência esperada para a idade.",
+      "corpo_clean": "PIP 4cmH2O; FR: dois terços da frequência esperada para a idade.",
+      "id": 3345845,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "PEEP: 20cmH<sub>2</sub>O; FiO<sub>2</sub> 0,4.",
+      "corpo_clean": "PEEP: 20cmH2O; FiO2 0,4.",
+      "id": 3345846,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "PIP: 4cmH<sub>2</sub>O; FR: um terço da frequência esperada para a idade.",
+      "corpo_clean": "PIP: 4cmH2O; FR: um terço da frequência esperada para a idade.",
+      "id": 3345847,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "PSV: 7ml/kg; CPAP 10cm H<sub>2</sub>O.",
+      "corpo_clean": "PSV: 7ml/kg; CPAP 10cm H2O.",
+      "id": 3345848,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3345844",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

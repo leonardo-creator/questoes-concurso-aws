@@ -1,0 +1,58 @@
+{
+  "id": 2076973,
+  "codigo_real": "116.10.7",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Casamento",
+  "bancas_nome": "Fundação de Apoio à Pesquisa ao Ensino e à Cultura",
+  "bancas_sigla": "FAPEC",
+  "orgaos_nome": "Polícia Civil do Mato Grosso do Sul",
+  "cargos_descricao": "Perito Médico Legista",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Qual deve ser a resposta ao 1º quesito oficial, no exame de conjunção carnal, em multípara, com história de estupro há 7 dias, sem vestígios?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Não.</p>",
+      "corpo_clean": "Não.",
+      "id": 8115488,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Sem elementos.</p>",
+      "corpo_clean": "Sem elementos.",
+      "id": 8115489,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Prejudicado.</p>",
+      "corpo_clean": "Prejudicado.",
+      "id": 8115490,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Sim.</p>",
+      "corpo_clean": "Sim.",
+      "id": 8115491,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Rotura antiga.</p>",
+      "corpo_clean": "Rotura antiga.",
+      "id": 8115492,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8115489",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2265565,
+  "codigo_real": "11.1.9.7",
+  "disciplina_real": "Artes",
+  "assunto_real": "Comunicação Visual",
+  "bancas_nome": "Centro de Treinamento e Desenvolvimento",
+  "bancas_sigla": "CETREDE",
+  "orgaos_nome": "Universidade Federal do Ceará",
+  "cargos_descricao": "Técnico em Laboratório - Área Comunicação Visual",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Quanto ao conceito de logomarca ou logotipo e suas características, marque a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O logotipo é um elemento importante na identidade visual de uma marca e pode ser composto apenas pela tipografia e o código cromático.</p>",
+      "corpo_clean": "O logotipo é um elemento importante na identidade visual de uma marca e pode ser composto apenas pela tipografia e o código cromático.",
+      "id": 8920149,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O logotipo é um elemento importante na identidade visual de uma marca e pode ser composto por distintos elementos como a tipografia, o código cromático, e/ou por um desenho ou ilustração.</p>",
+      "corpo_clean": "O logotipo é um elemento importante na identidade visual de uma marca e pode ser composto por distintos elementos como a tipografia, o código cromático, e/ou por um desenho ou ilustração.",
+      "id": 8920150,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O logotipo é um elemento importante na identidade visual de uma marca e pode ser composto por um único elemento: o desenho ou a ilustração.</p>",
+      "corpo_clean": "O logotipo é um elemento importante na identidade visual de uma marca e pode ser composto por um único elemento: o desenho ou a ilustração.",
+      "id": 8920151,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O logotipo é um elemento importante na identidade visual de uma marca e pode ser composto apenas pelo código cromático.</p>",
+      "corpo_clean": "O logotipo é um elemento importante na identidade visual de uma marca e pode ser composto apenas pelo código cromático.",
+      "id": 8920152,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "8920150",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

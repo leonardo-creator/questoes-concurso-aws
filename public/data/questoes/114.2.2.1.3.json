@@ -1,0 +1,51 @@
+{
+  "id": 1382842,
+  "codigo_real": "114.2.2.1.3",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Fórmula do Montante na Capitalização Composta",
+  "bancas_nome": "CONSESP Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Câmara de Castelo",
+  "cargos_descricao": "Analista - Área Controle Interno",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Resolva: Seja um capital C aplicado à taxa de juros\ncompostos de i% durante um período n. O montante M\npode ser calculado como</p>",
+  "grupoQuestao_enunciado": null,
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">M = C . (1 + i)<sup>n</sup></p>",
+      "corpo_clean": "M = C . (1 + i)n",
+      "id": 5085419,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">M = C<sup>n </sup>+ i</p>",
+      "corpo_clean": "M = Cn + i",
+      "id": 5085420,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">M = C<sup>i</sup> + n</p>",
+      "corpo_clean": "M = Ci + n",
+      "id": 5085421,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">M = C . (1 + n<sup>)i</sup></p>",
+      "corpo_clean": "M = C . (1 + n)i",
+      "id": 5085422,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5085419",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

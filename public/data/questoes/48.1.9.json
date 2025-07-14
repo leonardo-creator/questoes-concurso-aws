@@ -1,0 +1,58 @@
+{
+  "id": 1549548,
+  "codigo_real": "48.1.9",
+  "disciplina_real": "Direito Processual do Trabalho",
+  "assunto_real": "Princípios do Direito Processual do Trabalho",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Conselho Federal de Química",
+  "cargos_descricao": "Agente Superior de Áreas",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>O art. 339 do Decreto Lei nº 5.452/43, que trata da Consolidação das Leis do Trabalho, diz que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">é obrigatória a admissão de químicos na indústria de fabricação de produtos químicos e que mantenham laboratório de controle químico.</p>",
+      "corpo_clean": "é obrigatória a admissão de químicos na indústria de fabricação de produtos químicos e que mantenham laboratório de controle químico.",
+      "id": 5802389,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o químico será suspenso do exercício de suas funções apenas nos casos em que der falso testemunho, quebrar o sigilo profissional ou promover falsificações.</p>",
+      "corpo_clean": "o químico será suspenso do exercício de suas funções apenas nos casos em que der falso testemunho, quebrar o sigilo profissional ou promover falsificações.",
+      "id": 5802390,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a fiscalização do exercício da profissão de químico incumbe exclusivamente às autoridades regionais do ministério do trabalho e previdência social, nos estados.</p>",
+      "corpo_clean": "a fiscalização do exercício da profissão de químico incumbe exclusivamente às autoridades regionais do ministério do trabalho e previdência social, nos estados.",
+      "id": 5802391,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">na hipótese de concurso para o provimento de cargo ou emprego público, os químicos certificados por órgãos competentes terão preferência, em igualdade de condições.</p>",
+      "corpo_clean": "na hipótese de concurso para o provimento de cargo ou emprego público, os químicos certificados por órgãos competentes terão preferência, em igualdade de condições.",
+      "id": 5802392,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o nome do químico responsável pela fabricação dos produtos de uma fábrica, usina ou laboratório, deverá figurar nos respectivos rótulos, faturas e anúncios, compreendida entre estes últimos a legenda impressa em cartas e sobrecartas.</p>",
+      "corpo_clean": "o nome do químico responsável pela fabricação dos produtos de uma fábrica, usina ou laboratório, deverá figurar nos respectivos rótulos, faturas e anúncios, compreendida entre estes últimos a legenda impressa em cartas e sobrecartas.",
+      "id": 5802393,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5802393",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

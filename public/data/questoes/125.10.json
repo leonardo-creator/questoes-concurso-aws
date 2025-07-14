@@ -1,0 +1,51 @@
+{
+  "id": 3752891,
+  "codigo_real": "125.10",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Educação e Psicologia (Psicopedagogia)",
+  "bancas_nome": "Instituto Avançar",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Borrazópolis",
+  "cargos_descricao": "Psicopedagogo",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">São aspectos relevantes do diagnóstico psicopedagógico na identificação dos problemas de aprendizagem: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. a construção de hipóteses sobre os vários aspectos da avaliação dos problemas de aprendizagem. </p><p style=\"text-align: justify;\">II. a prescrição de medicamentos ou tratamentos farmacológicos para questões relacionadas à aprendizagem. </p><p style=\"text-align: justify;\">III. a realização da devolutiva e se preciso, encaminhamento do caso para outro profissional. </p><p style=\"text-align: justify;\">IV. o levantamento da história de vida do sujeito e a investigação do motivo da procura pelo atendimento. </p><p style=\"text-align: justify;\">V. a realização do tratamento clínico de reflexões psicológicas profundas que requer prevenção localizada. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Está correto o que se afirma em: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I e II. </p>",
+      "corpo_clean": "I e II. ",
+      "id": 15277875,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p> I, III e V. </p>",
+      "corpo_clean": " I, III e V. ",
+      "id": 15277880,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>II, III e IV. </p>",
+      "corpo_clean": "II, III e IV. ",
+      "id": 15277882,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>III, IV e V.</p>",
+      "corpo_clean": "III, IV e V.",
+      "id": 15277883,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "15277880",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3096685,
+  "codigo_real": "91.1",
+  "disciplina_real": "Geografia",
+  "assunto_real": "Geografia do Brasil",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Prefeitura de São José dos Campos",
+  "cargos_descricao": "Professor II - Área Geografia",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O mapa a seguir aborda um tipo de divisão regional brasileira. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/123507/questao/3096685-20240103222751000000-0.png\"></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">http://repositorio.ipea.gov.br/bitstream/11058/8911/1/Regi%C3%A3o%20e%20regi onaliza%C3%A7%C3%A3o.pdf </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">As formas de regionalização dependem dos critérios de classificação escolhidos para dividir o espaço geográfico. No mapa, o critério utilizado baseou-se na seguinte metodologia:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Forma de divisão regional cuja particularidade foi o “meio técnico-científico-informacional”, tendo por base a distribuição das informações financeiras que são espalhadas desigualmente e de forma distinta pelo território brasileiro, de uma região concentrada para as outras três regiões, formando “quatro Brasis”.</p>",
+      "corpo_clean": "Forma de divisão regional cuja particularidade foi o “meio técnico-científico-informacional”, tendo por base a distribuição das informações financeiras que são espalhadas desigualmente e de forma distinta pelo território brasileiro, de uma região concentrada para as outras três regiões, formando “quatro Brasis”.",
+      "id": 12557653,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Regionalização pensada para a quantificação de dados e o planejamento estratégico, com o objetivo principal de sistematizar a divulgação das estatísticas brasileiras, identificando áreas individualizadas em cada um dos estados, com base nos processos sociais, no quadro natural e na rede de comunicação como elemento da articulação espacial.</p>",
+      "corpo_clean": "Regionalização pensada para a quantificação de dados e o planejamento estratégico, com o objetivo principal de sistematizar a divulgação das estatísticas brasileiras, identificando áreas individualizadas em cada um dos estados, com base nos processos sociais, no quadro natural e na rede de comunicação como elemento da articulação espacial.",
+      "id": 12557654,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Divisão baseada na formação de complexos regionais, fundamentada no processo histórico de constituição do território, levando em conta, especialmente, os efeitos da industrialização no território nacional, evidenciando seus contrastes, favorecendo a compreensão das relações sociais e políticas do país.</p>",
+      "corpo_clean": "Divisão baseada na formação de complexos regionais, fundamentada no processo histórico de constituição do território, levando em conta, especialmente, os efeitos da industrialização no território nacional, evidenciando seus contrastes, favorecendo a compreensão das relações sociais e políticas do país.",
+      "id": 12557655,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Proposta de regionalização em Três Brasis, planejada com base nas diferenças entre distintas especializações produtivas, na desigual intensidade de circulação de bens e consumo, na gestão das atividades, nos modelos diferenciados de organizações espaciais, respeitados os limites territoriais das unidades da federação, nos três grandes conjuntos regionais.</p>",
+      "corpo_clean": "Proposta de regionalização em Três Brasis, planejada com base nas diferenças entre distintas especializações produtivas, na desigual intensidade de circulação de bens e consumo, na gestão das atividades, nos modelos diferenciados de organizações espaciais, respeitados os limites territoriais das unidades da federação, nos três grandes conjuntos regionais.",
+      "id": 12557656,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Divisão regional ancorada nos aspetos naturais, separando o país em três grandes domínios morfoclimáticos: o amazônico predominando no norte do país e arredores; a caatinga localizada na região Nordeste, e o domínio tropical, majoritariamente nas áreas de cerrado e florestas do Brasil central, Sudeste e Sul.</p>",
+      "corpo_clean": "Divisão regional ancorada nos aspetos naturais, separando o país em três grandes domínios morfoclimáticos: o amazônico predominando no norte do país e arredores; a caatinga localizada na região Nordeste, e o domínio tropical, majoritariamente nas áreas de cerrado e florestas do Brasil central, Sudeste e Sul.",
+      "id": 12557657,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12557655",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

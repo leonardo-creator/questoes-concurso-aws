@@ -1,0 +1,58 @@
+{
+  "id": 2527999,
+  "codigo_real": "114.2.2.1.8",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Taxa Aparente",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Prefeitura de Balneário Camboriú",
+  "cargos_descricao": "Professor - Área: Matemática",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>O valor de a para que o polinômio x<sup>3</sup> + 6x<sup>2</sup> + ax +8 seja divisível por x + 8 é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Maior que 5</p>",
+      "corpo_clean": "Maior que 5",
+      "id": 10059767,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Maior que 0 e menor que 5</p>",
+      "corpo_clean": "Maior que 0 e menor que 5",
+      "id": 10059768,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Maior que –5 e menor que 0</p>",
+      "corpo_clean": "Maior que –5 e menor que 0",
+      "id": 10059769,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Maior que –10 e menor que –5</p>",
+      "corpo_clean": "Maior que –10 e menor que –5",
+      "id": 10059770,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Menor que –10</p>",
+      "corpo_clean": "Menor que –10",
+      "id": 10059771,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10059771",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

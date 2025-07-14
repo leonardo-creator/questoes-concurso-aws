@@ -1,0 +1,51 @@
+{
+  "id": 2342910,
+  "codigo_real": "112.1.27",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Semântica (significação das palavras)",
+  "bancas_nome": "Universidade Federal de Mato Grosso",
+  "bancas_sigla": "UFMT",
+  "orgaos_nome": "Prefeitura de Tangará da Serra",
+  "cargos_descricao": "Auxiliar de Farmácia",
+  "ano": 2019,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No trecho <em>É possível que, pouco a pouco, os lugares cordiais da cidade estejam desaparecendo</em>, o adjetivo <strong><em>cordiais </em></strong>poderia ser substituído, sem comprometer o sentido, por</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>INSTRUÇÃO: Leia o texto abaixo para responder às questões de 01 a 05. </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\"><strong>Fábula da cidade </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-indent: 2em; text-align: justify;\">\tUma casa é muito pouco para um homem; sua verdadeira casa é a cidade. E os homens não amam as cidades que os humilham e os sufocam, mas aquelas que parecem amoldadas às suas necessidades e desejos, humanizadas e oferecidas – uma cidade deve ter a medida do homem.</p><p style=\"text-indent: 2em; text-align: justify;\">\tÉ possível que, pouco a pouco, os lugares cordiais da cidade estejam desaparecendo, desfigurados pelo progresso e pela técnica, tornados monstruosos pela conspiração dos elementos que obrigam as criaturas a viver como se estivessem lutando, unidas a um certo número de rituais que as impedem de parar no meio de uma calçada para ver uma criança ou as levam a atravessar uma rua como se estivessem fugindo da morte.</p><p style=\"text-indent: 2em; text-align: justify;\">\tEm cidades assim, a criatura pouco ou nada vale, porque não existe entre elas e a paisagem a harmonia necessária que torna a vida uma coisa digna. E o habitante, escravizado pelo monstro da indiferença, vai se repetindo diariamente, correndo para as filas dos alimentos, dos transportes, do trabalho e das diversões, proibido de fazer algo que lhe dê a certeza da própria existência.</p><p style=\"text-align: right;\"><br></p><p style=\"text-align: right;\">(LÊDO, Ivo. In:<strong> O navio adormecido no bosque</strong>. 2ª ed. São Paulo: Duas cidades, 1977.Fragmento)</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>efusivos.</p>",
+      "corpo_clean": "efusivos.",
+      "id": 9262710,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>civilizados.</p>",
+      "corpo_clean": "civilizados.",
+      "id": 9262711,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>sinceros.</p>",
+      "corpo_clean": "sinceros.",
+      "id": 9262712,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>fraternos.</p>",
+      "corpo_clean": "fraternos.",
+      "id": 9262713,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9262711",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

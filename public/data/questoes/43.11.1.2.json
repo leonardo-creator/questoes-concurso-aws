@@ -1,0 +1,58 @@
+{
+  "id": 2643912,
+  "codigo_real": "43.11.1.2",
+  "disciplina_real": "Direito Penal Militar",
+  "assunto_real": "Crimes Contra a Autoridade ou Disciplina Militar - Crimes Contra a Autoridade ou Disciplina Militar",
+  "bancas_nome": "Instituto de Desenvolvimento Educacional, Cultural e Assistencial Nacional",
+  "bancas_sigla": "IDECAN",
+  "orgaos_nome": "Polícia Militar do Mato Grosso do Sul",
+  "cargos_descricao": "Soldado",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No que se refere aos crimes militares contra a disciplina ou autoridade militar, assinale a alternativa correta:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O crime de evasão de preso ou internado não é um exemplo de crime de atentado.</p>",
+      "corpo_clean": "O crime de evasão de preso ou internado não é um exemplo de crime de atentado.",
+      "id": 10560373,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Haverá crime de evasão de preso ou internado se não houver violência a coisa ou a pessoa.</p>",
+      "corpo_clean": "Haverá crime de evasão de preso ou internado se não houver violência a coisa ou a pessoa.",
+      "id": 10560374,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A pena do crime de evasão de preso ou internado, quando houver violência contra pessoa, será maior do que quando houver arrombamento da prisão militar.</p>",
+      "corpo_clean": "A pena do crime de evasão de preso ou internado, quando houver violência contra pessoa, será maior do que quando houver arrombamento da prisão militar.",
+      "id": 10560375,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Em face do princípio da consunção, o militar que desertar após a fuga de presídio militar responderá pelo crime de deserção, e não pelo crime de evasão de preso ou internado.</p>",
+      "corpo_clean": "Em face do princípio da consunção, o militar que desertar após a fuga de presídio militar responderá pelo crime de deserção, e não pelo crime de evasão de preso ou internado.",
+      "id": 10560376,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Quando alguém retira um preso de um presídio militar com o intuito de cuidar bem dele, comete o crime militar de arrebatamento de preso ou internado.</p>",
+      "corpo_clean": "Quando alguém retira um preso de um presídio militar com o intuito de cuidar bem dele, comete o crime militar de arrebatamento de preso ou internado.",
+      "id": 10560377,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10560375",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

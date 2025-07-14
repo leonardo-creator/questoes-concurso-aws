@@ -1,0 +1,37 @@
+{
+  "id": 949896,
+  "codigo_real": "124.25.6",
+  "disciplina_real": "Odontologia",
+  "assunto_real": "Estética dental",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Fundação Universidade de Brasília",
+  "cargos_descricao": "Médico Multiprofissional em Atenção Oncológica - Área Odontologia",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "A dentina é a principal responsável pela cor do dente, de modo\r\nque dentes decíduos apresentam coloração mais branca que\r\nos correspondentes permanentes devido à menor translucidez\r\ndo esmalte.",
+  "grupoQuestao_enunciado": "Quanto às características de normalidade e às alterações nos tecidos\r\ndentários, bucais e peribucais, julgue os itens subsecutivos.",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 3326166,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 3326167,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3326166",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

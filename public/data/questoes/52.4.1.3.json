@@ -1,0 +1,58 @@
+{
+  "id": 1494434,
+  "codigo_real": "52.4.1.3",
+  "disciplina_real": "Direito Tributário",
+  "assunto_real": "Impostos Municipais e do DF - Impostos Municipais e do DF",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Prefeitura de Congonhinhas",
+  "cargos_descricao": "Advogado",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\"> Sobre o Imposto Predial e Territorial Urbano, é INCORRETO afirmar que: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>É de competência municipal. </p>",
+      "corpo_clean": "É de competência municipal. ",
+      "id": 5568448,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> Tem como base de cálculo o valor de mercado do imóvel. </p>",
+      "corpo_clean": " Tem como base de cálculo o valor de mercado do imóvel. ",
+      "id": 5568449,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> É norteado pelo elemento espacial (território urbano) e temporal (cobrança anual). </p>",
+      "corpo_clean": " É norteado pelo elemento espacial (território urbano) e temporal (cobrança anual). ",
+      "id": 5568450,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Pode ser atualizado mediante Decreto em percentual correspondente ao índice oficial de correção monetária. </p>",
+      "corpo_clean": "Pode ser atualizado mediante Decreto em percentual correspondente ao índice oficial de correção monetária. ",
+      "id": 5568451,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> É norteado pela técnica de incidência de alíquotas progressivas. </p>",
+      "corpo_clean": " É norteado pela técnica de incidência de alíquotas progressivas. ",
+      "id": 5568452,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5568449",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

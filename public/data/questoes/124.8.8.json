@@ -1,0 +1,58 @@
+{
+  "id": 2665628,
+  "codigo_real": "124.8.8",
+  "disciplina_real": "Odontologia",
+  "assunto_real": "Odontologia Legal/Forense",
+  "bancas_nome": "Instituto de Desenvolvimento Educacional, Cultural e Assistencial Nacional",
+  "bancas_sigla": "IDECAN",
+  "orgaos_nome": "Polícia Técnico-Científica",
+  "cargos_descricao": "Perito Odonto-legal",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um corpo carbonizado, do sexo masculino, foi encontrado no interior de um veículo e depois de transportado ao instituto médico legal, foram constatadas as seguintes evidências relacionadas à identificação da vítima: 1) destruição das impressões digitais; 2) presença de restaurações de amálgama, de restauração em resina e tratamento de canal em diversos elementos dentários. Diante da possibilidade de identificação do cadáver pelas características presentes nos elementos dentais examinados durante a necropsia, a equipe de investigação policial, por meio da placa do veículo, obteve o nome da provável vítima, cujos familiares foram contatados. A suposta esposa da vítima, com o objetivo de identificar o cadáver, indicou o consultório odontológico do profissional que teria sido o responsável pela execução tanto das restaurações de resina quanto dos tratamentos de canal. Encontrado o referido profissional e solicitado ao mesmo que entregasse o prontuário odontológico da pessoa desaparecida, o dentista informou que tanto a ficha clínica quanto as radiografias produzidas durante o tratamento foram descartadas, pois o tratamento já havia sido concluído há mais de 5 anos. O profissional ainda informou que, mesmo se tivesse de posse desta documentação clínica, ele não a entregaria para os familiares, pois caberia a ele, enquanto dentista, manter o sigilo profissional. Considerando os aspectos éticos envolvidos no caso hipotético descrito, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Não há evidência de falta ética quanto ao direito de elaborar o prontuário odontológico e quanto ao direito de resguardar o segredo profissional. Entretanto, há evidência de falta ética quanto à falha no dever de conservação dos arquivos, podendo resultar na responsabilização ética do profissional, cuja conduta está configurada explicitamente como manifesta gravidade no art. 53 do código de ética odontológica.</p>",
+      "corpo_clean": "Não há evidência de falta ética quanto ao direito de elaborar o prontuário odontológico e quanto ao direito de resguardar o segredo profissional. Entretanto, há evidência de falta ética quanto à falha no dever de conservação dos arquivos, podendo resultar na responsabilização ética do profissional, cuja conduta está configurada explicitamente como manifesta gravidade no art. 53 do código de ética odontológica.",
+      "id": 10659548,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Não há evidência de falta ética quanto ao quanto ao direito de resguardar o segredo profissional. Entretanto, há evidência de falta ética tanto na falha na elaboração do prontuário e quanto no dever de conservação dos arquivos, podendo resultar na responsabilização ética do profissional, cujas condutas não estão configuradas explicitamente como manifesta gravidade no art. 53 do código de ética odontológica.</p>",
+      "corpo_clean": "Não há evidência de falta ética quanto ao quanto ao direito de resguardar o segredo profissional. Entretanto, há evidência de falta ética tanto na falha na elaboração do prontuário e quanto no dever de conservação dos arquivos, podendo resultar na responsabilização ética do profissional, cujas condutas não estão configuradas explicitamente como manifesta gravidade no art. 53 do código de ética odontológica.",
+      "id": 10659549,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Não há evidência de falta ética quanto ao dever de elaborar o prontuário odontológico nem quanto ao direito de resguardar o segredo profissional. Entretanto, há evidência de falta ética quanto à falha no dever de conservação dos arquivos, podendo resultar na responsabilização ética do profissional, cuja conduta não está configurada explicitamente como manifesta gravidade no art. 53 do código de ética odontológica.</p>",
+      "corpo_clean": "Não há evidência de falta ética quanto ao dever de elaborar o prontuário odontológico nem quanto ao direito de resguardar o segredo profissional. Entretanto, há evidência de falta ética quanto à falha no dever de conservação dos arquivos, podendo resultar na responsabilização ética do profissional, cuja conduta não está configurada explicitamente como manifesta gravidade no art. 53 do código de ética odontológica.",
+      "id": 10659550,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Não há evidência de falta ética relacionada às condutas do profissional em elaborar e descartar a documentação odontológica, nem quanto à manutenção do sigilo profissional. Portanto, o dentista não será responsabilizado eticamente.</p>",
+      "corpo_clean": "Não há evidência de falta ética relacionada às condutas do profissional em elaborar e descartar a documentação odontológica, nem quanto à manutenção do sigilo profissional. Portanto, o dentista não será responsabilizado eticamente.",
+      "id": 10659551,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Há evidência de falta ética relacionada às condutas do profissional tanto por falha nos deveres de elaboração quanto no armazenamento/descarte da documentação odontológica, e também pela falha no dever de sigilo profissional. Portanto, o dentista será responsabilizado eticamente, inclusive por uma de suas condutas estar configurada explicitamente como manifesta gravidade no art. 53 do código de ética odontológica.</p>",
+      "corpo_clean": "Há evidência de falta ética relacionada às condutas do profissional tanto por falha nos deveres de elaboração quanto no armazenamento/descarte da documentação odontológica, e também pela falha no dever de sigilo profissional. Portanto, o dentista será responsabilizado eticamente, inclusive por uma de suas condutas estar configurada explicitamente como manifesta gravidade no art. 53 do código de ética odontológica.",
+      "id": 10659552,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10659550",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

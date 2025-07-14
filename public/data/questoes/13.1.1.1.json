@@ -1,0 +1,51 @@
+{
+  "id": 2538460,
+  "codigo_real": "13.1.1.1",
+  "disciplina_real": "Atualidades e Conhecimentos Gerais",
+  "assunto_real": "Guerra Econômica EUA x China",
+  "bancas_nome": "Centro de Extensão, Treinamento e Aperfeiçoamento Profissional Ltda",
+  "bancas_sigla": "CETAP",
+  "orgaos_nome": "Prefeitura de Ananindeua",
+  "cargos_descricao": "Guarda Civil Municipal",
+  "ano": 2019,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">“Bitcoin afunda para menor nível em 6 meses com anúncio de fiscalização na China.”. (Fonte: https://www.oliberal.com/economia/bitcoin-afunda-para-menor-nivel-em-6-meses-com-anuncio-de-fiscalizacao-na-china-1.215180). Sobre a matéria noticiada, analise as assertivas a seguir e marque a alternativa correta:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I- O bitcoin despencou para o menor nível em seis meses nesta sexta-feira (22) depois que o banco central da China lançou uma nova operação de fiscalização sobre operações com criptomoedas, alertando sobre riscos ligados a emissão ou negociação delas.</p><p style=\"text-align: justify;\">II- O banco central da China em Xangai afirmou que vai combater crescentes casos de ilegalidades envolvendo moedas digitais. A autoridade monetária também alertou investidores a não confundirem criptomoedas com tecnologia blockchain.</p><p style=\"text-align: justify;\">III- O banco central chinês se prepara para lançar sua própria moeda digital. O presidente chinês, Xi Jinping, afirmou no mês passado que a primeira maior economia do mundo deve acelerar o desenvolvimento da tecnologia em criptomoedas.</p>",
+  "grupoQuestao_enunciado": "<p><strong>Todas as reportagens utilizadas nas questões de Atualidades foram acessadas no dia 23.11.2019. </strong></p>",
+  "alternativas": [
+    {
+      "corpo": "<p>As assertivas I e II estão corretas.</p>",
+      "corpo_clean": "As assertivas I e II estão corretas.",
+      "id": 10105665,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>As assertivas I e III estão corretas.</p>",
+      "corpo_clean": "As assertivas I e III estão corretas.",
+      "id": 10105666,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>As assertivas II e III estão corretas.</p>",
+      "corpo_clean": "As assertivas II e III estão corretas.",
+      "id": 10105667,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Apenas a assertiva I está correta.</p>",
+      "corpo_clean": "Apenas a assertiva I está correta.",
+      "id": 10105668,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10105665",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

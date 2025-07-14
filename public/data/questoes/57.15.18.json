@@ -1,0 +1,51 @@
+{
+  "id": 3269035,
+  "codigo_real": "57.15.18",
+  "disciplina_real": "Educação Física",
+  "assunto_real": "Corrida",
+  "bancas_nome": "MS Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Consórcio Regional Intermunicipal de Saúde de Herculândia – CRIS/SP",
+  "cargos_descricao": "Educador Físico",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Na Ginástica Artística, a roda deve ser executada com pernas estendidas e afastadas. As pernas devem passar pela vertical, o tronco se mantém tenso e alinhado. No momento de apoio, as mãos devem estar, ligeiramente, voltadas para dentro. A cabeça em posição natural, o olhar voltado para as mãos, quando estão apoiadas no solo. Analise o excerto e assinale a alternativa que contempla, assertivamente, o nome popular do movimento roda.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Rolamento ou cambalhota. </p>",
+      "corpo_clean": "Rolamento ou cambalhota. ",
+      "id": 13286470,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Estrela ou Estrelinha. </p>",
+      "corpo_clean": "Estrela ou Estrelinha. ",
+      "id": 13286471,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Pirueta ou Giro. </p>",
+      "corpo_clean": "Pirueta ou Giro. ",
+      "id": 13286472,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Giro ou Pivot.</p>",
+      "corpo_clean": "Giro ou Pivot.",
+      "id": 13286473,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "13286471",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

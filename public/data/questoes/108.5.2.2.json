@@ -1,0 +1,58 @@
+{
+  "id": 2195193,
+  "codigo_real": "108.5.2.2",
+  "disciplina_real": "Lei Orgânica do Distrito Federal - LODF",
+  "assunto_real": "Seção II - Da Implantação de Pólos Industriais no Distrito Federal",
+  "bancas_nome": "Instituto Americano de Desenvolvimento",
+  "bancas_sigla": "IADES",
+  "orgaos_nome": "Policia Militar do Distrito Federal",
+  "cargos_descricao": "Soldado",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Obcecado pela ideia, o próprio Varnhagen se embrenhou pelos sertões do Planalto Central em 1877 para procurar a localização mais apropriada. Após a expedição, ele sugeriu que se erguesse a cidade de Imperatória (nome em homenagem ao imperador dom Pedro II) entre as lagoas Formosa, Feia e Mestre D’Armas — a grande área dentro da qual hoje se situa Brasília.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\">Fonte: Agência Senado</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Marque o item correto:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>A perspectiva de exploração de novos minérios.</p>",
+      "corpo_clean": "A perspectiva de exploração de novos minérios.",
+      "id": 8618294,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O impulso à criação de gado bovino, graças à presença de grandes pastagens.</p>",
+      "corpo_clean": "O impulso à criação de gado bovino, graças à presença de grandes pastagens.",
+      "id": 8618295,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A qualidade do solo para a cultura de plantas oleaginosas.</p>",
+      "corpo_clean": "A qualidade do solo para a cultura de plantas oleaginosas.",
+      "id": 8618296,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A salubridade da região, com clima capaz de atrair colonos estrangeiros.</p>",
+      "corpo_clean": "A salubridade da região, com clima capaz de atrair colonos estrangeiros.",
+      "id": 8618297,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>A presença de indígenas de índole pacífica.</p>",
+      "corpo_clean": "A presença de indígenas de índole pacífica.",
+      "id": 8618298,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8618297",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

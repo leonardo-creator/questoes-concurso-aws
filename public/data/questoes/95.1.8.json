@@ -1,0 +1,58 @@
+{
+  "id": 2177898,
+  "codigo_real": "95.1.8",
+  "disciplina_real": "Informática",
+  "assunto_real": "Software",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Prefeitura de Balneário Camboriú",
+  "cargos_descricao": "Professor de Laboratório de Informática",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Os softwares podem ser classificados em grandes grupos com características próprias e diferentes usos na educação. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Os softwares de simulação se caracterizam principalmente por permitir:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">buscar informações sobre assuntos diversos.</p>",
+      "corpo_clean": "buscar informações sobre assuntos diversos.",
+      "id": 8543274,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">processar editores de texto, programas gráficos, planilhas.</p>",
+      "corpo_clean": "processar editores de texto, programas gráficos, planilhas.",
+      "id": 8543275,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">visualizar e experimentar digitalmente fenômenos e situações.</p>",
+      "corpo_clean": "visualizar e experimentar digitalmente fenômenos e situações.",
+      "id": 8543276,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">receber instruções para realizar algumas tarefas em específico.</p>",
+      "corpo_clean": "receber instruções para realizar algumas tarefas em específico.",
+      "id": 8543277,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">escolher entre respostas prontas para as questões apresentadas.</p>",
+      "corpo_clean": "escolher entre respostas prontas para as questões apresentadas.",
+      "id": 8543278,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8543276",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

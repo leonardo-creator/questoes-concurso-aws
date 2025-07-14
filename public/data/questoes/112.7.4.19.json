@@ -1,0 +1,58 @@
+{
+  "id": 171552,
+  "codigo_real": "112.7.4.19",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Linguística aplicada",
+  "bancas_nome": "Núcleo de Computação Eletrônica UFRJ",
+  "bancas_sigla": "NCE",
+  "orgaos_nome": "Instituto Nacional de Colonização e Reforma Agrária",
+  "cargos_descricao": "Engenheiro - Área Agronomia",
+  "ano": 2005,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify><U>Arte aplicada</U> é, segundo o texto, aquela que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>presenciamos nos museus;</p>",
+      "corpo_clean": "presenciamos nos museus;",
+      "id": 740797,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>observamos em fenômenos da natureza;</p>",
+      "corpo_clean": "observamos em fenômenos da natureza;",
+      "id": 740798,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>contemplamos nas festas populares;</p>",
+      "corpo_clean": "contemplamos nas festas populares;",
+      "id": 740799,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>descobrimos em realidades desconhecidas;</p>",
+      "corpo_clean": "descobrimos em realidades desconhecidas;",
+      "id": 740800,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>notamos nos objetos do dia-a-dia.</p>",
+      "corpo_clean": "notamos nos objetos do dia-a-dia.",
+      "id": 740801,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "740801",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

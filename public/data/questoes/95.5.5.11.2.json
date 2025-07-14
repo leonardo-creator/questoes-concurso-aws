@@ -1,0 +1,37 @@
+{
+  "id": 1566150,
+  "codigo_real": "95.5.5.11.2",
+  "disciplina_real": "Informática",
+  "assunto_real": "Backup Incremental",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Departamento Penitenciário Nacional",
+  "cargos_descricao": "Agente Federal de Execução Penal",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">O backup do tipo Incremental copia apenas os dados alterados ou criados após o último completo ou incremental.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Sobre conceitos de proteção, segurança e backup, julgue os próximos itens.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 5870099,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 5870100,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5870099",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3137036,
+  "codigo_real": "112.1.24.1.2.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Uso de sinônimos",
+  "bancas_nome": "Fundação CESGRANRIO",
+  "bancas_sigla": "CESGRANRIO",
+  "orgaos_nome": "Órgão não definido",
+  "cargos_descricao": "Cargo não definido",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em “Existe apenas uma maneira <strong>exequível </strong>de se melhorar as condições materiais da humanidade” (parágrafo 4), a palavra que pode substituir o vocábulo destacado, sem modificação no sentido da frase, é</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">1 <span class=\"ql-formula\" data-value=\"\\qquad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 2em;\"></span></span></span></span></span></span> Sob o capitalismo, o homem comum desfruta de vantagens que, em épocas passadas, eram desconhecidas e portanto inacessíveis até mesmo aos mais ricos, mas, com certeza, automóveis, televisores e geladeiras não fazem o homem feliz. No momento em que os adquire, ele pode sentir-se mais feliz do que antes. Porém, à medida que alguns de seus desejos são satisfeitos, surgem novos. Assim é a natureza humana. </p><p style=\"text-align: justify;\">2 <span class=\"ql-formula\" data-value=\"\\qquad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 2em;\"></span></span></span></span></span></span> Poucos norte-americanos estão cientes do fato de que seu país desfruta do mais elevado padrão de vida e de que o modo de viver do norte-americano médio afigura-se como fabuloso e fora do alcance da grande maioria dos povos que habitam países não capitalistas. A maior parte das pessoas deprecia o que tem e o que pode adquirir e almeja as coisas que lhe são inacessíveis. Seria inútil lamentar este apetite insaciável por mais e mais bens. Esta avidez é exatamente o impulso que conduz o homem na direção do aperfeiçoamento econômico. Manter alguém contente com o que já conseguiu ou pode facilmente conseguir, sem interesse por melhorar suas próprias condições materiais, não é uma virtude. Tal atitude é muito mais um comportamento animal do que a conduta de seres humanos racionais. A principal característica do homem é de ele nunca desistir de aumentar seu bem-estar através de atividades intencionais. </p><p style=\"text-align: justify;\">3 <span class=\"ql-formula\" data-value=\"\\qquad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 2em;\"></span></span></span></span></span></span> Todavia, esses esforços devem ajustar-se ao objetivo. Devem ser apropriados para surtir os efeitos desejados. O que há de errado com a maioria de nossos contemporâneos não é o fato de desejarem intensamente um suprimento mais rico de várias mercadorias, mas sim de escolherem meios inadequados para atingir esse objetivo. São iludidos por falsas ideologias, favorecem políticas que são contrárias aos seus próprios e muito bem compreendidos interesses vitais. Incapazes de enxergar as inevitáveis consequências a longo prazo de sua conduta, comprazem-se com seus efeitos passageiros, a curto prazo. Defendem medidas que com certeza resultarão no empobrecimento geral, na desintegração da cooperação social sob o princípio da divisão do trabalho e num retorno à barbárie. </p><p style=\"text-align: justify;\">4 <span class=\"ql-formula\" data-value=\"\\qquad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 2em;\"></span></span></span></span></span></span> Existe apenas uma maneira exequível de se melhorar as condições materiais da humanidade: acelerar o crescimento do capital acumulado em oposição ao crescimento da população. Quanto maior for a soma de capital investido por trabalhador, mais e melhores mercadorias poderão ser produzidas e consumidas. Isto é o que o capitalismo, o mais injuriado sistema de lucro, realizou e realiza de novo todos os dias. Não obstante, a maioria dos atuais governos e partidos políticos procura sofregamente destruir este sistema. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\">MISES, Ludwig Von. A mentalidade anticapitalista. 4. ed São Paulo: LVM Editora, 2018.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>provável.</p>",
+      "corpo_clean": "provável.",
+      "id": 12730280,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>factível.</p>",
+      "corpo_clean": "factível.",
+      "id": 12730281,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>justificável.</p>",
+      "corpo_clean": "justificável.",
+      "id": 12730282,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>inteligível.</p>",
+      "corpo_clean": "inteligível.",
+      "id": 12730283,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>responsável.</p>",
+      "corpo_clean": "responsável.",
+      "id": 12730284,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12730281",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

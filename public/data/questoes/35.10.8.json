@@ -1,0 +1,58 @@
+{
+  "id": 2766487,
+  "codigo_real": "35.10.8",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Do meio ambiente (artigo 225 da CF)",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Prefeitura de Balneário Camboriú",
+  "cargos_descricao": "Procurador do Município",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em conformidade com o que dispõe a Constituição Federal de 1988, promover a educação ambiental em todos os níveis de ensino, e a conscientização pública para a preservação do meio ambiente, é incumbência:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Do Poder Público.</p>",
+      "corpo_clean": "Do Poder Público.",
+      "id": 11105223,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Do setor produtivo.</p>",
+      "corpo_clean": "Do setor produtivo.",
+      "id": 11105224,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Da iniciativa privada.</p>",
+      "corpo_clean": "Da iniciativa privada.",
+      "id": 11105225,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Das entidades civis, exclusivamente.</p>",
+      "corpo_clean": "Das entidades civis, exclusivamente.",
+      "id": 11105226,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Das organizações não governamentais.</p>",
+      "corpo_clean": "Das organizações não governamentais.",
+      "id": 11105227,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11105223",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

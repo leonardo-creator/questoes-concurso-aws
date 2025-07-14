@@ -1,0 +1,51 @@
+{
+  "id": 1534723,
+  "codigo_real": "11.1.6",
+  "disciplina_real": "Artes",
+  "assunto_real": "Elementos da linguagem visual - Elementos da linguagem visual",
+  "bancas_nome": "Associação dos Municípios do Extremo Oeste de Santa Catarina",
+  "bancas_sigla": "AMEOSC",
+  "orgaos_nome": "Prefeitura de Barra Bonita",
+  "cargos_descricao": "Professor de Artes",
+  "ano": 2017,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Analisando os elementos de composição das artes visuais, quando é falado sobre equilíbrio é preciso ter em mente que o mesmo está relacionado ao ambiente e ao espaço ocupado pela composição, o que é também correto afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O equilíbrio tem relações diretas e tão somente com o conceito de simetria.</p>",
+      "corpo_clean": "O equilíbrio tem relações diretas e tão somente com o conceito de simetria.",
+      "id": 5738766,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Poderia ser pensado ao conceito de “peso visual”, onde o equilíbrio só é alcançado quando tais pesos são distribuídos corretamente.</p>",
+      "corpo_clean": "Poderia ser pensado ao conceito de “peso visual”, onde o equilíbrio só é alcançado quando tais pesos são distribuídos corretamente.",
+      "id": 5738767,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Está ligado ao uso da luz e sombra, além da composição de cores e formas.</p>",
+      "corpo_clean": "Está ligado ao uso da luz e sombra, além da composição de cores e formas.",
+      "id": 5738768,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Compreende tudo aquilo que pertence aos elementos visuais e como tais composições podem fazer alegoria a outros significados.</p>",
+      "corpo_clean": "Compreende tudo aquilo que pertence aos elementos visuais e como tais composições podem fazer alegoria a outros significados.",
+      "id": 5738769,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5738767",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1455579,
+  "codigo_real": "17.13",
+  "disciplina_real": "Biologia",
+  "assunto_real": "Metodologia Científica",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Hospital de Clínicas da Universidade Federal de Uberlândia",
+  "cargos_descricao": "Biomédico",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Técnica comumente utilizada nos laboratórios para produzir água purificada de consumo rotineiro; funciona através da adsorção das impurezas pelas resinas de troca iônica. Essa metodologia de purificação de água é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">osmose reversa.</p>",
+      "corpo_clean": "osmose reversa.",
+      "id": 5397419,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">deionização.</p>",
+      "corpo_clean": "deionização.",
+      "id": 5397420,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">filtração através de carvão ativado.</p>",
+      "corpo_clean": "filtração através de carvão ativado.",
+      "id": 5397421,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">adsorção orgânica.</p>",
+      "corpo_clean": "adsorção orgânica.",
+      "id": 5397422,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">foto oxidação.</p>",
+      "corpo_clean": "foto oxidação.",
+      "id": 5397423,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5397420",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

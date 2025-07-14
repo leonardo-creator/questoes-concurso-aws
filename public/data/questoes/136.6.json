@@ -1,0 +1,51 @@
+{
+  "id": 1849791,
+  "codigo_real": "136.6",
+  "disciplina_real": "Segurança e Saúde no Trabalho (Teoria e Normas)",
+  "assunto_real": "Normas Regulamentadoras do Ministério do Trabalho e Emprego - Normas Regulamentadoras do Ministério do Trabalho e Emprego",
+  "bancas_nome": "FUNDEP Gestão de Concursos",
+  "bancas_sigla": "FUNDEP",
+  "orgaos_nome": "Empresa de Transporte e Trânsito de Belo Horizonte",
+  "cargos_descricao": "Engenheiro de Segurança do Trabalho",
+  "ano": 2013,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sempre que o trabalhador se encontrar submetido à pressão superior a uma atmosfera diz-se que está exposto à condição hiperbárica, podendo o trabalho ser realizado sob ar comprimido ou submerso. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Os efeitos causados pela pressão anormalmente elevada (hiperbarismo) sobre o organismo humano são divididos em dois </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">efeitos diretos e/ou primários e indiretos e/ou secundários.</p>",
+      "corpo_clean": "efeitos diretos e/ou primários e indiretos e/ou secundários.",
+      "id": 7110725,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">efeitos diretos e/ou complementares e indiretos e/ou secundários.</p>",
+      "corpo_clean": "efeitos diretos e/ou complementares e indiretos e/ou secundários.",
+      "id": 7110726,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">efeitos diretos e/ou secundários e indiretos e/ou complementares.</p>",
+      "corpo_clean": "efeitos diretos e/ou secundários e indiretos e/ou complementares.",
+      "id": 7110727,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">efeitos diretos e/ou suplementares e indiretos e/ou complementares. </p>",
+      "corpo_clean": "efeitos diretos e/ou suplementares e indiretos e/ou complementares. ",
+      "id": 7110728,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "7110725",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

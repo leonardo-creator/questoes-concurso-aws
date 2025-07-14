@@ -1,0 +1,58 @@
+{
+  "id": 715256,
+  "codigo_real": "112.5.6.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Concordância Nominal",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Fundação Cultural Palmares",
+  "cargos_descricao": "Operacional Administrativo",
+  "ano": 2014,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "Em relação à concordância nominal e de acordo com a\r\nnorma-padrão da Língua Portuguesa, assinale a\r\nalternativa correta.",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "Seguem inclusas as notas requeridas pela\r\nSecretaria.",
+      "corpo_clean": "Seguem inclusas as notas requeridas pela Secretaria.",
+      "id": 2452297,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "No inverno, sopa é boa.",
+      "corpo_clean": "No inverno, sopa é boa.",
+      "id": 2452298,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "Há bastante pessoas insatisfeitas com o\r\natendimento.",
+      "corpo_clean": "Há bastante pessoas insatisfeitas com o atendimento.",
+      "id": 2452299,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Ela ficou meia nervosa quando disseram que\r\nprecisaria esperar para ser atendida.",
+      "corpo_clean": "Ela ficou meia nervosa quando disseram que precisaria esperar para ser atendida.",
+      "id": 2452300,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "É proibido a entrada de estranhos no recinto.",
+      "corpo_clean": "É proibido a entrada de estranhos no recinto.",
+      "id": 2452301,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2452297",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

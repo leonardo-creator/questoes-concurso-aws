@@ -1,0 +1,51 @@
+{
+  "id": 1706492,
+  "codigo_real": "10.17.7",
+  "disciplina_real": "Arquivologia",
+  "assunto_real": "Decreto nº 7.724/12 - Regulamenta a LAI",
+  "bancas_nome": "FUNDEP Gestão de Concursos",
+  "bancas_sigla": "FUNDEP",
+  "orgaos_nome": "Indústrias Nucleares do Brasil S.A.",
+  "cargos_descricao": "Técnico em Arquivo",
+  "ano": 2018,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa que apresenta <strong>corretamente </strong>os graus de sigilo e respectivos prazos máximos de restrição de acesso a informações, previstos na Lei Nº 12.527/2011.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Ultrassecreta: 25 (vinte e cinco) anos / secreta: 20 (vinte) anos / reservada: 10 (dez) anos.</p>",
+      "corpo_clean": "Ultrassecreta: 25 (vinte e cinco) anos / secreta: 20 (vinte) anos / reservada: 10 (dez) anos.",
+      "id": 6461318,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Ultrassecreta: 30 (trinta) anos / secreta: 20 (vinte) anos / reservada: 10 (dez) anos.</p>",
+      "corpo_clean": "Ultrassecreta: 30 (trinta) anos / secreta: 20 (vinte) anos / reservada: 10 (dez) anos.",
+      "id": 6461319,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Ultrassecreta: 20 (vinte) anos / secreta: 15 (quinze) anos / reservada: 5 (cinco) anos.</p>",
+      "corpo_clean": "Ultrassecreta: 20 (vinte) anos / secreta: 15 (quinze) anos / reservada: 5 (cinco) anos.",
+      "id": 6461320,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Ultrassecreta: 25 (vinte e cinco) anos / secreta: 15 (quinze) anos / reservada: 5 (cinco) anos.</p>",
+      "corpo_clean": "Ultrassecreta: 25 (vinte e cinco) anos / secreta: 15 (quinze) anos / reservada: 5 (cinco) anos.",
+      "id": 6461321,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "6461321",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

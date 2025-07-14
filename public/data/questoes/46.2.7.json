@@ -1,0 +1,58 @@
+{
+  "id": 431468,
+  "codigo_real": "46.2.7",
+  "disciplina_real": "Direito Processual Civil - CPC 1973",
+  "assunto_real": "Formação, suspensão e extinção do processo",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional Eleitoral do Amapá",
+  "cargos_descricao": "Analista Judiciário - Área Judiciária",
+  "ano": 2011,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>O processo W foi suspenso porque a sentença de mérito\r\ndepende do julgamento de outra causa e o processo Z foi\r\nsuspenso por convenção das partes. Nestes casos, o\r\nprazo máximo de suspensão processual é, respectivamente,\r\nde</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>um ano e seis meses.</p>",
+      "corpo_clean": "um ano e seis meses.",
+      "id": 1535829,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>seis meses e um ano.</p>",
+      "corpo_clean": "seis meses e um ano.",
+      "id": 1535830,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>três e seis meses.</p>",
+      "corpo_clean": "três e seis meses.",
+      "id": 1535831,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>seis e três meses.</p>",
+      "corpo_clean": "seis e três meses.",
+      "id": 1535832,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>um e dois anos.</p>",
+      "corpo_clean": "um e dois anos.",
+      "id": 1535833,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1535829",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": true,
+  "hasImage": false,
+  "hasImageItens": false
+}

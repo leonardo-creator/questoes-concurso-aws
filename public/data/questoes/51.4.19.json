@@ -1,0 +1,58 @@
+{
+  "id": 3624094,
+  "codigo_real": "51.4.19",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Política Nacional de Saúde Mental",
+  "bancas_nome": "Comissão Permanente de Concursos da Universidade Estadual da Paraíba",
+  "bancas_sigla": "CPCON UEPB",
+  "orgaos_nome": "Prefeitura Barra de Santana",
+  "cargos_descricao": "Psicólogo Clínico",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Sobre a atuação dos(as) psicólogos(a) no SUAS, é CORRETO afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Deve oferecer apoio aos movimentos sociais de grupos étnico-raciais, religiosos, de gênero, geracionais, de orientação sexual, de classes sociais e de outros segmentos socioculturais; é dever ético, com vistas à realização do bem comum.</p>",
+      "corpo_clean": "Deve oferecer apoio aos movimentos sociais de grupos étnico-raciais, religiosos, de gênero, geracionais, de orientação sexual, de classes sociais e de outros segmentos socioculturais; é dever ético, com vistas à realização do bem comum.",
+      "id": 14765150,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O(a) psicólogo(a), nesse campo, deve priorizar atividades em espaços comunitários e seu trabalho envolve proposições claramente políticas e ações relacionadas à defesa dos direitos da comunidade.</p>",
+      "corpo_clean": "O(a) psicólogo(a), nesse campo, deve priorizar atividades em espaços comunitários e seu trabalho envolve proposições claramente políticas e ações relacionadas à defesa dos direitos da comunidade.",
+      "id": 14765151,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Deve estar fundamentada na compreensão da dimensão subjetiva dos fenômenos sociais e coletivos, sob diferentes enfoques teóricos e metodológicos, com o objetivo de problematizar e propor ações no âmbito social.</p>",
+      "corpo_clean": "Deve estar fundamentada na compreensão da dimensão subjetiva dos fenômenos sociais e coletivos, sob diferentes enfoques teóricos e metodológicos, com o objetivo de problematizar e propor ações no âmbito social.",
+      "id": 14765152,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Deve realizar estudos, pesquisas e supervisão sobre temas pertinentes à história de vida dos sujeitos, com o intuito de promover a problematização e a construção de proposições que apoiem a atuação dos profissionais de assistência social.</p>",
+      "corpo_clean": "Deve realizar estudos, pesquisas e supervisão sobre temas pertinentes à história de vida dos sujeitos, com o intuito de promover a problematização e a construção de proposições que apoiem a atuação dos profissionais de assistência social.",
+      "id": 14765153,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Por meio de atuação individual, o(a) psicólogo(a) deve atender a crianças, adolescentes e adultos, priorizando o trabalho clínico individual, possibilitando encaminhamentos psicológicos quando necessário, desenvolvendo métodos e instrumentais para atendimento.</p>",
+      "corpo_clean": "Por meio de atuação individual, o(a) psicólogo(a) deve atender a crianças, adolescentes e adultos, priorizando o trabalho clínico individual, possibilitando encaminhamentos psicológicos quando necessário, desenvolvendo métodos e instrumentais para atendimento.",
+      "id": 14765154,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14765152",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

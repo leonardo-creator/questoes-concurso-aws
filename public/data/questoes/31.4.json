@@ -1,0 +1,58 @@
+{
+  "id": 2422874,
+  "codigo_real": "31.4",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Poderes da Administração",
+  "bancas_nome": "Associação dos Municípios do Alto Uruguai Catarinense",
+  "bancas_sigla": "AMAUC",
+  "orgaos_nome": "Prefeitura de Jaborá",
+  "cargos_descricao": "Auxiliar Administrativo",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O poder administrativo representa uma prerrogativa especial de direito público outorgada aos agentes do Estado. Cada um desses terá a seu cargo a execução de certas funções. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">CARVALHO FILHO, 2015. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Nesse sentido, analise as afirmativas abaixo: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. Desvio de poder é a forma de abuso própria da atuação do agente fora dos limites de sua competência administrativa. </p><p style=\"text-align: justify;\">II. Excesso de poder é a modalidade de abuso em que o agente busca alcançar fim diverso daquele que a lei lhe permitiu. </p><p style=\"text-align: justify;\">III. Poder discricionário é a prerrogativa concedida aos agentes administrativos de elegerem, entre várias condutas possíveis, a que traduz maior conveniência e oportunidade para o interesse público. </p><p style=\"text-align: justify;\">IV. Poder regulamentar é a prerrogativa conferida à Administração Pública de editar atos gerais para complementar as leis e permitir a sua efetiva aplicação. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Está(ão) <strong>CORRETA(S)</strong>: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I e II, apenas.</p>",
+      "corpo_clean": "I e II, apenas.",
+      "id": 9603517,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>I, II, III e IV.</p>",
+      "corpo_clean": "I, II, III e IV.",
+      "id": 9603518,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>III, apenas.</p>",
+      "corpo_clean": "III, apenas.",
+      "id": 9603519,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p> III e IV, apenas.</p>",
+      "corpo_clean": " III e IV, apenas.",
+      "id": 9603520,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>II, apenas.</p>",
+      "corpo_clean": "II, apenas.",
+      "id": 9603521,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9603520",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

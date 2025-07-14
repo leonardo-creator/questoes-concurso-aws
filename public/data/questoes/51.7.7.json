@@ -1,0 +1,51 @@
+{
+  "id": 1638702,
+  "codigo_real": "51.7.7",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Lei 8.080/1990",
+  "bancas_nome": "Prefeitura de Lontras",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Lontras",
+  "cargos_descricao": "Técnico de Enfermagem",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>A Lei 8.080/90 é chamada de:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Lei Orgânica da Saúde</p>",
+      "corpo_clean": "Lei Orgânica da Saúde",
+      "id": 6166787,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Lei do Controle Social ( estabelece os Conselhos de Saúde e as Conferências de Saúde)</p>",
+      "corpo_clean": "Lei do Controle Social ( estabelece os Conselhos de Saúde e as Conferências de Saúde)",
+      "id": 6166788,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Código de Ética Profissional da Enfermagem</p>",
+      "corpo_clean": "Código de Ética Profissional da Enfermagem",
+      "id": 6166789,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Lei de criação do SUS a partir da Constituição Federal de 1988</p>",
+      "corpo_clean": "Lei de criação do SUS a partir da Constituição Federal de 1988",
+      "id": 6166790,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "6166787",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

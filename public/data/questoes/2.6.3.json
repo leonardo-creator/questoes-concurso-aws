@@ -1,0 +1,58 @@
+{
+  "id": 2657805,
+  "codigo_real": "2.6.3",
+  "disciplina_real": "Administração Financeira e Orçamentária - AFO",
+  "assunto_real": "Classificações",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Instituto de Previdência e Assistência dos Servidores Municipais de Novo Hamburgo",
+  "cargos_descricao": "Contador",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Observadas as categorias econômicas, a discriminação ou a especificação da despesa por elementos, em cada unidade administrativa ou órgão de governo, deve obedecer a esquema disponibilizado na Lei nº 4.320/1964, que estatui normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da união, dos estados, dos municípios e do distrito federal. Nesse sentido, assinale, a seguir, a despesa NÃO classificável como de Custeio.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Pessoa civil.</p>",
+      "corpo_clean": "Pessoa civil.",
+      "id": 10624448,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Encargos diversos.</p>",
+      "corpo_clean": "Encargos diversos.",
+      "id": 10624449,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Serviços de terceiros.</p>",
+      "corpo_clean": "Serviços de terceiros.",
+      "id": 10624450,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Material de consumo.</p>",
+      "corpo_clean": "Material de consumo.",
+      "id": 10624451,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Contribuições de previdência social.</p>",
+      "corpo_clean": "Contribuições de previdência social.",
+      "id": 10624452,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10624452",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

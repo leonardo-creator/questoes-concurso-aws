@@ -1,0 +1,51 @@
+{
+  "id": 1195834,
+  "codigo_real": "115.1.16.1",
+  "disciplina_real": "Matemática",
+  "assunto_real": "Porcentagem - Porcentagem",
+  "bancas_nome": "Fundação de Amparo e Desenvolvimento da Pesquisa",
+  "bancas_sigla": "FADESP",
+  "orgaos_nome": "Prefeitura de Jacareacanga",
+  "cargos_descricao": "Escrevente Legislativo",
+  "ano": 2012,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Em uma Seção de uma Prefeitura, há 12 servidores de Nível Fundamental e 8 de Nível Médio.\r\nCada Servidor de Nível Médio recebe 50% a mais do que um Servidor de Nível Fundamental, sendo a\r\nsoma dos vencimentos de todos esses Servidores dessa Seção é igual a R$ 19.200,00. Qual o\r\nvencimento de um Servidor de Nível Médio?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>R$ 800,00.</p>",
+      "corpo_clean": "R$ 800,00.",
+      "id": 4302163,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>R$ 900,00.</p>",
+      "corpo_clean": "R$ 900,00.",
+      "id": 4302164,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>R$ 1.350,00.</p>",
+      "corpo_clean": "R$ 1.350,00.",
+      "id": 4302165,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>R$ 1.200,00.</p>",
+      "corpo_clean": "R$ 1.200,00.",
+      "id": 4302166,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4302166",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

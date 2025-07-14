@@ -1,0 +1,58 @@
+{
+  "id": 1900862,
+  "codigo_real": "57.13",
+  "disciplina_real": "Educação Física",
+  "assunto_real": "Primeiros Socorros no Esporte",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Prefeitura de Candelária",
+  "cargos_descricao": "Professor Anos Finais - Área: Matemática",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Conforme notícia publicada no jornal Correio do Povo de 16/04/2021, o governo do Rio Grande do Sul busca, no Supremo Tribunal Federal (STF), a liberação necessária para priorizar a vacinação de profissionais da educação.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Referente à organização dos grupos prioritários, as doses iniciais da vacina contra o Coronavírus no estado do RS foram destinadas aos seguintes grupos:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. Trabalhadores da linha de frente contra a Covid.</p><p style=\"text-align: justify;\">II. Pessoas com comorbidades.</p><p style=\"text-align: justify;\">III. Indígenas aldeados.</p><p style=\"text-align: justify;\">IV. Idosos que moram em instituições de longa permanência e funcionários desses locais.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Quais estão corretas?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Apenas I e II.</p>",
+      "corpo_clean": "Apenas I e II.",
+      "id": 7329834,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Apenas II e III.</p>",
+      "corpo_clean": "Apenas II e III.",
+      "id": 7329835,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Apenas I, II e III.</p>",
+      "corpo_clean": "Apenas I, II e III.",
+      "id": 7329836,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Apenas I, III e IV.</p>",
+      "corpo_clean": "Apenas I, III e IV.",
+      "id": 7329837,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>I, II, III e IV.</p>",
+      "corpo_clean": "I, II, III e IV.",
+      "id": 7329838,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7329837",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

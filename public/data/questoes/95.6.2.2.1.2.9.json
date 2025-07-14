@@ -1,0 +1,58 @@
+{
+  "id": 3511372,
+  "codigo_real": "95.6.2.2.1.2.9",
+  "disciplina_real": "Informática",
+  "assunto_real": "Ferramentas",
+  "bancas_nome": "Instituto Americano de Desenvolvimento",
+  "bancas_sigla": "IADES",
+  "orgaos_nome": "Conselho Federal de Medicina",
+  "cargos_descricao": "Assistente Administrativo",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Uma assistente administrativa de um conselho profissional está organizando um evento de capacitação para os funcionários. Para isso, ela precisa utilizar diferentes ferramentas» tecnológicas que podem facilitar a gestão do evento e a comunicação entre os participantes. Em uma reunião, a organizadora menciona que a utilização adequada das tecnologias da informação pode melhorar a produtividade e a organização nas atividades do dia a dia. Além disso, ela ressalta a importância de conhecer as funcionalidades dos <em>softwares </em>utilizados no ambiente de escritório para otimizar as tarefas administrativas. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Com base nessa situação hipotética, assinale a alternativa correta acerca do uso de tecnologias em ambientes corporativos.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A utilização de um sistema de gerenciamento de projetos <em>on-line</em> é desnecessária, pois a comunicação pode ser feita apenas por <em>e-mail.</em></p>",
+      "corpo_clean": "A utilização de um sistema de gerenciamento de projetos on-line é desnecessária, pois a comunicação pode ser feita apenas por e-mail.",
+      "id": 14320356,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As redes sociais não devem ser utilizadas no ambiente corporativo, porque podem comprometer a segurança das informações.</p>",
+      "corpo_clean": "As redes sociais não devem ser utilizadas no ambiente corporativo, porque podem comprometer a segurança das informações.",
+      "id": 14320357,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><em>Softwares </em>de planilhas, como os disponíveis em pacotes de aplicativos, podem ser usados para realizar cálculos complexos e criar gráficos, facilitando a análise de dados financeiros.</p>",
+      "corpo_clean": "Softwares de planilhas, como os disponíveis em pacotes de aplicativos, podem ser usados para realizar cálculos complexos e criar gráficos, facilitando a análise de dados financeiros.",
+      "id": 14320358,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O acesso a documentos apenas em computadores pessoais é suficiente para garantir a segurança das informações, independentemente do uso de computação em nuvem.</p>",
+      "corpo_clean": "O acesso a documentos apenas em computadores pessoais é suficiente para garantir a segurança das informações, independentemente do uso de computação em nuvem.",
+      "id": 14320359,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O uso de aplicativos de mensagens instantâneas no trabalho pode gerar confusão, já que eles não permitem a troca de arquivos.</p>",
+      "corpo_clean": "O uso de aplicativos de mensagens instantâneas no trabalho pode gerar confusão, já que eles não permitem a troca de arquivos.",
+      "id": 14320360,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14320358",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

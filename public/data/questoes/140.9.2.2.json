@@ -1,0 +1,58 @@
+{
+  "id": 2676474,
+  "codigo_real": "140.9.2.2",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Informação",
+  "bancas_nome": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso",
+  "bancas_sigla": "IFMT",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso",
+  "cargos_descricao": "Técnico de Laboratório - Área: Informática",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre barramento, marque a alternativa <strong><u>INCORRETA</u></strong>:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A função de um controlador é controlar seu dispositivo de E/S e manipular para ele o acesso ao barramento.</p>",
+      "corpo_clean": "A função de um controlador é controlar seu dispositivo de E/S e manipular para ele o acesso ao barramento.",
+      "id": 10708723,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O barramento não é usado apenas pelos controladores de E/S, mas também pela CPU para buscar instruções e dados.</p>",
+      "corpo_clean": "O barramento não é usado apenas pelos controladores de E/S, mas também pela CPU para buscar instruções e dados.",
+      "id": 10708724,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Quando um controlador lê ou escreve dados de ou para a memória sem intervenção da CPU, diz-se que ele está executando acesso direto à memoria (<em>Direct Memory Access</em>).</p>",
+      "corpo_clean": "Quando um controlador lê ou escreve dados de ou para a memória sem intervenção da CPU, diz-se que ele está executando acesso direto à memoria (Direct Memory Access).",
+      "id": 10708725,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">É função do controlador dividir o fluxo de <em>bits </em>em unidades e escrever cada uma delas na memória, à medida que seja montada.</p>",
+      "corpo_clean": "É função do controlador dividir o fluxo de bits em unidades e escrever cada uma delas na memória, à medida que seja montada.",
+      "id": 10708726,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Quando não há nenhuma E/S em curso, a CPU não pode ficar com todos os ciclos do barramento para si própria para referenciar a memória.</p>",
+      "corpo_clean": "Quando não há nenhuma E/S em curso, a CPU não pode ficar com todos os ciclos do barramento para si própria para referenciar a memória.",
+      "id": 10708727,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10708727",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

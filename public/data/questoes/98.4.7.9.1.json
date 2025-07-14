@@ -1,0 +1,58 @@
+{
+  "id": 892488,
+  "codigo_real": "98.4.7.9.1",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Legislação Aplicada - MJ",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Instituto Geral de Perícias",
+  "cargos_descricao": "Perito Criminal - Área Computação Forense",
+  "ano": 2017,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A Secretaria Nacional de Segurança Pública (SENASP) elaborou um Manual visando uniformizar o processo de produção das provas técnicas no país. Assinale a alternativa INCORRETA em relação ao Procedimento Operacional Padrão em local de crimes contra a pessoa.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Verificar se as áreas mediatas e imediatas estão isoladas e preservadas adequadamente, corrigindo, se necessário, o perímetro da área isolada.</p>",
+      "corpo_clean": "Verificar se as áreas mediatas e imediatas estão isoladas e preservadas adequadamente, corrigindo, se necessário, o perímetro da área isolada.",
+      "id": 3124917,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Somente por ordem dos Peritos Criminais outras pessoas poderão ter acesso à área isolada, cabendo medidas coercitivas no sentido de impedir que pessoas estranhas adentrem ao local isolado.</p>",
+      "corpo_clean": "Somente por ordem dos Peritos Criminais outras pessoas poderão ter acesso à área isolada, cabendo medidas coercitivas no sentido de impedir que pessoas estranhas adentrem ao local isolado.",
+      "id": 3124918,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A coleta de material biológico será feita sempre com o uso de luvas novas e descartáveis, que serão trocadas antes da manipulação de um novo vestígio.</p>",
+      "corpo_clean": "A coleta de material biológico será feita sempre com o uso de luvas novas e descartáveis, que serão trocadas antes da manipulação de um novo vestígio.",
+      "id": 3124919,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Em casos de morte com suspeita de utilização de arma de fogo, em não havendo coleta de material para exame residuográfico no local, os Peritos Criminais deverão providenciar para que sejam protegidas e preservadas as áreas anatômicas de interesse dos exames.</p>",
+      "corpo_clean": "Em casos de morte com suspeita de utilização de arma de fogo, em não havendo coleta de material para exame residuográfico no local, os Peritos Criminais deverão providenciar para que sejam protegidas e preservadas as áreas anatômicas de interesse dos exames.",
+      "id": 3124920,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os objetos que não forem coletados pelos Peritos Criminais ficarão sob custódia dos familiares da vítima.</p>",
+      "corpo_clean": "Os objetos que não forem coletados pelos Peritos Criminais ficarão sob custódia dos familiares da vítima.",
+      "id": 3124921,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3124921",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

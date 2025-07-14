@@ -1,0 +1,37 @@
+{
+  "id": 1299760,
+  "codigo_real": "7.210",
+  "disciplina_real": "Lei nº",
+  "assunto_real": "- Da Assistência à Saúde (Art. 14)",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Departamento Penitenciário Nacional",
+  "cargos_descricao": "Agente Federal de Execução Penal",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Segundo a Lei n. 7.210/84, a assistência à saúde do preso e do\r\ninternado consistirá no fornecimento de alimentação, vestuário\r\ne instalações higiênicas.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 4735321,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 4735322,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4735322",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

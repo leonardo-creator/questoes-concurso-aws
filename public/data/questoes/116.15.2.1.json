@@ -1,0 +1,58 @@
+{
+  "id": 1810251,
+  "codigo_real": "116.15.2.1",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "De acidente de trabalho",
+  "bancas_nome": "Cetro Concursos Públicos",
+  "bancas_sigla": "CETRO",
+  "orgaos_nome": "Amazônia Azul Tecnologias de Defesa S.A.",
+  "cargos_descricao": "Médico do Trabalho",
+  "ano": 2015,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre os riscos no ambiente de trabalho, é <strong>incorreto </strong>afirmar que</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">risco de acidente é qualquer fator que coloque o trabalhador em situação vulnerável e possa afetar sua integridade e seu bem-estar físico e psíquico. São exemplos de risco de acidente: as máquinas e equipamentos sem proteção, probabilidade de incêndio e explosão, arranjo físico inadequado, armazenamento inadequado etc..</p>",
+      "corpo_clean": "risco de acidente é qualquer fator que coloque o trabalhador em situação vulnerável e possa afetar sua integridade e seu bem-estar físico e psíquico. São exemplos de risco de acidente: as máquinas e equipamentos sem proteção, probabilidade de incêndio e explosão, arranjo físico inadequado, armazenamento inadequado etc..",
+      "id": 6932027,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">riscos ergonômicos são qualquer fator que possa interferir nas características psicofisiológicas do trabalhador, causando desconforto ou afetando sua saúde. São exemplos de risco ergonômico: levantamento de peso, ritmo excessivo de trabalho, monotonia, repetitividade, postura inadequada de trabalho etc..</p>",
+      "corpo_clean": "riscos ergonômicos são qualquer fator que possa interferir nas características psicofisiológicas do trabalhador, causando desconforto ou afetando sua saúde. São exemplos de risco ergonômico: levantamento de peso, ritmo excessivo de trabalho, monotonia, repetitividade, postura inadequada de trabalho etc..",
+      "id": 6932028,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">se consideram agentes de risco físico as diversas formas de energia a que possam estar expostos os trabalhadores, tais como: ruído, calor, frio, pressão, umidade etc..</p>",
+      "corpo_clean": "se consideram agentes de risco físico as diversas formas de energia a que possam estar expostos os trabalhadores, tais como: ruído, calor, frio, pressão, umidade etc..",
+      "id": 6932029,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">se consideram como agentes de risco biológico as bactérias, vírus, fungos, parasitos, entre outros.</p>",
+      "corpo_clean": "se consideram como agentes de risco biológico as bactérias, vírus, fungos, parasitos, entre outros.",
+      "id": 6932030,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">se consideram agentes de risco químico as substâncias, compostos ou produtos que possam penetrar no organismo do trabalhador como radiações ionizantes e não ionizantes, vibração etc..</p>",
+      "corpo_clean": "se consideram agentes de risco químico as substâncias, compostos ou produtos que possam penetrar no organismo do trabalhador como radiações ionizantes e não ionizantes, vibração etc..",
+      "id": 6932031,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6932031",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

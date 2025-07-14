@@ -1,0 +1,51 @@
+{
+  "id": 2883376,
+  "codigo_real": "1.3",
+  "disciplina_real": "Administração de Recursos Materiais",
+  "assunto_real": "Administração de Estoques",
+  "bancas_nome": "FAFIPA Fundação de Apoio",
+  "bancas_sigla": "FAFIPA",
+  "orgaos_nome": "Prefeitura de Grandes Rios",
+  "cargos_descricao": "Encarregado",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre os objetivos do almoxarife, assinale a alternativa INCORRETA:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Observar a adequação das instalações e se os recursos de movimentação e distribuição são suficientes para um atendimento rápido e eficiente. </p>",
+      "corpo_clean": "Observar a adequação das instalações e se os recursos de movimentação e distribuição são suficientes para um atendimento rápido e eficiente. ",
+      "id": 11619332,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Realizar a compra de materiais os quais estão finalizando.</p>",
+      "corpo_clean": "Realizar a compra de materiais os quais estão finalizando.",
+      "id": 11619333,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Sanar divergências de inventário e perdas de qualquer natureza.</p>",
+      "corpo_clean": "Sanar divergências de inventário e perdas de qualquer natureza.",
+      "id": 11619334,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Assegurar que o material esteja armazenado em local seguro e na quantidade ideal de suprimento.</p>",
+      "corpo_clean": "Assegurar que o material esteja armazenado em local seguro e na quantidade ideal de suprimento.",
+      "id": 11619335,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11619333",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

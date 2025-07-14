@@ -1,0 +1,58 @@
+{
+  "id": 905389,
+  "codigo_real": "112.6.4.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "O poema (poesia)",
+  "bancas_nome": "COPEVE/UFAL - FUNDEPES",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Maceió",
+  "cargos_descricao": "Professor II - Área Língua Portuguesa",
+  "ano": 2017,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/27027/89.gif\"></p><p align=\"justify\">Sobre o segundo verso no fragmento do poema, é correto afirmar\r\nque</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "traz uma estrutura sígnica hiperbólica.",
+      "corpo_clean": "traz uma estrutura sígnica hiperbólica.",
+      "id": 3169436,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "traz um paradoxo na relação de sentido entre mundo e\r\nmoinho.",
+      "corpo_clean": "traz um paradoxo na relação de sentido entre mundo e moinho.",
+      "id": 3169437,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "há uma construção metafórica no trecho \"o mundo é um\r\nmoinho\".",
+      "corpo_clean": "há uma construção metafórica no trecho \"o mundo é um moinho\".",
+      "id": 3169438,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "mostra incoerência em relação ao sentido expresso no\r\nterceiro verso.",
+      "corpo_clean": "mostra incoerência em relação ao sentido expresso no terceiro verso.",
+      "id": 3169439,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "o termo \"preste atenção\" apresenta-se como uma marca da\r\nfunção emotiva da linguagem.",
+      "corpo_clean": "o termo \"preste atenção\" apresenta-se como uma marca da função emotiva da linguagem.",
+      "id": 3169440,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3169438",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

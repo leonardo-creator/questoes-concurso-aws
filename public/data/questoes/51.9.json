@@ -1,0 +1,58 @@
+{
+  "id": 2624361,
+  "codigo_real": "51.9",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Processo saúde-doença - Processo saúde-doença",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Polícia Militar do Espírito Santo",
+  "cargos_descricao": "1° Tenente - Área: Enfermagem Geral",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Analise o caso a seguir: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">A equipe de saúde Vale do Rio Verde promoveu um encontro com a população adscrita presente no território da unidade de saúde. Dentre os assuntos abordados, os direitos e deveres dos usuários foram apresentados pelo gestor de saúde do município. Assinale a alternativa que contempla um desses direitos apresentados.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Acompanhante, nos casos de internação, para idosos acima de 65 anos.</p>",
+      "corpo_clean": "Acompanhante, nos casos de internação, para idosos acima de 65 anos.",
+      "id": 10472646,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Nas situações de urgência/emergência, encaminhamento do paciente ao hospital mais próximo da sua residência.</p>",
+      "corpo_clean": "Nas situações de urgência/emergência, encaminhamento do paciente ao hospital mais próximo da sua residência.",
+      "id": 10472647,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Direito da equipe de saúde, preferencialmente o médico, de decidir se os familiares e acompanhantes das pessoas internadas deverão ser informados sobre seu estado de saúde.</p>",
+      "corpo_clean": "Direito da equipe de saúde, preferencialmente o médico, de decidir se os familiares e acompanhantes das pessoas internadas deverão ser informados sobre seu estado de saúde.",
+      "id": 10472648,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Recebimento das receitas e prescrições terapêuticas devem conter a Classificação Internacional de Doenças.</p>",
+      "corpo_clean": "Recebimento das receitas e prescrições terapêuticas devem conter a Classificação Internacional de Doenças.",
+      "id": 10472649,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Em caso de risco de vida ou lesão grave, deverá ser assegurada a remoção do usuário, em tempo hábil e em condições seguras, para um serviço de saúde com capacidade para resolver seu tipo de problema.</p>",
+      "corpo_clean": "Em caso de risco de vida ou lesão grave, deverá ser assegurada a remoção do usuário, em tempo hábil e em condições seguras, para um serviço de saúde com capacidade para resolver seu tipo de problema.",
+      "id": 10472650,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10472650",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

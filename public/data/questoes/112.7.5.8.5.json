@@ -1,0 +1,58 @@
+{
+  "id": 3439960,
+  "codigo_real": "112.7.5.8.5",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Teoria da argumentação",
+  "bancas_nome": "Inaz do Pará Concursos",
+  "bancas_sigla": "INAZ do Para",
+  "orgaos_nome": "Prefeitura de Barrolândia",
+  "cargos_descricao": "Auditor Fiscal",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A abordagem sistemática da política brasileira, feita pelo autor, revela:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>TEXTO PARA AS QUESTÕES 06 A 10 </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">“O que há de política? É a pergunta que naturalmente ocorre a todos, e a que me fará o meu leitor, se não é ministro. O silêncio é a resposta. Não há nada, absolutamente nada. A tela da atualidade política é uma paisagem uniforme; nada a perturba, nada a modifica. Disseram-se um país onde o povo só sabe que existe politicamente quando ouve o fisco batendo-lhes à porta.</p><p style=\"text-align: justify;\">O que dá razão a este marasmo? Causas gerais e causas especiais. Foi sempre princípio nosso do governo aquele fatalismo que entrega os povos orientais de mãos atadas às eventualidades do destino. O que há de vir, há de vir, dizem os ministros, que, além de acharem o sistema cômodo, por amor da indolência própria, querem também pôr a culpa dos maus acontecimentos nas costas da entidade invisível e misteriosa, a que atribuem a tudo.”</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">ASSIS, Machado de. Comentários da semana. Disponível em: http://machado.mec.gov.br/obra-completa-lista/itemlist/category/26-cronica. Acesso em: 26 de fev.2023.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O interesse do público em geral pela política brasileira.</p>",
+      "corpo_clean": "O interesse do público em geral pela política brasileira.",
+      "id": 14013793,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A mudança paulatina que vem ocorrendo no cenário político. </p>",
+      "corpo_clean": "A mudança paulatina que vem ocorrendo no cenário político. ",
+      "id": 14013794,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Um sistema político acomodado em suas mesmas rotinas.</p>",
+      "corpo_clean": "Um sistema político acomodado em suas mesmas rotinas.",
+      "id": 14013795,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A culpa dos maus acontecimentos estar sempre relegada às desculpas de sempre.</p>",
+      "corpo_clean": "A culpa dos maus acontecimentos estar sempre relegada às desculpas de sempre.",
+      "id": 14013796,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A ignorância do povo acerca dos atos dos ministros. </p>",
+      "corpo_clean": "A ignorância do povo acerca dos atos dos ministros. ",
+      "id": 14013797,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14013795",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

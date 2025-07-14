@@ -1,0 +1,51 @@
+{
+  "id": 2010028,
+  "codigo_real": "51.7.9",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Decreto nº 7.508/2011 - Decreto nº 7.508/2011 - Regulamenta a Lei nº 8.080, de 19 de setembro de 1990, para dispor sobre a organização do Sistema Único de Saúde - SUS, o planejamento da saúde, a assistência à saúde e a articulação interfederativa, e dá outras providências.",
+  "bancas_nome": "Associação dos Municípios do Extremo Oeste de Santa Catarina",
+  "bancas_sigla": "AMEOSC",
+  "orgaos_nome": "Prefeitura de Descanso",
+  "cargos_descricao": "Fiscal Sanitário",
+  "ano": 2018,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Para ser instituída, a Região de Saúde deve conter, no mínimo, ações e serviços de: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>I - Atenção primária; </em></p><p style=\"text-align: justify;\"><em>II - Urgência e emergência; </em></p><p style=\"text-align: justify;\"><em>III - Atenção odontológica, ambulatorial especializada e hospitalar; </em></p><p style=\"text-align: justify;\"><em>IV - Vigilância em saúde. </em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Dos itens acima: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Apenas os itens I e II estão corretos.</p>",
+      "corpo_clean": "Apenas os itens I e II estão corretos.",
+      "id": 7821012,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Apenas os itens II e III estão corretos.</p>",
+      "corpo_clean": "Apenas os itens II e III estão corretos.",
+      "id": 7821013,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Apenas os itens I, II e IV estão corretos.</p>",
+      "corpo_clean": "Apenas os itens I, II e IV estão corretos.",
+      "id": 7821014,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Apenas os itens I, III e IV estão corretos.</p>",
+      "corpo_clean": "Apenas os itens I, III e IV estão corretos.",
+      "id": 7821015,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "7821014",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

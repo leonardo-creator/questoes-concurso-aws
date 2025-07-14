@@ -1,0 +1,58 @@
+{
+  "id": 1771965,
+  "codigo_real": "25.12.4.12",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Custo das Mercadorias - Produtos Vendidos - Custo dos Serviços Prestados",
+  "bancas_nome": "COPEVE/UFAL - FUNDEPES",
+  "bancas_sigla": "",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia de Alagoas",
+  "cargos_descricao": "Auditor",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Uma empresa adquiriu 2.000 unidades de mercadorias para revenda no valor de R$ 1.000,00, com incidência de ICMS de 17%. Após conferência, 10% das mercadorias adquiridas foram devolvidas, pois estavam avariadas. Assinale a alternativa que indica o lançamento contábil para registro dessa devolução.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>D – Estoques R$ 1.000,00</p><p>C – Fornecedores R$ 1.000,00</p>",
+      "corpo_clean": "D – Estoques R$ 1.000,00C – Fornecedores R$ 1.000,00",
+      "id": 6758983,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>D – Estoque R$ 830,00</p><p>D – ICMS a recuperar R$ 170,00</p><p>C – Fornecedores R$ 1.000,00</p>",
+      "corpo_clean": "D – Estoque R$ 830,00D – ICMS a recuperar R$ 170,00C – Fornecedores R$ 1.000,00",
+      "id": 6758984,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>D – Fornecedores R$ 1.000,00</p><p>C – Estoque R$ 1.000,00</p>",
+      "corpo_clean": "D – Fornecedores R$ 1.000,00C – Estoque R$ 1.000,00",
+      "id": 6758985,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>D – Fornecedores R$ 1.000,00</p><p>C – Estoque R$ 830,00</p><p>C – ICMS a recuperar R$ 170,00</p>",
+      "corpo_clean": "D – Fornecedores R$ 1.000,00C – Estoque R$ 830,00C – ICMS a recuperar R$ 170,00",
+      "id": 6758986,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>D – Fornecedores R$ 1.170,00</p><p>C – Estoque R$ 1.000,00</p><p>C – ICMS a recuperar R$ 170,00</p>",
+      "corpo_clean": "D – Fornecedores R$ 1.170,00C – Estoque R$ 1.000,00C – ICMS a recuperar R$ 170,00",
+      "id": 6758987,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6758986",
+  "dificuldade": "Fácil",
+  "anulada": true,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

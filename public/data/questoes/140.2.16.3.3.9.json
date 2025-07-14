@@ -1,0 +1,58 @@
+{
+  "id": 2309842,
+  "codigo_real": "140.2.16.3.3.9",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "DML",
+  "bancas_nome": "Universidade de Blumenau",
+  "bancas_sigla": "FURB",
+  "orgaos_nome": "Prefeitura de Blumenau",
+  "cargos_descricao": "Analista - Área: Informática",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A modelagem de sistemas usando UML consiste em organizar o software como uma coleção de objetos discretos que incorporam a estrutura dos dados e o comportamento. Um exemplo é exibido pela figura a seguir:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/76087/questao/2309842-20221025092528000000-0.png\" style=\"display: block; margin: auto;\" align=\"center\"></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">https://www.inf.ufpr.br/lmperes/2017_2/ci167/uml/uml_parte2_coppe.pdf</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Sobre a UML, pode-se afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">As características de um objeto são: identidade, atributos e representação.</p>",
+      "corpo_clean": "As características de um objeto são: identidade, atributos e representação.",
+      "id": 9114381,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O mesmo objeto pertence a várias classes.</p>",
+      "corpo_clean": "O mesmo objeto pertence a várias classes.",
+      "id": 9114382,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Uma classe é uma descrição de um grupo de objetos com atributos, comportamentos, relacionamentos e semântica comuns.</p>",
+      "corpo_clean": "Uma classe é uma descrição de um grupo de objetos com atributos, comportamentos, relacionamentos e semântica comuns.",
+      "id": 9114383,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Um objeto consiste em uma representação computacional de um elemento ou processo do mundo virtual.</p>",
+      "corpo_clean": "Um objeto consiste em uma representação computacional de um elemento ou processo do mundo virtual.",
+      "id": 9114384,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A classe é chamada de instância de seu objeto.</p>",
+      "corpo_clean": "A classe é chamada de instância de seu objeto.",
+      "id": 9114385,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9114383",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

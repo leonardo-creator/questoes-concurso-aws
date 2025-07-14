@@ -1,0 +1,58 @@
+{
+  "id": 80436,
+  "codigo_real": "116.12.1",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Noções gerais",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Ministério Público de Pernambuco",
+  "cargos_descricao": "Analista Ministerial - Área Medicina",
+  "ano": 2006,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<P align=justify>As manifestações clínicas da <EM>myasthenia gravis</EM> decorrem basicamente da presença de</P>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "anormalidade mitocondrial no músculo esquelético.",
+      "corpo_clean": "anormalidade mitocondrial no músculo esquelético.",
+      "id": 380128,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "desmielinização do neurônio motor.",
+      "corpo_clean": "desmielinização do neurônio motor.",
+      "id": 380129,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "vasculite da <EM>vasa nervorum</EM> de nervos periféricos.",
+      "corpo_clean": "vasculite da vasa nervorum de nervos periféricos.",
+      "id": 380130,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "degeneraçao do cordão anterior da medula espinal.",
+      "corpo_clean": "degeneraçao do cordão anterior da medula espinal.",
+      "id": 380131,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "anticorpos anti-receptor de acetilcolina.",
+      "corpo_clean": "anticorpos anti-receptor de acetilcolina.",
+      "id": 380132,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "380132",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

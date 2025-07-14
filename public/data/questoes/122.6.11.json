@@ -1,0 +1,51 @@
+{
+  "id": 3390897,
+  "codigo_real": "122.6.11",
+  "disciplina_real": "Nutrição",
+  "assunto_real": "Sistema de Vigilância Alimentar e Nutricional (SISVAN)",
+  "bancas_nome": "Instituto de Desenvolvimento e Capacitação",
+  "bancas_sigla": "IDCAP",
+  "orgaos_nome": "Prefeitura de Reduto",
+  "cargos_descricao": "Nutricionista",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O SISVAN (Sistema de Vigilância Alimentar e Nutricional) é um sistema de informações projetado para fornecer informação contínua sobre as condições nutricionais da população e os fatores que as influenciam. O SISVAN tem como objetivo:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I.Descrever o estado nutricional da população com particular referência a subgrupos que são identificados como estando sob risco, permitindo o conhecimento do problema nutricional.</p><p style=\"text-align: justify;\">II.Acompanhar e monitorar o estado nutricional da população atendida em Unidades Básica de Saúde e/ou Programa Saúde da Família.</p><p style=\"text-align: justify;\">III.Monitorar programas e políticas públicas no contexto da alimentação e nutrição, e avaliar sua efetividade.</p><p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\">É CORRETO o que se afirma em: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I e II, apenas.</p>",
+      "corpo_clean": "I e II, apenas.",
+      "id": 13812593,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>I, II e III. </p>",
+      "corpo_clean": "I, II e III. ",
+      "id": 13812594,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>III, apenas. </p>",
+      "corpo_clean": "III, apenas. ",
+      "id": 13812595,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>II e III, apenas. </p>",
+      "corpo_clean": "II e III, apenas. ",
+      "id": 13812596,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "13812594",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

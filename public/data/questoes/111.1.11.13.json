@@ -1,0 +1,58 @@
+{
+  "id": 1891304,
+  "codigo_real": "111.1.11.13",
+  "disciplina_real": "Língua Inglesa",
+  "assunto_real": "Imperativo | Imperative",
+  "bancas_nome": "Serviço de Seleção do Pessoal da Marinha",
+  "bancas_sigla": "SSPM",
+  "orgaos_nome": "Ministério da Defesa - Marinha do Brasil",
+  "cargos_descricao": "2º Tenente - Ciências Náuticas - Área: Área de Náutica",
+  "ano": 2017,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Which option is correct? </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">When a Search-and-Rescue Operation is in progress, the RCC or the OSC will instruct other vessels in the vicinity to keep radio-silence, unless they have messages about the accident. Radio silence is imposed to other vessels by the phrase</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>\"Stay on\".</p>",
+      "corpo_clean": "\"Stay on\".",
+      "id": 7286199,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>\"Standby\".</p>",
+      "corpo_clean": "\"Standby\".",
+      "id": 7286200,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>\"Mayday Relay”</p>",
+      "corpo_clean": "\"Mayday Relay”",
+      "id": 7286201,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>\"Silence Mayday”.</p>",
+      "corpo_clean": "\"Silence Mayday”.",
+      "id": 7286202,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>\"Silence Fini\".</p>",
+      "corpo_clean": "\"Silence Fini\".",
+      "id": 7286203,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7286202",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

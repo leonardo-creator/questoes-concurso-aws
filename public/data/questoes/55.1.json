@@ -1,0 +1,51 @@
+{
+  "id": 3445634,
+  "codigo_real": "55.1",
+  "disciplina_real": "Direitos Humanos",
+  "assunto_real": "Teoria geral dos direitos humanos",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Tribunal de Justiça de São Paulo ",
+  "cargos_descricao": "Juiz Substituto",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Sobre a Teoria Geral dos Direitos Humanos, é correto afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os direitos humanos são absolutos, não podendo ser limitados ou suspensos em nenhum caso, independentemente do contexto social ou político.</p>",
+      "corpo_clean": "Os direitos humanos são absolutos, não podendo ser limitados ou suspensos em nenhum caso, independentemente do contexto social ou político.",
+      "id": 14039163,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A indivisibilidade dos direitos humanos implica que os direitos civis e políticos são prioritários em relação aos direitos econômicos, sociais e culturais.</p>",
+      "corpo_clean": "A indivisibilidade dos direitos humanos implica que os direitos civis e políticos são prioritários em relação aos direitos econômicos, sociais e culturais.",
+      "id": 14039164,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A universalidade dos direitos humanos significa que todos os direitos devem ser garantidos a todas as pessoas, sem distinção de qualquer tipo, reconhecendo, no entanto, a diversidade cultural e as particularidades locais.</p>",
+      "corpo_clean": "A universalidade dos direitos humanos significa que todos os direitos devem ser garantidos a todas as pessoas, sem distinção de qualquer tipo, reconhecendo, no entanto, a diversidade cultural e as particularidades locais.",
+      "id": 14039165,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A interdependência dos direitos humanos sugere que a violação de um direito não afeta o gozo dos outros direitos, pois cada direito é autossuficiente e não depende dos demais.</p>",
+      "corpo_clean": "A interdependência dos direitos humanos sugere que a violação de um direito não afeta o gozo dos outros direitos, pois cada direito é autossuficiente e não depende dos demais.",
+      "id": 14039166,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "14039165",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

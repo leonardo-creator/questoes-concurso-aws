@@ -1,0 +1,58 @@
+{
+  "id": 3745377,
+  "codigo_real": "55.6.2",
+  "disciplina_real": "Direitos Humanos",
+  "assunto_real": "Declaração Universal dos Direitos Humanos",
+  "bancas_nome": "Instituto Brasileiro de Educação, Seleção e Tecnologia",
+  "bancas_sigla": "Instituto IBEST",
+  "orgaos_nome": "Conselho Regional de Fonoaudiologia 5ª Região",
+  "cargos_descricao": "Auxiliar Administrativo",
+  "ano": 2025,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com a Declaração Universal dos Direitos Humanos, todas as pessoas têm direito a um padrão de vida adequado. Com base nessa informação, assinale a alternativa correta. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O direito à moradia, à alimentação e à saúde é um dever exclusivo do indivíduo, sem qualquer obrigação do Estado. </p>",
+      "corpo_clean": "O direito à moradia, à alimentação e à saúde é um dever exclusivo do indivíduo, sem qualquer obrigação do Estado. ",
+      "id": 15244846,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O direito a um padrão de vida adequado inclui segurança social e proteção contra o desemprego. </p>",
+      "corpo_clean": "O direito a um padrão de vida adequado inclui segurança social e proteção contra o desemprego. ",
+      "id": 15244847,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A proteção da maternidade e da infância não é considerada um direito humano essencial. </p>",
+      "corpo_clean": "A proteção da maternidade e da infância não é considerada um direito humano essencial. ",
+      "id": 15244848,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O Estado não tem responsabilidade na garantia de condições dignas de trabalho. </p>",
+      "corpo_clean": "O Estado não tem responsabilidade na garantia de condições dignas de trabalho. ",
+      "id": 15244849,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O direito ao trabalho só se aplica a cidadãos do país onde residem. </p>",
+      "corpo_clean": "O direito ao trabalho só se aplica a cidadãos do país onde residem. ",
+      "id": 15244850,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15244847",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

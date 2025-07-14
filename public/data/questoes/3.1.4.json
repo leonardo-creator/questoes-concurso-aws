@@ -1,0 +1,37 @@
+{
+  "id": 313176,
+  "codigo_real": "3.1.4",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Níveis organizacionais",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Tribunal de Justiça do Distrito Federal e Territórios",
+  "cargos_descricao": "Analista Judiciário - Área: Administrativa",
+  "ano": 2008,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Por se tratar de um órgão público, o TJDFT está impedido\r\nde usar as ferramentas e princípios da gestão da qualidade\r\ntotal, tendo em vista que esses instrumentos foram\r\ndesenvolvidos para aplicação em organizações privadas.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Julgue os itens a seguir, relativos a qualidade e produtividade nas\r\norganizações.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1136466,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1136467,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1136467",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

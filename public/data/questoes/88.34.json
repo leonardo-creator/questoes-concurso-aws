@@ -1,0 +1,51 @@
+{
+  "id": 2323103,
+  "codigo_real": "88.34",
+  "disciplina_real": "Fonoaudiologia",
+  "assunto_real": "Fonoaudiologia clínica",
+  "bancas_nome": "Fundação de Apoio ao Desenvolvimento da UEL",
+  "bancas_sigla": "FAUEL",
+  "orgaos_nome": "Prefeitura de Marechal Cândido Rondon",
+  "cargos_descricao": "Fonoaudiólogo",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Escolha a alternativa que contém a patologia do Labirinto com as seguintes características: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">- Ocorre devido ao deslocamento de otocônias ou otólitos do utrículo para a endolinfa dos canais semicirculares. </p><p style=\"text-align: justify;\">- O diagnóstico se faz através de manobras de posicionamento.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p> Doença de Meniere.</p>",
+      "corpo_clean": " Doença de Meniere.",
+      "id": 9173514,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Vertigem Posicional Paroxística Benigna (VPPB).</p>",
+      "corpo_clean": "Vertigem Posicional Paroxística Benigna (VPPB).",
+      "id": 9173515,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Ototoxicidade. </p>",
+      "corpo_clean": "Ototoxicidade. ",
+      "id": 9173516,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Neurite vestibular.</p>",
+      "corpo_clean": "Neurite vestibular.",
+      "id": 9173517,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9173515",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

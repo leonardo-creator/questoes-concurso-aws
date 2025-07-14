@@ -1,0 +1,37 @@
+{
+  "id": 601124,
+  "codigo_real": "140.6.13.3",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Ciclo de Vida de Portfólio",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Universidade Federal do Pampa",
+  "cargos_descricao": "Técnico de Tecnologia da Informação - Área Programação de Sistemas",
+  "ano": 2009,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>A prototipagem é um exemplo de modelo evolucionário, no\r\nqual a cada iteração se apresenta um produto totalmente\r\noperacional.</p>",
+  "grupoQuestao_enunciado": "<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/17225/63.gif></P>\r\n<P align=justify>No que se refere a modelos de processo de desenvolvimento de software, julgue os itens a seguir.</P>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2110702,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2110703,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2110703",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

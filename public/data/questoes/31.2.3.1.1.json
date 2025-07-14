@@ -1,0 +1,58 @@
+{
+  "id": 2163483,
+  "codigo_real": "31.2.3.1.1",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Juridicidade",
+  "bancas_nome": "Centro de Treinamento e Desenvolvimento",
+  "bancas_sigla": "CETREDE",
+  "orgaos_nome": "Câmara De Boa Viagem",
+  "cargos_descricao": "Assistente Legislativo",
+  "ano": 2016,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Analise as afirmativas a seguir sobre os princípios norteadores do serviço público.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. O governo age com Impessoalidade quando trata todos os cidadãos de maneira igual, não havendo favorecimento ou promoção devido a atividades ou funções desempenhadas.</p><p style=\"text-align: justify;\">II. A eficiência é o mais recente dos princípios constitucionais, tendo como um dos objetivos melhorar a prestação do serviço público oferecido ao cidadão.</p><p style=\"text-align: justify;\">III. De acordo com o Princípio da Moralidade, todos os atos do governo deverão ser tornados públicos e cabe ao cidadão solicitar tais informações.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Marque a opção que indica a(s) afirmativa(s) CORRETAS(S).</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I.</p>",
+      "corpo_clean": "I.",
+      "id": 8481087,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>III.</p>",
+      "corpo_clean": "III.",
+      "id": 8481088,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>I – II.</p>",
+      "corpo_clean": "I – II.",
+      "id": 8481089,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>II – III.</p>",
+      "corpo_clean": "II – III.",
+      "id": 8481090,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>I – II – III.</p>",
+      "corpo_clean": "I – II – III.",
+      "id": 8481091,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8481089",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

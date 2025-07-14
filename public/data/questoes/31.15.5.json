@@ -1,0 +1,51 @@
+{
+  "id": 1172557,
+  "codigo_real": "31.15.5",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Principais espécies de bens públicos",
+  "bancas_nome": "Instituto Brasileiro de Administração Municipal",
+  "bancas_sigla": "IBAM",
+  "orgaos_nome": "Prefeitura de São Bernardo do Campo",
+  "cargos_descricao": "Procurador",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A alienação dos bens das entidades da Administração Pública, direta ou indireta, não guarda uma perfeita relação de simetria com o regime das pessoas jurídicas de direito privado, havendo a submissão a determinadas regras específicas de direito público. Identifique abaixo os requisitos a serem observados na alienação de bens públicos móveis.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. Licitação na modalidade leilão.</p><p style=\"text-align: justify;\">II. Justificativa do interesse público.</p><p style=\"text-align: justify;\">III. Autorização legislativa.</p><p style=\"text-align: justify;\">IV. Avaliação prévia.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">I, II e III, apenas.</p>",
+      "corpo_clean": "I, II e III, apenas.",
+      "id": 4199685,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">III e IV, apenas.</p>",
+      "corpo_clean": "III e IV, apenas.",
+      "id": 4199686,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">II e IV, apenas.</p>",
+      "corpo_clean": "II e IV, apenas.",
+      "id": 4199687,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I, II e IV, apenas.</p>",
+      "corpo_clean": "I, II e IV, apenas.",
+      "id": 4199688,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4199688",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

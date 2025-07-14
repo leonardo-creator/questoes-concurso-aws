@@ -1,0 +1,37 @@
+{
+  "id": 140069,
+  "codigo_real": "140.9.3",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Princípios",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Tribunal Regional Eleitoral do Rio Grande do Sul",
+  "cargos_descricao": "Técnico Judiciário - Área Operação de Computador",
+  "ano": 2003,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>O cliente deve estar sempre conectado com o servidor.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Uma das arquiteturas mais difundidas para concepção de\r\naplicações distribuídas é a arquitetura cliente-servidor. Acerca\r\ndessa arquitetura, julgue os itens seguintes.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 631577,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 631578,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "631578",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1190846,
+  "codigo_real": "99.2.24.53",
+  "disciplina_real": "Legislação Estadual, Distrital e Municipal",
+  "assunto_real": "Município de Guareí - Legislação Aplicada",
+  "bancas_nome": "MetroCapital Soluções",
+  "bancas_sigla": "MetroCapital",
+  "orgaos_nome": "Prefeitura de Guareí",
+  "cargos_descricao": "Procurador",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Quanto ao processo legislativo municipal, a Lei Orgânica do Município de Guareí demanda que seja objeto de lei complementar diversas matérias, exceto:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Código Tributário Municipal.</p>",
+      "corpo_clean": "Código Tributário Municipal.",
+      "id": 4280101,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Código de Obras ou de Edificações.</p>",
+      "corpo_clean": "Código de Obras ou de Edificações.",
+      "id": 4280102,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Plano Diretor.</p>",
+      "corpo_clean": "Plano Diretor.",
+      "id": 4280103,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Código de Zoneamento.</p>",
+      "corpo_clean": "Código de Zoneamento.",
+      "id": 4280104,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>Política de Assistência Social.</p>",
+      "corpo_clean": "Política de Assistência Social.",
+      "id": 4280105,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4280105",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

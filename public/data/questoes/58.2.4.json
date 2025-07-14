@@ -1,0 +1,51 @@
+{
+  "id": 2322013,
+  "codigo_real": "58.2.4",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Lei de regulamentação do exercício da Enfermagem (Lei nº 7.498/86)",
+  "bancas_nome": "Fundação de Apoio ao Desenvolvimento da UEL",
+  "bancas_sigla": "FAUEL",
+  "orgaos_nome": "Prefeitura de Jaguapitã",
+  "cargos_descricao": "Enfermeiro",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A Lei 7.498/1986 dispõe sobre a regulamentação do exercício da Enfermagem e dá outras providências. No que diz respeito às atividades privativas do enfermeiro, todas as alternativas são verdadeiras, EXCETO: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Direção do órgão de Enfermagem integrante da estrutura básica da instituição de saúde, pública ou privada, e chefia de serviço e de unidade de Enfermagem.</p>",
+      "corpo_clean": "Direção do órgão de Enfermagem integrante da estrutura básica da instituição de saúde, pública ou privada, e chefia de serviço e de unidade de Enfermagem.",
+      "id": 9168926,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Prescrição da assistência de Enfermagem.</p>",
+      "corpo_clean": "Prescrição da assistência de Enfermagem.",
+      "id": 9168927,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Cuidados diretos de Enfermagem a pacientes graves com risco de vida.</p>",
+      "corpo_clean": "Cuidados diretos de Enfermagem a pacientes graves com risco de vida.",
+      "id": 9168928,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Prescrição de medicamentos estabelecidos em programas de saúde pública e em rotina aprovada pela instituição de saúde.</p>",
+      "corpo_clean": "Prescrição de medicamentos estabelecidos em programas de saúde pública e em rotina aprovada pela instituição de saúde.",
+      "id": 9168929,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9168929",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2748674,
+  "codigo_real": "97.1.21.1",
+  "disciplina_real": "Legislação de Trânsito e CTB",
+  "assunto_real": "Disposições Gerais",
+  "bancas_nome": "COPEVE/UFAL - FUNDEPES",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Penedo",
+  "cargos_descricao": "Agente Municipal de Trânsito",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A parte da via sinalizada para o estacionamento veículos, de gratuito ou pago, regulamentado para um período determinado pelo órgão ou entidade com circunscrição sobre a via, é denominada de área de estacionamento</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>rotativo.</p>",
+      "corpo_clean": "rotativo.",
+      "id": 11024755,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>para idosos. </p>",
+      "corpo_clean": "para idosos. ",
+      "id": 11024756,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>de curta duração.</p>",
+      "corpo_clean": "de curta duração.",
+      "id": 11024757,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>para veículos elétricos.</p>",
+      "corpo_clean": "para veículos elétricos.",
+      "id": 11024758,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>para carga e descarga.</p>",
+      "corpo_clean": "para carga e descarga.",
+      "id": 11024759,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11024755",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

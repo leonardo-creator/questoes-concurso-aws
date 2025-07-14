@@ -1,0 +1,58 @@
+{
+  "id": 1796498,
+  "codigo_real": "10.14.5",
+  "disciplina_real": "Arquivologia",
+  "assunto_real": "Métodos de Arquivamento (Ordenação de Documentos)",
+  "bancas_nome": "Instituto de Desenvolvimento Educacional, Cultural e Assistencial Nacional",
+  "bancas_sigla": "IDECAN",
+  "orgaos_nome": "Comissão Nacional de Energia Nuclear",
+  "cargos_descricao": "Assistente - Área: Técnico em Secretariado",
+  "ano": 2014,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">“Um dos métodos mais difíceis de arquivamento, já que se propõe a organizar as pastas por assunto. A grande dificuldade consiste em escolher a melhor palavra para definir o assunto.” A definição anterior se refere a qual método de arquivamento?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Específico.</p>",
+      "corpo_clean": "Específico.",
+      "id": 6868766,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Alfabético.</p>",
+      "corpo_clean": "Alfabético.",
+      "id": 6868767,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Geográfico.</p>",
+      "corpo_clean": "Geográfico.",
+      "id": 6868768,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Mnemônico.</p>",
+      "corpo_clean": "Mnemônico.",
+      "id": 6868769,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Alfanumérico.</p>",
+      "corpo_clean": "Alfanumérico.",
+      "id": 6868770,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6868766",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

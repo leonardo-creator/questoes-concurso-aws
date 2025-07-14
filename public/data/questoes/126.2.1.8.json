@@ -1,0 +1,58 @@
+{
+  "id": 1294426,
+  "codigo_real": "126.2.1.8",
+  "disciplina_real": "Política Internacional",
+  "assunto_real": "Brasil-Paraguai - Brasil",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Cananéia",
+  "cargos_descricao": "Escriturário",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\">No dia 01 de agosto deste ano (2019) os jornais noticiaram\r\nque a ONU selecionou uma consultoria para fazer\r\num planejamento que permita ao Brasil alcançar as metas\r\ndo Pacto Global, que une a iniciativa privada em torno de\r\nmetas a serem alcançados até 2030. São 17 temas. O\r\ncontrato, pioneiro no mundo, prevê que até o fim do ano\r\nsejam definidos ações, prazos, recursos e indicadores\r\npara o Brasil.\r\n</p><p align=\"justify\">(exame. Disponível em https://bit.ly/2NXH5oq.\r\nAcesso em 07.11.2019. Adaptado)\r\n</p><p align=\"justify\">O Pacto Global</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>determina que haja tolerância religiosa em todos os\r\ncontinentes.</p>",
+      "corpo_clean": "determina que haja tolerância religiosa em todos os continentes.",
+      "id": 4710761,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>corresponde a objetivos de desenvolvimento sustentável.</p>",
+      "corpo_clean": "corresponde a objetivos de desenvolvimento sustentável.",
+      "id": 4710762,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>visa a erradicar os regimes de governo antidemocráticos.</p>",
+      "corpo_clean": "visa a erradicar os regimes de governo antidemocráticos.",
+      "id": 4710763,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>busca a livre circulação das pessoas com o fim das\r\nfronteiras geográficas.</p>",
+      "corpo_clean": "busca a livre circulação das pessoas com o fim das fronteiras geográficas.",
+      "id": 4710764,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>tem como finalidade erradicar os impostos de importação\r\nque prejudicam a livre iniciativa.</p>",
+      "corpo_clean": "tem como finalidade erradicar os impostos de importação que prejudicam a livre iniciativa.",
+      "id": 4710765,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4710762",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

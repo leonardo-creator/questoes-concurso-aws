@@ -1,0 +1,51 @@
+{
+  "id": 1366369,
+  "codigo_real": "31.1.4.6",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Doutrina",
+  "bancas_nome": "Universidade Federal de Juiz de Fora",
+  "bancas_sigla": "UFJF",
+  "orgaos_nome": "Hospital Universitário da Universidade Federal de Juiz de Fora",
+  "cargos_descricao": "Residência Multiprofissional em Atenção Hospitalar - Área: Psicologia",
+  "ano": 2015,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\">Segundo Mendes (2011) podemos considerar como elementos constitutivos das Redes de Atenção à\r\nSaúde (RASs). Marque a afirmativa <strong>CORRETA</strong>.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>As RASs constituem-se de três elementos fundamentais: uma população, uma estrutura operacional\r\ne um contingente de recursos humanos.</p>",
+      "corpo_clean": "As RASs constituem-se de três elementos fundamentais: uma população, uma estrutura operacional e um contingente de recursos humanos.",
+      "id": 5016759,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>O primeiro elemento das RASs, e sua razão de ser, é uma população, colocada sob sua\r\nresponsabilidade sanitária e econômica. É isso que marca a atenção à saúde baseada na população,\r\numa característica essencial das RASs.</p>",
+      "corpo_clean": "O primeiro elemento das RASs, e sua razão de ser, é uma população, colocada sob sua responsabilidade sanitária e econômica. É isso que marca a atenção à saúde baseada na população, uma característica essencial das RASs.",
+      "id": 5016760,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Nos sistemas privados ou públicos organizados, constituintes das RASs, no processo de competição\r\ngerenciada, são imprescindíveis os territórios sanitários.</p>",
+      "corpo_clean": "Nos sistemas privados ou públicos organizados, constituintes das RASs, no processo de competição gerenciada, são imprescindíveis os territórios sanitários.",
+      "id": 5016761,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>O conhecimento da população de uma RAS envolve um processo complexo, estruturado em vários\r\nmomentos: o processo de territorialização; o cadastramento das famílias; a classificação das famílias\r\npor riscos sociosanitários que acontece quando da sua vinculação ao a um nível de média ou alta\r\ncomplexidade.</p>",
+      "corpo_clean": "O conhecimento da população de uma RAS envolve um processo complexo, estruturado em vários momentos: o processo de territorialização; o cadastramento das famílias; a classificação das famílias por riscos sociosanitários que acontece quando da sua vinculação ao a um nível de média ou alta complexidade.",
+      "id": 5016762,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5016760",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

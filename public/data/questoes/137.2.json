@@ -1,0 +1,58 @@
+{
+  "id": 920382,
+  "codigo_real": "137.2",
+  "disciplina_real": "Serviço Social",
+  "assunto_real": "Assistente Social - Assistente Social",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Companhia de Serviço de Água, Esgoto e Resíduos de Guaratinguetá",
+  "cargos_descricao": "Analista de Serviços Administrativos - Área Serviço Social",
+  "ano": 2015,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "A entrevista é um instrumento frequentemente utilizado\r\npelos assistentes sociais. Vista como um instrumento\r\nde estímulo\r\nà reflexão, a entrevista deve priorizar uma\r\nescuta\r\nsilenciosa da população, sucedida por uma sumarização\r\npelo profissional daquilo que ele compreendeu,\r\ndando, assim, a oportunidade à população de confirmar\r\nou refazer a impressão do profissional e repensar sobre\r\no que ela mesma disse. Enfim, deve-se deixar o usuário\r\ndiscorrer sobre questões conflituosas, cabendo ao profissional\r\naprofundar as questões trazidas, trabalhando\r\nos diversos aspectos que perpassam aquela situação.\r\nPara isso, é necessária uma postura de problematização,\r\nde crítica e reflexão em relação ao saber trazido\r\npela população, oferecendo, às situações por ela apresentadas,",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "uma crítica construtiva e convincente.",
+      "corpo_clean": "uma crítica construtiva e convincente.",
+      "id": 3229694,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "uma contribuição teórica.",
+      "corpo_clean": "uma contribuição teórica.",
+      "id": 3229695,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "a atitude mais adequada institucionalmente.",
+      "corpo_clean": "a atitude mais adequada institucionalmente.",
+      "id": 3229696,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "uma possibilidade imediata de solução do problema.",
+      "corpo_clean": "uma possibilidade imediata de solução do problema.",
+      "id": 3229697,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "a sobreposição do seu saber profissional.",
+      "corpo_clean": "a sobreposição do seu saber profissional.",
+      "id": 3229698,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3229695",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

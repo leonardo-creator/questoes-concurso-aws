@@ -1,0 +1,37 @@
+{
+  "id": 3151408,
+  "codigo_real": "10.12.3",
+  "disciplina_real": "Arquivologia",
+  "assunto_real": "Fases da gestão de documentos",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Ministério Público da União",
+  "cargos_descricao": "Técnico do Ministério Público - Área Administração",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Um arquivo organizado facilita o acesso rápido a documentos e informações. No caso específico do MPU, garante que membros e servidores encontrem informações necessárias para investigações, processos judiciais, pareceres legais e outros aspectos da sua atuação.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 12792851,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 12792852,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12792851",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

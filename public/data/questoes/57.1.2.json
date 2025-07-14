@@ -1,0 +1,58 @@
+{
+  "id": 3302855,
+  "codigo_real": "57.1.2",
+  "disciplina_real": "Educação Física",
+  "assunto_real": "Planejamento e Avaliação na Educação Física Escolar",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Prefeitura do Município de Valinhos",
+  "cargos_descricao": "Professor de Educação Física",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Na educação física, a observação da participação tem tido um papel importante na avaliação. Acredita-se que os professores de educação física poderiam ampliar as atitudes observadas procurando analisar outras, para além da participação. Durante as situações de aprendizagem, em jogos, esportes, ginásticas, conhecimento sobre o corpo, danças e lutas, os alunos são submetidos a inúmeros desafios. Não raro, eclodem conflitos nessas situações.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Adaptado de DARIDO, S.C.; SOUZA JÚNIOR, O.M. Para ensinar educação física: possibilidades de intervenção na escola. 1. ed. Campinas: Papirus, 2022.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Avalie as asserções a seguir e a relação proposta entre elas.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. Para avaliar os conteúdos atitudinais, conhecer aquilo que os alunos realmente valorizam e quais são as suas atitudes, é necessário que surjam situações de conflito.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\">PORQUE</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">II. O professor de educação física é dono de uma condição privilegiada para avaliar valores e atitudes, uma vez que os comportamentos tornam-se muito evidentes nas aulas pela natureza dos seus conteúdos e estratégias.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa CORRETA:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.</p>",
+      "corpo_clean": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.",
+      "id": 13429998,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As asserções I e II são proposições verdadeiras, mas a II não é um justificativa correta da I.</p>",
+      "corpo_clean": "As asserções I e II são proposições verdadeiras, mas a II não é um justificativa correta da I.",
+      "id": 13429999,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.</p>",
+      "corpo_clean": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "id": 13430000,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.</p>",
+      "corpo_clean": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "id": 13430001,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>As asserções I e II são proposições falsas.</p>",
+      "corpo_clean": "As asserções I e II são proposições falsas.",
+      "id": 13430002,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13429998",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

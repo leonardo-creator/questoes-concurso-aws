@@ -1,0 +1,37 @@
+{
+  "id": 2606032,
+  "codigo_real": "3.6.5",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Empoderamento (Empowerment) - Liderança",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Conselho Regional de Psicologia da 9ª Região",
+  "cargos_descricao": "Assistente Administrativo",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">A emulação consiste em procurar imitar, com vigor, alguém, para igualar-se a essa pessoa, ultrapassá-la ou, pelo menos, ficar quase igual a ela.</p>",
+  "grupoQuestao_enunciado": "<p>A respeito da liderança, julgue os itens de <strong>96 </strong>a <strong>105</strong>.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 10392712,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 10392713,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10392712",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

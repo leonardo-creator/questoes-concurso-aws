@@ -1,0 +1,37 @@
+{
+  "id": 1836573,
+  "codigo_real": "44.10",
+  "disciplina_real": "Direito Penal",
+  "assunto_real": "Crimes contra a pessoa",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "PCDF e Polícia Federal",
+  "cargos_descricao": "Escrivão de Polícia",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Se um fanático religioso, em TV aberta, conclamar que todos os espectadores cometam suicídio para que escapem do juízo final, e se, estimuladas pelo entusiasmo do orador, várias pessoas cometerem suicídio, ter-se-á, nessa hipótese, a tipificação da prática, pelo fanático orador, do crime de induzimento ou instigação ao suicídio.</p>",
+  "grupoQuestao_enunciado": "<p>Em relação aos crimes contra a vida, julgue o item a seguir.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 7049458,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 7049459,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7049459",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

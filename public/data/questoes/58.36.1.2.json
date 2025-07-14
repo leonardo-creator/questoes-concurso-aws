@@ -1,0 +1,51 @@
+{
+  "id": 2823937,
+  "codigo_real": "58.36.1.2",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Noções de ECG",
+  "bancas_nome": "MS Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Turvelândia",
+  "cargos_descricao": "Enfermeiro",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A ausculta é um método semiológico que oferece informações valiosas acerca dos sons cardíacos, que são chamados de bulhas cardíacas. Sobre as bulhas cardíacas, todas as afirmativas estão corretas, exceto:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">O sistema cardiovascular humano é formado pelos vasos sanguíneos, uma rede de tubos que transporta sangue, e pelo coração, uma bomba muscular responsável por impulsionar o sangue para o corpo. Esses órgãos trabalham juntos para garantir que todas as células do corpo recebam nutrientes e oxigênio. Referente a esse sistema responda às próximas duas questões.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A primeira bulha cardíaca marca o início da sístole e é melhor auscultada (mais alta) no foco mitral e no foco tricúspide.</p>",
+      "corpo_clean": "A primeira bulha cardíaca marca o início da sístole e é melhor auscultada (mais alta) no foco mitral e no foco tricúspide.",
+      "id": 11362127,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A segunda bulha cardíaca resulta do fechamento abrupto das valvas aórtica e pulmonar.</p>",
+      "corpo_clean": "A segunda bulha cardíaca resulta do fechamento abrupto das valvas aórtica e pulmonar.",
+      "id": 11362128,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O desdobramento fisiológico (normal) da primeira bulha ocorre durante a inspiração e em decorrência do fechamento retardado da valva pulmonar.</p>",
+      "corpo_clean": "O desdobramento fisiológico (normal) da primeira bulha ocorre durante a inspiração e em decorrência do fechamento retardado da valva pulmonar.",
+      "id": 11362129,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Na base do coração, a segunda bulha cardíaca normal, sempre é mais alta do que a primeira bulha.</p>",
+      "corpo_clean": "Na base do coração, a segunda bulha cardíaca normal, sempre é mais alta do que a primeira bulha.",
+      "id": 11362130,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11362129",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

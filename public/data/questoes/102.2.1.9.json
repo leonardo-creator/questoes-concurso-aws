@@ -1,0 +1,37 @@
+{
+  "id": 1206332,
+  "codigo_real": "102.2.1.9",
+  "disciplina_real": "Lei Complementar nº 840-2011",
+  "assunto_real": "Seção IX - Da Recondução",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Procuradoria Geral do Distrito Federal",
+  "cargos_descricao": "Técnico Jurídico - Área Apoio Administrativo",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Gabriel será reconduzido à Secretaria de Saúde, devendo retornar\r\nao exercício do cargo até o dia seguinte ao da ciência\r\ndo ato de recondução.</p>",
+  "grupoQuestao_enunciado": "<p align=\"justify\">Gabriel, servidor estável, exerce o cargo de Agente Administrativo\r\nna Secretaria de Saúde do DF. Por ser muito dedicado aos estudos,\r\nfoi aprovado no concurso da PGDF para ocupar cargo de <strong>Analista\r\nJurídico. No entanto, ele não se adaptou à rotina do novo cargo\r\ne solicitou retorno para o cargo de origem na Secretaria de\r\nSaúde do DF.</strong> Com referência a essa situação hipotética, julgue os\r\npróximos itens, considerando as disposições da Lei Complementar\r\nn. 840/2011 e suas alterações.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 4344204,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 4344205,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4344204",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

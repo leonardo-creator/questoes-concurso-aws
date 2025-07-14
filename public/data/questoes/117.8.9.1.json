@@ -1,0 +1,58 @@
+{
+  "id": 2669038,
+  "codigo_real": "117.8.9.1",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Cirurgia Geral - Cirurgia Geral",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Polícia Militar do Espírito Santo",
+  "cargos_descricao": "1° Tenente Médico - Área: Cirurgia Geral",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A laparoscopia tem como uma de suas complicações a embolia gasosa. Diante de um paciente com esse quadro, qual é a melhor conduta?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Aumentar pressão de pneumoperitônio.</p>",
+      "corpo_clean": "Aumentar pressão de pneumoperitônio.",
+      "id": 10675760,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Passagem de cateter de Swan-Ganz para monitorização. </p>",
+      "corpo_clean": "Passagem de cateter de Swan-Ganz para monitorização. ",
+      "id": 10675761,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Troca de gás de pneumoperitônio de gás carbônico para nitrogênio.</p>",
+      "corpo_clean": "Troca de gás de pneumoperitônio de gás carbônico para nitrogênio.",
+      "id": 10675762,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Desinsuflação do pneumoperitônio e colocação do paciente em decúbito ventral.</p>",
+      "corpo_clean": "Desinsuflação do pneumoperitônio e colocação do paciente em decúbito ventral.",
+      "id": 10675763,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Desinsuflação do pneumoperitônio e colocação do paciente em decúbito lateral esquerdo em cefalodeclive. </p>",
+      "corpo_clean": "Desinsuflação do pneumoperitônio e colocação do paciente em decúbito lateral esquerdo em cefalodeclive. ",
+      "id": 10675764,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10675764",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

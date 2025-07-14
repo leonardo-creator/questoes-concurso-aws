@@ -1,0 +1,58 @@
+{
+  "id": 2979765,
+  "codigo_real": "2.13",
+  "disciplina_real": "Administração Financeira e Orçamentária - AFO",
+  "assunto_real": "Lei nº 4.320/64 - Normas Gerais de Direito Financeiro",
+  "bancas_nome": "Associação dos Municípios do Alto Uruguai Catarinense",
+  "bancas_sigla": "AMAUC",
+  "orgaos_nome": "Prefeitura de Jaborá",
+  "cargos_descricao": "Tesoureiro",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A luz da Lei nº 4.320 de 64, que estabelece normas gerais de direito financeiro, é CORRETO afirmar que todas as receitas e despesas constarão, da Lei de Orçamento, pelos seus:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Setenta e cinco por cento.</p>",
+      "corpo_clean": "Setenta e cinco por cento.",
+      "id": 12043103,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Vinte e cinco por cento.</p>",
+      "corpo_clean": "Vinte e cinco por cento.",
+      "id": 12043104,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Cem por cento.</p>",
+      "corpo_clean": "Cem por cento.",
+      "id": 12043105,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Trinta por cento.</p>",
+      "corpo_clean": "Trinta por cento.",
+      "id": 12043106,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Cinquenta por cento.</p>",
+      "corpo_clean": "Cinquenta por cento.",
+      "id": 12043107,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12043105",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

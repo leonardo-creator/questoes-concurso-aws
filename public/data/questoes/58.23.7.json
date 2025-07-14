@@ -1,0 +1,37 @@
+{
+  "id": 666284,
+  "codigo_real": "58.23.7",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Administração de materiais e enfermagem / Recursos Materiais",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Banco da Amazônia S/A",
+  "cargos_descricao": "Técnico Científico - Área Enfermagem do Trabalho",
+  "ano": 2004,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>A provisão de materiais nas unidades de enfermagem\r\nenvolve a reposição de materiais necessários, sendo\r\nrealizada apenas em obediência ao sistema imediato por\r\nquantidade.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Acerca da administração em enfermagem, julgue os itens\r\nseguintes.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2285630,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2285631,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2285631",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

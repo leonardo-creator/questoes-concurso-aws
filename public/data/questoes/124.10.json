@@ -1,0 +1,51 @@
+{
+  "id": 3361162,
+  "codigo_real": "124.10",
+  "disciplina_real": "Odontologia",
+  "assunto_real": "Terapêutica e Farmacologia Odontológica - Terapêutica e Farmacologia Odontológica",
+  "bancas_nome": "Instituto Access - Instituto de Acesso à Educação, Capacitação Profissional e Desenvolvimento Humano",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Cataguases",
+  "cargos_descricao": "Odontólogo",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Durante a anamnese o paciente relatou utilizar ácido zoledrônico para o tratamento médico ao qual está sendo submetido. Uma repercussão possível nos tecidos orais em decorrência do uso desse fármaco é</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>osteonecrose.</p>",
+      "corpo_clean": "osteonecrose.",
+      "id": 13681974,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>parestesia.</p>",
+      "corpo_clean": "parestesia.",
+      "id": 13681975,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>trismo.</p>",
+      "corpo_clean": "trismo.",
+      "id": 13681976,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>discinesia.</p>",
+      "corpo_clean": "discinesia.",
+      "id": 13681977,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "13681974",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

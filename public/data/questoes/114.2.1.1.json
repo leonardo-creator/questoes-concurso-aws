@@ -1,0 +1,51 @@
+{
+  "id": 2560304,
+  "codigo_real": "114.2.1.1",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Juros Simples",
+  "bancas_nome": "FUNECE",
+  "bancas_sigla": "FUNECE IEPRO",
+  "orgaos_nome": "Companhia Cearense de Transportes Metropolitanos",
+  "cargos_descricao": "Assistente Operacional",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Azambuja aplicou certo capital no sistema de juros simples de modo que o número que representava a taxa anual era o dobro do tempo em anos e o capital, em reais, foi cem vezes o tempo, o que o levou a receber R$ 1.024,00 de juros. Assim, o capital, em reais, aplicado foi de </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>700.</p>",
+      "corpo_clean": "700.",
+      "id": 10200260,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>500. </p>",
+      "corpo_clean": "500. ",
+      "id": 10200261,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>600.</p>",
+      "corpo_clean": "600.",
+      "id": 10200262,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>800.</p>",
+      "corpo_clean": "800.",
+      "id": 10200263,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10200263",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2595247,
+  "codigo_real": "98.4.12.65.2",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Regimento Interno - Senado Federal",
+  "bancas_nome": "Banca não definida",
+  "bancas_sigla": "",
+  "orgaos_nome": "Órgão não definido",
+  "cargos_descricao": "Cargo não definido",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p>31- A sessão secreta terá a duração de quatro horas e trinta minutos, salvo prorrogação.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 10354657,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 10354658,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10354657",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

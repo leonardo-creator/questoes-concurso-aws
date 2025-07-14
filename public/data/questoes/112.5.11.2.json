@@ -1,0 +1,51 @@
+{
+  "id": 2447258,
+  "codigo_real": "112.5.11.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Funções sintáticas da palavra \"se\"",
+  "bancas_nome": "Associação dos Municípios do Extremo Oeste de Santa Catarina",
+  "bancas_sigla": "AMEOSC",
+  "orgaos_nome": "Prefeitura de Princesa",
+  "cargos_descricao": "Agente Comunitário de Saúde",
+  "ano": 2022,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em \"<em>Amigos são <u>GRANDES ESPELHOS</u></em> \", o termo \"GRANDES ESPELHOS\" está exercendo função sintática de:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>O texto seguinte servirá de base para responder às questões de 21 a 30. </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><strong>Somos todos espelhos </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Nascemos todos, certo, com uma enorme bagagem genética. Carregamos em nós traços, expressões, modos de ser daqueles que nos antecederam. Mas, a partir daí, saímos em busca de identidade. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Nossos primeiros espelhos são nossos pais, a família, aos quais nos jogamos de braços abertos, sem questões. É a confiança que se instala desde a mais pequena idade. Julgamos que se nossos pais fazem, podemos fazer, pois eles devem saber o que é bom ou não. Crianças imitam, quando ainda não sabem construir sozinhas. A linguagem é a maior prova disso. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Nem todo mundo tem essa consciência e nem se dá conta do peso da responsabilidade que ela acarreta. Achamos que a vida forma as pessoas, mas esquecemos de que somos os primeiros espelhos nos quais elas se refletem. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">No final de tudo, todos somos pessoas importantes para outras pessoas e podemos influenciá-las positiva ou negativamente. Amigos são grandes espelhos. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Por isso, tudo que fazemos deve ter como referência à vida. Daí a importância de sermos pessoas boas, honestas, pacientes, corajosas, espelhos nos quais outros poderão se olhar e se encontrar. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">(...) </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Letícia Thompson.http://www.leticiathompson.net/Somos_todos_espelhos. htm (Adaptado)</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Sujeito.</p>",
+      "corpo_clean": "Sujeito.",
+      "id": 9705944,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Predicativo do Sujeito.</p>",
+      "corpo_clean": "Predicativo do Sujeito.",
+      "id": 9705946,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Objeto direto.</p>",
+      "corpo_clean": "Objeto direto.",
+      "id": 9705949,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Objeto indireto.</p>",
+      "corpo_clean": "Objeto indireto.",
+      "id": 9705950,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9705946",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

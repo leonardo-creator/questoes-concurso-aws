@@ -1,0 +1,58 @@
+{
+  "id": 2168133,
+  "codigo_real": "26.6",
+  "disciplina_real": "Contabilidade Pública",
+  "assunto_real": "Demonstrações contábeis aplicadas ao setor público - Demonstrações contábeis aplicadas ao setor público",
+  "bancas_nome": "Fundação BIO-RIO",
+  "bancas_sigla": "BIO RIO",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+  "cargos_descricao": "Auditor",
+  "ano": 2015,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>O Demonstrativo contábil não aplicado a Contabilidade Pública é o seguinte:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Demonstração dos Fluxos de Caixa.</p>",
+      "corpo_clean": "Demonstração dos Fluxos de Caixa.",
+      "id": 8501275,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Demonstração do Resultado do Exercício.</p>",
+      "corpo_clean": "Demonstração do Resultado do Exercício.",
+      "id": 8501276,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Demonstração das Variações Patrimoniais.</p>",
+      "corpo_clean": "Demonstração das Variações Patrimoniais.",
+      "id": 8501277,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Demonstração do Resultado Econômico.</p>",
+      "corpo_clean": "Demonstração do Resultado Econômico.",
+      "id": 8501278,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Balanço Patrimonial.</p>",
+      "corpo_clean": "Balanço Patrimonial.",
+      "id": 8501279,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8501276",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

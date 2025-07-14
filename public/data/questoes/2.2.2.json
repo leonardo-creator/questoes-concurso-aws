@@ -1,0 +1,37 @@
+{
+  "id": 3633290,
+  "codigo_real": "2.2.2",
+  "disciplina_real": "Administração Financeira e Orçamentária - AFO",
+  "assunto_real": "Conceitos de Orçamento Público",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Tribunal Regional do Trabalho da 10ª Região",
+  "cargos_descricao": "Técnico Judiciário - Área: Administrativa",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre os conceitos básicos de orçamento público, julgue o item a seguir. </p><p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\">O orçamento público, na concepção do orçamento-programa, além de conter um plano de realizações da administração pública, enfatiza as realizações das políticas públicas propostas.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 14803947,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 14803948,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14803947",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

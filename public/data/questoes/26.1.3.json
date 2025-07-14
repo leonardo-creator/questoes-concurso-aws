@@ -1,0 +1,58 @@
+{
+  "id": 1008398,
+  "codigo_real": "26.1.3",
+  "disciplina_real": "Contabilidade Pública",
+  "assunto_real": "Bens Públicos",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Câmara Legislativa do Distrito Federal",
+  "cargos_descricao": "Consultor Legislativo - Área Desenvolvimento Urbano",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "O proprietário de um imóvel tombado, onde funciona uma unidade de ensino,",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "não pode lhe dar outra destinação além da originalmente vigente, quando da edição do ato de tombamento.",
+      "corpo_clean": "não pode lhe dar outra destinação além da originalmente vigente, quando da edição do ato de tombamento.",
+      "id": 3525661,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "deve ser indenizado pelo valor do imóvel, danos emergentes e lucros cessantes, porque seria necessário o encerramento\r\ndas atividades, equivalendo a verdadeira desapropriação.",
+      "corpo_clean": "deve ser indenizado pelo valor do imóvel, danos emergentes e lucros cessantes, porque seria necessário o encerramento das atividades, equivalendo a verdadeira desapropriação.",
+      "id": 3525662,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "perde a propriedade do imóvel, considerando que essa modalidade de intervenção inviabiliza a possibilidade de exploração\r\neconômica.",
+      "corpo_clean": "perde a propriedade do imóvel, considerando que essa modalidade de intervenção inviabiliza a possibilidade de exploração econômica.",
+      "id": 3525663,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "pode alterar seu uso, destinando-o para outra finalidade, mantidas as características cuja preservação foi objeto do ato de\r\ntombamento.",
+      "corpo_clean": "pode alterar seu uso, destinando-o para outra finalidade, mantidas as características cuja preservação foi objeto do ato de tombamento.",
+      "id": 3525664,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "pode contestar a intervenção decretada, diante da natureza de serviço público atribuída à atividade desenvolvida no\r\nimóvel, o que enseja sua proteção como bem público sempre que a questão envolver aspectos dominiais.",
+      "corpo_clean": "pode contestar a intervenção decretada, diante da natureza de serviço público atribuída à atividade desenvolvida no imóvel, o que enseja sua proteção como bem público sempre que a questão envolver aspectos dominiais.",
+      "id": 3525665,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3525664",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 901846,
+  "codigo_real": "95.1.7.1.1.2.6",
+  "disciplina_real": "Informática",
+  "assunto_real": "Projetores ou Datashow - Software",
+  "bancas_nome": "Instituto Federal do Ceará",
+  "bancas_sigla": "IFCE CEFET CE",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
+  "cargos_descricao": "Técnico de Laboratório - Área: Informática",
+  "ano": 2017,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Observe o diálogo entre dois analistas de sistema:</p><p align=\"center\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/26910/29.gif\"></p><p> O modelo de processo de software, que atende às características do projeto que John L. e Paul M. irão desenvolver, é</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "modelo em cascata.",
+      "corpo_clean": "modelo em cascata.",
+      "id": 3155300,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "desenvolvimento evolucionário.",
+      "corpo_clean": "desenvolvimento evolucionário.",
+      "id": 3155301,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "codificação e correção.",
+      "corpo_clean": "codificação e correção.",
+      "id": 3155302,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "engenharia de software baseada em componentes.",
+      "corpo_clean": "engenharia de software baseada em componentes.",
+      "id": 3155303,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "modelo em V.",
+      "corpo_clean": "modelo em V.",
+      "id": 3155304,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3155301",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

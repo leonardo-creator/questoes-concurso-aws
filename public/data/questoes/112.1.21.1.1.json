@@ -1,0 +1,58 @@
+{
+  "id": 3534482,
+  "codigo_real": "112.1.21.1.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Texto Narrativo - Texto Narrativo",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Prefeitura de Niterói",
+  "cargos_descricao": "Analista de Políticas Públicas e Gestão Gorvenamental - Área: Gestão Governamental",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Leia o trecho a seguir.</p><p><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\"><em>Estêvão murmurou algumas palavras, a que tentou dar um ar de gracejo, mas que eram fúnebres como um cipreste. Luís viu-lhe então, à luz das estearinas, alguma vermelhidão nos olhos, e adivinhou, — não era difícil, — que houvesse chorado. Pobre rapaz! suspirou ele mentalmente. Dali foram os dois para o quarto, que era uma vasta sala, com três camas, cadeiras de todos os feitios, duas estantes com livros e uma secretária, — vindo a ser ao mesmo tempo, alcova e gabinete de estudo. O chá subiu daí a pouco.</em></p><p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: right;\">Machado de Assis. <em>A Mão e a Luva.</em></p><p style=\"text-align: right;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\">Uma narrativa se apoia em evolução cronológica, com uma série de elementos linguísticos que participam desse processo. Entre esses elementos, os conectivos temporais são muito importantes, como no seguinte exemplo:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>“a que tentou dar um ar de gracejo,”</p>",
+      "corpo_clean": "“a que tentou dar um ar de gracejo,”",
+      "id": 14412008,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>“mas que eram fúnebres como um cipreste.” </p>",
+      "corpo_clean": "“mas que eram fúnebres como um cipreste.” ",
+      "id": 14412009,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">“Luís viu-lhe então, à luz das estearinas, alguma vermelhidão nos olhos,”</p>",
+      "corpo_clean": "“Luís viu-lhe então, à luz das estearinas, alguma vermelhidão nos olhos,”",
+      "id": 14412010,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>“Dali foram os dois para o quarto,”</p>",
+      "corpo_clean": "“Dali foram os dois para o quarto,”",
+      "id": 14412011,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>“vindo a ser ao mesmo tempo, alcova e gabinete de estudo.”</p>",
+      "corpo_clean": "“vindo a ser ao mesmo tempo, alcova e gabinete de estudo.”",
+      "id": 14412012,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14412010",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2610163,
+  "codigo_real": "13.146",
+  "disciplina_real": "Lei nº",
+  "assunto_real": "- Dos Direitos Fundamentais",
+  "bancas_nome": "Instituto Brasileiro de Formação e Capacitação",
+  "bancas_sigla": "IBFC",
+  "orgaos_nome": "Secretaria da Saúde do Acre",
+  "cargos_descricao": "Psicólogo",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas. Em relação aos seus direitos civis, de acordo com o Estatuto da Pessoa com Deficiência, a deficiência não afeta a plena capacidade civil da pessoa, inclusive para:</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p>I. Casar-se e constituir união estável.</p><p>II. Exercer direitos sexuais e reprodutivos.</p><p>III. Exercer o direito de decidir sobre o número de filhos e de ter acesso a informações adequadas sobre reprodução e planejamento familiar.</p><p>IV. Conservar sua fertilidade, sendo vedada a esterilização compulsória.</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\">Estão corretas as afirmações:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I apenas</p>",
+      "corpo_clean": "I apenas",
+      "id": 10411212,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>I e III apenas</p>",
+      "corpo_clean": "I e III apenas",
+      "id": 10411213,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>II e III apenas</p>",
+      "corpo_clean": "II e III apenas",
+      "id": 10411214,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>I, II, III e IV</p>",
+      "corpo_clean": "I, II, III e IV",
+      "id": 10411215,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10411215",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

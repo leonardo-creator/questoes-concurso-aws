@@ -1,0 +1,58 @@
+{
+  "id": 2693699,
+  "codigo_real": "125.6.2.5.2",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Da Educação Básica",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Prefeitura de Florianópolis",
+  "cargos_descricao": "Professor de Dança",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Nas Diretrizes Curriculares para a Educação Básica da Rede Municipal de Ensino de Florianópolis (2015), no item que versa a respeito dos sujeitos e seus diferentes percursos formativos: a criança, o jovem, o adulto e o idoso, consta que:</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\">1. Tendo em consideração a perspectiva orgânica e integrada assumida nestas diretrizes, enfatiza-se a condição privilegiada para o desenvolvimento de intenso diálogo e articulação entre a Educação Infantil e o Ensino Fundamental em suas diferentes fases e modalidades, já que ambos são de responsabilidade do governo municipal.</p><p style=\"text-align: justify;\">2. Se faz necessário identificar algumas características centrais das diferentes idades da vida, a saber, a infância, a juventude, a adultez e a velhice, no sentido de considerá-las como basilares para a elaboração de propostas educativas. </p><p style=\"text-align: justify;\">3. A infância é um momento da vida, demarcado por condições estruturais, sociais e históricas, como de classe, gênero, religião, cultura.</p><p style=\"text-align: justify;\">4. A infância é um grupo social constituído por crianças, que assim como os adultos, vivem sob os condicionantes sociais e têm suas vidas marcadas por estes. Demarca-se pela heterogeneidade como sua característica central, rompendo com visões românticas de que a infância é um tempo bonito e bom para todos.</p><p style=\"text-align: justify;\">5. As crianças são tidas como sujeitos potentes, que precisam de espaços, tempos e propostas que as reconheçam como tal e que assegurem uma educação de qualidade pautada na brincadeira e na interação como centrais na constituição humana.</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\">Assinale a alternativa que indica todas as afirmativas <strong>corretas</strong>.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>São corretas apenas as afirmativas 3 e 5.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 3 e 5.",
+      "id": 10778584,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>São corretas apenas as afirmativas 1, 2 e 3.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 1, 2 e 3.",
+      "id": 10778585,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>São corretas apenas as afirmativas 1, 2 e 4.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 1, 2 e 4.",
+      "id": 10778586,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>São corretas apenas as afirmativas 3, 4 e 5.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 3, 4 e 5.",
+      "id": 10778587,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>São corretas as afirmativas 1, 2, 3, 4 e 5.</p>",
+      "corpo_clean": "São corretas as afirmativas 1, 2, 3, 4 e 5.",
+      "id": 10778588,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10778588",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

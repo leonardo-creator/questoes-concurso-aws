@@ -1,0 +1,58 @@
+{
+  "id": 1773539,
+  "codigo_real": "117.8.38",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Oftalmologia - Oftalmologia",
+  "bancas_nome": "Fundação Dom Cintra",
+  "bancas_sigla": "FDC",
+  "orgaos_nome": "Serviço Social Autônomo Hospital Alcides Carneiro",
+  "cargos_descricao": "Médico Oftalmologista",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>A situação clínica mais compatível com a esotropia de acomodativa é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Desvio vertical dissociado (DVD);</p>",
+      "corpo_clean": "Desvio vertical dissociado (DVD);",
+      "id": 6766162,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Início até os 4 anos de idade;</p>",
+      "corpo_clean": "Início até os 4 anos de idade;",
+      "id": 6766163,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Potencial de visão binocular insatisfatório ou inexistente;</p>",
+      "corpo_clean": "Potencial de visão binocular insatisfatório ou inexistente;",
+      "id": 6766164,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Refração cicloplégica de + 10,00 dioptrias;</p>",
+      "corpo_clean": "Refração cicloplégica de + 10,00 dioptrias;",
+      "id": 6766165,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Hiperfunção do músculo reto lateral.</p>",
+      "corpo_clean": "Hiperfunção do músculo reto lateral.",
+      "id": 6766166,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6766163",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

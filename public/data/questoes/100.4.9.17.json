@@ -1,0 +1,58 @@
+{
+  "id": 3336094,
+  "codigo_real": "100.4.9.17",
+  "disciplina_real": "Legislação Federal",
+  "assunto_real": "Lei n.º 12.343/2010 - Institui o Plano Nacional de Cultura - PNC, cria o Sistema Nacional de Informações e Indicadores Culturais - SNIIC e dá outras providências",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de São Bernardo do Campo",
+  "cargos_descricao": "Agente Cultural",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No âmbito da Lei Federal no 8.313/1991 que institui o Programa Nacional de Apoio à Cultura (Pronac), em seu Capítulo 1 – Disposições Preliminares, o artigo 1o propõe que o Pronac tem a finalidade de captar e canalizar recursos para o setor.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa que apresenta um dos objetivos do PRONAC.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Priorizar o produto cultural originário do País.</p>",
+      "corpo_clean": "Priorizar o produto cultural originário do País.",
+      "id": 13571668,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Desenvolver a consciência nacional e o respeito aos diferentes valores ideológicos.</p>",
+      "corpo_clean": "Desenvolver a consciência nacional e o respeito aos diferentes valores ideológicos.",
+      "id": 13571669,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apoiar a comercialização das expressões culturais dos grupos formadores da sociedade brasileira.</p>",
+      "corpo_clean": "Apoiar a comercialização das expressões culturais dos grupos formadores da sociedade brasileira.",
+      "id": 13571670,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Contribuir para facilitar os meios para o acesso às fontes da cultura e o exercício dos direitos culturais.</p>",
+      "corpo_clean": "Contribuir para facilitar os meios para o acesso às fontes da cultura e o exercício dos direitos culturais.",
+      "id": 13571671,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Promover e estimular a regionalização da produção cultural e artística brasileira no sentido de seu desenvolvimento para o meio digital.</p>",
+      "corpo_clean": "Promover e estimular a regionalização da produção cultural e artística brasileira no sentido de seu desenvolvimento para o meio digital.",
+      "id": 13571672,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13571668",
+  "dificuldade": "Fácil",
+  "anulada": true,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

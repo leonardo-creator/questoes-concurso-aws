@@ -1,0 +1,51 @@
+{
+  "id": 1826474,
+  "codigo_real": "17.10.7",
+  "disciplina_real": "Biologia",
+  "assunto_real": "Imunologia",
+  "bancas_nome": "RBO Assessoria Pública e Projetos Municipais",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Belo Horizonte",
+  "cargos_descricao": "Médico - Área Alergia e Imunologia Pediátrica",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Os alérgenos de classe I correspondem a glicoproteínas estáveis ao calor, resistentes ao meio ácido e à proteólise. A esse respeito, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Compreendem as proteínas inaladas pela via respiratória como é o caso do pólen com reatividade cruzada com epítopos homólogos de alérgenos alimentares derivados de plantas, nomeadamente, frutas e vegetais crus.</p>",
+      "corpo_clean": "Compreendem as proteínas inaladas pela via respiratória como é o caso do pólen com reatividade cruzada com epítopos homólogos de alérgenos alimentares derivados de plantas, nomeadamente, frutas e vegetais crus.",
+      "id": 7006613,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Esta classe de alérgenos é mais comum nas crianças do que nos adultos e diz respeito a alérgenos alimentares como a proteína do leite de vaca, o ovo de galinha, o amendoim, o peixe e o marisco.</p>",
+      "corpo_clean": "Esta classe de alérgenos é mais comum nas crianças do que nos adultos e diz respeito a alérgenos alimentares como a proteína do leite de vaca, o ovo de galinha, o amendoim, o peixe e o marisco.",
+      "id": 7006614,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">São instáveis ao calor e tendem a provocar reações semelhantes aos sintomas da síndrome de alergia oral.</p>",
+      "corpo_clean": "São instáveis ao calor e tendem a provocar reações semelhantes aos sintomas da síndrome de alergia oral.",
+      "id": 7006615,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Correspondem a glicoproteínas instáveis ao calor, resistentes ao meio ácido e à proteólise, como pólen, por exemplo.</p>",
+      "corpo_clean": "Correspondem a glicoproteínas instáveis ao calor, resistentes ao meio ácido e à proteólise, como pólen, por exemplo.",
+      "id": 7006616,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "7006614",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

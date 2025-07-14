@@ -1,0 +1,58 @@
+{
+  "id": 3165243,
+  "codigo_real": "124.27.3",
+  "disciplina_real": "Odontologia",
+  "assunto_real": "Doenças Ósseas - Doenças Ósseas",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Polícia Militar do Acre",
+  "cargos_descricao": "2º Tenente - Área: Cirurgião Dentista - Bucomaxilofacial",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A osteíte alveolar (ou “alvéolo seco”) possui uma incidência média relevante na odontologia, com incidência média de 6,5% de ocorrência nos consultórios particulares, segundo pesquisa da American Association of Oral and Maxillofacial Surgeons (AAOMS).</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Os fatores que contribuem para o desenvolvimento dessa condição incluem</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">uso de antifibrinolíticos, etilismo e tabagismo.</p>",
+      "corpo_clean": "uso de antifibrinolíticos, etilismo e tabagismo.",
+      "id": 12849935,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">tabagismo, anticoncepcionais orais e tempo cirúrgico.</p>",
+      "corpo_clean": "tabagismo, anticoncepcionais orais e tempo cirúrgico.",
+      "id": 12849936,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">tabagismo, etilismo e tempo cirúrgico.</p>",
+      "corpo_clean": "tabagismo, etilismo e tempo cirúrgico.",
+      "id": 12849937,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">tempo cirúrgico, etilismo e anticoncepcionais orais. </p>",
+      "corpo_clean": "tempo cirúrgico, etilismo e anticoncepcionais orais. ",
+      "id": 12849938,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">uso de antifibrinolíticos, tempo cirúrgico e tabagismo.</p>",
+      "corpo_clean": "uso de antifibrinolíticos, tempo cirúrgico e tabagismo.",
+      "id": 12849939,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12849936",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

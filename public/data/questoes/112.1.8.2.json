@@ -1,0 +1,51 @@
+{
+  "id": 2864799,
+  "codigo_real": "112.1.8.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Socioleto",
+  "bancas_nome": "Associação Brasileira de Concursos Públicos",
+  "bancas_sigla": "ABCP",
+  "orgaos_nome": "Prefeitura de Araras",
+  "cargos_descricao": "Assistente Social",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sabe-se que no Texto há uma palavra escrita de forma incorreta. Assinale a alternativa que representa tal palavra:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><em><u>As questões de 01 a 10 dizem respeito ao Texto. Leia-o atentamente antes de respondê-las.</u></em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">(Texto)</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><strong style=\"font-size: 13px;\">Resistência</strong><strong> aos aparelhos de surdez aumenta risco de </strong><strong style=\"font-size: 13px;\">demência</strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">1 Em seu doutorado, a otorrinolaringologista Milene</p><p style=\"text-align: justify;\">Bissoli dedicou-se a uma área que dá seus</p><p style=\"text-align: justify;\">primeiros passos: a utilização de células-tronco</p><p style=\"text-align: justify;\">para curar a surdez. Além de ser especialista no</p><p style=\"text-align: justify;\">5 assunto, a questão a mobiliza _________ deixar</p><p style=\"text-align: justify;\">de ouvir &amp; o principal fator de fisco para a</p><p style=\"text-align: justify;\">demência que pode ser prevenido isoladamente.</p><p style=\"text-align: justify;\">No entanto, o estigma em relação aos aparelhos</p><p style=\"text-align: justify;\">para surdez faz com que muitas pessoas adiem</p><p style=\"text-align: justify;\">10 ou até descartem seu uso, apesar das evidências</p><p style=\"text-align: justify;\">que ligam a perda da audição ao declínio</p><p style=\"text-align: justify;\">cognitivo. O caso é tão sério que o FDA, o</p><p style=\"text-align: justify;\">equivalente da Anvisa nos EUA, vai liberar a</p><p style=\"text-align: justify;\">venda de próteses em farmácias, sem receita</p><p style=\"text-align: justify;\">15 médica, a partir de outubro — o órgão calcula que</p><p style=\"text-align: justify;\">apenas um quinto dos 30 milhões de norte-</p><p style=\"text-align: justify;\">americanos com problemas auditivos consegue</p><p style=\"text-align: justify;\">ajuda. No Brasil, o SUS oferece tratamento, mas</p><p style=\"text-align: justify;\">não alcança 0s cerca de 10 milhões com algum</p><p style=\"text-align: justify;\">20 tipo de deficiência. “A surdez é a principal causa</p><p style=\"text-align: justify;\">modificável de declínio cognitivo na velhice. Essa</p><p style=\"text-align: justify;\">é uma questão recente até para os médicos, que</p><p style=\"text-align: justify;\">surgiu nas publicações da última década.</p><p style=\"text-align: justify;\">Aceitavam-se que, se um ouvido ainda estava</p><p style=\"text-align: justify;\">25 bom, não era preciso usar aparelho”. “Todos</p><p style=\"text-align: justify;\">preferem o modelo menor, que é mais discreto,</p><p style=\"text-align: justify;\">mas o que determina o aparelho ideal é a</p><p style=\"text-align: justify;\">extensão da perda, que tem diferentes graus, indo</p><p style=\"text-align: justify;\">de leve a profunda. Também é comum que a</p><p style=\"text-align: justify;\">30 audição preserve o reconhecimento dos tons</p><p style=\"text-align: justify;\">graves e perca o dos agudos e, neste caso, o</p><p style=\"text-align: justify;\">aparelho menor provoca desconforto e a pessoa</p><p style=\"text-align: justify;\">pode não se adaptar. A venda no balcão de</p><p style=\"text-align: justify;\">farmácia, como propõe o FDA, não leva em conta</p><p style=\"text-align: justify;\">35 essas especificidades. Aliáz, embora o</p><p style=\"text-align: justify;\">diagnóstico seja feito pelo médico, é fundamental</p><p style=\"text-align: justify;\">o ajuste fino realizado pelo fonoaudiólogo, para</p><p style=\"text-align: justify;\">que a prótese fique sob medida para quem usa.</p><p style=\"text-align: justify;\">Esse é outro aspecto __________ se fala pouco.</p><p style=\"text-align: justify;\">40 O aparelho é um processador que envolve muita</p><p style=\"text-align: justify;\">tecnologia, a ponto de se selecionar a gradação</p><p style=\"text-align: justify;\">dependendo do volume de ruído do ambiente. E</p><p style=\"text-align: justify;\">demanda cuidados: tem que ser limpo, dormir na</p><p style=\"text-align: justify;\">sílica e não se deve esquecer de trocar a pilha”.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\"><em>(Fonte adaptada: http://wwwg1.com &gt; Acesso em 13 de Setembro de 2022)</em></p>",
+  "alternativas": [
+    {
+      "corpo": "<p>“extensão” (linha 28).</p>",
+      "corpo_clean": "“extensão” (linha 28).",
+      "id": 11537863,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>“preserve” (linha 30). </p>",
+      "corpo_clean": "“preserve” (linha 30). ",
+      "id": 11537864,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>“realizado” (linha 37).</p>",
+      "corpo_clean": "“realizado” (linha 37).",
+      "id": 11537865,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>“Aliáz” (linha 35).</p>",
+      "corpo_clean": "“Aliáz” (linha 35).",
+      "id": 11537866,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11537866",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1135789,
+  "codigo_real": "31.3.6",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Órgãos Públicos",
+  "bancas_nome": "Universidade de Blumenau",
+  "bancas_sigla": "FURB",
+  "orgaos_nome": "Câmara de Timbó",
+  "cargos_descricao": "Agente Administrativo",
+  "ano": 2019,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\">A administração pública se concretiza através dos serviços prestados por órgãos e empresas públicas integramtes da administração direta ou indireta, da União, dos Estados, do Distrito Federal e dos Municípios. Sobre a administração direta ou indireta, analise as afirmativas abaixo: </p><p align=\"justify\">I- A estrutura administrativa municipal é um exemplo de administração pública direta. </p><p align=\"justify\">II- O SAMAE de Timbó é um exemplo de administração pública indireta. </p><p align=\"justify\">III- O SAMAE de Timbó é um exemplo de administração pública direta. </p><p align=\"justify\">IV- As empresas públicas integrantes da administração indireta são pessoas jurídicas de direito privado. </p><p align=\"justify\">V- Fundações são exemplos de empresas da administração pública indireta. </p><p align=\"justify\">São verdadeiras:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "Apenas as afirmativas I, II e V.",
+      "corpo_clean": "Apenas as afirmativas I, II e V.",
+      "id": 4043561,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "Apenas as afirmativas III e V.",
+      "corpo_clean": "Apenas as afirmativas III e V.",
+      "id": 4043562,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "Apenas as afirmativas II, IV e V.",
+      "corpo_clean": "Apenas as afirmativas II, IV e V.",
+      "id": 4043563,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Apenas as afirmativas I e IV.",
+      "corpo_clean": "Apenas as afirmativas I e IV.",
+      "id": 4043564,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "Apenas as afirmativas I e III.",
+      "corpo_clean": "Apenas as afirmativas I e III.",
+      "id": 4043565,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": null,
+  "dificuldade": "Difícil",
+  "anulada": true,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

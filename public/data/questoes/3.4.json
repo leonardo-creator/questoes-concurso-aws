@@ -1,0 +1,37 @@
+{
+  "id": 1976959,
+  "codigo_real": "3.4",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Estrutura Organizacional - Estrutura Organizacional",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Conselho Regional de Serviço Social da 13ª Região",
+  "cargos_descricao": "Assistente Administrativo",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">A estrutura organizacional é necessária para a criação da estratégia de negócio das organizações.</p>",
+  "grupoQuestao_enunciado": "<p>Quanto a estruturas organizacionais, julgue os itens de <strong>111 </strong>a <strong>114</strong>.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 7670358,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 7670359,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7670359",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

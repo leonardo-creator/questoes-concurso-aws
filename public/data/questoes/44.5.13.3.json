@@ -1,0 +1,58 @@
+{
+  "id": 2348012,
+  "codigo_real": "44.5.13.3",
+  "disciplina_real": "Direito Penal",
+  "assunto_real": "Teoria da Imputação Objetiva",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Polícia Civil do Amazonas",
+  "cargos_descricao": "Delegado de Polícia Civil",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Acerca da teoria da imputação objetiva, julgue os itens a seguir. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I – Sua aplicação evita o regresso ao infinito gerado pela teoria causalidade adequada. </p><p style=\"text-align: justify;\">II – Para a maioria da doutrina, sua incidência acarreta a exclusão da tipicidade. </p><p style=\"text-align: justify;\">III – A causa está associada não apenas com o nexo físico, sendo imprescindível a existência do nexo normativo. </p><p style=\"text-align: justify;\">IV – Leva em consideração o desvalor da ação a partir da análise da criação de um risco juridicamente proibido. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Estão CORRETAS apenas:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I, II e IV.</p>",
+      "corpo_clean": "I, II e IV.",
+      "id": 9284018,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>I, II, III e IV.</p>",
+      "corpo_clean": "I, II, III e IV.",
+      "id": 9284019,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>I, III e IV.</p>",
+      "corpo_clean": "I, III e IV.",
+      "id": 9284020,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>III e IV.</p>",
+      "corpo_clean": "III e IV.",
+      "id": 9284021,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>I, II e III.</p>",
+      "corpo_clean": "I, II e III.",
+      "id": 9284022,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9284021",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

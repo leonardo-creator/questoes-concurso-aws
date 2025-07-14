@@ -1,0 +1,58 @@
+{
+  "id": 2416480,
+  "codigo_real": "3.12",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Gestão de Conflitos - Gestão de Conflitos",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Centrais Elétricas de Santa Catarina",
+  "cargos_descricao": "Analista de Nível Superior - Área: Pedagogia",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa <strong>correta </strong>sobre Gestão de Conflitos.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Todo conflito é negativo.</p>",
+      "corpo_clean": "Todo conflito é negativo.",
+      "id": 9575250,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Conflito disfuncional é o conflito construtivo ou positivo. Promove um maior esforço no trabalho, maior criatividade e cooperação.</p>",
+      "corpo_clean": "Conflito disfuncional é o conflito construtivo ou positivo. Promove um maior esforço no trabalho, maior criatividade e cooperação.",
+      "id": 9575251,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Uma comunicação eficiente pode levar a desentendimentos e interpretações incorretas de parte a parte; principalmente em equipes que trabalham a distância, uma falha de comunicação pode gerar e aumentar conflitos.</p>",
+      "corpo_clean": "Uma comunicação eficiente pode levar a desentendimentos e interpretações incorretas de parte a parte; principalmente em equipes que trabalham a distância, uma falha de comunicação pode gerar e aumentar conflitos.",
+      "id": 9575252,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O objetivo do gestor deve ser administrar os conflitos de forma que promovam a criatividade, a inovação e um alto desempenho.</p>",
+      "corpo_clean": "O objetivo do gestor deve ser administrar os conflitos de forma que promovam a criatividade, a inovação e um alto desempenho.",
+      "id": 9575253,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Quando o conflito é expresso e manifestado pelo comportamento, que é a interferência ativa ou passiva por pelo menos uma das partes, é chamado de conflito percebido.</p>",
+      "corpo_clean": "Quando o conflito é expresso e manifestado pelo comportamento, que é a interferência ativa ou passiva por pelo menos uma das partes, é chamado de conflito percebido.",
+      "id": 9575254,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9575253",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

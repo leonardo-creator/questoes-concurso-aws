@@ -1,0 +1,58 @@
+{
+  "id": 1010534,
+  "codigo_real": "35.6.4.1.1",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Órgãos do Poder Judiciário (artigo 92 da CF) - Poder Judiciário (artigos 92 a 126 da CF)",
+  "bancas_nome": "Instituto Brasileiro de Formação e Capacitação",
+  "bancas_sigla": "IBFC",
+  "orgaos_nome": "Tribunal Regional Federal da 2ª Região",
+  "cargos_descricao": "Juiz Substituto",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "O art. 109 da Constituição Federal prevê a competência da Justiça Federal para “/// - as causas fundadas em tratado ou contrato da União com Estado estrangeiro ou organismo internacional. A que tipo de tratados se refere o dispositivo?",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "Somente aos tratados bilaterais.",
+      "corpo_clean": "Somente aos tratados bilaterais.",
+      "id": 3533389,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "Somente aos tratados plurilaterais.",
+      "corpo_clean": "Somente aos tratados plurilaterais.",
+      "id": 3533390,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "Somente aos tratados de natureza tributária.",
+      "corpo_clean": "Somente aos tratados de natureza tributária.",
+      "id": 3533391,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "A todos os tratados em vigor no Brasil.",
+      "corpo_clean": "A todos os tratados em vigor no Brasil.",
+      "id": 3533392,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "Aos tratados que demandem uma contraprestação específica do Estado brasileiro, também denominados tratados-contrato.",
+      "corpo_clean": "Aos tratados que demandem uma contraprestação específica do Estado brasileiro, também denominados tratados-contrato.",
+      "id": 3533393,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3533393",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

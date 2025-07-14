@@ -1,0 +1,51 @@
+{
+  "id": 2509015,
+  "codigo_real": "24.8.1",
+  "disciplina_real": "Contabilidade de Custos",
+  "assunto_real": "Absorção - Absorção",
+  "bancas_nome": "Fundação Brasileira de Contabilidade",
+  "bancas_sigla": "FBC",
+  "orgaos_nome": "Conselho Federal de Contabilidade",
+  "cargos_descricao": "Técnico em Contabilidade",
+  "ano": 2015,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No mês de janeiro de 2015, uma indústria produziu 1.100 unidades de seu único produto. Nesse mês, não havia estoque inicial e ficaram 110 unidades acabadas e não vendidas até o dia 31. Os custos do mês de janeiro foram:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 14px; color: rgb(52, 69, 99);\">✓ </span>Mão de Obra Variável <span style=\"background-color: rgb(255, 255, 255); font-size: 12px; color: rgb(255, 255, 255);\">------------------</span>R$63.800,00</p><p style=\"text-align: justify;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 14px; color: rgb(52, 69, 99);\">✓ </span>Matéria-Prima <span style=\"background-color: rgb(255, 255, 255); font-size: 12px; color: rgb(255, 255, 255);\">--------------------------</span>R$55.000,00</p><p style=\"text-align: justify;\"><span style=\"background-color: rgb(255, 255, 255); font-size: 14px; color: rgb(52, 69, 99);\">✓ </span>Outros Custos Variáveis <span style=\"background-color: rgb(255, 255, 255); font-size: 12px; color: rgb(255, 255, 255);\">-----------------</span>R$28.600,00</p><p style=\"text-align: justify;\"><span style=\"color: rgb(52, 69, 99); font-size: 14px; background-color: rgb(255, 255, 255);\">✓ </span>Custos Fixos <span style=\"background-color: rgb(255, 255, 255); font-size: 12px; color: rgb(255, 255, 255);\">-----------------------------</span>R$33.000,00</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Os valores totais do Estoque Final pelo Custeio por Absorção e pelo Custeio Variável são, respectivamente:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>R$18.040,00 e R$14.740,00.</p>",
+      "corpo_clean": "R$18.040,00 e R$14.740,00.",
+      "id": 9978125,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>R$15.180,00 e R$11.880,00.</p>",
+      "corpo_clean": "R$15.180,00 e R$11.880,00.",
+      "id": 9978126,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>R$14.740,00 e R$18.040,00.</p>",
+      "corpo_clean": "R$14.740,00 e R$18.040,00.",
+      "id": 9978127,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>R$11.880,00 e R$15.180,00.</p>",
+      "corpo_clean": "R$11.880,00 e R$15.180,00.",
+      "id": 9978128,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9978125",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

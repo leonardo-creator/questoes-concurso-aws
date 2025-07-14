@@ -1,0 +1,58 @@
+{
+  "id": 2120534,
+  "codigo_real": "26.14.3.10",
+  "disciplina_real": "Contabilidade Pública",
+  "assunto_real": "NBC T 16.10 (Avaliação e Mensuração dos ativos e passivos em Entidades do Setor Público)",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Capanema",
+  "cargos_descricao": "Fiscal de Tributos",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No balanço, os elementos do ativo serão avaliados segundo os seguintes critérios, EXCETO:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os direitos classificados no intangível, pelo custo incorrido na aquisição, deduzido do saldo da respectiva conta de amortização.</p>",
+      "corpo_clean": "Os direitos classificados no intangível, pelo custo incorrido na aquisição, deduzido do saldo da respectiva conta de amortização.",
+      "id": 8291137,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Direitos classificados no imobilizado, pelo custo de aquisição, deduzido do saldo da respectiva conta de depreciação, amortização ou exaustão.</p>",
+      "corpo_clean": "Direitos classificados no imobilizado, pelo custo de aquisição, deduzido do saldo da respectiva conta de depreciação, amortização ou exaustão.",
+      "id": 8291138,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Elementos do ativo decorrentes de operações de longo prazo serão ajustados a valor presente, sendo os demais ajustados quando houver efeito relevante.</p>",
+      "corpo_clean": "Elementos do ativo decorrentes de operações de longo prazo serão ajustados a valor presente, sendo os demais ajustados quando houver efeito relevante.",
+      "id": 8291139,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os direitos que tiverem por objeto mercadorias e produtos do comércio da companhia, assim como matérias-primas, produtos em fabricação e bens em almoxarifado, pelo valor de mercado.</p>",
+      "corpo_clean": "Os direitos que tiverem por objeto mercadorias e produtos do comércio da companhia, assim como matérias-primas, produtos em fabricação e bens em almoxarifado, pelo valor de mercado.",
+      "id": 8291140,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os investimentos, regra geral, pelo custo de aquisição, deduzido de provisão para atender às perdas prováveis na realização do seu valor, ou para redução do custo de aquisição ao valor de mercado, quando este for inferior.</p>",
+      "corpo_clean": "Os investimentos, regra geral, pelo custo de aquisição, deduzido de provisão para atender às perdas prováveis na realização do seu valor, ou para redução do custo de aquisição ao valor de mercado, quando este for inferior.",
+      "id": 8291141,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8291140",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

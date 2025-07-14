@@ -1,0 +1,51 @@
+{
+  "id": 1176710,
+  "codigo_real": "95.6.2.4.1.2.4",
+  "disciplina_real": "Informática",
+  "assunto_real": "Inserir",
+  "bancas_nome": "EXATUS / EXATUSPR Promotores de Eventos e Consultorias",
+  "bancas_sigla": "EXATUS EXATUSPR",
+  "orgaos_nome": "Polícia Militar do Rio de Janeiro",
+  "cargos_descricao": "Aspirante da Polícia Militar",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>No Microsoft Windows XP, pode-se fazer com\r\nque determinado software seja inicializado\r\nautomaticamente junto ao sistema operacional, para\r\nisso, pode-se criar uma atalho para este software e o\r\nmover para a seguinte pasta presente no menu\r\nIniciar:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Inicializar.</p>",
+      "corpo_clean": "Inicializar.",
+      "id": 4219376,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Automatizar.</p>",
+      "corpo_clean": "Automatizar.",
+      "id": 4219377,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Automático.</p>",
+      "corpo_clean": "Automático.",
+      "id": 4219378,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Auto.</p>",
+      "corpo_clean": "Auto.",
+      "id": 4219379,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": null,
+  "dificuldade": "Difícil",
+  "anulada": true,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3254309,
+  "codigo_real": "117.8.47",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Psiquiatria",
+  "bancas_nome": "SELECON Instituto Nacional de Seleções e Concursos",
+  "bancas_sigla": "SELECON",
+  "orgaos_nome": "Secretaria de Saúde do Mato Grosso do Sul",
+  "cargos_descricao": "Médico Socorrista",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Delirium é uma desordem mental caracterizada por um início agudo e um curso flutuante. Em pacientes idosos que apresentam agitação psicomotora decorrente de internação hospitalar, o fármaco mais apropriado é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Fentanil</p>",
+      "corpo_clean": "Fentanil",
+      "id": 13224597,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Diazepam</p>",
+      "corpo_clean": "Diazepam",
+      "id": 13224598,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Quetiapina</p>",
+      "corpo_clean": "Quetiapina",
+      "id": 13224599,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Haloperidol</p>",
+      "corpo_clean": "Haloperidol",
+      "id": 13224600,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Lorazepam</p>",
+      "corpo_clean": "Lorazepam",
+      "id": 13224601,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13224600",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2348828,
+  "codigo_real": "35.10.2",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Da seguridade social (artigos 194 a 204)",
+  "bancas_nome": "Legalle Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Câmara de Porto Alegre",
+  "cargos_descricao": "Procurador do Município",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social. Assim, compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base nos seguintes objetivos: <strong>I.</strong> Ambivalência dos benefícios e serviços às populações urbanas e rurais; <strong>II. </strong>Seletividade e distributividade na prestação dos benefícios e serviços; <strong>III. </strong>Irredutibilidade do valor dos benefícios; <strong>IV.</strong> Diferenciação na forma de participação no custeio. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Está(ão) CORRETA(S):</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Apenas II e III. </p>",
+      "corpo_clean": "Apenas II e III. ",
+      "id": 9287804,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Apenas III. </p>",
+      "corpo_clean": "Apenas III. ",
+      "id": 9287805,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Apenas III e IV. </p>",
+      "corpo_clean": "Apenas III e IV. ",
+      "id": 9287806,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Apenas II e IV. </p>",
+      "corpo_clean": "Apenas II e IV. ",
+      "id": 9287807,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Apenas I e II. </p>",
+      "corpo_clean": "Apenas I e II. ",
+      "id": 9287808,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9287804",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

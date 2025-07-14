@@ -1,0 +1,51 @@
+{
+  "id": 3651211,
+  "codigo_real": "140.4.7.9.7",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Vetores (arrays)",
+  "bancas_nome": "Instituto Federal de Educação, Ciência e Tecnologia",
+  "bancas_sigla": "IFSUL",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
+  "cargos_descricao": "Professor - Área: Informação e Comunicação",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Os laços de repetição em JavaScript são usados para iterar sobre coleções de dados, como <em>arrays,</em> objetos ou <em>strings</em>, permitindo a execução repetida de um bloco de código. Dois dos principais laços usados para esse propósito são <em>for...in e for...of.</em> Cada um deles possui uma funcionalidade específica e um comportamento distinto na iteração de elementos. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Com relação ao tema apresentado, analise as afirmativas a seguir: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. O laço <em>for...of </em>é usado para iterar diretamente sobre os valores de objetos iteráveis, como<em> arrays</em> e <em>strings.</em></p><p style=\"text-align: justify;\"> II. O laço <em>for...in</em> é usado para iterar sobre as propriedades enumeráveis (chaves) de um objeto. </p><p style=\"text-align: justify;\">III. O laço<em> for...of</em> pode ser utilizado para iterar sobre as propriedades de objetos que não sejam iteráveis. </p><p style=\"text-align: justify;\">IV. O laço <em>for...in </em>retorna os valores dos elementos de um<em> arra</em>y, enquanto<em> for...of</em> retorna os índices do<em> array.</em> </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Estão corretas apenas as afirmativas</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I e II.</p>",
+      "corpo_clean": "I e II.",
+      "id": 14873207,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>I e III.</p>",
+      "corpo_clean": "I e III.",
+      "id": 14873208,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>II e III.</p>",
+      "corpo_clean": "II e III.",
+      "id": 14873209,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>II, III e IV.</p>",
+      "corpo_clean": "II, III e IV.",
+      "id": 14873210,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "14873207",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

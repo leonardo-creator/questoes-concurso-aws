@@ -1,0 +1,58 @@
+{
+  "id": 2765402,
+  "codigo_real": "140.6.2",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Planejamento Estratégico e Governança de TI",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Ministério Público da Bahia",
+  "cargos_descricao": "Analista Técnico - Área Analista de Sistemas",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O objetivo de um PDTI é atender às necessidades de informação e de tecnologia de uma organização; e para elaborá-lo é preciso planejar antes. A fase de preparação visa reunir as condições iniciais adequadas para que o projeto de elaboração seja bem-sucedido. Na fase de preparação, o processo em que a equipe começa a escrever a minuta do Plano de Diretor de TI é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Identificar Princípios e Diretrizes.</p>",
+      "corpo_clean": "Identificar Princípios e Diretrizes.",
+      "id": 11099941,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Definir abrangência e período do PDTI.</p>",
+      "corpo_clean": "Definir abrangência e período do PDTI.",
+      "id": 11099942,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Definir a Equipe de Elaboração do PDTI.</p>",
+      "corpo_clean": "Definir a Equipe de Elaboração do PDTI.",
+      "id": 11099943,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Descrever a Metodologia de Elaboração do PDTI.</p>",
+      "corpo_clean": "Descrever a Metodologia de Elaboração do PDTI.",
+      "id": 11099944,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Identificar e reunir os Documentos de Referência.</p>",
+      "corpo_clean": "Identificar e reunir os Documentos de Referência.",
+      "id": 11099945,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11099944",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 742065,
+  "codigo_real": "9.10.1",
+  "disciplina_real": "Arquitetura",
+  "assunto_real": "Urbanístico",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Tribunal de Justiça de Sergipe ",
+  "cargos_descricao": "Analista Judiciário - Área Apoio Especializado - Especialidade: Arquitetura",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "Uma das consequências do aumento das migrações é o\r\nsurgimento de favelas e cortiços na periferia dos centros\r\nurbanos, o que ocasiona, entre outros problemas, a poluição\r\ndas águas, problema agravado pela natureza técnica do sistema\r\nde prestação de serviços de infraestrutura urbana, que impede\r\nqualquer relacionamento com o usuário.",
+  "grupoQuestao_enunciado": "Julgue os itens a seguir, acerca da infraestrutura urbana em face do\r\ncrescimento populacional localizado e da escassez de habitações\r\ndecorrentes do processo migratório para as cidades.",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2547262,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2547263,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2547263",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

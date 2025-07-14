@@ -1,0 +1,58 @@
+{
+  "id": 3762980,
+  "codigo_real": "43.1",
+  "disciplina_real": "Direito Penal Militar",
+  "assunto_real": "Conceito e Princípios",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Exame Nacional da Magistratura",
+  "cargos_descricao": "Magistrado",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com a teoria da acessoriedade limitada, o partícipe será punido se o autor praticar uma conduta:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>típica. </p>",
+      "corpo_clean": "típica. ",
+      "id": 15322282,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>típica, ilícita e culpável.</p>",
+      "corpo_clean": "típica, ilícita e culpável.",
+      "id": 15322283,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>típica e ilícita, ainda que não se inicie os autos executórios.</p>",
+      "corpo_clean": "típica e ilícita, ainda que não se inicie os autos executórios.",
+      "id": 15322284,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>típica e ilícita, desde que o crime seja ao menos tentado. </p>",
+      "corpo_clean": "típica e ilícita, desde que o crime seja ao menos tentado. ",
+      "id": 15322285,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>típica, ilícita, culpável e punível. </p>",
+      "corpo_clean": "típica, ilícita, culpável e punível. ",
+      "id": 15322286,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15322285",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

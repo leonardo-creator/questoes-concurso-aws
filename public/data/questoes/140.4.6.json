@@ -1,0 +1,58 @@
+{
+  "id": 889728,
+  "codigo_real": "140.4.6",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Linguagens de Programação",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Instituto Brasileiro de Geografia e Estatística",
+  "cargos_descricao": "Analista Censitário - Área: Análise de Sistemas - Desenvolvimento de Aplicações",
+  "ano": 2017,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Em Java, certo método da classe A deve poder ser invocado independentemente da criação prévia de uma instância de A.\r\n</p><p>O modificador obrigatório na declaração desse método é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "abstract;",
+      "corpo_clean": "abstract;",
+      "id": 3113797,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "static;",
+      "corpo_clean": "static;",
+      "id": 3113798,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "public;",
+      "corpo_clean": "public;",
+      "id": 3113799,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "protected;",
+      "corpo_clean": "protected;",
+      "id": 3113800,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "final.",
+      "corpo_clean": "final.",
+      "id": 3113801,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3113798",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2404728,
+  "codigo_real": "59.30",
+  "disciplina_real": "Engenharia Agronômica",
+  "assunto_real": "Administração e Economia de Empresas Agrícolas - Engenharia de Produção",
+  "bancas_nome": "Instituto Brasileiro de Formação e Capacitação",
+  "bancas_sigla": "IBFC",
+  "orgaos_nome": "Prefeitura de Contagem",
+  "cargos_descricao": "Analista de Qualidade",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O diagrama de causa e efeito, também conhecido como diagrama de Ishikawa ou diagrama de espinha de peixe, é uma ferramenta de representação das possíveis causas que levam a um determinado efeito, para isso algumas etapas são fundamentais na elaboração deste diagrama. Assinale a alternativa <u>incorreta</u> sobre o exposto.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Discussão do assunto a ser analisado pelo grupo, contemplando seu processo, como ocorre, onde ocorre, áreas envolvidas e escopo</p>",
+      "corpo_clean": "Discussão do assunto a ser analisado pelo grupo, contemplando seu processo, como ocorre, onde ocorre, áreas envolvidas e escopo",
+      "id": 9521550,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Dispensa a necessidade de descrição do efeito (problema ou condição específica) no lado direito do diagrama (cabeça da espinha de peixe)</p>",
+      "corpo_clean": "Dispensa a necessidade de descrição do efeito (problema ou condição específica) no lado direito do diagrama (cabeça da espinha de peixe)",
+      "id": 9521551,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Levantamento das possíveis causas e seu agrupamento por categorias no diagrama</p>",
+      "corpo_clean": "Levantamento das possíveis causas e seu agrupamento por categorias no diagrama",
+      "id": 9521552,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Análise do diagrama elaborado e coleta de dados para determinar a frequência de ocorrência das diferentes causas</p>",
+      "corpo_clean": "Análise do diagrama elaborado e coleta de dados para determinar a frequência de ocorrência das diferentes causas",
+      "id": 9521553,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9521551",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

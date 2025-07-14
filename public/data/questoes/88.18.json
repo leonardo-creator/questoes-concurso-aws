@@ -1,0 +1,51 @@
+{
+  "id": 2759475,
+  "codigo_real": "88.18",
+  "disciplina_real": "Fonoaudiologia",
+  "assunto_real": "Análise acústica da Voz e da Fala - Análise acústica da Voz e da Fala",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Ervália",
+  "cargos_descricao": "Fonoaudiólogo",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">São características associadas à distrofia, EXCETO: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Fraqueza na fala.</p>",
+      "corpo_clean": "Fraqueza na fala.",
+      "id": 11073865,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Coordenação na fala.</p>",
+      "corpo_clean": "Coordenação na fala.",
+      "id": 11073866,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Imprecisão na dicção.</p>",
+      "corpo_clean": "Imprecisão na dicção.",
+      "id": 11073867,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Lesão no mecanismo neurológico. </p>",
+      "corpo_clean": "Lesão no mecanismo neurológico. ",
+      "id": 11073868,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11073866",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

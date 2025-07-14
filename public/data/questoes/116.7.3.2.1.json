@@ -1,0 +1,37 @@
+{
+  "id": 893540,
+  "codigo_real": "116.7.3.2.1",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Desidratação",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Câmara Legislativa do Distrito Federal",
+  "cargos_descricao": "Consultor Técnico Legislativo - Médico (Pericial)",
+  "ano": 2005,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "A taxa de filtração glomerular pode ser estimada pela\r\nmedida da depuração (clearance) de creatinina (C<sub>cr</sub>), a qual\r\né calculada pela razão entre as concentrações plasmática\r\n(P<sub>cr</sub>) e urinária (U<sub>cr</sub>) da creatinina (medidas em mg/dL)\r\nmultiplicada pelo fluxo urinário (V) (em mL/min), avaliados\r\nem 24 horas de colheita, ou seja, Ccr = (P<sub>cr</sub>/U<sub>cr</sub>) × V, cujo\r\nvalor normal varia entre 100 mL e 120 mL/min/1,73 m2 de\r\nárea da superfície corporal.",
+  "grupoQuestao_enunciado": "Após adequada avaliação clínica, baseada em apropriadas\r\ntécnicas de anamnese e exame clínico, muitas vezes o médico\r\nnecessita de exames laboratoriais não-invasivos\r\n(preferencialmente) e às vezes invasivos para a definição do\r\ndiagnóstico e a tomada de decisão quanto à melhor terapêutica a\r\nser instituída e previsão do prognóstico. Quanto a esses exames\r\nde laboratório, julgue os itens subseqüentes.",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 3128517,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 3128518,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3128518",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

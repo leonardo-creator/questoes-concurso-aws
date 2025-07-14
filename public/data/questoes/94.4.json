@@ -1,0 +1,51 @@
+{
+  "id": 2524123,
+  "codigo_real": "94.4",
+  "disciplina_real": "História",
+  "assunto_real": "História do Brasil",
+  "bancas_nome": "Crescer Consultorias",
+  "bancas_sigla": "Crescer",
+  "orgaos_nome": "Prefeitura de Cabeceiras do Piauí",
+  "cargos_descricao": "Professor do 6º ao 9º ano - História",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Seu governo é marcado por protestos e manifestações sociais. A oposição ao regime militar cresce no país. A UNE ( União Nacional dos Estudantes ) organiza, no Rio de Janeiro, a Passeata dos Cem Mil.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Em Contagem (MG) e Osasco (SP), greves de operários paralisam fábricas em protesto ao regime militar. </p><p style=\"text-align: justify;\">A guerrilha urbana começa a se organizar. Formada por jovens idealistas de esquerda, assaltam bancos e sequestram embaixadores para obterem fundos para o movimento de oposição armada. </p><p style=\"text-align: justify;\">No dia 13 de dezembro de 1968, o governo decreta o Ato Institucional Número 5 ( AI-5). </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">(www.sohistoria.com.br)</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">A leitura do texto acima, caracteriza o governo militar de qual presidente?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Costa e Silva </p>",
+      "corpo_clean": "Costa e Silva ",
+      "id": 10042333,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Médici</p>",
+      "corpo_clean": "Médici",
+      "id": 10042334,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Castelo Branco</p>",
+      "corpo_clean": "Castelo Branco",
+      "id": 10042335,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Figueiredo</p>",
+      "corpo_clean": "Figueiredo",
+      "id": 10042336,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10042333",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

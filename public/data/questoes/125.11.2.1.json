@@ -1,0 +1,51 @@
+{
+  "id": 2061191,
+  "codigo_real": "125.11.2.1",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Escola como instituição social - Tendências Pedagógicas",
+  "bancas_nome": "Associação dos Municípios do Extremo Oeste de Santa Catarina",
+  "bancas_sigla": "AMEOSC",
+  "orgaos_nome": "Prefeitura de Belmonte",
+  "cargos_descricao": "Professor de Séries Iniciais do Ensino Fundamental",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Na visão de Gomes (2000), a função social da escola é desenvolver o processo de socialização do aluno para seu desenvolvimento pleno na sociedade.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Com base nessa premissa podemos dizer que o papel da escola consiste em qual das alternativas a seguir?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Priorizar a incorporação do aluno no mundo do trabalho e a formação do cidadão para intervenção na vida pública.</p>",
+      "corpo_clean": "Priorizar a incorporação do aluno no mundo do trabalho e a formação do cidadão para intervenção na vida pública.",
+      "id": 8046264,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Garantir ao aluno capacidades para a reprodução social e cultural como requisito para a sobrevivência em sociedade.</p>",
+      "corpo_clean": "Garantir ao aluno capacidades para a reprodução social e cultural como requisito para a sobrevivência em sociedade.",
+      "id": 8046265,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Garantir, por meio da organização pedagógica e dos conteúdos estudados, que o aluno desenvolva de ideias, conhecimentos, valores e formas de conduta que a sociedade exige, tanto no mundo do trabalho como na formação cidadã.</p>",
+      "corpo_clean": "Garantir, por meio da organização pedagógica e dos conteúdos estudados, que o aluno desenvolva de ideias, conhecimentos, valores e formas de conduta que a sociedade exige, tanto no mundo do trabalho como na formação cidadã.",
+      "id": 8046266,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Possibilitar ao aluno o desenvolvimento de ideias questionadoras que possibilitem maior intervenção no processo de socialização para seu desenvolvimento pleno na sociedade.</p>",
+      "corpo_clean": "Possibilitar ao aluno o desenvolvimento de ideias questionadoras que possibilitem maior intervenção no processo de socialização para seu desenvolvimento pleno na sociedade.",
+      "id": 8046267,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "8046266",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

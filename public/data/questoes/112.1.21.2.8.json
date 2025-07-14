@@ -1,0 +1,58 @@
+{
+  "id": 1098508,
+  "codigo_real": "112.1.21.2.8",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Carta",
+  "bancas_nome": "Associação Catarinense das Fundações Educacionais",
+  "bancas_sigla": "ACAFE",
+  "orgaos_nome": "Polícia Civil de Santa Catarina",
+  "cargos_descricao": "Delegado de Polícia Substituto",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\">Assinale a alternativa que substitui convenientemente\r\nos elementos destacados em negrito, respeitadas\r\nas eventuais mudanças na forma verbal.\r\n</p><p align=\"justify\"> </p><p align=\"justify\">- A cobradora devolveu <strong>os cheques</strong> aos clientes.\r\n</p><p align=\"justify\">- Se for preciso, vamos convocar <strong>outros dois\r\natletas</strong>.\r\n </p><p align=\"justify\">- O chefe perdoa <strong>aos funcionários</strong> os pequenos\r\ndeslizes.\r\n </p><p align=\"justify\">- Enviaram a eles <strong>três pacotes de sanduíches</strong>.\r\n</p><p align=\"justify\">- Faz dias que não vejo <strong>minha irmã</strong> sair cedo.\r\n</p><p align=\"justify\"><br></p><p align=\"justify\">A sequência <strong>correta</strong>, de cima para baixo, é:</p><p><br></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>lhes - os - os - lhes - la</p>",
+      "corpo_clean": "lhes - os - os - lhes - la",
+      "id": 3885790,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>os - los - lhes - nos - a</p>",
+      "corpo_clean": "os - los - lhes - nos - a",
+      "id": 3885791,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>os - los - os - lhes - lhe</p>",
+      "corpo_clean": "os - los - os - lhes - lhe",
+      "id": 3885792,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>lhes - os - lhes - os - a</p>",
+      "corpo_clean": "lhes - os - lhes - os - a",
+      "id": 3885793,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>lhes - os - los - los - lhe</p>",
+      "corpo_clean": "lhes - os - los - los - lhe",
+      "id": 3885794,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3885791",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

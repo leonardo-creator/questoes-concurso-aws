@@ -1,0 +1,37 @@
+{
+  "id": 1293361,
+  "codigo_real": "106.5.1.3.2",
+  "disciplina_real": "Lei nº 7.210-1984 - Lei de Execução Penal - LEP",
+  "assunto_real": "Da Saída Temporária (Art. 122 a 125)",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Departamento Penitenciário Nacional",
+  "cargos_descricao": "Agente Federal de Execução Penal",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Segundo o STJ, há incompatibilidade entre o benefício da saída\r\ntemporária e prisão domiciliar por falta de estabelecimento\r\nadequado para o cumprimento de pena de reeducando que se\r\nencontre no regime semiaberto.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 4706364,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 4706365,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4706365",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

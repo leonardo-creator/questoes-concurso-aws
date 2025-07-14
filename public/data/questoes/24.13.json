@@ -1,0 +1,58 @@
+{
+  "id": 721543,
+  "codigo_real": "24.13",
+  "disciplina_real": "Contabilidade de Custos",
+  "assunto_real": "Decisão entre produzir ou comprar - Decisão entre produzir ou comprar",
+  "bancas_nome": "Magnus Auditores e Consultores",
+  "bancas_sigla": "",
+  "orgaos_nome": "Instituto Nacional de Educação de Surdos",
+  "cargos_descricao": "Contador",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Uma indústria do ramo siderúrgico apresentou os seguintes gastos: frete para\r\nentrega de encomendas de clientes; comissão de venda; seguro da fábrica; compra de\r\nmatéria-prima. De acordo com os conceitos básicos da contabilidade de custos, os\r\ngastos mencionados anteriormente são classificados, respectivamente, como:",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "custo direto; despesa; custo indireto; custo variável.",
+      "corpo_clean": "custo direto; despesa; custo indireto; custo variável.",
+      "id": 2471425,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "despesa; despesa; custo indireto; custo variável.",
+      "corpo_clean": "despesa; despesa; custo indireto; custo variável.",
+      "id": 2471426,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "despesa; custo variável; custo indireto; investimento.",
+      "corpo_clean": "despesa; custo variável; custo indireto; investimento.",
+      "id": 2471427,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "despesa; despesa; custo indireto; investimento.",
+      "corpo_clean": "despesa; despesa; custo indireto; investimento.",
+      "id": 2471428,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "custo direto; custo variável; custo direto; custo variável.",
+      "corpo_clean": "custo direto; custo variável; custo direto; custo variável.",
+      "id": 2471429,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2471428",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

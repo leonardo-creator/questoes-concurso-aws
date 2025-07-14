@@ -1,0 +1,58 @@
+{
+  "id": 2811120,
+  "codigo_real": "58.16",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Saúde da Criança",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Universidade Federal de Santa Catarina",
+  "cargos_descricao": "Residência em Enfermagem - Área: Saúde da Família",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em relação ao cuidado em saúde mental de crianças e adolescentes, assinale a alternativa INCORRETA.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Não desqualificar a busca de um adolescente pelo serviço de saúde, necessidade de escuta despreconceituosa e investigar tentativas de suicídio.</p>",
+      "corpo_clean": "Não desqualificar a busca de um adolescente pelo serviço de saúde, necessidade de escuta despreconceituosa e investigar tentativas de suicídio.",
+      "id": 11304000,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Identificação de pontos fortes, positivos da criança, por ela mesma e seus pais, possibilita a construção de vínculo com o profissional.</p>",
+      "corpo_clean": "Identificação de pontos fortes, positivos da criança, por ela mesma e seus pais, possibilita a construção de vínculo com o profissional.",
+      "id": 11304001,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A escola precisa ser interface da AB no território à implementação de ações de promoção da saúde mental e prevenção de problemas e, até mesmo, nas intervenções em situações de gravidade.</p>",
+      "corpo_clean": "A escola precisa ser interface da AB no território à implementação de ações de promoção da saúde mental e prevenção de problemas e, até mesmo, nas intervenções em situações de gravidade.",
+      "id": 11304002,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Projeto terapêutico singular e profissional de referência não se aplicam ao acompanhamento de crianças e adolescentes.</p>",
+      "corpo_clean": "Projeto terapêutico singular e profissional de referência não se aplicam ao acompanhamento de crianças e adolescentes.",
+      "id": 11304003,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Nenhuma das alternativas anteriores. </p>",
+      "corpo_clean": "Nenhuma das alternativas anteriores. ",
+      "id": 11304004,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11304003",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

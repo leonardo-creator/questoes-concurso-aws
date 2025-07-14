@@ -1,0 +1,37 @@
+{
+  "id": 617668,
+  "codigo_real": "3.18.8.4",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Método dos Incidentes Críticos",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Companhia Energética de Roraima",
+  "cargos_descricao": "Técnico em Gestão de Assistência Social - Psicologia",
+  "ano": 2004,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>O método de incidentes críticos consiste em avaliar o\r\ndesempenho dos empregados por meio de descrições de\r\ndeterminadas alternativas de tipos de desempenho\r\nindividual.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>A eficácia organizacional é fortemente influenciada pela prática da\r\ngestão de seus recursos humanos, realizada por meio da condução\r\ndos processos de recrutamento, seleção, treinamento,\r\nacompanhamento e avaliação. Acerca desse assunto, julgue os\r\nseguintes itens.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2159611,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2159612,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2159612",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

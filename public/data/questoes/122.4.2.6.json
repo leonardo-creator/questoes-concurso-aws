@@ -1,0 +1,51 @@
+{
+  "id": 3019599,
+  "codigo_real": "122.4.2.6",
+  "disciplina_real": "Nutrição",
+  "assunto_real": "Cancer - Cancer",
+  "bancas_nome": "Centro de Produção da Universidade do Rio de Janeiro",
+  "bancas_sigla": "CEPUERJ",
+  "orgaos_nome": "Universidade do Estado do Rio de Janeiro",
+  "cargos_descricao": "Residência em Nutrição - Área: Nutrição Clínica",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A quimioterapia e a radioterapia causam efeitos adversos aos pacientes, entre eles, toxicidade ao trato gastrointestinal (TGI) que provoca reações como náusea, vômito, disfagia, mucosite, diarreia, constipação, alteração no paladar, xerostomia e alteração na absorção de nutrientes. Ambos os tratamentos podem acarretar redução da ingestão alimentar, além da ocorrência de aversões alimentares específicas. Diante desse cenário, recomenda-se:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">reduzir o fracionamento e aumentar o volume das refeições em caso de disfagia</p>",
+      "corpo_clean": "reduzir o fracionamento e aumentar o volume das refeições em caso de disfagia",
+      "id": 12217565,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">evitar o uso de chicletes, balas mentoladas, gelo e picolés em caso de xerostomia</p>",
+      "corpo_clean": "evitar o uso de chicletes, balas mentoladas, gelo e picolés em caso de xerostomia",
+      "id": 12217566,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">evitar preparações frias, geladas ou em temperatura ambiente em caso de mucosite</p>",
+      "corpo_clean": "evitar preparações frias, geladas ou em temperatura ambiente em caso de mucosite",
+      "id": 12217567,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">evitar temperaturas extremas e aumentar o consumo de líquidos em caso de diarreia</p>",
+      "corpo_clean": "evitar temperaturas extremas e aumentar o consumo de líquidos em caso de diarreia",
+      "id": 12217568,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "12217568",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2953872,
+  "codigo_real": "136.6.18",
+  "disciplina_real": "Segurança e Saúde no Trabalho (Teoria e Normas)",
+  "assunto_real": "NR 17 - Ergonomia",
+  "bancas_nome": "MS Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Serviço Social da Indústria do Acre",
+  "cargos_descricao": "Ergonomista",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">“Concerne à otimização dos sistemas sociotécnicos, incluindo suas estruturas organizacionais, regras e processos. Os tópicos abordados incluem comunicações, gerenciamento de recursos dos coletivos de trabalho, projeto de trabalho, organização temporal do trabalho, trabalho em grupo, projeto participativo, novos paradigmas do trabalho, trabalho cooperativo, cultura organizacional, organizações em rede, tele-trabalho e gestão de qualidade”, (ABRAHÃO et. al. 2009, p.31). De qual domínio de especialização da ergonomia trata o excerto?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Ergonomia Física.</p>",
+      "corpo_clean": "Ergonomia Física.",
+      "id": 11928579,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Ergonomia Cognitiva.</p>",
+      "corpo_clean": "Ergonomia Cognitiva.",
+      "id": 11928580,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Ergonomia Organizacional.</p>",
+      "corpo_clean": "Ergonomia Organizacional.",
+      "id": 11928581,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Ergonomia Fisiológica.</p>",
+      "corpo_clean": "Ergonomia Fisiológica.",
+      "id": 11928582,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11928581",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

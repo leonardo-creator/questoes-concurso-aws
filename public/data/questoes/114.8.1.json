@@ -1,0 +1,37 @@
+{
+  "id": 270923,
+  "codigo_real": "114.8.1",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Valor atual",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Petróleo Brasileiro S.A",
+  "cargos_descricao": "Técnico - Área Operações",
+  "ano": 2008,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>O valor do seno do ângulo &#945; é superior a 0,8.</p>",
+  "grupoQuestao_enunciado": "<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/5243/Imagem_130.gif></P>\r\n<P align=justify>A figura acima ilustra a vista frontal de uma torre de exploração de petróleo de base quadrada. Nela, AB = 6 m, AE = BE = 5 m, &#952; é o ângulo ABD e &#945; é o ângulo BEC. Considerando essas informações, julgue os itens a seguir.</P>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1031149,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1031150,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1031149",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

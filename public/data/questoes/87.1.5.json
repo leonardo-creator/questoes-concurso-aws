@@ -1,0 +1,37 @@
+{
+  "id": 282447,
+  "codigo_real": "87.1.5",
+  "disciplina_real": "Fisioterapia",
+  "assunto_real": "Fisiologia",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Fundação de Saúde Parreiras Horta",
+  "cargos_descricao": "Fisioterapeuta",
+  "ano": 2009,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>A membrana do terminal pré-sináptico se despolariza, ocasionando\r\na abertura de canais de Na+ como portais de voltagem.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>No sistema nervoso maduro, os neurônios fazem conexões muito\r\nespecíficas em sinapses, transmitindo informações do neurônio à célula\r\npós-sináptica. Com relação a alguns dos eventos que ocorrem em uma\r\nsinapse química ativa, julgue os itens a seguir.</p>",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1060511,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1060510,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "1060511",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

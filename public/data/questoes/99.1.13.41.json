@@ -1,0 +1,37 @@
+{
+  "id": 1334064,
+  "codigo_real": "99.1.13.41",
+  "disciplina_real": "Legislação Estadual, Distrital e Municipal",
+  "assunto_real": "Lei nº 23.197/2018 - Institui o Plano Estadual de Educação – PEE – para o período de 2018 a 2027 e dá outras providências.",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Prefeitura de São Cristóvão",
+  "cargos_descricao": "Professor de Educação Básica - Área: História",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>A Secretaria Municipal da Educação, a Comissão de Educação\r\nda Câmara Municipal de São Cristóvão, o Conselho Municipal\r\nde Educação e o Fórum Municipal de Educação são instâncias\r\nque monitoram e avaliam a execução do Plano Municipal de\r\nEducação e o cumprimento de suas metas.</p>",
+  "grupoQuestao_enunciado": "<p align=\"justify\">Com base na Lei Orgânica da Prefeitura Municipal de São\r\nCristóvão, na Lei n.º 239/2015 (Plano Municipal de Educação)\r\ne na Lei Complementar n.º 16/2011 (Estatuto dos Servidores\r\nPúblicos do Município de São Cristóvão), julgue os itens\r\nsubsecutivos.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 4879551,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 4879552,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4879551",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

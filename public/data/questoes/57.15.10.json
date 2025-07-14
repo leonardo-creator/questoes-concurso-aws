@@ -1,0 +1,51 @@
+{
+  "id": 3772882,
+  "codigo_real": "57.15.10",
+  "disciplina_real": "Educação Física",
+  "assunto_real": "Boxe",
+  "bancas_nome": "Instituto Referência",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Rio Bonito",
+  "cargos_descricao": "Professor - Área: Ciências Biológicas",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Uma bola de massa 2 kg é lançada verticalmente para cima a partir do solo com uma velocidade inicial de 10 m/s. Desconsiderando a resistência do ar, determine a altura máxima que a bola alcançará. Para isso, considere g = 10m/s<sup>2</sup> .</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>5m</p>",
+      "corpo_clean": "5m",
+      "id": 15363920,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>10m</p>",
+      "corpo_clean": "10m",
+      "id": 15363921,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>15m</p>",
+      "corpo_clean": "15m",
+      "id": 15363922,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>20m</p>",
+      "corpo_clean": "20m",
+      "id": 15363923,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "15363920",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 775111,
+  "codigo_real": "46.2.8.2.6.4",
+  "disciplina_real": "Direito Processual Civil - CPC 1973",
+  "assunto_real": "Antecipação de tutela",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Defensoria Pública da União",
+  "cargos_descricao": "Defensor Público Federal de Segunda Categoria",
+  "ano": 2015,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Admite-se a concessão de antecipação dos efeitos da tutela se ficar demonstrado o fundado receio de dano irreparável ou de difícil reparação, dispensando-se, em caráter excepcional, a prova inequívoca da verossimilhança da alegação.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Considerando que o processo tem por escopo maior a resolução de conflitos na sociedade, procurando-se, por meio de um encadeamento lógico de atos previstos e praticados com base no ordenamento jurídico, garantir, tanto quanto for possível, a quem tenha um direito tudo aquilo e exatamente aquilo que ele tenha direito de conseguir, julgue os itens subsequentes.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 2688492,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 2688493,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2688493",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

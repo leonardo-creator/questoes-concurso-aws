@@ -1,0 +1,58 @@
+{
+  "id": 1432732,
+  "codigo_real": "16.16",
+  "disciplina_real": "Biblioteconomia",
+  "assunto_real": "Legislação Biblioteconomia",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Procuradoria Geral do Estado",
+  "cargos_descricao": "Técnico Superior - Área: Bibliotecário",
+  "ano": 2009,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em uma biblioteca jurídica, um usuário procura por uma resolução tomada coletivamente pelos tribunais de justiça sobre aposentadoria especial para o funcionário público, O bibliotecário deverá oferecer-lhe</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">uma doutrina.</p>",
+      "corpo_clean": "uma doutrina.",
+      "id": 5290941,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">uma sentença.</p>",
+      "corpo_clean": "uma sentença.",
+      "id": 5290942,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">uma lei ordinária.</p>",
+      "corpo_clean": "uma lei ordinária.",
+      "id": 5290943,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">um acórdão.</p>",
+      "corpo_clean": "um acórdão.",
+      "id": 5290944,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">um recurso extraordinário.</p>",
+      "corpo_clean": "um recurso extraordinário.",
+      "id": 5290945,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5290944",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3500483,
+  "codigo_real": "125.26.2",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Vygotsky",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Superior Tribunal de Justiça",
+  "cargos_descricao": "Analista Judiciário - Área Pedagogia",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p>Segundo a teoria psicológica de Vygotsky, acerca da aprendizagem:</p><p><br></p><p style=\"text-align: justify;\">O conceito de zona de desenvolvimento proximal compreende a distância entre o nível de desenvolvimento real e o nível de desenvolvimento potencial.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 14277154,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 14277155,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14277154",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

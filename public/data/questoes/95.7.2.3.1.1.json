@@ -1,0 +1,58 @@
+{
+  "id": 152486,
+  "codigo_real": "95.7.2.3.1.1",
+  "disciplina_real": "Informática",
+  "assunto_real": "Papel de Parede",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Sorocaba",
+  "cargos_descricao": "Auxiliar de Administração",
+  "ano": 2006,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<P align=justify>No Windows XP versão Professional, a partir da sua configuração padrão, a seqüência a partir do botão iniciar, para acessar a janela de diálogo <EM>Informações do sistema</EM> (vide figura) é:</P>\r\n<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/3976/17.JPG></P>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Painel de controle, Opções de acessibilidade, Ferramentas do sistema, Informações do sistema.</p>",
+      "corpo_clean": "Painel de controle, Opções de acessibilidade, Ferramentas do sistema, Informações do sistema.",
+      "id": 675678,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Painel de controle, Ferramentas administrativas, Opções do sistema, Informações do sistema.</p>",
+      "corpo_clean": "Painel de controle, Ferramentas administrativas, Opções do sistema, Informações do sistema.",
+      "id": 675683,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Todos os programas, Acessórios, Opções do sistema, Informações do sistema.</p>",
+      "corpo_clean": "Todos os programas, Acessórios, Opções do sistema, Informações do sistema.",
+      "id": 675686,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Todos os programas, Acessórios, Ferramentas administrativas, Informações do sistema.</p>",
+      "corpo_clean": "Todos os programas, Acessórios, Ferramentas administrativas, Informações do sistema.",
+      "id": 675692,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>Todos os programas, Acessórios, Ferramentas do sistema, Informações do sistema.</p>",
+      "corpo_clean": "Todos os programas, Acessórios, Ferramentas do sistema, Informações do sistema.",
+      "id": 675694,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "675694",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1301026,
+  "codigo_real": "3.1.1.1",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Conceitos de administração/organização",
+  "bancas_nome": "Fundação de Apoio à Educação e ao desenvolvimento Tecnológico do RN",
+  "bancas_sigla": "FUNCERN",
+  "orgaos_nome": "Prefeituras e Câmaras do Trairi / Agreste Potiguar",
+  "cargos_descricao": "Administrador",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>O conceito de organização pode ser definido como:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Uma combinação de esforços individuais que tem por finalidade realizar propósitos individuais e que\r\nestá em constante transformação.</p>",
+      "corpo_clean": "Uma combinação de esforços individuais que tem por finalidade realizar propósitos individuais e que está em constante transformação.",
+      "id": 4741512,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Uma combinação de esforços individuais que tem por finalidade realizar propósitos únicos.</p>",
+      "corpo_clean": "Uma combinação de esforços individuais que tem por finalidade realizar propósitos únicos.",
+      "id": 4741513,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Uma combinação de esforços individuais que tem por finalidade realizar propósitos coletivos e que\r\nestá em constante transformação.</p>",
+      "corpo_clean": "Uma combinação de esforços individuais que tem por finalidade realizar propósitos coletivos e que está em constante transformação.",
+      "id": 4741514,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Uma combinação de esforços coletivos que tem por finalidade realizar propósitos únicos.</p>",
+      "corpo_clean": "Uma combinação de esforços coletivos que tem por finalidade realizar propósitos únicos.",
+      "id": 4741515,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4741514",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

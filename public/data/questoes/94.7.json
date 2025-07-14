@@ -1,0 +1,37 @@
+{
+  "id": 2110910,
+  "codigo_real": "94.7",
+  "disciplina_real": "História",
+  "assunto_real": "Ensino de História",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Secretaria de Educação do Distrito Federal",
+  "cargos_descricao": "Professor Substituto - Área: História",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">O texto parece alertar os professores de história para o desafio de enfrentar, na sala de aula, nos tempos atuais, o “presente contínuo” em que vivem os jovens.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">A destruição do passado – ou melhor, dos mecanismos sociais que vinculam nossa experiência pessoal à das gerações passadas – é um dos fenômenos mais característicos e lúgubres do final do século XX. Quase todos os jovens de hoje crescem em uma espécie de presente contínuo, sem qualquer relação orgânica com o passado público da época em que vivem. Por isso os historiadores, cujo ofício é lembrar o que os outros esquecem, tornam-se mais importantes que nunca.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\">Eric Hobsbawm. <strong>Era dos Extremos: o breve século XX (1914-1991)</strong>.</p><p style=\"text-align: right;\">São Paulo: Companhia das Letras, 1995, p. 13 (com adaptações).</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Tendo o texto acima apenas como referência inicial, julgue os itens de <strong>61</strong> a <strong>70</strong>.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 8252174,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 8252175,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8252174",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

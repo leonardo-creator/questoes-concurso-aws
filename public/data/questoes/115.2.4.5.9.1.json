@@ -1,0 +1,58 @@
+{
+  "id": 1106782,
+  "codigo_real": "115.2.4.5.9.1",
+  "disciplina_real": "Matemática",
+  "assunto_real": "Propriedades Operatórias das Potências",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional Federal da 4ª Região",
+  "cargos_descricao": "Analista - Área Suporte à Infraestrutura de Tecnologia da Informação",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "O quociente de<img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/38174/50.gif\"> é",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/38174/a.gif\">",
+      "corpo_clean": "",
+      "id": 3923285,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/38174/b.gif\">",
+      "corpo_clean": "",
+      "id": 3923286,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/38174/c.gif\">",
+      "corpo_clean": "",
+      "id": 3923287,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=\"justify\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/38174/d.gif\"></p>",
+      "corpo_clean": "",
+      "id": 3923288,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/38174/e.gif\">",
+      "corpo_clean": "",
+      "id": 3923289,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3923287",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": true
+}

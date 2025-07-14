@@ -1,0 +1,58 @@
+{
+  "id": 1915813,
+  "codigo_real": "117.8.12",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Coloproctologia - Coloproctologia",
+  "bancas_nome": "Núcleo de Concursos e Promoção de Eventos",
+  "bancas_sigla": "NUCEPE UESPI",
+  "orgaos_nome": "Universidade Estadual do Piauí",
+  "cargos_descricao": "Residência em Coloproctologia",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O tratamento do prolapso retal pode ser realizado por diversas técnicas cirúrgicas que tem como objetivo final evitar a exteriorização do reto. Cabe ao cirurgião escolher a técnica cirúrgica mais adequada a cada paciente baseado em critérios específicos, considerando a magnitude do procedimento e as taxas de recidiva de cada técnica. Para um paciente com procidência retal, de 50 anos, com bom estado geral, sem comorbidades, qual das técnicas operatórias seria mais adequada?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Mucosectomia com grampeador mecânico.</p>",
+      "corpo_clean": "Mucosectomia com grampeador mecânico.",
+      "id": 7395735,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Retossigmoidectomia perineal.</p>",
+      "corpo_clean": "Retossigmoidectomia perineal.",
+      "id": 7395736,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Operação de Delorme.</p>",
+      "corpo_clean": "Operação de Delorme.",
+      "id": 7395737,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Retopexia ventral.</p>",
+      "corpo_clean": "Retopexia ventral.",
+      "id": 7395738,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Operação de Thiersch.</p>",
+      "corpo_clean": "Operação de Thiersch.",
+      "id": 7395739,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7395738",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

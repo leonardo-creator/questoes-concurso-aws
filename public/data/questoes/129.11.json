@@ -1,0 +1,58 @@
+{
+  "id": 1436349,
+  "codigo_real": "129.11",
+  "disciplina_real": "Química",
+  "assunto_real": "Química, Tecnologia, Sociedade e Meio Ambiente",
+  "bancas_nome": "COSEAC",
+  "bancas_sigla": "",
+  "orgaos_nome": "Universidade Federal Fluminense",
+  "cargos_descricao": "Técnico em Laboratório - Área: Química",
+  "ano": 2015,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com Pereira e Gonçalves (<em>Auriverde</em>, 2004), no livro “Legislação e Gestão Ambientais”, o conceito de meio ambiente se encontra estampado de forma expressa na Lei de: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Política Nacional do Meio Ambiente.</p>",
+      "corpo_clean": "Política Nacional do Meio Ambiente.",
+      "id": 5308835,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Crimes Ambientais.</p>",
+      "corpo_clean": "Crimes Ambientais.",
+      "id": 5308836,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Política Nacional de Resíduos Sólidos.</p>",
+      "corpo_clean": "Política Nacional de Resíduos Sólidos.",
+      "id": 5308837,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Gerenciamento Costeiro.</p>",
+      "corpo_clean": "Gerenciamento Costeiro.",
+      "id": 5308838,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Exploração Mineral.</p>",
+      "corpo_clean": "Exploração Mineral.",
+      "id": 5308839,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5308835",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

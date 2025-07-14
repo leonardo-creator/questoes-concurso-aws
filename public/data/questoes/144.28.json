@@ -1,0 +1,58 @@
+{
+  "id": 772495,
+  "codigo_real": "144.28",
+  "disciplina_real": "Veterinária",
+  "assunto_real": "Medicina Veterinária Legal",
+  "bancas_nome": "KLC Concursos",
+  "bancas_sigla": "KLC",
+  "orgaos_nome": "Prefeitura de Alto Piquiri",
+  "cargos_descricao": "Médico Veterinário",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Sobre zoonoses, assinale a resposta correta:",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "doenças cujos reservatórios são animais de zoológicos.",
+      "corpo_clean": "doenças cujos reservatórios são animais de zoológicos.",
+      "id": 2680607,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "doenças transmitidas exclusivamente por vetores.",
+      "corpo_clean": "doenças transmitidas exclusivamente por vetores.",
+      "id": 2680608,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "doenças exclusivamente transmitidas por animais silvestres.",
+      "corpo_clean": "doenças exclusivamente transmitidas por animais silvestres.",
+      "id": 2680609,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "doenças e infecções veiculadas pelos alimentos.",
+      "corpo_clean": "doenças e infecções veiculadas pelos alimentos.",
+      "id": 2680610,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "doenças e infecções naturalmente transmitidas do animal para o homem e vice-versa.",
+      "corpo_clean": "doenças e infecções naturalmente transmitidas do animal para o homem e vice-versa.",
+      "id": 2680611,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2680611",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

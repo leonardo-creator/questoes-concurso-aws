@@ -1,0 +1,51 @@
+{
+  "id": 3824453,
+  "codigo_real": "124.23",
+  "disciplina_real": "Odontologia",
+  "assunto_real": "Noções de Higiene Dental",
+  "bancas_nome": "Fundação de Apoio à educação, Pesquisae Desenvolvimento CientíficoTecnológico da Universidade Tecnológica Federal do Paraná",
+  "bancas_sigla": "FUNTEF",
+  "orgaos_nome": "Prefeitura de Vitorino",
+  "cargos_descricao": "Auxiliar de Cirurgião Dentista",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A higiene bucal requer o uso de instrumentos e medidas corretas, e para isso o paciente deve estar bem orientado de como procedê-la. A respeito da higiene de áreas proximais, assinale a alternativa que corresponde ao meio mais adequado para a limpeza dessas áreas.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Escova e enxaguante bucal.</p>",
+      "corpo_clean": "Escova e enxaguante bucal.",
+      "id": 15594920,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Palito de dente.</p>",
+      "corpo_clean": "Palito de dente.",
+      "id": 15594921,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Escova interdental.</p>",
+      "corpo_clean": "Escova interdental.",
+      "id": 15594922,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Fio dental.</p>",
+      "corpo_clean": "Fio dental.",
+      "id": 15594923,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "15594923",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1481957,
+  "codigo_real": "91.2.8.6",
+  "disciplina_real": "Geografia",
+  "assunto_real": "Recursos Hídricos - Recursos Hídricos",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Polícia Militar de São Paulo",
+  "cargos_descricao": "Soldado PM de 2ª Classe",
+  "ano": 2017,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A questão está relacionada ao mapa apresentado a seguir. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\">Brasil – Bacias hidrográficas </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/48914/questao/1481957-20210114115354000000-0.png\" style=\"display: block; margin: auto;\" align=\"center\" width=\"400\"></p><p style=\"text-align: right;\">(ANA – Agência Nacional de Águas) </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa que identifica corretamente uma das bacias hidrográficas brasileiras.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A bacia 2 abrange uma importante reserva de minérios, reconhecida internacionalmente. Como grande parte dos solos da bacia não são férteis, há pequena atividade agrícola, mas, recentemente, observa-se o avanço da pecuária destinada à produção de leite.</p>",
+      "corpo_clean": "A bacia 2 abrange uma importante reserva de minérios, reconhecida internacionalmente. Como grande parte dos solos da bacia não são férteis, há pequena atividade agrícola, mas, recentemente, observa-se o avanço da pecuária destinada à produção de leite.",
+      "id": 5513145,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A bacia 3 tem grande importância histórica; seu rio principal atravessa área de clima semiárido. A agricultura é uma das mais importantes atividades econômicas, com destaque para a fruticultura. O potencial hidrelétrico da bacia é aproveitado por várias usinas.</p>",
+      "corpo_clean": "A bacia 3 tem grande importância histórica; seu rio principal atravessa área de clima semiárido. A agricultura é uma das mais importantes atividades econômicas, com destaque para a fruticultura. O potencial hidrelétrico da bacia é aproveitado por várias usinas.",
+      "id": 5513146,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A bacia 5 ocupa área com relevo pouco ondulado, o que possibilita a existência de vários rios navegáveis, mas com pequeno potencial hidrelétrico. A área da bacia concentra a maior parte da população nas porções norte e oeste, onde estão as principais cidades.</p>",
+      "corpo_clean": "A bacia 5 ocupa área com relevo pouco ondulado, o que possibilita a existência de vários rios navegáveis, mas com pequeno potencial hidrelétrico. A área da bacia concentra a maior parte da população nas porções norte e oeste, onde estão as principais cidades.",
+      "id": 5513147,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A bacia 1 destaca-se por apresentar elevada densidade demográfica, fato que provoca impacto ambiental, principalmente nas áreas próximas às áreas metropolitanas; os modernos cultivos de grãos representam a principal utilização dos solos da bacia.</p>",
+      "corpo_clean": "A bacia 1 destaca-se por apresentar elevada densidade demográfica, fato que provoca impacto ambiental, principalmente nas áreas próximas às áreas metropolitanas; os modernos cultivos de grãos representam a principal utilização dos solos da bacia.",
+      "id": 5513148,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A bacia 4 tem a maior parte de sua área em planaltos, o que possibilita aos rios que a compõem grande potencial hidrelétrico já utilizado por várias usinas. Sob o aspecto econômico, as terras da bacia são utilizadas para cultivos de produtos destinados à exportação.</p>",
+      "corpo_clean": "A bacia 4 tem a maior parte de sua área em planaltos, o que possibilita aos rios que a compõem grande potencial hidrelétrico já utilizado por várias usinas. Sob o aspecto econômico, as terras da bacia são utilizadas para cultivos de produtos destinados à exportação.",
+      "id": 5513149,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5513146",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

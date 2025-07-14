@@ -1,0 +1,58 @@
+{
+  "id": 3797156,
+  "codigo_real": "52.14.5",
+  "disciplina_real": "Direito Tributário",
+  "assunto_real": "Lei Complementar nº 116/2003 - Dispõe sobre o Imposto Sobre Serviços de Qualquer Natureza, de competência dos Municípios e do Distrito Federal, e dá outras providências.",
+  "bancas_nome": "Legalle Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Gravataí",
+  "cargos_descricao": "Auditor Tributário",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Segundo a Lei Complementar nº 116/03, qual é a base de cálculo do Imposto sobre Serviços de Qualquer Natureza? </p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>*** O conteúdo de educação ambiental é cobrado dentro do conteúdo de conhecimentos específicos, por força do disposto no inciso IX do artigo 170 da Lei Orgânica Municipal. </strong></p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O valor dos materiais fornecidos em execução de obras de construção elétrica. </p>",
+      "corpo_clean": "O valor dos materiais fornecidos em execução de obras de construção elétrica. ",
+      "id": 15473295,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O valor dos materiais fornecidos em execução de obras de construção civil. </p>",
+      "corpo_clean": "O valor dos materiais fornecidos em execução de obras de construção civil. ",
+      "id": 15473296,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>O preço do serviço. </p>",
+      "corpo_clean": "O preço do serviço. ",
+      "id": 15473297,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>O preço das mercadorias. </p>",
+      "corpo_clean": "O preço das mercadorias. ",
+      "id": 15473298,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O valor dos materiais fornecidos em execução de reforma de edifícios.</p>",
+      "corpo_clean": "O valor dos materiais fornecidos em execução de reforma de edifícios.",
+      "id": 15473299,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15473297",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

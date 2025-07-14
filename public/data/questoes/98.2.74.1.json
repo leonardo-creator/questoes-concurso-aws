@@ -1,0 +1,58 @@
+{
+  "id": 3343694,
+  "codigo_real": "98.2.74.1",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Legislação Aplicada - SEMAE Piracicaba",
+  "bancas_nome": "Serviço de Seleção do Pessoal da Marinha",
+  "bancas_sigla": "SSPM",
+  "orgaos_nome": "Ministério da Defesa - Marinha do Brasil",
+  "cargos_descricao": "Quadro Técnico do Corpo Auxiliar da Marinha - Área: Segurança do Tráfego Aquaviário",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com a NORMAM-303/DPC, o interessado em realizar alguma obra sob, sobre ou às margens das águas jurisdicionais brasileiras deverá obter o parecer de obras junto ao Agente da Autoridade Marítima (CP/DL/AG) na área de jurisdição onde se pretende realizar O empreendimento. Esses pareceres estão divididos em Parecer de Interferência Prévia (PIP) e Parecer Provisório de Obras (PPO). Com exceção das obras que envolvam atividades de dragagens, estabelecimentos de boias de amarração, projetos referentes à retirada de cabos e descomissionamento, que seguem orientações, especificidades e características especiais nessa NORMAM, qual a validade do PIP para as demais obras?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>5 anos.</p>",
+      "corpo_clean": "5 anos.",
+      "id": 13602248,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>4 anos.</p>",
+      "corpo_clean": "4 anos.",
+      "id": 13602249,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>3 anos.</p>",
+      "corpo_clean": "3 anos.",
+      "id": 13602250,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>2 anos.</p>",
+      "corpo_clean": "2 anos.",
+      "id": 13602251,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>6 meses.</p>",
+      "corpo_clean": "6 meses.",
+      "id": 13602252,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13602249",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

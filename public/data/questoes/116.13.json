@@ -1,0 +1,58 @@
+{
+  "id": 2285709,
+  "codigo_real": "116.13",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Psicopatologia forense",
+  "bancas_nome": "Objetiva Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Antônio Prado",
+  "cargos_descricao": "Médico Psiquiatra",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O psicodrama vem ganhando espaço em nosso meio, e sua técnica atual a inda conserva o mesmo eixo fundamental constituído por seis elementos, que são:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Cenário, protagonista, diretor, ego auxiliar, público e a cena a ser apresentada.</p>",
+      "corpo_clean": "Cenário, protagonista, diretor, ego auxiliar, público e a cena a ser apresentada.",
+      "id": 9005638,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Família, sujeito, história, defesas, crenças e disfunções.</p>",
+      "corpo_clean": "Família, sujeito, história, defesas, crenças e disfunções.",
+      "id": 9005639,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Sujeito identificado, sentimentos, narrativa, processo, terapeuta e id.</p>",
+      "corpo_clean": "Sujeito identificado, sentimentos, narrativa, processo, terapeuta e id.",
+      "id": 9005640,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Roteiro, prospecto, fala, estereótipo, contexto e afeto.</p>",
+      "corpo_clean": "Roteiro, prospecto, fala, estereótipo, contexto e afeto.",
+      "id": 9005641,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Id, ego, superego, defesa, percepção distorcida e sujeito.</p>",
+      "corpo_clean": "Id, ego, superego, defesa, percepção distorcida e sujeito.",
+      "id": 9005642,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9005638",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

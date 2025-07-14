@@ -1,0 +1,58 @@
+{
+  "id": 2588253,
+  "codigo_real": "98.4.1.35.1",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Resoluções CONAMA",
+  "bancas_nome": "Instituto Federal do Piauí - IF/PI",
+  "bancas_sigla": "IFPI",
+  "orgaos_nome": "Instituto Federal de Educação Ciência e Tecnologia do Piauí",
+  "cargos_descricao": "Professor de Ensino Básico, Técnico e Tecnológico - Área: Gestão Ambiental",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um fiscal do órgão ambiental competente, após fiscalizar empresas que estavam localizadas em um parque industrial próximas a um córrego, coletou efluente lançado por uma indústria de processamento de couro. Ao analisar os resultados, <em>in loco</em>, e das análises de laboratório com os padrões de lançamento disponíveis na resolução CONAMA nº 357/2005, o fiscal viu que o efluente apresentava temperatura de _________, acima do limite, e_______ de gordura animal, o dobro do permitido. O valor do nitrogênio amoniacal total foi de________, exatamente o limite preconizado pela norma. Porém o que mais chamou atenção do técnico foi o valor medido de cromo total ______, que estava vinte vezes maior do que o máximo constante na tabela.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Complete respectivamente as lacunas do texto acima, utilizando a alternativa <strong>CORRETA</strong> e assinale-a:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>60ºC, 100mg/L, 20mg/L N e 10mg/L Cr.</p>",
+      "corpo_clean": "60ºC, 100mg/L, 20mg/L N e 10mg/L Cr.",
+      "id": 10323275,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>35ºC, 100mg/L, 20mg/L N e 5mg/L Cr.</p>",
+      "corpo_clean": "35ºC, 100mg/L, 20mg/L N e 5mg/L Cr.",
+      "id": 10323276,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>50ºC, 100mg/L, 10mg/L N e 10mg/L Cr.</p>",
+      "corpo_clean": "50ºC, 100mg/L, 10mg/L N e 10mg/L Cr.",
+      "id": 10323277,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>70ºC, 40mg/L, 20mg/L N e 5mg/L Cr.</p>",
+      "corpo_clean": "70ºC, 40mg/L, 20mg/L N e 5mg/L Cr.",
+      "id": 10323278,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>35ºC, 40mg/L, 10mg/L N e 10mg/L Cr.</p>",
+      "corpo_clean": "35ºC, 40mg/L, 10mg/L N e 10mg/L Cr.",
+      "id": 10323279,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10323275",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

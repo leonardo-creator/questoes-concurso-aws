@@ -1,0 +1,37 @@
+{
+  "id": 1534574,
+  "codigo_real": "111.7",
+  "disciplina_real": "Língua Inglesa",
+  "assunto_real": "Aspectos linguísticos | Linguistic aspects",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Polícia Rodoviária Federal",
+  "cargos_descricao": "Policial Rodoviário Federal",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Dealing with isolation and times of extreme misfortune or difficulty ensures that people will not ever find happiness in life.</p>",
+  "grupoQuestao_enunciado": "<p><strong>The Secrets to Happiness Around the World</strong></p><p><br></p><p style=\"text-indent: 2em;\">\tWith the toll 2020 took on all of us, the pursuit of</p><p>happiness seemed more challenging than ever, but we learned</p><p>that everyone can relate to isolation and dark days. How</p><p>each of us finds happiness is another story though, suggests</p><p>The Atlas of Happiness: The Global Secrets of How to Be</p><p>Happy, in which Helen Russell shares 30 countries' take on</p><p>contentment. Our list below highlights some of our favorite</p><p>cultural concepts from the book, as well as some additions.</p><p>From channeling your inner grit – or sisu, used by the Finns</p><p>to survive the Arctic darkness – to embracing life's fleeting,</p><p>imperfect moments according to the Japanese concept of wabisabi,</p><p>here are the secrets to being happy around the world.</p><p><br></p><p><strong>Sisu</strong></p><p><strong>Finland</strong></p><p style=\"text-indent: 2em;\">\tThe Finns uniquely <strong>thrive</strong> in the long, dark Arctic winter by</p><p>channeling their inner grit, or sisu, which manifests by embracing</p><p>their extreme weather – from cycling in snow or even ice</p><p>swimming. Perhaps soaking in saunas – the national pastime of</p><p>the \"happiest country in the world\" three years in a row according</p><p>to the U.N. – also has something to do with their inner glow.</p><p><br></p><p><strong>Wabi-sabi</strong></p><p><strong>Japan</strong></p><p><br></p><p style=\"text-indent: 2em;\">\tImperfection, impermanence and incompleteness is the</p><p>meaning behind the Japanese concept of wabi-sabi. In this</p><p>traditionally Buddhist country, accepting the transience of</p><p>life and embracing things in their most natural state leads</p><p>to contentment. This could be appreciating the beauty in</p><p>chipped pottery, an aging face or fleeting cherry blossoms.</p><p><br></p><p><strong>Azart</strong></p><p><strong>Russia</strong></p><p style=\"text-indent: 2em;\">\tTaking uncomfortable, almost extreme chances is the</p><p>meaning behind the Russian concept of azart. It invites</p><p>Russians' zeal for taking life by the horns and surviving</p><p>anything that comes their way. One time-honored azart</p><p>practice? Enjoy a hardy birch-twig beating in the sauna at the</p><p>nearest banya, or bathhouse.</p><p><br></p><p><strong>Saudade</strong></p><p><strong>Brazil</strong></p><p style=\"text-indent: 2em;\">\tA feeling of melancholy, longing and nostalgia for a</p><p>happiness that once was or will never happen again, saudade</p><p>is recognized in the literature and music of Brazil, Portugal</p><p>and Cape Verde. Portuguese writer Manuel de Melo describes</p><p>the concept as \"a pleasure you suffer, an ailment you enjoy.\"</p><p style=\"text-align: right;\"><br></p><p style=\"text-align: right;\"><em>Source: &lt;https://www.newsweek.com/2021/01/15/secretshappiness-</em></p><p style=\"text-align: right;\"><em>around-world-1559664.html&gt;.</em></p><p style=\"text-align: right;\"><br></p><p>According to the text, judge the following statements.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 5738067,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 5738068,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5738068",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

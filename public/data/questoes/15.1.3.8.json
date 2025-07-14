@@ -1,0 +1,51 @@
+{
+  "id": 1229562,
+  "codigo_real": "15.1.3.8",
+  "disciplina_real": "Auditoria",
+  "assunto_real": "Auditoria Integral",
+  "bancas_nome": "Universidade do Extremo Sul Catarinense",
+  "bancas_sigla": "UNESC",
+  "orgaos_nome": "Prefeitura de Laguna",
+  "cargos_descricao": "Médico",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\">De acordo com a Iniciativa Global para Doença Pulmonar Obstrutiva Crônica (DPOC), o tratamento inicial recomendado para um paciente com diagnóstico de DPOC, que apresenta falta de ar em exercícios extenuantes, que teve uma exacerbação da doença no último ano, além das imunizações e medidas não farmacológicas, é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "Broncodilatador de curta duração, se necessário.",
+      "corpo_clean": "Broncodilatador de curta duração, se necessário.",
+      "id": 4438521,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "Corticóide inalatório, diário, em baixa dose.",
+      "corpo_clean": "Corticóide inalatório, diário, em baixa dose.",
+      "id": 4438522,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "Broncodilatador de longa duração, diário.",
+      "corpo_clean": "Broncodilatador de longa duração, diário.",
+      "id": 4438523,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Antagonista de receptor de leucotrienos, diário.</p>",
+      "corpo_clean": "Antagonista de receptor de leucotrienos, diário.",
+      "id": 4438524,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4438521",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

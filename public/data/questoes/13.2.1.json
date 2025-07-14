@@ -1,0 +1,51 @@
+{
+  "id": 1925384,
+  "codigo_real": "13.2.1",
+  "disciplina_real": "Atualidades e Conhecimentos Gerais",
+  "assunto_real": "Brasil",
+  "bancas_nome": "Instituto de Desenvolvimento Educacional, Cultural e Assistencial Nacional",
+  "bancas_sigla": "IDECAN",
+  "orgaos_nome": "Prefeitura de Fervedouro",
+  "cargos_descricao": "Técnico Tributário",
+  "ano": 2016,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Os benefícios concedidos à população trabalhadora são classificados em três grandes grupos: aposentadorias, pensões e auxílios. Qual dos benefícios é concedido aos dependentes do segurado por motivo de falecimento?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Pensão.</p>",
+      "corpo_clean": "Pensão.",
+      "id": 7437914,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Aposentadoria.</p>",
+      "corpo_clean": "Aposentadoria.",
+      "id": 7437915,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Auxílio-doença.</p>",
+      "corpo_clean": "Auxílio-doença.",
+      "id": 7437916,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Auxílio-maternidade.</p>",
+      "corpo_clean": "Auxílio-maternidade.",
+      "id": 7437917,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "7437914",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

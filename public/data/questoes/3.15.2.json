@@ -1,0 +1,51 @@
+{
+  "id": 3562574,
+  "codigo_real": "3.15.2",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Gestão do Conhecimento",
+  "bancas_nome": "Instituto de Administração e Tecnologia",
+  "bancas_sigla": "ADM TEC",
+  "orgaos_nome": "Prefeitura de Iguaracy",
+  "cargos_descricao": "Agente Administrativo",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No que diz respeito à Lei nº 12.527/2011 (Lei de Acesso à Informação), marque a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A transparência passiva permite que o órgão público divulgue informações mediante solicitação do cidadão.</p>",
+      "corpo_clean": "A transparência passiva permite que o órgão público divulgue informações mediante solicitação do cidadão.",
+      "id": 14516920,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os órgãos públicos estão isentos de divulgar informações sobre licitações e contratos.</p>",
+      "corpo_clean": "Os órgãos públicos estão isentos de divulgar informações sobre licitações e contratos.",
+      "id": 14516921,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A lei aplica-se apenas ao Poder Executivo, excluindo os demais poderes.</p>",
+      "corpo_clean": "A lei aplica-se apenas ao Poder Executivo, excluindo os demais poderes.",
+      "id": 14516922,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A lei não prevê sanções para o descumprimento de suas normas.</p>",
+      "corpo_clean": "A lei não prevê sanções para o descumprimento de suas normas.",
+      "id": 14516923,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "14516920",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 3334882,
+  "codigo_real": "109.2.10.1",
+  "disciplina_real": "Língua Espanhola",
+  "assunto_real": "Indicativo",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Conselho Federal de Contabilidade",
+  "cargos_descricao": "Contador",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Releia o trecho:</p><p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\"><em>A Inteligência Artificial na contabilidade </em><strong><em>tem se tornado</em></strong><em> mais pertinente do que nunca.</em></p><p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\">Assinale a alternativa que indica corretamente o tempo da forma verbal destacada. </p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify; text-indent: 3em;\">\tA Inteligência Artificial na contabilidade tem se tornado mais pertinente do que nunca. Cada vez mais, a legislação contábil brasileira exige que as informações financeiras sejam armazenadas digitalmente. Além disso, a apuração de impostos deve ser enviada por meio de software compatível.</p><p style=\"text-align: justify; text-indent: 3em;\">\tA rápida expansão dessas normas e regulamentações, mesmo em um cenário de reforma tributária, tem exigido que os serviços necessários para garantir o cumprimento dos requisitos se tornem cada vez mais automatizados.</p><p style=\"text-indent: 3em;\">\t</p><p style=\"text-align: right; text-indent: 3em;\">\t<em>Disponível em https://www.prosoft.com.br/blog/qual-o-impacto-da-inteligencia-artificial-na-contabilidade/. Acesso em 26 jun. 2024.</em></p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Presente do indicativo. </p>",
+      "corpo_clean": "Presente do indicativo. ",
+      "id": 13566071,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Pretérito perfeito do indicativo.</p>",
+      "corpo_clean": "Pretérito perfeito do indicativo.",
+      "id": 13566072,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Pretérito imperfeito do indicativo.</p>",
+      "corpo_clean": "Pretérito imperfeito do indicativo.",
+      "id": 13566073,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Pretérito mais-que-perfeito do indicativo.</p>",
+      "corpo_clean": "Pretérito mais-que-perfeito do indicativo.",
+      "id": 13566074,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "13566072",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

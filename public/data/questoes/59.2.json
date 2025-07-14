@@ -1,0 +1,58 @@
+{
+  "id": 699326,
+  "codigo_real": "59.2",
+  "disciplina_real": "Engenharia Agronômica",
+  "assunto_real": "Química Geral, Orgânica e Analítica",
+  "bancas_nome": "COSEAC",
+  "bancas_sigla": "",
+  "orgaos_nome": "Ministerio do Desenvolvimento Agrário",
+  "cargos_descricao": "Engenheiro Agrônomo",
+  "ano": 2009,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Existeumperíodo de vida deumórgão vegetal, no qual os\r\nprocessos anabólicos (síntese) diminuem, havendo\r\npredominância dos processos catabólicos (degradações),\r\nque são responsáveis pelo envelhecimento e morte dos\r\ntecidos. Nos frutos, esses processos bioquímicos de\r\nenvelhecimento substituem as trocas químicas do\r\namadurecimento. Este período é chamado:",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "climatério;",
+      "corpo_clean": "climatério;",
+      "id": 2386836,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "senescência;",
+      "corpo_clean": "senescência;",
+      "id": 2386837,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "maturação;",
+      "corpo_clean": "maturação;",
+      "id": 2386838,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "glicólise;",
+      "corpo_clean": "glicólise;",
+      "id": 2386839,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "chilling.",
+      "corpo_clean": "chilling.",
+      "id": 2386840,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2386837",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

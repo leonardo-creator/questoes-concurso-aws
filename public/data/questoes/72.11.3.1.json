@@ -1,0 +1,37 @@
+{
+  "id": 536589,
+  "codigo_real": "72.11.3.1",
+  "disciplina_real": "Engenharia Elétrica e Engenharia Eletrônica",
+  "assunto_real": "Modulação/Demodulação em amplitude",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Secretaria de Estado de Gestão Administrativa do Distrito Federal",
+  "cargos_descricao": "Professor de Classe A - Área Eletrônica",
+  "ano": 2006,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Na técnica de modulação por amplitude, a amplitude do sinal\r\nportador varia de forma diretamente proporcional à\r\nfreqüência do sinal modulador.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Modulação é um processo em que uma propriedade ou um\r\nparâmetro de um dado sinal, chamado portador, é modificado por\r\num segundo sinal, chamado modulador. Com relação às técnicas\r\nde modulação analógica aplicadas a sistemas de telecomunicações\r\nsem fio, julgue os itens a seguir.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1934029,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1934030,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1934030",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1679857,
+  "codigo_real": "129.9.5",
+  "disciplina_real": "Química",
+  "assunto_real": "Sistemas Heterogêneos: Produto de Solubilidade (Kps). - Sistemas Heterogêneos: Produto de Solubilidade (Kps).",
+  "bancas_nome": "Serviço de Seleção do Pessoal da Marinha",
+  "bancas_sigla": "SSPM",
+  "orgaos_nome": "Ministério da Defesa - Marinha do Brasil",
+  "cargos_descricao": "Corpo Auxiliar de Praças - Área: Técnico em Química",
+  "ano": 2019,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A solubilidade de um precipitado é, por definição, igual à concentração molar da solução saturada. Ela depende de várias circunstáncias, tais como: temperatura, pressão, concentração de outros materiais na solução e da composição do solvente. Logo, considerando as reações de precipitação, é correto afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">a solubilidade dos precipitados aumenta com a temperatura em todas as reações de precipitação.</p>",
+      "corpo_clean": "a solubilidade dos precipitados aumenta com a temperatura em todas as reações de precipitação.",
+      "id": 6341198,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a solubilidade de um precipitado aumenta consideravelmente se um dos ions comuns estiver presente em excesso.</p>",
+      "corpo_clean": "a solubilidade de um precipitado aumenta consideravelmente se um dos ions comuns estiver presente em excesso.",
+      "id": 6341199,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a solubilidade do cianeto de prata pode ser suprimida pela adição de um excesso de ions prata à solução.</p>",
+      "corpo_clean": "a solubilidade do cianeto de prata pode ser suprimida pela adição de um excesso de ions prata à solução.",
+      "id": 6341200,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">para uma solução saturada de eletrólito fracamente solúvel, o produto das concentrações de seus fons constituintes aumenta com o aumento da temperatura.</p>",
+      "corpo_clean": "para uma solução saturada de eletrólito fracamente solúvel, o produto das concentrações de seus fons constituintes aumenta com o aumento da temperatura.",
+      "id": 6341201,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">se uma reação for conduzida em um recipiente aberto a uma pressão atmosférica mantendo todos os demais parâmetros invariáveis, é necessário considerar o efeito da pressão na variação da solubilidade.</p>",
+      "corpo_clean": "se uma reação for conduzida em um recipiente aberto a uma pressão atmosférica mantendo todos os demais parâmetros invariáveis, é necessário considerar o efeito da pressão na variação da solubilidade.",
+      "id": 6341202,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6341200",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

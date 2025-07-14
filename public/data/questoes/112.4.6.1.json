@@ -1,0 +1,51 @@
+{
+  "id": 2654890,
+  "codigo_real": "112.4.6.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Pronome pessoal",
+  "bancas_nome": "Instituto de Administração e Tecnologia",
+  "bancas_sigla": "ADM TEC",
+  "orgaos_nome": "Prefeitura de Cachoeirinha",
+  "cargos_descricao": "Técnico em Farmácia",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Analise as afirmativas a seguir:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. No grau normal, o adjetivo caracteriza um ou mais seres, sem indicar intensidade, como se pode observar em: “Minha mãe é bonita” ou “O vestido é verde”.</p><p style=\"text-align: justify;\">II. Um pronome é uma palavra capaz de substituir ou de acompanhar um substantivo, indicando a pessoa do discurso ou mesmo situando-o no espaço e no tempo, como no exemplo: “Nosso carro é aquele azul”.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Marque a alternativa CORRETA:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>As duas afirmativas são verdadeiras.</p>",
+      "corpo_clean": "As duas afirmativas são verdadeiras.",
+      "id": 10611341,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>A afirmativa I é verdadeira, e a II é falsa.</p>",
+      "corpo_clean": "A afirmativa I é verdadeira, e a II é falsa.",
+      "id": 10611342,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>A afirmativa II é verdadeira, e a I é falsa.</p>",
+      "corpo_clean": "A afirmativa II é verdadeira, e a I é falsa.",
+      "id": 10611343,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>As duas afirmativas são falsas.</p>",
+      "corpo_clean": "As duas afirmativas são falsas.",
+      "id": 10611344,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10611341",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

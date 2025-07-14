@@ -1,0 +1,51 @@
+{
+  "id": 2229451,
+  "codigo_real": "122.2",
+  "disciplina_real": "Nutrição",
+  "assunto_real": "Higiene e Vigilância Sanitária dos alimentos - Higiene e Vigilância Sanitária dos alimentos",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Colômbia",
+  "cargos_descricao": "Técnico em Nutrição",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A crescente valorização do setor de alimentação coletiva e a alta competitividade somadas à preocupação com a qualidade sanitária e nutricional dos alimentos alavancou a necessidade de que os estabelecimentos produtores de refeições busquem a melhoria da qualidade dos produtos e serviços oferecidos. Casos de doenças causadas por patógenos veiculados por alimentos ocorrem diariamente em todos os países. Doenças de origem alimentar são causadas principalmente pela ingestão de micro-organismos viáveis (infecção) ou toxinas que estes produzem (intoxicação) em quantidades suficientes para desenvolver a patologia. Os micro-organismos (protozoários, fungos, bactérias e vírus) são as principais causas de contaminação de alimentos. Sobre a microbiologia dos alimentos e contaminação alimentar, marque <u>V</u> para as afirmativas verdadeiras e <u>F</u> para as falsas. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">( ) A maior parte das verduras possui pH mais alto do que as frutas e, por isso, são mais susceptíveis à degradação por bactérias do que por fungos.</p><p style=\"text-align: justify;\">( ) Os fatores que afetam o desenvolvimento bacteriano são divididos em dois grupos: parâmetros intrínsecos e extrínsecos. Atividade de água e nutrientes disponíveis são dois exemplos de fatores intrínsecos. </p><p style=\"text-align: justify;\">( ) A maioria dos micro-organismos dos alimentos utiliza, exclusivamente, açúcares e carboidratos complexos como fonte de energia. </p><p style=\"text-align: justify;\">( ) Um grupo de adolescentes apresentou vômito três horas após se alimentar em um restaurante. Eles foram para o hospital e, a partir dos questionamentos do médico, percebeu-se que o único alimento ingerido em comum foi o arroz. Sendo assim, o provável agente causador da doença transmitida pelo alimento foi <em>Clostridium botulinum</em>. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">A sequência está correta em</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>F, V, V, V.</p>",
+      "corpo_clean": "F, V, V, V.",
+      "id": 8766630,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>V, V, F, F.</p>",
+      "corpo_clean": "V, V, F, F.",
+      "id": 8766631,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>V, F, V, F.</p>",
+      "corpo_clean": "V, F, V, F.",
+      "id": 8766632,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>F, F, F, V.</p>",
+      "corpo_clean": "F, F, F, V.",
+      "id": 8766633,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "8766631",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

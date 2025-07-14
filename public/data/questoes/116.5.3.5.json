@@ -1,0 +1,58 @@
+{
+  "id": 3082159,
+  "codigo_real": "116.5.3.5",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Radiação",
+  "bancas_nome": "Instituto Brasileiro de Formação e Capacitação",
+  "bancas_sigla": "IBFC",
+  "orgaos_nome": "Empresa Brasileira de Serviços Hospitalares - EBSERH",
+  "cargos_descricao": "Médico - Área Radioterapia",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Acerca dos detectores de radiação utilizados em rotinas de serviços de radioterapia, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F). </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">( ) O detector Geiger-Müller comumente utilizado em monitoração de áreas, é um exemplo de detector cintilador. </p><p style=\"text-align: justify;\">( ) O dosímetro termoluminescente (TLD), geralmente empregado em monitoração individual, é um detector passivo, isto é, guarda a informação latente relativa à dose absorvida até o momento da avaliação em laboratório. </p><p style=\"text-align: justify;\">( ) A câmara de ionização tipo Farmer, utilizada em dosimetrias de feixes de fótons, é um exemplo de um detector à gás. </p><p style=\"text-align: justify;\">( ) A câmara de ionização tipo poço, utilizada em testes dosimétricos de fontes de braquiterapia, é um exemplo de diodo de alta taxa de dose. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa que apresenta a sequência correta de cima para baixo.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>V - F - V - F</p>",
+      "corpo_clean": "V - F - V - F",
+      "id": 12490077,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>V - V - F - V</p>",
+      "corpo_clean": "V - V - F - V",
+      "id": 12490078,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>F - V - V - V</p>",
+      "corpo_clean": "F - V - V - V",
+      "id": 12490079,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>V - V - V - F</p>",
+      "corpo_clean": "V - V - V - F",
+      "id": 12490080,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>F - V - V - F</p>",
+      "corpo_clean": "F - V - V - F",
+      "id": 12490081,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12490081",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1637879,
+  "codigo_real": "72.6.5",
+  "disciplina_real": "Engenharia Elétrica e Engenharia Eletrônica",
+  "assunto_real": "Conservação Eletromecânica de Energia",
+  "bancas_nome": "Crescer Consultorias",
+  "bancas_sigla": "Crescer",
+  "orgaos_nome": "Prefeitura de Jijoca de Jericoacoara",
+  "cargos_descricao": "Engenheiro Eletricista",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Julgue se as afirmações abaixo são verdadeiras e em seguida assinale a alternativa correta:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. O equilíbrio térmico de um motor é modificado quando a tensão de alimentação varia. Uma queda de tensão limita o fluxo do circuito magnético, reduzindo as perdas no ferro e a corrente em vazio. Porém, o conjugado motor deve superar o conjugado resistente, para impedir o aumento excessivo do escorregamento. Como o conjugado motor é função do produto entre o fluxo e a intensidade da corrente absorvida, se o fluxo diminui a intensidade da corrente aumenta. Com a corrente em carga aumentada pela queda de tensão, o motor se aquecerá, aumentando as perdas.</p><p style=\"text-align: justify;\">II. Na manutenção de um transformador, um sobreaquecimento excessivo nos conectores, verificado por termovisão, pode significar a iminência de um mau contato franco e de um arco com destruição do conector.</p><p style=\"text-align: justify;\">III. É importante saber que a uma temperatura de 40ºC, a vida útil de um rolamento de esferas em funcionamento contínuo pode ser de 3 a 4 anos ou mais. No entanto, para cada 10ºC de elevação da temperatura de trabalho a vida útil diminui, em média, 50%. A correta lubrificação dos rolamentos, além de permitir uma melhoria de rendimento, evita a elevação da temperatura que prejudica a vida útil desses equipamentos.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Somente as afirmações I e II são verdadeiras.</p>",
+      "corpo_clean": "Somente as afirmações I e II são verdadeiras.",
+      "id": 6163338,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As afirmações I, II e III são verdadeiras.</p>",
+      "corpo_clean": "As afirmações I, II e III são verdadeiras.",
+      "id": 6163339,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Somente a afirmação III é verdadeira.</p>",
+      "corpo_clean": "Somente a afirmação III é verdadeira.",
+      "id": 6163340,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As afirmações I, II e III não são verdadeiras.</p>",
+      "corpo_clean": "As afirmações I, II e III não são verdadeiras.",
+      "id": 6163341,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "6163339",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3329041,
+  "codigo_real": "55.2",
+  "disciplina_real": "Direitos Humanos",
+  "assunto_real": "Direito Internacional dos Direitos Humanos",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "TSE Unificado",
+  "cargos_descricao": "Técnico - Área: Administrativa - Especialidade: Agente da Polícia Judicial",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">A Constituição Federal de 1988 prevê que todos os direitos e garantias expressos na Constituição se aplicam apenas aos cidadãos brasileiros, não sendo estendidos aos estrangeiros residentes no Brasil.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 13540497,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 13540498,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13540498",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2112383,
+  "codigo_real": "83.9",
+  "disciplina_real": "Farmácia",
+  "assunto_real": "Farmacologia",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Empresa Brasileira de Hemoderivados e Biotecnologia",
+  "cargos_descricao": "Analista Industrial - Área: Garantia da Qualidade",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre a estabilidade de medicamentos biológicos, analise as afirmativas a seguir.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><strong>I.</strong> Os programas de estabilidade de produtos biológicos manufaturados em apresentações que diferem em volume, número de unidades posológicas ou em massa podem ser delineados com base em desenhos reduzidos.</p><p style=\"text-align: justify;\"><strong>II.</strong> O agrupamento é o tipo de desenho de programa de estabilidade, no qual subgrupos de um total de amostras disponíveis são testados de maneira alternada e em frequência específica para todos os fatores de combinação.</p><p style=\"text-align: justify;\"><strong>III.</strong> A matrização é o tipo de desenho de programa de estabilidade, no qual amostras dos extremos de certos fatores são testadas, assumindo que a estabilidade de qualquer apresentação intermediária é representada pelos extremos testados.</p><p style=\"text-align: justify;\"><strong>IV. </strong>O prazo de validade de produtos biológicos pode ser alterado após o registro baseado em resultados de ensaios de estabilidade acelerada.</p><p style=\"text-align: justify;\"><strong>V.</strong> Para produtos biológicos, a avaliação de compatibilidade do produto com diluentes intravenosos, bolsas e linhas de infusão deve ser prevista no desenho dos programas de estabilidade em uso.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Está correto o que se afirma apenas em</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>As informações contextualizam as questões <u>33</u> e <u>34</u>. Leia-as atentamente. </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">“Estudo de estabilidade é um programa projetado para testar e prover evidências sobre a variação da qualidade de um IFA ou medicamento, em função do tempo, mediante influência de uma variedade de fatores intrínsecos do IFA (natureza e propriedades físico-químicas), extrínsecos (temperatura, umidade e radiação luminosa), relacionados ao tipo de forma farmacêutica (líquida, sólida, semissólida, sólido-plástica ou gasosa), ao processo produtivo e à embalagem (tipo e material).”</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/69398/grupo-questao/500140-20211223181631000000-0.png\" width=\"353\"></p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">I e II.</p>",
+      "corpo_clean": "I e II.",
+      "id": 8257215,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I e V.</p>",
+      "corpo_clean": "I e V.",
+      "id": 8257216,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">IV e V.</p>",
+      "corpo_clean": "IV e V.",
+      "id": 8257217,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I, II e III.</p>",
+      "corpo_clean": "I, II e III.",
+      "id": 8257218,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">II, III e IV.</p>",
+      "corpo_clean": "II, III e IV.",
+      "id": 8257219,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8257216",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

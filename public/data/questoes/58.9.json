@@ -1,0 +1,58 @@
+{
+  "id": 1312594,
+  "codigo_real": "58.9",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Doenças Crônicas Não Transmissíveis - Doenças Crônicas Não Transmissíveis",
+  "bancas_nome": "Universidade Federal do Paraná",
+  "bancas_sigla": "FUNPAR NC UFPR",
+  "orgaos_nome": "Universidade Federal do Paraná",
+  "cargos_descricao": "Residência em Atenção Hospitalar - Área: Atenção à Saúde da Criança e do Adolescente - Especialidade: Enfermagem",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>A má compreensão das instruções e dúvidas quanto à utilidade do tratamento são comuns entre pacientes crônicos. A possível consequência negativa imediata é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>falta de adesão ao tratamento.</p>",
+      "corpo_clean": "falta de adesão ao tratamento.",
+      "id": 4791542,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>aumento das comorbidades.</p>",
+      "corpo_clean": "aumento das comorbidades.",
+      "id": 4791543,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>insatisfação dos pacientes.</p>",
+      "corpo_clean": "insatisfação dos pacientes.",
+      "id": 4791544,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>cronicidade.</p>",
+      "corpo_clean": "cronicidade.",
+      "id": 4791545,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>desmotivação dos profissionais de saúde.</p>",
+      "corpo_clean": "desmotivação dos profissionais de saúde.",
+      "id": 4791546,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4791542",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

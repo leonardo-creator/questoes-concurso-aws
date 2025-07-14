@@ -1,0 +1,58 @@
+{
+  "id": 2496737,
+  "codigo_real": "95.6.1.2.1.7",
+  "disciplina_real": "Informática",
+  "assunto_real": "Microsoft Word 365",
+  "bancas_nome": "PS Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Ermo",
+  "cargos_descricao": "Agente Administrativo",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A criação de tabelas no programa Microsoft Word é algo bastante útil e diversas vezes utilizado. Tomando como base o programa Microsoft Word 365, em qual aba podemos adicionar uma tabela em um documento?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Desenhar</p>",
+      "corpo_clean": "Desenhar",
+      "id": 9926319,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Inserir</p>",
+      "corpo_clean": "Inserir",
+      "id": 9926320,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Design</p>",
+      "corpo_clean": "Design",
+      "id": 9926321,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Layout</p>",
+      "corpo_clean": "Layout",
+      "id": 9926322,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Exibição</p>",
+      "corpo_clean": "Exibição",
+      "id": 9926323,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9926320",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

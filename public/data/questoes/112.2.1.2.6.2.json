@@ -1,0 +1,58 @@
+{
+  "id": 2258960,
+  "codigo_real": "112.2.1.2.6.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Separação silábica (translineação) - Separação silábica (translineação)",
+  "bancas_nome": "ADVISE",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Caldas Brandão",
+  "cargos_descricao": "Auxiliar de Serviços",
+  "ano": 2016,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa que efetua CORRETAMENTE a divisão silábica da palavra retirada do <strong>Texto 01</strong>:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: center;\"><strong>(Texto 01)</strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>1</em> O liberalismo moderno nasce com a afirmação</p><p style=\"text-align: justify;\">da liberdade individual no iluminismo e seus</p><p style=\"text-align: justify;\">refleços políticos e jurídicos, principalmente nas</p><p style=\"text-align: justify;\">revoluções liberais dos séculos XVII e XVIlI,</p><p style=\"text-align: justify;\"><em>5</em> ligados à defesa da propriedade privada. Essa</p><p style=\"text-align: justify;\">liberdade afirma-se em oposição ao Estado</p><p style=\"text-align: justify;\">absoluto: a liberdade individual de escolher os</p><p style=\"text-align: justify;\">próprios destinos e os próprios valores sem</p><p style=\"text-align: justify;\">aceitar impossíveis estatais. Curiosamente,</p><p style=\"text-align: justify;\"><em>10 </em>muitos liberais afirmam essa liberdade diante do</p><p style=\"text-align: justify;\">Estado, mas a negam diante do outro, adotando</p><p style=\"text-align: justify;\">posturas conservadoras, sobretudo morais,</p><p style=\"text-align: justify;\">quanto a formas de vida alternativas,</p><p style=\"text-align: justify;\">A tributação é um dos principais problemas para</p><p style=\"text-align: justify;\"><em>15 </em>o liberalismo. No Inicio, a tributação é um reflexo</p><p style=\"text-align: justify;\">da liberdade e a reforça, pois é a saída contra a</p><p style=\"text-align: justify;\">estatização da economia no Estado Patrimonial.</p><p style=\"text-align: justify;\">O Estado Fiscal, cuja atividade financeira</p><p style=\"text-align: justify;\">depende da tributação, existe para permitir aos</p><p style=\"text-align: justify;\"><em>20 </em>indivíduos gerir seu patrimônio, garantindo a Iivre</p><p style=\"text-align: justify;\">iniciativa econômica. Para que o indivíduo possa</p><p style=\"text-align: justify;\">ter liberdade econômica, o Estado não pode</p><p style=\"text-align: justify;\">produzir; logo, o individuo precisa sustentar o</p><p style=\"text-align: justify;\">Estado, que protege sua liberdade, por meio de</p><p style=\"text-align: justify;\"><em>25 </em>impostos. O imposto, assim, é um instrumento de</p><p style=\"text-align: justify;\">garantia da liberdade econômica burguesa e seu</p><p style=\"text-align: justify;\">limite é o Direito: apenas os representantes do</p><p style=\"text-align: justify;\">povo no Parlamento podem definir o que e</p><p style=\"text-align: justify;\">quanto será tributado, respeitados os parâmetros</p><p style=\"text-align: justify;\"><em>30 </em>constitucionais.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\">(Adaptado de Gazeta do Povo, 25/08/2016)</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>“nasce” (linha 1) – “nas-ce”</p>",
+      "corpo_clean": "“nasce” (linha 1) – “nas-ce”",
+      "id": 8891245,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>“Iluminismo” (linha 2) – “Ilu-mi-nis-mo”</p>",
+      "corpo_clean": "“Iluminismo” (linha 2) – “Ilu-mi-nis-mo”",
+      "id": 8891246,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>“absoluto” (linha 7) – “a-b-so-lu-to”</p>",
+      "corpo_clean": "“absoluto” (linha 7) – “a-b-so-lu-to”",
+      "id": 8891247,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>“Curiosamente” (linha 9) – “Cu-rio-sa-men-te” </p>",
+      "corpo_clean": "“Curiosamente” (linha 9) – “Cu-rio-sa-men-te” ",
+      "id": 8891248,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>“sobretudo” (linha 12) – “sobre-tudo” </p>",
+      "corpo_clean": "“sobretudo” (linha 12) – “sobre-tudo” ",
+      "id": 8891249,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8891245",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

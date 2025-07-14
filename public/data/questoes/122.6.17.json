@@ -1,0 +1,51 @@
+{
+  "id": 1849451,
+  "codigo_real": "122.6.17",
+  "disciplina_real": "Nutrição",
+  "assunto_real": "Nutricionista na Atenção Básica de Saúde",
+  "bancas_nome": "Fundação Professor Carlos Augusto Bittencourt",
+  "bancas_sigla": "FUNCAB",
+  "orgaos_nome": "Secretaria de Administração do Estado do Tocantins",
+  "cargos_descricao": "Analista Socioeducador – Área: Nutrição",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Um paciente apresenta 170 cm de altura, peso de 96 kg. Qual é o seu IMC? </p><p>Dado: IMC= P / A<sup> 2 </sup></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>33,21 kg/m²</p>",
+      "corpo_clean": "33,21 kg/m²",
+      "id": 7109100,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>34,21 kg/m² </p>",
+      "corpo_clean": "34,21 kg/m² ",
+      "id": 7109101,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>35,21 kg/m²</p>",
+      "corpo_clean": "35,21 kg/m²",
+      "id": 7109102,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p> 36,21 kg/m² </p>",
+      "corpo_clean": " 36,21 kg/m² ",
+      "id": 7109103,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "7109100",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3748308,
+  "codigo_real": "112.4",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Classes de palavras (classes gramaticais) - Classes de palavras (classes gramaticais)",
+  "bancas_nome": "BRB Assessoria e Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Lajedinho",
+  "cargos_descricao": "Auxiliar de Consultório Odontológico",
+  "ano": 2024,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Sobre as classes gramaticais, assinale a alternativa correta:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>Leia o texto para responder as questões de 01 a 03</strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\"> S.O.S Português </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify; text-indent: 2em;\">Por que pronunciamos muitas palavras de um jeito diferente da escrita? Pode-se refletir sobre esse aspecto da língua com base em duas perspectivas. Na primeira delas, fala e escrita são dicotômicas, o que restringe o ensino da língua ao código. Daí vem o entendimento de que a escrita é mais complexa que a fala, e seu ensino restringe-se ao conhecimento das regras gramaticais, sem a preocupação com situações de uso. Outra abordagem permite encarar as diferenças como um produto distinto de duas modalidades da língua: a oral e a escrita. A questão é que nem sempre nos damos conta disso.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p><strong>Contigo</strong> vou até a Lua. (A palavra em destaque é um numeral) </p>",
+      "corpo_clean": "Contigo vou até a Lua. (A palavra em destaque é um numeral) ",
+      "id": 15258289,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p><strong>Primeiro</strong> as damas. (A palavra em destaque é um artigo) </p>",
+      "corpo_clean": "Primeiro as damas. (A palavra em destaque é um artigo) ",
+      "id": 15258290,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>O artigo ficou<strong> superinteressante</strong>. (A palavra em destaque é um pronome)</p>",
+      "corpo_clean": "O artigo ficou superinteressante. (A palavra em destaque é um pronome)",
+      "id": 15258291,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p> <strong>Chovendo</strong>, eu não vou. (A palavra em destaque é um adjetivo)</p>",
+      "corpo_clean": " Chovendo, eu não vou. (A palavra em destaque é um adjetivo)",
+      "id": 15258292,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>O <strong>Brasil </strong>é lindo. (A palavra em destaque é um substantivo)</p>",
+      "corpo_clean": "O Brasil é lindo. (A palavra em destaque é um substantivo)",
+      "id": 15258293,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15258293",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 999335,
+  "codigo_real": "91.10",
+  "disciplina_real": "Geografia",
+  "assunto_real": "Metrologia",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Companhia Pernambucana de Saneamento",
+  "cargos_descricao": "Assistente de Gestão - Área Técnico Operacional",
+  "ano": 2018,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Observe o desenho a seguir, que se encontra na escala 1:100, e\r\nno qual estão indicadas as medidas dos segmentos limitados\r\npelos pontos.</p><p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/32354/36.gif\"></p><p> A área real do quadrilátero hachurado é de</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "7,5 m2.",
+      "corpo_clean": "7,5 m2.",
+      "id": 3492320,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "8,0 m2.\r\n",
+      "corpo_clean": "8,0 m2. ",
+      "id": 3492321,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "8,5 m2.",
+      "corpo_clean": "8,5 m2.",
+      "id": 3492322,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "9,0 m2.\r\n",
+      "corpo_clean": "9,0 m2. ",
+      "id": 3492323,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": " 9,5 m2.",
+      "corpo_clean": " 9,5 m2.",
+      "id": 3492324,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3492324",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

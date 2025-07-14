@@ -1,0 +1,51 @@
+{
+  "id": 2962718,
+  "codigo_real": "112.1.19",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Análise das estruturas linguísticas do texto - Análise das estruturas linguísticas do texto",
+  "bancas_nome": "Universidade de Rio Verde",
+  "bancas_sigla": "UniRV",
+  "orgaos_nome": "Prefeitura de Rio Verde",
+  "cargos_descricao": "Agente - Área: Suporte e Higienização",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Assinale a alternativa correta sobre o texto: </p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>Leia o texto abaixo e responda às questões de 08 a 11. </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify; text-indent: 3em;\">\tÉ curioso como certas coisas vão acontecendo em volta da gente sem a gente perceber, e quando vê já estão aí firmes e antigas. Depois mudam, do mesmo jeito manso. Não me passava pela cabeça que alguém pudesse não gostar de tio Baltazar. Se aparecesse uma pessoa dizendo isso, para mim seria a maior surpresa do mundo. Pois eu tive essa surpresa, e aqui em casa mesmo.</p><p style=\"text-align: justify; text-indent: 3em;\">\tPrimeiro eu pensava que meu pai fosse muito amigo de tio Baltazar, não notava que quando mamãe falava do irmão com entusiasmo meu pai ficava calado ou saía de perto. A bomba estourou na minha cara um dia quando mamãe falava em tio Baltazar na mesa e meu pai tomava café calado. De repente meu pai empurra a xícara e diz:</p><p style=\"text-align: justify; text-indent: 3em;\">\t- Chega, Vi. Já sei que ele é a Oitava Maravilha.</p><p style=\"text-align: justify; text-indent: 3em;\">\tDizendo isso meu pai se levanta e sai da sala.</p><p style=\"text-align: justify; text-indent: 3em;\">\t- Não sei por que seu pai implica tanto com Baltazar – diz mamãe desapontada. Depois se arrepende e conserta: - Ah, bobagem minha. Seu pai deve estar nervoso por outro motivo.</p><p style=\"text-align: justify; text-indent: 3em;\">\tPassei a observar, e notei que não havia só implicância da parte de meu pai, mas uma birra mal disfarçada. Agora de sobreaviso, fui notando outras coisas mais: mamãe não se abria muito em agrados com tia Dulce; tio Baltazar fingia que não notava nem a má vontade de meu pai com ele nem a antipatia de mamãe com tia Dulce.</p><p style=\"text-align: justify; text-indent: 3em;\">\tEu já tinha me acostumado com as antipatias de meus pais, e adotado umas regras para não agravá-las, quando de repente a situação muda de água para vinho. Como foi, eu não sei direito. Só sei que houve uma briga no cartório, tio Baltazar discutiu com o escrivão e só não bateu nele porque correu gente para separar. Depois dessa briga tio Baltazar e meu pai ficaram muito amigos, formavam uma espécie de corda-e-caçamba, até pescaria faziam juntos, meu pai preparando os anzóis.</p><p style=\"text-align: justify; text-indent: 3em;\">\tMamãe ficou feliz com a amizade, elogiava tio Baltazar sem constrangimento, meu pai apoiava e completava. Um dia ele disse na minha frente que tio Baltazar era homem de muita fibra e muita visão, esquecido de quando torcia o nariz a tudo quanto mamãe dizia. Depois fiquei sabendo que a briga no cartório tinha sido em defesa de meu pai. Mas a mudança não beneficiou tia Dulce; ela continuou discretamente vetada por mamãe.</p><p style=\"text-align: justify; text-indent: 3em;\">\t</p><p style=\"text-align: justify; text-indent: 3em;\"><br></p><p style=\"text-align: right; text-indent: 3em;\">\t(VEIGA, José J. <strong>Sombras de reis barbudo</strong>s. Rio de Janeiro: Bertrand Brasil, 1989.)</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O narrador pode ser classificado como narrador personagem ou narrador em 1ª pessoa. </p>",
+      "corpo_clean": "O narrador pode ser classificado como narrador personagem ou narrador em 1ª pessoa. ",
+      "id": 11968805,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O narrador pode ser classificado como narrador observador ou narrador em 3ª pessoa.</p>",
+      "corpo_clean": "O narrador pode ser classificado como narrador observador ou narrador em 3ª pessoa.",
+      "id": 11968806,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O trecho “- Não sei por que seu pai implica tanto com Baltazar – diz mamãe desapontada” pode ser considerado um exemplo de discurso indireto.</p>",
+      "corpo_clean": "O trecho “- Não sei por que seu pai implica tanto com Baltazar – diz mamãe desapontada” pode ser considerado um exemplo de discurso indireto.",
+      "id": 11968807,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O trecho “Pois eu tive essa surpresa, e aqui em casa mesmo”, pode ser considerado um exemplo de discurso indireto livre.</p>",
+      "corpo_clean": "O trecho “Pois eu tive essa surpresa, e aqui em casa mesmo”, pode ser considerado um exemplo de discurso indireto livre.",
+      "id": 11968808,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11968805",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

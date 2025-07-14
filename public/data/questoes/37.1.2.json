@@ -1,0 +1,58 @@
+{
+  "id": 2775712,
+  "codigo_real": "37.1.2",
+  "disciplina_real": "Direito do Trabalho",
+  "assunto_real": "Fontes do Direito do Trabalho",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Procuradoria Geral do Estado",
+  "cargos_descricao": "Procurador",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">As fontes materiais encontram fundamento nos fatos políticos, econômicos, sociais e culturais aos quais a sociedade atribui certos valores que refletem na necessidade de sua regulação pelo direito.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Sobre o tema, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A fonte autônoma de origem estatal por excelência no Brasil é a Constituição Federal de 1988, que contém princípios, regras, institutos e valores respeitantes aos direitos fundamentais sociais dos trabalhadores.</p>",
+      "corpo_clean": "A fonte autônoma de origem estatal por excelência no Brasil é a Constituição Federal de 1988, que contém princípios, regras, institutos e valores respeitantes aos direitos fundamentais sociais dos trabalhadores.",
+      "id": 11147833,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">São fontes autônomas os atos normativos do Poder Público, como o decreto, a portaria, a instrução normativa e os provimentos.</p>",
+      "corpo_clean": "São fontes autônomas os atos normativos do Poder Público, como o decreto, a portaria, a instrução normativa e os provimentos.",
+      "id": 11147834,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os costumes são considerados como fontes autônomas do direito do trabalho, quando forem fruto do comportamento dos trabalhadores e empregador no âmbito da empresa.</p>",
+      "corpo_clean": "Os costumes são considerados como fontes autônomas do direito do trabalho, quando forem fruto do comportamento dos trabalhadores e empregador no âmbito da empresa.",
+      "id": 11147835,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A mediação firmada perante a Comissão de Conciliação Prévia, deve ser considerada como fonte formal heterônoma do direito do trabalho.</p>",
+      "corpo_clean": "A mediação firmada perante a Comissão de Conciliação Prévia, deve ser considerada como fonte formal heterônoma do direito do trabalho.",
+      "id": 11147836,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os acordos coletivos e as convenções coletivas de trabalho, o contrato individual de trabalho, o regulamento de empresa instituído com a participação efetiva dos trabalhadores ou do sindicato da categoria são fontes mistas, sendo consideradas como autônomas e heterônomas ao mesmo tempo.</p>",
+      "corpo_clean": "Os acordos coletivos e as convenções coletivas de trabalho, o contrato individual de trabalho, o regulamento de empresa instituído com a participação efetiva dos trabalhadores ou do sindicato da categoria são fontes mistas, sendo consideradas como autônomas e heterônomas ao mesmo tempo.",
+      "id": 11147837,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11147835",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

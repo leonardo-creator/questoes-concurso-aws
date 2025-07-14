@@ -1,0 +1,58 @@
+{
+  "id": 2917439,
+  "codigo_real": "125.1.8.3",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Transdisciplinariedade - Temas Educacionais Pedagógicos",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de São Bernardo do Campo",
+  "cargos_descricao": "Professor de Educação Básica",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Existem temas cujo estudo exige uma abordagem particularmente ampla e diversificada. Estes temas envolvem um aprender sobre a realidade, na realidade e da realidade, destinando-se também a um intervir na realidade para transformá-la. Na verdade, os temas transversais prestam-se de modo muito especial para levar à prática a concepção de formação integral da pessoa. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Com relação à transversalidade, conforme o texto de Garcia, <em>Transversalidade e Interdisciplinaridade</em>, é correto afirmar que</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">os temas transversais constituem uma disciplina à parte que, obviamente, precisa ser apresentada por um profissional academicamente bem preparado.</p>",
+      "corpo_clean": "os temas transversais constituem uma disciplina à parte que, obviamente, precisa ser apresentada por um profissional academicamente bem preparado.",
+      "id": 11774490,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">os professores precisam se dispor a interromper o assunto de suas aulas e, ao menos mensalmente, abordar os temas transversais com seus alunos.</p>",
+      "corpo_clean": "os professores precisam se dispor a interromper o assunto de suas aulas e, ao menos mensalmente, abordar os temas transversais com seus alunos.",
+      "id": 11774491,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">os temas transversais dispensam um trabalho sistemático, eles devem ser tratados espontaneamente nos diálogos em sala de aula, evitando-se uma abordagem burocrática.</p>",
+      "corpo_clean": "os temas transversais dispensam um trabalho sistemático, eles devem ser tratados espontaneamente nos diálogos em sala de aula, evitando-se uma abordagem burocrática.",
+      "id": 11774492,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">os professores precisam evitar que os temas transversais acabem englobando saberes extraescolares, algo que levaria os envolvidos no ato educativo a perderem o foco.</p>",
+      "corpo_clean": "os professores precisam evitar que os temas transversais acabem englobando saberes extraescolares, algo que levaria os envolvidos no ato educativo a perderem o foco.",
+      "id": 11774493,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">os temas transversais tratam de processos que estão sendo intensamente vividos pela sociedade, pelas comunidades, pelas famílias, pelos alunos e educadores em seu cotidiano.</p>",
+      "corpo_clean": "os temas transversais tratam de processos que estão sendo intensamente vividos pela sociedade, pelas comunidades, pelas famílias, pelos alunos e educadores em seu cotidiano.",
+      "id": 11774494,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11774494",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

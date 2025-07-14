@@ -1,0 +1,51 @@
+{
+  "id": 3363193,
+  "codigo_real": "35.14.23.6",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Dos Assuntos Municipais e Microrregionais",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Pouso Alegre",
+  "cargos_descricao": "Fiscal Sanitarista",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Após uma crescente e potencial expansão, tanto em sua economia quanto em suas divisas territoriais, o município de Araucária ficou muito próximo ao de Jequitibá; desse modo, interessados no constante crescimento e progresso dos municípios, os chefes de governo passaram a analisar a possibilidade de fundir ambos os municípios. Sob a égide da Constituição Federal de 1988, é correto afirmar que</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">é inconstitucional a fusão, incorporação ou desmembramento de Municípios, ainda que limítrofes, devido ao impacto ambiental e socioeconômico.</p>",
+      "corpo_clean": "é inconstitucional a fusão, incorporação ou desmembramento de Municípios, ainda que limítrofes, devido ao impacto ambiental e socioeconômico.",
+      "id": 13691626,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">é possível a fusão dos municípios através de lei estadual, dentro do período determinado por Lei Complementar Federal, e dependerão de consulta prévia, mediante plebiscito. </p>",
+      "corpo_clean": "é possível a fusão dos municípios através de lei estadual, dentro do período determinado por Lei Complementar Federal, e dependerão de consulta prévia, mediante plebiscito. ",
+      "id": 13691627,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a fusão poderá ocorrer mediante lei municipal e plebiscito; consulta posterior à fusão, às populações dos municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal.</p>",
+      "corpo_clean": "a fusão poderá ocorrer mediante lei municipal e plebiscito; consulta posterior à fusão, às populações dos municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal.",
+      "id": 13691628,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a fusão far-se-á por Lei Complementar Federal, mediante referendo às populações dos Municípios limítrofes, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.</p>",
+      "corpo_clean": "a fusão far-se-á por Lei Complementar Federal, mediante referendo às populações dos Municípios limítrofes, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.",
+      "id": 13691629,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "13691627",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

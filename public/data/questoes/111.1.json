@@ -1,0 +1,58 @@
+{
+  "id": 861664,
+  "codigo_real": "111.1",
+  "disciplina_real": "Língua Inglesa",
+  "assunto_real": "Gramática - Língua Inglesa",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Secretaria da Educaçãodo Espírito Santo",
+  "cargos_descricao": "Professor de Língua Inglesa",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Alberto ...... TV when the phone rang.",
+  "grupoQuestao_enunciado": "Atenção: As questões de números 47 a 70 referem-se a\r\nconhecimentos linguísticos da língua inglesa.",
+  "alternativas": [
+    {
+      "corpo": "was watching",
+      "corpo_clean": "was watching",
+      "id": 2989252,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "watching",
+      "corpo_clean": "watching",
+      "id": 2989253,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "sees",
+      "corpo_clean": "sees",
+      "id": 2989254,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "watches",
+      "corpo_clean": "watches",
+      "id": 2989255,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "seeing",
+      "corpo_clean": "seeing",
+      "id": 2989256,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2989252",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

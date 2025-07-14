@@ -1,0 +1,58 @@
+{
+  "id": 1217034,
+  "codigo_real": "39.1.2",
+  "disciplina_real": "Direito Empresarial (Comercial)",
+  "assunto_real": "Do Empresário - Do Empresário",
+  "bancas_nome": "Tribunal Regional do Trabalho 16ª Região",
+  "bancas_sigla": "TRT 16 Regiao",
+  "orgaos_nome": "Tribunal Regional do Trabalho da 16ª Região",
+  "cargos_descricao": "Juiz do Trabalho Substituto",
+  "ano": 2011,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Sobre empresário, assinale a alternativa <b>CORRETA</b>:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>É considerado empresário todo aquele que exerce profissão intelectual, de natureza científica, literária ou artística, quando em concurso de auxiliares ou colaboradores.\r\n</p>",
+      "corpo_clean": "É considerado empresário todo aquele que exerce profissão intelectual, de natureza científica, literária ou artística, quando em concurso de auxiliares ou colaboradores. ",
+      "id": 4387416,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>É obrigatória a inscrição do empresário no Registro Civil de Pessoas Naturais do seu domicílio, antes do início de sua atividade.</p>",
+      "corpo_clean": "É obrigatória a inscrição do empresário no Registro Civil de Pessoas Naturais do seu domicílio, antes do início de sua atividade.",
+      "id": 4387417,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>É vedado ao empresário instituir filial, sendo obrigado a registrar-se originariamente em cada jurisdição que exercerá atividade mercantil.</p>",
+      "corpo_clean": "É vedado ao empresário instituir filial, sendo obrigado a registrar-se originariamente em cada jurisdição que exercerá atividade mercantil.",
+      "id": 4387418,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Poderá o incapaz, por meio de representante ou devidamente assistido, continuar a empresa antes exercida por ele enquanto capaz, por seus pais ou pelo autor de herança.\r\n</p>",
+      "corpo_clean": "Poderá o incapaz, por meio de representante ou devidamente assistido, continuar a empresa antes exercida por ele enquanto capaz, por seus pais ou pelo autor de herança. ",
+      "id": 4387419,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>O empresário casado não pode, sem necessidade de outorga conjugal, qualquer que seja o regime de bens, alienar os imóveis que integrem o patrimônio da empresa ou gravá-los de ônus real.</p>",
+      "corpo_clean": "O empresário casado não pode, sem necessidade de outorga conjugal, qualquer que seja o regime de bens, alienar os imóveis que integrem o patrimônio da empresa ou gravá-los de ônus real.",
+      "id": 4387420,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4387419",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

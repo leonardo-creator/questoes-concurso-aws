@@ -1,0 +1,58 @@
+{
+  "id": 3378809,
+  "codigo_real": "125.21",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Avaliação Educacional - Avaliação Educacional",
+  "bancas_nome": "Instituto Social Univida",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Barbosa Ferraz",
+  "cargos_descricao": "Professor",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A avaliação deve ser feita de forma transparente, com o professor escutando os alunos, uma vez que estes têm o direito de opinar sobre o seu processo de avaliação. Leia as afirmações sobre a avaliação no ensino fundamental e complete-as com V, se verdadeiras e F, se Falsas: </p><p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\">( ) Enfatiza a importância de critérios, pois não pode ser praticada a partir de dados inventados pelo professor.</p><p style=\"text-align: justify;\">( ) É um momento sério e delicado, onde o professor e consequentemente a escola recolhem elementos básicos para a percepção do processo de ensino/aprendizagem. </p><p style=\"text-align: justify;\">( ) Desenvolve-se de acordo com objetivos distintos. </p><p style=\"text-align: justify;\">( ) Serve de base para tomadas de decisões no sentido de construir com e nos educandos conhecimentos, habilidades e hábitos que possibilitem o seu efetivo desenvolvimento, por meio da assimilação ativa do legado cultural da sociedade. </p><p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\">A alternativa que completa corretamente as afirmações e apresenta a sequência correta de cima para baixo é: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>V, V, V e V.</p>",
+      "corpo_clean": "V, V, V e V.",
+      "id": 13758968,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>V, F, V e F.</p>",
+      "corpo_clean": "V, F, V e F.",
+      "id": 13758969,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>F, V, V e F.</p>",
+      "corpo_clean": "F, V, V e F.",
+      "id": 13758970,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>F, F, V e V. </p>",
+      "corpo_clean": "F, F, V e V. ",
+      "id": 13758971,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>F, F, F e F.</p>",
+      "corpo_clean": "F, F, F e F.",
+      "id": 13758972,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13758968",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

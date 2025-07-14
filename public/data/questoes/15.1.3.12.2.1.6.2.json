@@ -1,0 +1,58 @@
+{
+  "id": 856797,
+  "codigo_real": "15.1.3.12.2.1.6.2",
+  "disciplina_real": "Auditoria",
+  "assunto_real": "Julgamento Profissional - Competência Territorial da Justiça do Trabalho",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional do Trabalho da 14ª Região",
+  "cargos_descricao": "Analista Judiciário - Área: Judiciária",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Apolo, auditor empregado da empresa de auditoria externa\r\nFenix S/A, foi dispensado por justa causa diante da\r\nalegação de desídia no desempenho das suas funções. O\r\ntrabalhador pretende ajuizar reclamatória trabalhista questionando\r\no motivo da rescisão e postulando o pagamento\r\nde verbas rescisórias e horas extraordinárias não remuneradas.\r\nNo caso, trata-se de empregador que promove\r\nrealização de atividades fora do lugar do contrato de trabalho.\r\nDe acordo com as regras de competência territorial\r\nApolo deverá ingressar com a ação:",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "Somente no local da prestação de serviços.",
+      "corpo_clean": "Somente no local da prestação de serviços.",
+      "id": 2965941,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "No foro de celebração do contrato ou no da prestação\r\ndos respectivos serviços.",
+      "corpo_clean": "No foro de celebração do contrato ou no da prestação dos respectivos serviços.",
+      "id": 2965942,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "Não havendo regras na Consolidação das Leis do\r\nTrabalho sobre a matéria, poderá escolher qualquer\r\ncomarca do Estado em que tem seu domicílio.",
+      "corpo_clean": "Não havendo regras na Consolidação das Leis do Trabalho sobre a matéria, poderá escolher qualquer comarca do Estado em que tem seu domicílio.",
+      "id": 2965943,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "No foro de eleição previsto no contrato de trabalho\r\nfirmado entre as partes.",
+      "corpo_clean": "No foro de eleição previsto no contrato de trabalho firmado entre as partes.",
+      "id": 2965944,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "Na sede da empresa ou na capital do Estado em\r\nque ocorreu a contratação.",
+      "corpo_clean": "Na sede da empresa ou na capital do Estado em que ocorreu a contratação.",
+      "id": 2965945,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2965942",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 3684267,
+  "codigo_real": "136.2",
+  "disciplina_real": "Segurança e Saúde no Trabalho (Teoria e Normas)",
+  "assunto_real": "Saúde e Segurança no Ambiente de Trabalho",
+  "bancas_nome": "Associação Brasileira de Concursos Públicos",
+  "bancas_sigla": "ABCP",
+  "orgaos_nome": "Prefeitura de Paulínia",
+  "cargos_descricao": "Técnico de Segurança do Trabalho",
+  "ano": 2025,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">À luz da NR 18 (Segurança e Saúde no Trabalho na Indústria da Construção), analise:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify; text-indent: 2em;\"><em>“Deve ser de, no máximo, ______ o deslocamento do trabalhador do seu posto de trabalho até a instalação sanitária mais próxima.”</em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa que completa a lacuna corretamente:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>150 metros</p>",
+      "corpo_clean": "150 metros",
+      "id": 15001478,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>100 metros</p>",
+      "corpo_clean": "100 metros",
+      "id": 15001479,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>140 metros</p>",
+      "corpo_clean": "140 metros",
+      "id": 15001480,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>120 metros</p>",
+      "corpo_clean": "120 metros",
+      "id": 15001481,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "15001478",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

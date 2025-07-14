@@ -1,0 +1,58 @@
+{
+  "id": 2113103,
+  "codigo_real": "51.7",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Sistema Único de Saúde (SUS)",
+  "bancas_nome": "Fundação Professor Carlos Augusto Bittencourt",
+  "bancas_sigla": "FUNCAB",
+  "orgaos_nome": "Prefeitura de Serra",
+  "cargos_descricao": "Assistente Social",
+  "ano": 2011,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O número de casos existentes de uma determinada doença, em uma determinada população e em um dado momento, denomina-se:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>endemia.</p>",
+      "corpo_clean": "endemia.",
+      "id": 8260393,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>prevalência.</p>",
+      "corpo_clean": "prevalência.",
+      "id": 8260394,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>epidemia.</p>",
+      "corpo_clean": "epidemia.",
+      "id": 8260395,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>incidência.</p>",
+      "corpo_clean": "incidência.",
+      "id": 8260396,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>letalidade.</p>",
+      "corpo_clean": "letalidade.",
+      "id": 8260397,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8260394",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

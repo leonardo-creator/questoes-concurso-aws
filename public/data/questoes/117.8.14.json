@@ -1,0 +1,58 @@
+{
+  "id": 1653185,
+  "codigo_real": "117.8.14",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Endocrinologia - Endocrinologia",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Prefeitura de Balneário Camboriú",
+  "cargos_descricao": "Médico Endocrinologista",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Dentre as neoplasias da tireoide, temos o carcinoma papilífero. Sobre ele, é <strong>correto </strong>afirmar que: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">É mais prevalente no sexo feminino.</p>",
+      "corpo_clean": "É mais prevalente no sexo feminino.",
+      "id": 6229828,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Nunca invade linfáticos e linfonodos.</p>",
+      "corpo_clean": "Nunca invade linfáticos e linfonodos.",
+      "id": 6229829,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">É a neoplasia benigna mais frequente da tireoide.</p>",
+      "corpo_clean": "É a neoplasia benigna mais frequente da tireoide.",
+      "id": 6229830,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Microscopicamente é comum o achado de corpos de Lyel.</p>",
+      "corpo_clean": "Microscopicamente é comum o achado de corpos de Lyel.",
+      "id": 6229831,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Frequentemente é agressivo e cursa com metástases para os linfonodos do pescoço.</p>",
+      "corpo_clean": "Frequentemente é agressivo e cursa com metástases para os linfonodos do pescoço.",
+      "id": 6229832,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6229828",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

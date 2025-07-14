@@ -1,0 +1,58 @@
+{
+  "id": 2830842,
+  "codigo_real": "17.5",
+  "disciplina_real": "Biologia",
+  "assunto_real": "Reino Animal",
+  "bancas_nome": "Universidade de Blumenau",
+  "bancas_sigla": "FURB",
+  "orgaos_nome": "Prefeitura de Guabiruba",
+  "cargos_descricao": "Professor - Área: Ciências",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O reino Animalia ou Metazoa está composto por organismos pluricelulares, eucariontes, heterótrofos e que normalmente se desenvolvem a partir de uma blástula. Este grupo está dividido em uma série de filos, sendo os mais importantes: Porifera, Cnidaria, Platyhelminthes, Nematoda, Annelida, Mollusca, Arthropoda, Echinodermata e Chordata. Com relação aos filos, é correto afirmar: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I- Os poríferos são animais sésseis e assimétricos, que carecem de sistema nervoso e tecidos diferenciados. </p><p style=\"text-align: justify;\">II- Os platelmintos correspondem a animais cilíndricos e alongados, não segmentados, com simetria bilateral e sexos separados. </p><p style=\"text-align: justify;\">III- Nematoda é um filo de animais exclusivamente aquáticos, com corpo achatado, tubo digestivo incompleto e simetria bilateral. </p><p style=\"text-align: justify;\">IV- Os anelídeos correspondem a organismos segmentados, com simetria bilateral e respiração cutânea. </p><p style=\"text-align: justify;\">V- Os moluscos são animais com exoesqueleto calcário e simetria pentarradial, os quais apresentam fecundação externa e sistema nervoso simples. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa correta:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Apenas as afirmativas I, II e IV estão corretas.</p>",
+      "corpo_clean": "Apenas as afirmativas I, II e IV estão corretas.",
+      "id": 11391209,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Apenas as afirmativas II e V estão corretas.</p>",
+      "corpo_clean": "Apenas as afirmativas II e V estão corretas.",
+      "id": 11391210,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Apenas as afirmativas I, II e III estão corretas.</p>",
+      "corpo_clean": "Apenas as afirmativas I, II e III estão corretas.",
+      "id": 11391211,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Apenas as afirmativas I e IV estão corretas.</p>",
+      "corpo_clean": "Apenas as afirmativas I e IV estão corretas.",
+      "id": 11391212,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Apenas a afirmativa IV está correta. </p>",
+      "corpo_clean": "Apenas a afirmativa IV está correta. ",
+      "id": 11391213,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11391212",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

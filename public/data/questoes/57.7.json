@@ -1,0 +1,37 @@
+{
+  "id": 776804,
+  "codigo_real": "57.7",
+  "disciplina_real": "Educação Física",
+  "assunto_real": "Competições e Organizações de Eventos Esportivos e Culturais",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Fundação Universidade de Brasília",
+  "cargos_descricao": "Técnico Desportivo",
+  "ano": 2015,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "Nos torneios disputados em um processo combinado entre\r\neliminatória simples e play-off com cinco partidas e realizado\r\nsomente na rodada final, é garantida a maior participação de\r\ntodas as equipes no evento.",
+  "grupoQuestao_enunciado": "Para se organizar um campeonato esportivo, alguns detalhes devem\r\nser analisados em relação à escolha e aplicação dos sistemas de\r\ndisputa. Com referência a esse assunto, julgue os itens\r\nsubsequentes.",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2692378,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2692379,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2692379",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

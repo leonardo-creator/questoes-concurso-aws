@@ -1,0 +1,58 @@
+{
+  "id": 1936357,
+  "codigo_real": "117.8.37",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Obstetrícia - Ginecologia",
+  "bancas_nome": "Núcleo de Computação Eletrônica UFRJ",
+  "bancas_sigla": "NCE",
+  "orgaos_nome": "Secretaria de Saúde do Piauí",
+  "cargos_descricao": "Médico Ginecologista e Obstetra",
+  "ano": 2006,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Paciente de 30 anos deu entrada na emergência com quadro de dor pélvica, sangramento vaginal volumoso, vômitos e febre. Encontra-se hipocorada 2+/4+, sudoreica, PA: 70x40mmHg e com sinais de irritação peritoneal. Familiares relatam que ela procurou “ajuda de um aborteiro” devido ao atraso mestrual. A conduta adequada neste caso, além do suporte hemodinâmico é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">antibiótico + estrogênio venoso, e observação;</p>",
+      "corpo_clean": "antibiótico + estrogênio venoso, e observação;",
+      "id": 7485449,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>antibiótico venoso e curetagem uterina;</p>",
+      "corpo_clean": "antibiótico venoso e curetagem uterina;",
+      "id": 7485450,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>antibiótico venoso e laparotomia;</p>",
+      "corpo_clean": "antibiótico venoso e laparotomia;",
+      "id": 7485451,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>antibiótico e metrotexate venoso;</p>",
+      "corpo_clean": "antibiótico e metrotexate venoso;",
+      "id": 7485452,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>antibiótico venoso e laparoscopia + histeroscopia diagnóstica.</p>",
+      "corpo_clean": "antibiótico venoso e laparoscopia + histeroscopia diagnóstica.",
+      "id": 7485453,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7485451",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

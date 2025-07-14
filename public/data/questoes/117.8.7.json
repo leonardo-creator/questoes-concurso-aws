@@ -1,0 +1,58 @@
+{
+  "id": 2197644,
+  "codigo_real": "117.8.7",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Cardiologia - Cardiologia",
+  "bancas_nome": "Instituto Brasileiro de Formação e Capacitação",
+  "bancas_sigla": "IBFC",
+  "orgaos_nome": "Empresa Brasileira de Serviços Hospitalares - EBSERH",
+  "cargos_descricao": "Médico - Área: Cardiologia",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em pacientes sem doença cardíaca estrutural, as drogas mais indicadas para evitar a recorrência da fbrilação atrial são:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Sotalol, amiodarona e propafenona</p>",
+      "corpo_clean": "Sotalol, amiodarona e propafenona",
+      "id": 8628518,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Amiodarona, sotalol e verapamil </p>",
+      "corpo_clean": "Amiodarona, sotalol e verapamil ",
+      "id": 8628519,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Digoxina, diltiazem e amiodarona</p>",
+      "corpo_clean": "Digoxina, diltiazem e amiodarona",
+      "id": 8628520,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Digoxina e amiodarona</p>",
+      "corpo_clean": "Digoxina e amiodarona",
+      "id": 8628521,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Propafenona, digoxina e sotalol</p>",
+      "corpo_clean": "Propafenona, digoxina e sotalol",
+      "id": 8628522,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8628518",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1608502,
+  "codigo_real": "112.1.22.1.3",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Continuidade (ou progressão) textual",
+  "bancas_nome": "Comissão Permanente do Vestibular da Universidade Federal do Rio Grande do Norte",
+  "bancas_sigla": "COMPERVE UFRN",
+  "orgaos_nome": "Universidade Federal do Rio Grande do Norte",
+  "cargos_descricao": "Técnico em Laboratório - Área: Patologia Clínica",
+  "ano": 2016,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A progressão do tema desenvolvido no texto obedece à seguinte sequenciação:</p>",
+  "grupoQuestao_enunciado": "<p><strong>As questões de número 01 a 10 referem-se ao texto abaixo. </strong></p><p style=\"text-align: center;\"><strong>Na corrida contra a demência </strong></p><p style=\"text-align: right;\"><em>Gláucia Leal</em></p><p style=\"text-indent: 1em; text-align: justify;\">\t“Sorte daqueles que não têm de morrer”, diz um provérbio tibetano que, volta e meia, me vem à cabeça. A frase – ligeiramente irônica, já que a finitude é inevitável – tem, como contexto, a crença na lei de causas e consequências, segundo a qual teremos de nos haver com as repercussões de nossos atos, nossas intenções e nossas palavras – nesta ou em outras existências. E não porque tenhamos de ser castigados, mas sim porque prevalece a ideia de que nada nos acontece sem que, em algum momento, tenhamos criado as causas para isso. Fazendo uma releitura do ditado oriental, tomo a liberdade de dizer que teríamos sorte se não tivéssemos de envelhecer. Esse desfecho não é inevitável, claro, mas a alternativa também não parece nada atraente. Na maioria absoluta, ansiamos pela vida. Com o aumento dessa expectativa, o problema é chegarem também os “males” dos desgastes impostos pelo tempo. A demência, que nos rouba de nós mesmos, talvez seja um dos mais temidos.</p><p style=\"text-indent: 1em; text-align: justify;\">\tO mais prevalente desses quadros é a doença de Alzheimer. A patologia pode ter evoluído concomitantemente com a inteligência humana. Em artigo publicado no periódico científico <em>bioRxiv</em>, cientistas afirmaram ter encontrado evidências de que, entre 50 mil e 200 mil anos atrás, a seleção natural impulsionou mudanças em seis genes envolvidos no desenvolvimento cerebral, o que pode ter contribuído para aumentar a conectividade neuronal, tornando os humanos modernos mais inteligentes à medida que evoluíram de seus ancestrais hominídeos. Essa nova capacidade intelectual, porém, não veio sem custo: os mesmos genes estão implicados no Alzheimer. O geneticista Kun Tang, do Instituto de Ciências Bi ológicas de Xangai, na China, que liderou a pesquisa, especula que o distúrbio de memória se desenvolveu à medida que cérebros em processo de envelhecimento lutavam com novas demandas metabólicas impostas pela crescente inteligência.</p><p style=\"text-indent: 1em; text-align: justify;\">\tMas essa é só uma parte da história: se a capacidade de aprender e memorizar nos penaliza, ela também acena com a possibilidade de afastar a manifestação do Alzheimer, às vezes por vários anos ou até por toda a vida. O neurocientista David A. Bennett, diretor do Centro Rush da Doença de Alzheimer em Chicago, um dos mais renomados pesquisadores na área, revela uma descoberta surpreendente: pessoas com a mesma condição cerebral podem apresentar estado mental completamente diferente. Enquanto uma perde a memória, outra se mostra lúcida e capaz. Ou seja, mais importante do que o estado físico dos tecidos é o uso que se faz deles, apesar dos danos.</p><p style=\"text-indent: 1em; text-align: justify;\">\tPara ganhar a corrida contra a demência, duas armas são fundamentais: afeto e exercício intelectual. Apostar no que faz bem, manter pessoas queridas por perto, cultivar relações de intimidade, cuidar de animais e se divertir, movimentar o corpo, passear, falar mais de um idioma e aprender coisas contribui para postergar o surgimento do Alzheimer e diminuir o número de anos que se passa doente no fim da vida. Curiosamente, parece que a prevenção está justamente no que tende a nos tornar mais felizes.</p><p style=\"text-indent: 1em; text-align: right;\">\tDisponível em: &lt;https://www2.uol.com.br&gt; . Acesso em: 10 set. 2016. [Texto adaptado]</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">no primeiro parágrafo, insere-se, em um cenário bastante amplo, o problema em foco; no segundo e no terceiro parágrafos, propõe-se encaminhamento para enfrentar o problema; e, no quarto parágrafo, apresentam-se aspectos característicos do problema.</p>",
+      "corpo_clean": "no primeiro parágrafo, insere-se, em um cenário bastante amplo, o problema em foco; no segundo e no terceiro parágrafos, propõe-se encaminhamento para enfrentar o problema; e, no quarto parágrafo, apresentam-se aspectos característicos do problema.",
+      "id": 6040273,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> no primeiro e no segundo parágrafos, insere-se, em um cenário bastante amplo, o problema em foco; no terceiro e no quarto parágrafos, propõe-se encaminhamento para enfrentar o problema. </p>",
+      "corpo_clean": " no primeiro e no segundo parágrafos, insere-se, em um cenário bastante amplo, o problema em foco; no terceiro e no quarto parágrafos, propõe-se encaminhamento para enfrentar o problema. ",
+      "id": 6040274,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">no primeiro parágrafo, insere-se, em um cenário bastante amplo, o problema em foco; no segundo e no terceiro parágrafos, apresentam-se aspectos característicos do problema; e, no último parágrafo, propõe-se encaminhamento para enfrentar o problema.</p>",
+      "corpo_clean": "no primeiro parágrafo, insere-se, em um cenário bastante amplo, o problema em foco; no segundo e no terceiro parágrafos, apresentam-se aspectos característicos do problema; e, no último parágrafo, propõe-se encaminhamento para enfrentar o problema.",
+      "id": 6040275,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> no primeiro e no segundo parágrafos, apresentam-se aspectos característicos do problema em foco; e, no terceiro e no quarto parágrafos, insere-se, em um cenário bastante amplo, o problema.</p>",
+      "corpo_clean": " no primeiro e no segundo parágrafos, apresentam-se aspectos característicos do problema em foco; e, no terceiro e no quarto parágrafos, insere-se, em um cenário bastante amplo, o problema.",
+      "id": 6040276,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "6040275",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 976396,
+  "codigo_real": "100.4.7.27",
+  "disciplina_real": "Legislação Federal",
+  "assunto_real": "Lei nº 10.637/02 -Dispõe sobre a não-cumulatividade na cobrança da contribuição para os Programas de Integração Social (PIS) e de Formação do Patrimônio do Servidor Público (Pasep), nos casos que especifica; sobre o pagamento e o parcelamento de débitos t",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Agência Nacional de Telecomunicações",
+  "cargos_descricao": "Analista Administrativo - Área Contabilidade",
+  "ano": 2004,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com a Lei n.º 4.320/1964, o balanço patrimonial deverá evidenciar: o ativo circulante, o ativo realizável a longo prazo, o ativo permanente, o passivo circulante, o exigível a longo prazo, o resultado dos exercícios futuros e o patrimônio líquido.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">O art. 71 da Lei n.º 4.320/1964 dispõe que constitui fundo especial o produto de receitas especificadas que por lei se vinculam à realização de determinados objetivos ou serviços, facultada a adoção de normas peculiares de aplicação. Com relação a esse artigo e ao fundo especial constante do balanço patrimonial das unidades orçamentárias, julgue os itens que se seguem.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 3416231,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 3416232,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3416232",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

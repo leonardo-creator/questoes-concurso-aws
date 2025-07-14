@@ -1,0 +1,58 @@
+{
+  "id": 3677802,
+  "codigo_real": "77.5.2.1",
+  "disciplina_real": "Engenharia Mecânica",
+  "assunto_real": "Soldagem",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Serviço Autônomo de Água, Esgotos e Resíduos Sólidos de Aparecida",
+  "cargos_descricao": "Mecânico de Manutenção",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em relação aos processos de soldagem MIG e oxiacetilênica, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A solda MIG é realizada por meio de um arco elétrico entre a peça e um eletrodo revestido em forma de vareta. Já na solda oxiacetilênica, a fusão das peças é realizada por meio do calor gerado no processo de combustão da mistura do acetileno com oxigênio.</p>",
+      "corpo_clean": "A solda MIG é realizada por meio de um arco elétrico entre a peça e um eletrodo revestido em forma de vareta. Já na solda oxiacetilênica, a fusão das peças é realizada por meio do calor gerado no processo de combustão da mistura do acetileno com oxigênio.",
+      "id": 14974674,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A solda MIG é realizada por meio de um arco elétrico entre a peça e um eletrodo consumível em forma de arame, protegido por um gás inerte. Já na solda oxiacetilênica, a fusão das peças é realizada por meio de um eletrodo de tungstênio sem a necessidade de proteção por um gás.</p>",
+      "corpo_clean": "A solda MIG é realizada por meio de um arco elétrico entre a peça e um eletrodo consumível em forma de arame, protegido por um gás inerte. Já na solda oxiacetilênica, a fusão das peças é realizada por meio de um eletrodo de tungstênio sem a necessidade de proteção por um gás.",
+      "id": 14974675,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A solda MIG é realizada por meio de um arco elétrico entre a peça e um eletrodo consumível em forma de arame, protegido por um gás inerte. Já na solda oxiacetilênica, a fusão das peças é realizada por meio do calor gerado no processo de combustão da mistura do acetileno com oxigênio.</p>",
+      "corpo_clean": "A solda MIG é realizada por meio de um arco elétrico entre a peça e um eletrodo consumível em forma de arame, protegido por um gás inerte. Já na solda oxiacetilênica, a fusão das peças é realizada por meio do calor gerado no processo de combustão da mistura do acetileno com oxigênio.",
+      "id": 14974676,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A solda MIG é realizada por meio do calor gerado pela combustão de gases, proporcionando a fusão das peças. Já na solda oxiacetilênica, a fusão é feita a partir de um arco elétrico entre a peça e um eletrodo consumível com proteção por um gás ativo.</p>",
+      "corpo_clean": "A solda MIG é realizada por meio do calor gerado pela combustão de gases, proporcionando a fusão das peças. Já na solda oxiacetilênica, a fusão é feita a partir de um arco elétrico entre a peça e um eletrodo consumível com proteção por um gás ativo.",
+      "id": 14974677,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A solda MIG é realizada por meio de um arco elétrico entre a peça e um eletrodo consumível em forma de arame, protegido por um gás ativo. Já na solda oxiacetilênica, a fusão das peças é realizada por meio do calor gerado no processo de combustão da mistura do acetileno com nitrogênio. </p>",
+      "corpo_clean": "A solda MIG é realizada por meio de um arco elétrico entre a peça e um eletrodo consumível em forma de arame, protegido por um gás ativo. Já na solda oxiacetilênica, a fusão das peças é realizada por meio do calor gerado no processo de combustão da mistura do acetileno com nitrogênio. ",
+      "id": 14974678,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14974676",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 3121384,
+  "codigo_real": "83.24.1",
+  "disciplina_real": "Farmácia",
+  "assunto_real": "Coleta de Material Biológico e Biossegurança no Laboratório Clínico",
+  "bancas_nome": "Consultoria Público-Privada",
+  "bancas_sigla": "Instituto CONSULPAM",
+  "orgaos_nome": "Consórcio Intermunicipal de Saúde Costa Oeste do Paraná",
+  "cargos_descricao": "Técnico em Laboratório",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em se tratando de coleta de sangue, esse é um procedimento utilizado para uma série de testes e exames de vital importância para inúmeros tratamentos médicos. Analise nos itens abaixo, o que é CORRETO se fazer nesse procedimento: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I- Coloque a agulha na seringa sem retirar a capa protetora. Não toque na parte inferior da agulha. Movimente o êmbolo e pressione-o para retirar o ar. </p><p style=\"text-align: justify;\">II- Ajuste o garrote e escolha a vela. Faça a antissepsia do local da coleta com algodão umedecido em álcool a 70% ou álcool iodado a 1%. Não toque mais no local desinfetado. </p><p style=\"text-align: justify;\">III- Retire a capa da agulha e faça a punção. O garrote permanece pressionando o braço até o final da coleta. </p><p style=\"text-align: justify;\">IV- Colete aproximadamente 10 ml de sangue. Em crianças, colete de 2 a 5 ml. Esses valores podem variar dependendo da necessidade. Separe a agulha da seringa com o auxílio de uma pinça, descarte a agulha em recipiente de boca larga, paredes rígidas e tampa, contendo hipoclorito de sódio a 2%. </p><p style=\"text-align: justify;\">V- Oriente o paciente a pressionar com algodão a parte puncionada, mantendo o braço estendido, sem dobrá-lo. Transfira o sangue para um tubo de ensaio sem anticoagulante, escorra delicadamente o sangue pela parede do tubo. Este procedimento evita a hemólise da amostra. Descarte a seringa no mesmo recipiente de descarte da agulha. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Analisados os itens é CORRETO afirmar que: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Apenas o item I está incorreto. </p>",
+      "corpo_clean": "Apenas o item I está incorreto. ",
+      "id": 12663668,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Apenas o item II está incorreto.</p>",
+      "corpo_clean": "Apenas o item II está incorreto.",
+      "id": 12663669,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Apenas o item III está incorreto. </p>",
+      "corpo_clean": "Apenas o item III está incorreto. ",
+      "id": 12663670,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Apenas os itens IV e V estão incorretos. </p>",
+      "corpo_clean": "Apenas os itens IV e V estão incorretos. ",
+      "id": 12663671,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "12663670",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

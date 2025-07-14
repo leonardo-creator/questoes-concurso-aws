@@ -1,0 +1,51 @@
+{
+  "id": 1098296,
+  "codigo_real": "140.4.2",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Algoritmos e estrutura de dados",
+  "bancas_nome": "Universidade Municipal de São Caetano do Sul",
+  "bancas_sigla": "USCS",
+  "orgaos_nome": "Prefeitura de Mogi das Cruzes",
+  "cargos_descricao": "Orientador de Informática",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Na área de programação e construção de algoritmos o Português Estruturado está associado às alternativas que seguem, exceto pelo que se descreve na alternativa:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Análise Léxica.</p>",
+      "corpo_clean": "Análise Léxica.",
+      "id": 3884790,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Pseudocódigo.</p>",
+      "corpo_clean": "Pseudocódigo.",
+      "id": 3884791,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Portugol.</p>",
+      "corpo_clean": "Portugol.",
+      "id": 3884792,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Pseudolinguagem.</p>",
+      "corpo_clean": "Pseudolinguagem.",
+      "id": 3884793,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "3884790",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

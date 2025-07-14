@@ -1,0 +1,58 @@
+{
+  "id": 338161,
+  "codigo_real": "60.7",
+  "disciplina_real": "Engenharia Ambiental e Sanitária",
+  "assunto_real": "Gestão Ambiental - Gestão Ambiental",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Tribunal de Contas do Tocantins",
+  "cargos_descricao": "Analista de Controle Externo - Área Controle Externo - Especialidade: Engenharia Ambiental",
+  "ano": 2009,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>A série ISO 14000 é um conjunto de normas que servem para\r\nnortear a implantação de sistema de gestão ambiental em uma\r\nempresa. A respeito da ISO 14000, assinale a opção correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>As normas da série ISO 14000 estabelecem critérios\r\npara a certificação tanto de empresas quanto de seus\r\nprodutos.</p>",
+      "corpo_clean": "As normas da série ISO 14000 estabelecem critérios para a certificação tanto de empresas quanto de seus produtos.",
+      "id": 1208876,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>As normas da série ISO 14000 aplicam-se às atividades\r\nindustriais e agroindustriais, mas não às atividades\r\nextrativistas e de serviços.</p>",
+      "corpo_clean": "As normas da série ISO 14000 aplicam-se às atividades industriais e agroindustriais, mas não às atividades extrativistas e de serviços.",
+      "id": 1208877,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>A adesão de uma empresa às normas da série ISO 14000\r\ntem, como requisito, a certificação da empresa pelas\r\nnormas da série ISO 9000.</p>",
+      "corpo_clean": "A adesão de uma empresa às normas da série ISO 14000 tem, como requisito, a certificação da empresa pelas normas da série ISO 9000.",
+      "id": 1208878,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Apesar de normas da série ISO 14000 serem voluntárias,\r\nelas preveem a imposição de limites próprios para\r\nmedição de poluição, padronização de produtos e níveis\r\nde desempenho.</p>",
+      "corpo_clean": "Apesar de normas da série ISO 14000 serem voluntárias, elas preveem a imposição de limites próprios para medição de poluição, padronização de produtos e níveis de desempenho.",
+      "id": 1208879,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>Uma empresa pode alcançar a certificação ambiental\r\nprevista nas normas da série ISO 14000 mesmo sem ter\r\nimplantado um sistema de gestão ambiental.</p>",
+      "corpo_clean": "Uma empresa pode alcançar a certificação ambiental prevista nas normas da série ISO 14000 mesmo sem ter implantado um sistema de gestão ambiental.",
+      "id": 1208880,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1208876",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

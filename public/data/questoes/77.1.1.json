@@ -1,0 +1,58 @@
+{
+  "id": 2807014,
+  "codigo_real": "77.1.1",
+  "disciplina_real": "Engenharia Mecânica",
+  "assunto_real": "Leis e Propriedades da Termodinâmica - Leis e Propriedades da Termodinâmica",
+  "bancas_nome": "Fundação de Amparo e Desenvolvimento da Pesquisa",
+  "bancas_sigla": "FADESP",
+  "orgaos_nome": "Polícia Científica do Pará",
+  "cargos_descricao": "Perito Criminal - Área: Engenharia Mecânica",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Com relação ao cálculo de carga térmica devem ser calculadas as cargas térmicas de </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I – resfriamento e desumidificação de cada recinto e zona, </p><p style=\"text-align: justify;\">II – aquecimento e umidificação, </p><p style=\"text-align: justify;\">III – resfriamento e umidificação de cada unidade de tratamento de ar e condicionador autônomo, </p><p style=\"text-align: justify;\">IV – aquecimento e desumidificação do sistema central constituído pelo conjunto das unidades de tratamento de ar. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">- Das afirmativas acima,</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I e IV estão incorretas.</p>",
+      "corpo_clean": "I e IV estão incorretas.",
+      "id": 11284418,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">II e III estão corretas.</p>",
+      "corpo_clean": "II e III estão corretas.",
+      "id": 11284419,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">II, III e IV estão incorretas.</p>",
+      "corpo_clean": "II, III e IV estão incorretas.",
+      "id": 11284420,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I e II estão corretas.</p>",
+      "corpo_clean": "I e II estão corretas.",
+      "id": 11284421,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I, II, III e IV estão corretas.</p>",
+      "corpo_clean": "I, II, III e IV estão corretas.",
+      "id": 11284422,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11284421",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

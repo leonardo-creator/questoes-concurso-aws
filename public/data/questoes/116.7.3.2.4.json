@@ -1,0 +1,51 @@
+{
+  "id": 2715932,
+  "codigo_real": "116.7.3.2.4",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Rigor (rigor mortis)",
+  "bancas_nome": "Fundação Universitária para o Vestibular da USP",
+  "bancas_sigla": "FUVEST",
+  "orgaos_nome": "Universidade de São Paulo",
+  "cargos_descricao": "Residência em Cirurgia Pediátrica",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Homem de 65 anos queixa-se de dor progressiva ao mastigar há 4 meses, com piora no último mês. Atualmente consegue apenas ingerir alimentos pastosos. Neste período, procurou o pronto-socorro duas vezes para controle da dor. Em uso de dipirona e morfina de horário, com melhora parcial. Perda de 8 kg desde o início dos sintomas. Antecedentes: tabagista ativo, 80 anos.maço; etilista. Nega outras comorbidades.</p><p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\">Os achados do exame clínico são mostrados abaixo.</p><p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/100526/questao/2715932-20230206104208000000-0.png\" width=\"218\" style=\"display: block; margin: auto;\" align=\"center\"></p><p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\">Caso a biópsia da lesão confirme a hipótese diagnóstica mais provável, selecione a alternativa que contém os exames complementares que seriam indicados e o tratamento recomendado para este caso.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O principal exame a ser solicitado é a tomografia cervical. O tratamento de escolha é quimioterapia.</p>",
+      "corpo_clean": "O principal exame a ser solicitado é a tomografia cervical. O tratamento de escolha é quimioterapia.",
+      "id": 10880191,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Não são necessários exames complementares. A conduta recomendada para o caso é a eliminação de fatores de risco, como o tabagismo.</p>",
+      "corpo_clean": "Não são necessários exames complementares. A conduta recomendada para o caso é a eliminação de fatores de risco, como o tabagismo.",
+      "id": 10880192,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Devem ser solicitados nasofibrolaringoscopia, endoscopia digestiva alta e tomografia computadorizada de face, pescoço e tórax. O tratamento de escolha é cirúrgico.</p>",
+      "corpo_clean": "Devem ser solicitados nasofibrolaringoscopia, endoscopia digestiva alta e tomografia computadorizada de face, pescoço e tórax. O tratamento de escolha é cirúrgico.",
+      "id": 10880193,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Deve-ser realizar pesquisa de HPV e tomografia computadorizada cervical. O tratamento de escolha pode ser cirúrgico ou radioterapia.</p>",
+      "corpo_clean": "Deve-ser realizar pesquisa de HPV e tomografia computadorizada cervical. O tratamento de escolha pode ser cirúrgico ou radioterapia.",
+      "id": 10880194,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10880193",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2270945,
+  "codigo_real": "25.4.4",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Livro Diário - Livro Diário",
+  "bancas_nome": "Instituto Oeste de Planejamento",
+  "bancas_sigla": "IOPLAN",
+  "orgaos_nome": "Câmara de Boa Vista das Missões",
+  "cargos_descricao": "Contabilista",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Determinado contador, enquanto efetuava um lançamento no livro diário, escreveu erroneamente o número da nota fiscal. Tal fato foi por ele percebido de imediato. Nesse caso, é <strong>correto </strong>afirmar que o contador deverá:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Realizar um lançamento de estorno.</p>",
+      "corpo_clean": "Realizar um lançamento de estorno.",
+      "id": 8940252,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Fazer uma transferência numérica da nota fiscal.</p>",
+      "corpo_clean": "Fazer uma transferência numérica da nota fiscal.",
+      "id": 8940253,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Estabelecer uma ressalva, caso não concluído o lançamento.</p>",
+      "corpo_clean": "Estabelecer uma ressalva, caso não concluído o lançamento.",
+      "id": 8940254,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Estabelecer uma complementação.</p>",
+      "corpo_clean": "Estabelecer uma complementação.",
+      "id": 8940255,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "8940254",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

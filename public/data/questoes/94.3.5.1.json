@@ -1,0 +1,58 @@
+{
+  "id": 3740350,
+  "codigo_real": "94.3.5.1",
+  "disciplina_real": "História",
+  "assunto_real": "Primeira Guerra Mundial - Primeira Guerra Mundial",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Prefeitura de Canaã dos Carajás",
+  "cargos_descricao": "Professor de História",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a opção que descreve corretamente a relação entre a tecnologia militar e o desenvolvimento da Primeira Guerra Mundial. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O uso de submarinos esteve relacionado com a entrada dos Estados Unidos no conflito. </p>",
+      "corpo_clean": "O uso de submarinos esteve relacionado com a entrada dos Estados Unidos no conflito. ",
+      "id": 15224663,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> O uso de armas nucleares foi determinante para finalizar o conflito. </p>",
+      "corpo_clean": " O uso de armas nucleares foi determinante para finalizar o conflito. ",
+      "id": 15224664,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O uso da estratégia das trincheiras resultou no avanço terrestre rápido das nações envolvidas no conflito. </p>",
+      "corpo_clean": "O uso da estratégia das trincheiras resultou no avanço terrestre rápido das nações envolvidas no conflito. ",
+      "id": 15224665,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A ausência de aviões obrigou que o conflito fosse limitado aos países fronteiriços. </p>",
+      "corpo_clean": "A ausência de aviões obrigou que o conflito fosse limitado aos países fronteiriços. ",
+      "id": 15224666,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A ausência de metralhadoras fez com que o conflito fosse marcado por confrontos corpo a corpo. </p>",
+      "corpo_clean": "A ausência de metralhadoras fez com que o conflito fosse marcado por confrontos corpo a corpo. ",
+      "id": 15224667,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15224663",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

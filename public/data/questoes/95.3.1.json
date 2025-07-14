@@ -1,0 +1,37 @@
+{
+  "id": 342247,
+  "codigo_real": "95.3.1",
+  "disciplina_real": "Informática",
+  "assunto_real": "Conceitos Gerais e Funcionamento",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas",
+  "cargos_descricao": "Assistente",
+  "ano": 2008,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Os sistemas de busca permitem duas modalidades de\r\npesquisa: palavras-chave e diretórios.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>George Boole criou um modo de conduzir o raciocínio\r\nutilizando algumas expressões simples e monossilábicas que\r\nficaram conhecidas como operadores booleanos. Acerca\r\ndesses operadores e da recuperação da informação na Internet,\r\njulgue os itens seguintes.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1219241,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1219242,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1219241",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

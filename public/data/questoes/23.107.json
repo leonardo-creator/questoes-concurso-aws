@@ -1,0 +1,51 @@
+{
+  "id": 1905732,
+  "codigo_real": "23.107",
+  "disciplina_real": "Conhecimentos Específicos de um determinado Cargo-Área",
+  "assunto_real": "Técnico/Tecnólogo/Tecnologista/Auxiliar/Assistente",
+  "bancas_nome": "Instituto Brasileiro de Formação e Capacitação",
+  "bancas_sigla": "IBFC",
+  "orgaos_nome": "Prefeitura de São Gonçalo do Amarante",
+  "cargos_descricao": "Técnico de Laboratório",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O protocolo de coloração de bactérias abaixo é uma técnica.</p><p style=\"text-align: justify;\"><br></p><p>- Confeccionar o esfregaço da amostra; </p><p>- Cobrir a lâmina com fucsina fenicada; </p><p>- Aquecer a lâmina até à emissão de vapores; </p><p>- Lavar com água corrente; </p><p>- Cobrir a lâmina com álcool-ácido 3% até descorar totalmente o esfregaço; </p><p>- Lavar com água corrente; </p><p>- Cobrir a lâmina com azul de metileno durante 1 minuto;</p><p>- Lavar com água corrente e deixar secar.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Gram</p>",
+      "corpo_clean": "Gram",
+      "id": 7350958,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Ziehl Neelsen</p>",
+      "corpo_clean": "Ziehl Neelsen",
+      "id": 7350959,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Ziehl Neelsen modificado</p>",
+      "corpo_clean": "Ziehl Neelsen modificado",
+      "id": 7350960,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Tinta da China</p>",
+      "corpo_clean": "Tinta da China",
+      "id": 7350961,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "7350959",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

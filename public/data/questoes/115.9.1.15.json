@@ -1,0 +1,58 @@
+{
+  "id": 2306937,
+  "codigo_real": "115.9.1.15",
+  "disciplina_real": "Matemática",
+  "assunto_real": "Perímetro e Áreas de superfícies planas",
+  "bancas_nome": "COPEVE/UFAL - FUNDEPES",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Roteiro",
+  "cargos_descricao": "Agente Comunitário de Saúde",
+  "ano": 2017,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A figura apresenta a planta, desenhada sem escala, da piscina circular da associação dos servidores de uma prefeitura, que, junto com o deck, forma um quadrado de lado 10 m.</p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/76284/questao/2302120-20220322181833000000-0.png\"></p><p style=\"text-align: justify;\">Se o diâmetro da piscina é de 9 m e adotarmos π = 3, a área do deck é igual a</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>39,25 m<sup>2</sup> .</p>",
+      "corpo_clean": "39,25 m2 .",
+      "id": 9100901,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>60,75 m<sup>2</sup> .</p>",
+      "corpo_clean": "60,75 m2 .",
+      "id": 9100902,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>73,00 m<sup>2</sup> .</p>",
+      "corpo_clean": "73,00 m2 .",
+      "id": 9100903,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>86,50 m<sup>2</sup> .</p>",
+      "corpo_clean": "86,50 m2 .",
+      "id": 9100904,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>100,00 m<sup>2</sup> .</p>",
+      "corpo_clean": "100,00 m2 .",
+      "id": 9100905,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9100901",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

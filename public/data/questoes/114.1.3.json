@@ -1,0 +1,58 @@
+{
+  "id": 1467223,
+  "codigo_real": "114.1.3",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Porcentagem",
+  "bancas_nome": "CONSESP Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Câmara de São José do Rio Preto",
+  "cargos_descricao": "Agente Legislativo - Área: Diretoria Administrativa",
+  "ano": 2012,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um pacote possui certo número de balas. Inicialmente se retiram 70% das balas. Depois, do restante, retiram-se mais 40%. Se depois disso, ainda restam no pacote 27 balas, quantas balas havia inicialmente?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">50 balas.</p>",
+      "corpo_clean": "50 balas.",
+      "id": 5450652,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">100 balas.</p>",
+      "corpo_clean": "100 balas.",
+      "id": 5450653,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">150 balas.</p>",
+      "corpo_clean": "150 balas.",
+      "id": 5450654,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">200 balas.</p>",
+      "corpo_clean": "200 balas.",
+      "id": 5450655,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">350 balas. </p>",
+      "corpo_clean": "350 balas. ",
+      "id": 5450656,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5450654",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

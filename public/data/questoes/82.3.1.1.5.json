@@ -1,0 +1,58 @@
+{
+  "id": 1468142,
+  "codigo_real": "82.3.1.1.5",
+  "disciplina_real": "Estatística",
+  "assunto_real": "Ponto Médio de uma Classe",
+  "bancas_nome": "Consultoria Técnica e Planejamento LTDA",
+  "bancas_sigla": "Contemax",
+  "orgaos_nome": "Prefeitura de Mataraca",
+  "cargos_descricao": "Professor de Matemática",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O histograma do tempo do deslocamento de um motorista de ambulância entre dois hospitais é dado a seguir</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/48441/questao/1468142-20210105114319000000-0.png\" style=\"display: block; margin: auto;\" align=\"center\" width=\"400\"></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">A partir dos pontos médios das classes, verifica-se que o tempo médio deste deslocamento é aproximadamente</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">17 mim</p>",
+      "corpo_clean": "17 mim",
+      "id": 5454917,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">18 mim</p>",
+      "corpo_clean": "18 mim",
+      "id": 5454918,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">19 mim</p>",
+      "corpo_clean": "19 mim",
+      "id": 5454919,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">20 mim</p>",
+      "corpo_clean": "20 mim",
+      "id": 5454920,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">21 mim</p>",
+      "corpo_clean": "21 mim",
+      "id": 5454921,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5454919",
+  "dificuldade": "Difícil",
+  "anulada": true,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

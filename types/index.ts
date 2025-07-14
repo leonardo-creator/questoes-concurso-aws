@@ -68,25 +68,15 @@ export type ResponsePaginado<T> = {
 };
 
 // Tipos para índices gerados durante build
-export type IndiceDisciplinas = {
-  nome: string;
-  count: number;
-  assuntos: {
-    nome: string;
-    count: number;
-  }[];
-}[];
+export type IndiceDisciplinas = string[];
 
 export type IndiceBancas = {
   sigla: string;
   nome: string;
-  count: number;
+  descricao: string;
 }[];
 
-export type IndiceAnos = {
-  ano: number;
-  count: number;
-}[];
+export type IndiceAnos = number[];
 
 // Tipos para usuário e autenticação
 export type Usuario = {
@@ -200,4 +190,30 @@ export type FiltrosComponentProps = {
     anos: IndiceAnos;
   };
   cadernos: CadernoPersonalizado[];
+  buscaHierarquica?: BuscaHierarquica | null;
+};
+
+// Tipos para hierarquia de matérias
+export type AssuntoHierarquico = {
+  codigo: string;
+  titulo: string;
+  nivel: number;
+  temFilhos: boolean;
+  pai: string | null;
+};
+
+export type DisciplinaHierarquica = {
+  nome: string;
+  assuntos: AssuntoHierarquico[];
+};
+
+export type BuscaHierarquica = {
+  codigoParaAssunto: Record<string, string>;
+  assuntoParaCodigo: Record<string, string>;
+  disciplinas: Record<string, DisciplinaHierarquica>;
+  buscaHierarquica: Record<string, {
+    proprio: string;
+    filhos: string[];
+    todos: string[];
+  }>;
 };

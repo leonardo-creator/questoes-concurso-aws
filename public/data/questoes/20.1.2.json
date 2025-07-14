@@ -1,0 +1,58 @@
+{
+  "id": 65631,
+  "codigo_real": "20.1.2",
+  "disciplina_real": "Comunicação Social",
+  "assunto_real": "História do Jornalismo - Jornalismo",
+  "bancas_nome": "Fundação CESGRANRIO",
+  "bancas_sigla": "CESGRANRIO",
+  "orgaos_nome": "Ministério Público de Rondônia",
+  "cargos_descricao": "Jornalista",
+  "ano": 2005,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>A presença do sistema televisivo na sociedade gerou a expressão\r\n\"primeira guerra televisual\". Essa expressão teve\r\norigem na cobertura televisiva da guerra da(o):</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Bósnia.</p>",
+      "corpo_clean": "Bósnia.",
+      "id": 309933,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Coréia.</p>",
+      "corpo_clean": "Coréia.",
+      "id": 309934,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Vietnã.</p>",
+      "corpo_clean": "Vietnã.",
+      "id": 309935,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Golfo.</p>",
+      "corpo_clean": "Golfo.",
+      "id": 309936,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>Laos.</p>",
+      "corpo_clean": "Laos.",
+      "id": 309937,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "309935",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

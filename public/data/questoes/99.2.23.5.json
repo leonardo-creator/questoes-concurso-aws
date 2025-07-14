@@ -1,0 +1,58 @@
+{
+  "id": 2452450,
+  "codigo_real": "99.2.23.5",
+  "disciplina_real": "Legislação Estadual, Distrital e Municipal",
+  "assunto_real": "Município de Araquari - Legislação Aplicada",
+  "bancas_nome": "Fundação de Apoio ao Desenvolvimento da UEL",
+  "bancas_sigla": "FAUEL",
+  "orgaos_nome": "Prefeitura de Apucarana",
+  "cargos_descricao": "Assistente de Comunicação",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No tocante à educação, assinale a alternativa CORRETA, conforme a Lei Orgânica do Município de Apucarana.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O município atuará exclusivamente no ensino pré-escolar e de educação especial.</p>",
+      "corpo_clean": "O município atuará exclusivamente no ensino pré-escolar e de educação especial.",
+      "id": 9729289,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O ensino religioso, de matrícula facultativa e de natureza confessional, constituirá disciplina dos horários normais das escolas públicas municipais.</p>",
+      "corpo_clean": "O ensino religioso, de matrícula facultativa e de natureza confessional, constituirá disciplina dos horários normais das escolas públicas municipais.",
+      "id": 9729290,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os diretores das escolas municipais serão escolhidos pelo Prefeito Municipal, com aval da comissão de educação da Câmara Municipal.</p>",
+      "corpo_clean": "Os diretores das escolas municipais serão escolhidos pelo Prefeito Municipal, com aval da comissão de educação da Câmara Municipal.",
+      "id": 9729291,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A orientação sobre sexualidade humana e tóxica não integrará o plano municipal de educação, uma vez que a educação sexual é prerrogativa da família.</p>",
+      "corpo_clean": "A orientação sobre sexualidade humana e tóxica não integrará o plano municipal de educação, uma vez que a educação sexual é prerrogativa da família.",
+      "id": 9729292,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O Município estimulará experiências educacionais inovadoras, visando à garantia de padrão de qualidade do ensino ministrado nas escolas públicas municipais e ensino especial.</p>",
+      "corpo_clean": "O Município estimulará experiências educacionais inovadoras, visando à garantia de padrão de qualidade do ensino ministrado nas escolas públicas municipais e ensino especial.",
+      "id": 9729293,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9729293",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

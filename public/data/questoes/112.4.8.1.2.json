@@ -1,0 +1,58 @@
+{
+  "id": 2227232,
+  "codigo_real": "112.4.8.1.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Advérbio de modo",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Sorocaba",
+  "cargos_descricao": "Secretário de Escola",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Na frase do 4<sup>o</sup> parágrafo – ... é também a função do texto escolar, que oferece <strong>exatamente </strong>um exemplo de seleção... –, o termo em destaque expressa circunstância de</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Leia o texto para responder às questões de números <strong>02 </strong>a <strong>08</strong>.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\"><em>O livro didático como professor </em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-indent: 2em; text-align: justify;\">\tA ideia de substituir os livros didáticos escolares por material retirado diretamente da internet suscitou reações variadas. Editores de livros escolares e livrarias veem no projeto uma ameaça mortal para uma indústria que dá trabalho a milhares de pessoas. Por mais solidário que me sinta em relação a editores e livrarias, é possível dizer que, pelas mesmas razões, muitas outras classes de trabalhadores poderiam protestar. Se a história avançar inelutavelmente nessa direção, esta força de trabalho teria de reciclar-se de alguma forma.</p><p style=\"text-indent: 2em; text-align: justify;\">\tOutra objeção é que a iniciativa prevê um computador para cada aluno e é duvidoso que o Estado possa arcar com essa despesa, e, se os pais tivessem que arcar com ela, gastariam mais do que gastam com livros didáticos. Por outro lado, se cada turma tivesse somente um computador para todos, cairia o aspecto de pesquisa pessoal que poderia constituir o fascínio dessa solução.</p><p style=\"text-indent: 2em; text-align: justify;\">\tMas o problema é outro. É que a internet não se destina a substituir os livros, mas é apenas um formidável complemento a eles e um incentivo para ler mais. O livro continua a ser o instrumento príncipe da transmissão e disponibilidade do saber e os textos escolares representam a primeira e insubstituível ocasião de educar as crianças ao uso do livro. Além disso, a internet oferece um repertório fantástico de informações, mas não os meios para selecioná-las, e a educação não consiste apenas em transmitir informações, mas também em ensinar critérios de seleção.</p><p style=\"text-indent: 2em; text-align: justify;\">\tEsta é a função do professor, mas é também a função do texto escolar, que oferece exatamente um exemplo de seleção realizada no grande mar de toda informação possível. Se as crianças não aprendem isso, ou seja, que cultura não é acúmulo, mas seleção e discriminação, não há educação, apenas desordem mental.</p><p style=\"text-align: right;\"><br></p><p style=\"text-align: right;\">(Humberto Eco. <em>Pape Satàn Aleppe: crônicas de uma sociedade líquida.</em> Rio de Janeiro: Record, 2017. Adaptado)</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>intensidade.</p>",
+      "corpo_clean": "intensidade.",
+      "id": 8756846,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>afirmação.</p>",
+      "corpo_clean": "afirmação.",
+      "id": 8756847,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>dúvida.</p>",
+      "corpo_clean": "dúvida.",
+      "id": 8756848,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>modo.</p>",
+      "corpo_clean": "modo.",
+      "id": 8756849,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>tempo.</p>",
+      "corpo_clean": "tempo.",
+      "id": 8756850,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8756849",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3401619,
+  "codigo_real": "112.1.26.1.1.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Metáfora - Metáfora",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Tribunal de Justiça de Roraima",
+  "cargos_descricao": "Técnico Judiciário",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Leia os versos de Gonzaguinha: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">“Ontem um menino que brincava me falou </p><p style=\"text-align: justify;\">Que hoje é semente do amanhã.” </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Identifica-se nos versos a seguinte figura de linguagem:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Eufemismo.</p>",
+      "corpo_clean": "Eufemismo.",
+      "id": 13856167,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Prosopopeia.</p>",
+      "corpo_clean": "Prosopopeia.",
+      "id": 13856168,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Metáfora.</p>",
+      "corpo_clean": "Metáfora.",
+      "id": 13856169,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Metonímia.</p>",
+      "corpo_clean": "Metonímia.",
+      "id": 13856170,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Sinestesia.</p>",
+      "corpo_clean": "Sinestesia.",
+      "id": 13856171,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13856169",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

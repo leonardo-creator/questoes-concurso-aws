@@ -1,0 +1,58 @@
+{
+  "id": 3591752,
+  "codigo_real": "109.2.10",
+  "disciplina_real": "Língua Espanhola",
+  "assunto_real": "Verbos",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Câmara de Osasco",
+  "cargos_descricao": "Analista de Relações Internacionais e Institucionais",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Complete las siguientes oraciones con la forma correcta del verbo en futuro simple:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">1 - Mañana (___) una reunión importante en la oficina. (haber)</p><p style=\"text-align: justify;\">2 - El próximo mes (___) a mi familia en el campo. (visitar)</p><p style=\"text-align: justify;\">3 - Si estudias, (___) excelentes resultados en el examen. (obtener)</p><p style=\"text-align: justify;\">4 - Ellos (___) las entradas para el concierto la próxima semana. (comprar)</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>habrá, visitaré, obtendrás, compraría</p>",
+      "corpo_clean": "habrá, visitaré, obtendrás, compraría",
+      "id": 14639908,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>habrán, visitará, obtendré, compraran</p>",
+      "corpo_clean": "habrán, visitará, obtendré, compraran",
+      "id": 14639909,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>habrá, visitará, obtendrás, comprarán</p>",
+      "corpo_clean": "habrá, visitará, obtendrás, comprarán",
+      "id": 14639910,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>habré, visitará, obtendrás, comprará</p>",
+      "corpo_clean": "habré, visitará, obtendrás, comprará",
+      "id": 14639911,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>habrá, visitaré, obtendrás, comprarán</p>",
+      "corpo_clean": "habrá, visitaré, obtendrás, comprarán",
+      "id": 14639912,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14639912",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

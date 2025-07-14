@@ -1,0 +1,58 @@
+{
+  "id": 327216,
+  "codigo_real": "25.10",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Operações Financeiras",
+  "bancas_nome": "Escola de Administração Fazendária",
+  "bancas_sigla": "ESAF",
+  "orgaos_nome": "Secretaria do Tesouro Nacional",
+  "cargos_descricao": "Analista de Finanças e Controle AFC",
+  "ano": 2008,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<P align=justify>Se a CM &#8211; Correção Monetária for zero e considerando um empréstimo imobiliário, a ser pago em 25 anos com capitalizações mensais, sendo que os juros sobre o saldo devedor de cada mês também serão pagos com (junto) as respectivas parcelas mensais, podemos afirmar que: </P>\r\n<P align=justify>I. As parcelas de juros são constantes;</P>\r\n<P align=justify>II. As parcelas de amortização são constantes; </P>\r\n<P align=justify>III. O saldo devedor é decrescente e linear, financeiramente. </P>\r\n<P align=justify>Com base no acima proposto e frente às três sentenças, indicando por V &#8211; Verdadeira e por F &#8211; Falsa, a opção correta é:</P>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>V, V, V</p>",
+      "corpo_clean": "V, V, V",
+      "id": 1176942,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>V, V, F</p>",
+      "corpo_clean": "V, V, F",
+      "id": 1176943,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>V, F, F</p>",
+      "corpo_clean": "V, F, F",
+      "id": 1176944,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>F, V, V</p>",
+      "corpo_clean": "F, V, V",
+      "id": 1176945,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>F, F, V</p>",
+      "corpo_clean": "F, F, V",
+      "id": 1176946,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1176945",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

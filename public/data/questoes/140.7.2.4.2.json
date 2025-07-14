@@ -1,0 +1,58 @@
+{
+  "id": 1758947,
+  "codigo_real": "140.7.2.4.2",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Gestão de recursos",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Prefeitura de Teresina",
+  "cargos_descricao": "Assistente Técnico Administrativo - Área: Técnico em Informática",
+  "ano": 2016,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O Sistema Operacional tem a função de gerenciar os recursos, os usuários e as aplicações em um computador. Dentre as atividades para gerenciar os recursos, o Sistema Operacional atua no gerenciamento do uso do espaço da memória primária e quando esse espaço se esgota, um processo é transferido para a memória secundária e retornado para a memória principal quando necessário. Esse processo é denominado</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\"><em>Swapping</em>.</p>",
+      "corpo_clean": "Swapping.",
+      "id": 6699272,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Paginação.</p>",
+      "corpo_clean": "Paginação.",
+      "id": 6699273,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Extensão.</p>",
+      "corpo_clean": "Extensão.",
+      "id": 6699274,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><em>Caching</em>.</p>",
+      "corpo_clean": "Caching.",
+      "id": 6699275,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Indexação.</p>",
+      "corpo_clean": "Indexação.",
+      "id": 6699276,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6699272",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

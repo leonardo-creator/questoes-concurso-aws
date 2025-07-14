@@ -1,0 +1,51 @@
+{
+  "id": 3607963,
+  "codigo_real": "140.6.17.10.2",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "As 7 Sete Ferramentas de Qualidade",
+  "bancas_nome": "Fundação Cearense de Pesquisa e Cultura",
+  "bancas_sigla": "FCPC",
+  "orgaos_nome": "Universidade Federal do Ceará",
+  "cargos_descricao": "Técnico de Tecnologia da Informação - Área: Experiência do Usuário",
+  "ano": 2025,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A avaliação heurística de Nielsen é um método de inspeção usado em design de interfaces para identificar problemas de usabilidade. Ele é baseado em um conjunto de 10 heurísticas de usabilidade, propostas por Jakob Nielsen, que funcionam como diretrizes para avaliar a eficácia, eficiência e satisfação de uma interface. Assinale a alternativa que apresenta corretamente uma das heurísticas de Nielsen.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Design orientado por sobrecarga informacional.</p>",
+      "corpo_clean": "Design orientado por sobrecarga informacional.",
+      "id": 14699588,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Automação e controle centralizado do sistema.</p>",
+      "corpo_clean": "Automação e controle centralizado do sistema.",
+      "id": 14699589,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Interação forçada para aprendizado contínuo.</p>",
+      "corpo_clean": "Interação forçada para aprendizado contínuo.",
+      "id": 14699590,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Liberdade e controle do usuário. </p>",
+      "corpo_clean": "Liberdade e controle do usuário. ",
+      "id": 14699591,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "14699591",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

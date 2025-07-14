@@ -1,0 +1,51 @@
+{
+  "id": 1277921,
+  "codigo_real": "52.1.5.1",
+  "disciplina_real": "Direito Tributário",
+  "assunto_real": "Quanto à Hipótese de Incidência (Tributos Vinculados / Tributos Não Vinculados) - Quanto à Hipótese de Incidência (Tributos Vinculados / Tributos Não Vinculados)",
+  "bancas_nome": "Instituto Excelência",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Taubaté",
+  "cargos_descricao": "Assessor Técnico - Área: Controladoria",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Sabe-se que os impostos não são vinculados a qualquer atividade estatal específica. Diante disso, é CORRETO afirmar que o imposto é um tributo que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Possui arrecadação vinculada.</p>",
+      "corpo_clean": "Possui arrecadação vinculada.",
+      "id": 4641043,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Tem caráter retributivo.</p>",
+      "corpo_clean": "Tem caráter retributivo.",
+      "id": 4641044,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Não goza de referibilidade.</p>",
+      "corpo_clean": "Não goza de referibilidade.",
+      "id": 4641045,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Possui natureza confiscatória.</p>",
+      "corpo_clean": "Possui natureza confiscatória.",
+      "id": 4641046,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4641045",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

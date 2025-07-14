@@ -1,0 +1,51 @@
+{
+  "id": 1387025,
+  "codigo_real": "16.12.3",
+  "disciplina_real": "Biblioteconomia",
+  "assunto_real": "Conservação de acervos - Conservação de acervos",
+  "bancas_nome": "Fundação de desenvolvimento da pesquisa",
+  "bancas_sigla": "FUNDEP UFMG",
+  "orgaos_nome": "Prefeitura de Uberaba",
+  "cargos_descricao": "Auxiliar de Bibliotecário",
+  "ano": 2016,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Técnicas para recuperação de livros, revistas, folhetos, mapas e outros materiais que têm como suporte o papel têm sido objeto de estudos e pesquisas na área de biblioteconomia.\n</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">São considerados corretos os seguintes procedimentos para conservação e restauração desses materiais, <strong>EXCETO</strong>:</p>",
+  "grupoQuestao_enunciado": null,
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Planificação de folhas de papel.</p>",
+      "corpo_clean": "Planificação de folhas de papel.",
+      "id": 5101808,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Uso de fitas adesivas.</p>",
+      "corpo_clean": "Uso de fitas adesivas.",
+      "id": 5101809,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Remoção de colas velhas.</p>",
+      "corpo_clean": "Remoção de colas velhas.",
+      "id": 5101810,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Remendos.</p>",
+      "corpo_clean": "Remendos.",
+      "id": 5101811,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5101809",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

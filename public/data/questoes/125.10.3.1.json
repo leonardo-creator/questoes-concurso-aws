@@ -1,0 +1,58 @@
+{
+  "id": 3257693,
+  "codigo_real": "125.10.3.1",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Psicologia no primeiros dois anos de vida",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Osasco",
+  "cargos_descricao": "Professor de Educação Básica - Área: Deficiência Auditiva",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com Altiere Carvalho (2010), um bebê com deficiência auditiva ainda não suspeitada pela família interage de forma comunicativa independente da falta do sentido auditivo. É comum encontrar no relato de mães, quando falam dos primeiros meses de vida da criança, referências a algo diferente no comportamento de seu bebê sem, no entanto, ter conseguido identificar a deficiência de audição.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"> De acordo com o autor, a privação sensorial</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">mesmo que não esteja permeando as relações da mãe e da criança, pode significar para a criança diferença de oportunidades quanto ao conhecimento do mundo e à aquisição de linguagem.</p>",
+      "corpo_clean": "mesmo que não esteja permeando as relações da mãe e da criança, pode significar para a criança diferença de oportunidades quanto ao conhecimento do mundo e à aquisição de linguagem.",
+      "id": 13239042,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">não determinará qualquer diferença de oportunidade para a criança, desde que a criança receba cuidados essenciais para a vida e tenha uma boa interação afetiva.</p>",
+      "corpo_clean": "não determinará qualquer diferença de oportunidade para a criança, desde que a criança receba cuidados essenciais para a vida e tenha uma boa interação afetiva.",
+      "id": 13239043,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">determinará uma impossibilidade de oportunidades para a criança quanto ao conhecimento do mundo e à aquisição de linguagem, principalmente se tal privação permear as relações da mãe e da criança.</p>",
+      "corpo_clean": "determinará uma impossibilidade de oportunidades para a criança quanto ao conhecimento do mundo e à aquisição de linguagem, principalmente se tal privação permear as relações da mãe e da criança.",
+      "id": 13239044,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">uma vez não detectada, caracteriza uma interação pobre entre mãe e filho e que, ambas, a deficiência e a pobreza da relação, farão com que a própria criança se esforce para que seu desenvolvimento sócio- -afetivo ocorra de maneira apropriada.</p>",
+      "corpo_clean": "uma vez não detectada, caracteriza uma interação pobre entre mãe e filho e que, ambas, a deficiência e a pobreza da relação, farão com que a própria criança se esforce para que seu desenvolvimento sócio- -afetivo ocorra de maneira apropriada.",
+      "id": 13239045,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">somente pode significar para a criança diferença de oportunidades quanto ao conhecimento do mundo e à aquisição de linguagem se tal privação permear as relações da mãe e da criança.</p>",
+      "corpo_clean": "somente pode significar para a criança diferença de oportunidades quanto ao conhecimento do mundo e à aquisição de linguagem se tal privação permear as relações da mãe e da criança.",
+      "id": 13239046,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13239042",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

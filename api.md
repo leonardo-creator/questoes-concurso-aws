@@ -6,7 +6,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `/api/auth/[...nextauth]` | `GET`, `POST` | NextAuth.js, Páginas de auth | JSON (credentials) | Gerencia autenticação e sessões via NextAuth | Configurado com estratégia JWT, requer NEXTAUTH_SECRET |
 | `/api/auth/signup` | `POST` | `/auth/signup` | JSON: `{ "name": "string", "email": "string", "password": "string" }` | Registra novos usuários no sistema | Valida email único, criptografa senha com bcrypt |
-| `/api/questoes` | `GET` | Componentes de listagem | Query params: page, limit, filtros | Retorna questões paginadas com filtros | Requer autenticação, suporta filtros avançados |
+| `/api/questoes` | `GET` | `/estudar`, Componentes de filtro | Query params com busca hierárquica | **ATUALIZADO**: Agora suporta busca hierárquica de assuntos | Quando um assunto pai é selecionado, inclui automaticamente todos os assuntos filhos |
 | `/data/indices/bancas.json` | `GET` | `/cadernos`, Filtros | - | Lista todas as bancas disponíveis | Arquivo estático gerado a partir dos chunks |
 | `/data/indices/anos.json` | `GET` | `/cadernos`, Filtros | - | Lista todos os anos disponíveis | Arquivo estático ordenado decrescente |
 | `/data/indices/disciplinas.json` | `GET` | `/cadernos`, Filtros | - | Lista todas as disciplinas disponíveis | Arquivo estático ordenado alfabeticamente |
@@ -14,6 +14,8 @@
 | `/data/indices/cargos.json` | `GET` | `/cadernos`, Filtros | - | Lista todos os cargos disponíveis | Arquivo estático ordenado alfabeticamente |
 | `/data/indices/assuntos.json` | `GET` | `/cadernos`, Filtros | - | Lista todos os assuntos disponíveis | Arquivo estático com 70k+ assuntos únicos |
 | `/data/indices/stats.json` | `GET` | `/cadernos`, Dashboard | - | Estatísticas gerais do sistema | Total de questões, bancas, anos, etc. |
+| `/data/indices/hierarquia.json` | `GET` | Sistema interno, Scripts | - | Estrutura hierárquica completa de disciplinas e assuntos | Mapeia relações pai-filho entre códigos de assuntos |
+| `/data/indices/busca-hierarquica.json` | `GET` | `/estudar`, API de questões | - | Índice otimizado para busca hierárquica de assuntos | Permite expansão automática de códigos pai para incluir filhos |
 
 ## Detalhes das APIs
 
@@ -33,6 +35,7 @@
 - **Paginação**: Máximo 100 itens por página
 - **Filtros**: disciplinas, assuntos, bancas, anos, dificuldades
 - **Ordenação**: relevancia, data, dificuldade
+- **Busca Hierárquica**: Suporte para seleção de assuntos pai e inclusão automática de filhos
 
 ### Índices de Dados (`/data/indices/*`)
 - **Geração**: Automatizada via script `scripts/generate-indices.js`
@@ -42,6 +45,7 @@
 - **Estrutura Bancas**: `[{ nome, sigla, descricao }]`
 - **Estrutura Órgãos**: `[{ nome, sigla, uf }]`
 - **Estrutura Stats**: `{ totalQuestoes, totalBancas, ..., atualizadoEm }`
+- **Estrutura Hierarquia**: `[{ codigo, nome, filhos: [{ codigo, nome }] }]`
 
 ## Estados de Resposta
 - **200**: Sucesso

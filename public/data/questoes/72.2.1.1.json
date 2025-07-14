@@ -1,0 +1,51 @@
+{
+  "id": 1700719,
+  "codigo_real": "72.2.1.1",
+  "disciplina_real": "Engenharia Elétrica e Engenharia Eletrônica",
+  "assunto_real": "Elementos básicos e Topologia de circuitos (Resistência equivalente, pontes, etc) - Elementos básicos e Topologia de circuitos (Resistência equivalente, pontes, etc)",
+  "bancas_nome": "Instituto Mais",
+  "bancas_sigla": "IMAIS",
+  "orgaos_nome": "Prefeitura de Rio Claro",
+  "cargos_descricao": "Engenheiro Área: Elétrica/Eletrônica",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">As cargas resistivas não provocam defasagem entre tensão e corrente, recebendo do gerador apenas a potência ativa, que é dissipada totalmente. Elas caracterizam-se, portanto, por terem Fator de Potência (FP) unitário, isto é</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"FP = cos \\ 0º = 1\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.68333em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">F</span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">P</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.64444em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\">c</span><span class=\"mord mathnormal\">o</span><span class=\"mord mathnormal\">s</span><span class=\"mspace\"> </span><span class=\"mord\">0</span><span class=\"mord\">º</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.64444em; vertical-align: 0em;\"></span><span class=\"mord\">1</span></span></span></span></span></span> </p>",
+      "corpo_clean": "FP=cos 0º=1 ",
+      "id": 6435720,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"FP = cos \\ 30º = \\frac{\\sqrt{3}}{2}\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.68333em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">F</span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">P</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.64444em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\">c</span><span class=\"mord mathnormal\">o</span><span class=\"mord mathnormal\">s</span><span class=\"mspace\"> </span><span class=\"mord\">3</span><span class=\"mord\">0</span><span class=\"mord\">º</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.383em; vertical-align: -0.345em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.038em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.39901em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord sqrt mtight\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.912845em;\"><span class=\"svg-align\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord mtight\" style=\"padding-left: 0.833em;\"><span class=\"mord mtight\">3</span></span></span><span class=\"\" style=\"top: -2.87284em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"hide-tail mtight\" style=\"min-width: 0.853em; height: 1.08em;\"><svg width=\"400em\" height=\"1.08em\" viewBox=\"0 0 400000 1080\" preserveAspectRatio=\"xMinYMin slice\"><path d=\"M95,702\nc-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14\nc0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54\nc44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10\ns173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429\nc69,-144,104.5,-217.7,106.5,-221\nl0 -0\nc5.3,-9.3,12,-14,20,-14\nH400000v40H845.2724\ns-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7\nc-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z\nM834 80h400000v40h-400000z\"></path></svg></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.127155em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.345em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span></span> </p>",
+      "corpo_clean": "FP=cos 30º=23​​ ",
+      "id": 6435721,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"FP = cos \\ 60º = \\frac{1}{2}\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.68333em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">F</span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">P</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.64444em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\">c</span><span class=\"mord mathnormal\">o</span><span class=\"mord mathnormal\">s</span><span class=\"mspace\"> </span><span class=\"mord\">6</span><span class=\"mord\">0</span><span class=\"mord\">º</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.19011em; vertical-align: -0.345em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.845108em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.345em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span></span> </p>",
+      "corpo_clean": "FP=cos 60º=21​ ",
+      "id": 6435722,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"FP = cos \\ 90º = 0\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.68333em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">F</span><span class=\"mord mathnormal\" style=\"margin-right: 0.13889em;\">P</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.64444em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\">c</span><span class=\"mord mathnormal\">o</span><span class=\"mord mathnormal\">s</span><span class=\"mspace\"> </span><span class=\"mord\">9</span><span class=\"mord\">0</span><span class=\"mord\">º</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.64444em; vertical-align: 0em;\"></span><span class=\"mord\">0</span></span></span></span></span></span> </p>",
+      "corpo_clean": "FP=cos 90º=0 ",
+      "id": 6435723,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "6435720",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

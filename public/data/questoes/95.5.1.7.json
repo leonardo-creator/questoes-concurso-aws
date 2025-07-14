@@ -1,0 +1,58 @@
+{
+  "id": 500097,
+  "codigo_real": "95.5.1.7",
+  "disciplina_real": "Informática",
+  "assunto_real": "Autenticação",
+  "bancas_nome": "Fundação Professor Carlos Augusto Bittencourt",
+  "bancas_sigla": "FUNCAB",
+  "orgaos_nome": "Ministério Público de Rondônia",
+  "cargos_descricao": "Técnico de Contabilidade Júnior",
+  "ano": 2012,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Para criar uma senha forte no seu aplicativo de\r\ncorreio eletrônico, algumas recomendações devem\r\nser adotadas na composição da senha, EXCETO:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>utilizar pelo menos oito caracteres.</p>",
+      "corpo_clean": "utilizar pelo menos oito caracteres.",
+      "id": 1811321,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>não usar seu nome de usuário, nome verdadeiro\r\nou o nome da sua empresa.</p>",
+      "corpo_clean": "não usar seu nome de usuário, nome verdadeiro ou o nome da sua empresa.",
+      "id": 1811322,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>não usar palavras completas.</p>",
+      "corpo_clean": "não usar palavras completas.",
+      "id": 1811323,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>usar uma senha muito diferente das senhas\r\nanteriores e não usar a mesma senha para todas\r\nas suas contas.</p>",
+      "corpo_clean": "usar uma senha muito diferente das senhas anteriores e não usar a mesma senha para todas as suas contas.",
+      "id": 1811324,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>evitar combinação de letras maiúsculas e\r\nminúsculas, números e símbolos como, por\r\nexemplo, !, #, *.</p>",
+      "corpo_clean": "evitar combinação de letras maiúsculas e minúsculas, números e símbolos como, por exemplo, !, #, *.",
+      "id": 1811325,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1811325",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

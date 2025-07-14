@@ -1,0 +1,58 @@
+{
+  "id": 3128045,
+  "codigo_real": "115.1.1",
+  "disciplina_real": "Matemática",
+  "assunto_real": "Operações Fundamentais",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Prefeitura de Águas de Lindóia",
+  "cargos_descricao": "Inspetor de Alunos",
+  "ano": 2024,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Se um pacote de canetas custa R$ 8,50 e contém 5 canetas, qual é o preço de cada caneta individualmente?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>R$ 1,50</p>",
+      "corpo_clean": "R$ 1,50",
+      "id": 12692660,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>R$ 1,70</p>",
+      "corpo_clean": "R$ 1,70",
+      "id": 12692661,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>R$ 1,80</p>",
+      "corpo_clean": "R$ 1,80",
+      "id": 12692662,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>R$ 1,90 </p>",
+      "corpo_clean": "R$ 1,90 ",
+      "id": 12692663,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>R$ 2,00</p>",
+      "corpo_clean": "R$ 2,00",
+      "id": 12692664,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12692661",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

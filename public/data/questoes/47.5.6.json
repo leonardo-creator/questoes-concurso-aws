@@ -1,0 +1,51 @@
+{
+  "id": 1668952,
+  "codigo_real": "47.5.6",
+  "disciplina_real": "Direito Processual Civil - CPC 2015",
+  "assunto_real": "Da sucessão das partes e dos procuradores",
+  "bancas_nome": "RBO Assessoria Pública e Projetos Municipais",
+  "bancas_sigla": "",
+  "orgaos_nome": "Conselho Regional de Odontologia de São Paulo",
+  "cargos_descricao": "Advogado/Procurador Jurídico",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No que se refere à sucessão das partes e dos procuradores no processo civil, assinale a alternativa correta. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Em havendo no curso do processo .a alienação da coisa litigiosa, a título particular, o adquirente substitui o alienante sem necessidade de consentimento da parte contrária. </p>",
+      "corpo_clean": "Em havendo no curso do processo .a alienação da coisa litigiosa, a título particular, o adquirente substitui o alienante sem necessidade de consentimento da parte contrária. ",
+      "id": 6296235,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A alienação de coisa litigiosa é válida desde que altere a legitimidade entre as partes.</p>",
+      "corpo_clean": "A alienação de coisa litigiosa é válida desde que altere a legitimidade entre as partes.",
+      "id": 6296236,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O advogado que renuncia a um mandato de procuração que foi outorgado a vários advogados está dispensado de cientificar, mesmo extrajudicialmente, o cliente.</p>",
+      "corpo_clean": "O advogado que renuncia a um mandato de procuração que foi outorgado a vários advogados está dispensado de cientificar, mesmo extrajudicialmente, o cliente.",
+      "id": 6296237,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A destituição do advogado originário de uma ação pelo cliente, sem a constituição de outro, não afeta a capacidade postulatória da parte.</p>",
+      "corpo_clean": "A destituição do advogado originário de uma ação pelo cliente, sem a constituição de outro, não afeta a capacidade postulatória da parte.",
+      "id": 6296238,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "6296237",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

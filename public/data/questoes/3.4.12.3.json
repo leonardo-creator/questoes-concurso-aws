@@ -1,0 +1,37 @@
+{
+  "id": 568376,
+  "codigo_real": "3.4.12.3",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Estrutura Divisional - Direção",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Agência Nacional de Telecomunicações",
+  "cargos_descricao": "Técnico Administrativo - ÁreaNível I",
+  "ano": 2012,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>A existência de duas linhas de comando, ou seja, de dois\r\nchefes aos quais os demais administradores devem se reportar,\r\né característica da estrutura em linha e assessoria.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>O processo de administração adequadamente executado envolve\r\natividades como planejar, organizar, liderar e controlar. Com\r\nrelação ao processo administrativo, julgue os itens a seguir.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2020338,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2020339,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2020339",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1433034,
+  "codigo_real": "98.4.11.3",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Instituto Federal de Educação, Ciência e Tecnologia Fluminense - RJ",
+  "bancas_nome": "Procuradoria-Geral do Estado do Rio de Janeiro",
+  "bancas_sigla": "PGE RJ",
+  "orgaos_nome": "Procuradoria Geral do Estado",
+  "cargos_descricao": "Técnico Superior - Área: Bibliotecário",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre a Procuradoria Geral do Estado do Rio ele Janeiro, assinale a alternativa correta:</p><p><br></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A Procuradoria Geral oficiará facultativamente no controle interno da legalidade dos atos do Poder Executivo.</p><p><br></p>",
+      "corpo_clean": "A Procuradoria Geral oficiará facultativamente no controle interno da legalidade dos atos do Poder Executivo.",
+      "id": 5292376,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Compete à Procuradoria Geral a defesa dos interesses legítimos do Estado, incluídos os de natureza financeiro-orçamentária, sem prejuízo das atribuições do Ministério Público.</p><p><br></p>",
+      "corpo_clean": "Compete à Procuradoria Geral a defesa dos interesses legítimos do Estado, incluídos os de natureza financeiro-orçamentária, sem prejuízo das atribuições do Ministério Público.",
+      "id": 5292377,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A organização e o funcionamento da Procuradoria-Geral são disciplinados exclusivamente por ato do Procurador-Geral do Estado.</p><p><br></p>",
+      "corpo_clean": "A organização e o funcionamento da Procuradoria-Geral são disciplinados exclusivamente por ato do Procurador-Geral do Estado.",
+      "id": 5292378,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Compete à Procuradoria Geral, em conjunto com o Tribunal de Contas, a cobrança judicial e extrajudicial da dívida ativa do Estado.</p><p><br></p>",
+      "corpo_clean": "Compete à Procuradoria Geral, em conjunto com o Tribunal de Contas, a cobrança judicial e extrajudicial da dívida ativa do Estado.",
+      "id": 5292379,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5292377",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

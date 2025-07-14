@@ -1,0 +1,58 @@
+{
+  "id": 2643170,
+  "codigo_real": "47.7.1",
+  "disciplina_real": "Direito Processual Civil - CPC 2015",
+  "assunto_real": "Considerações Gerais Sobre a Intervenção de Terceiros",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Tribunal Regional do Trabalho da 19ª Região",
+  "cargos_descricao": "Analista Judiciário - Área Judiciária - Oficial de Justiça e Avaliador",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre litisconsórcio e intervenção de terceiros, assinale a alternativa incorreta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Não cabe agravo de instrumento contra decisão de indeferimento do pedido de exclusão de litisconsorte.</p>",
+      "corpo_clean": "Não cabe agravo de instrumento contra decisão de indeferimento do pedido de exclusão de litisconsorte.",
+      "id": 10556687,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A comunidade indígena cuja posse fundiária é questionada em ação de nulidade de demarcação tem o direito subjetivo de ser ouvida no processo, na qualidade de litisconsorte passivo necessário.</p>",
+      "corpo_clean": "A comunidade indígena cuja posse fundiária é questionada em ação de nulidade de demarcação tem o direito subjetivo de ser ouvida no processo, na qualidade de litisconsorte passivo necessário.",
+      "id": 10556688,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Na ação em que se requer a concessão do benefício de pensão por morte, há litisconsórcio passivo necessário e unitário entre o administrador do plano de previdência complementar e os demais beneficiários do falecido participante.</p>",
+      "corpo_clean": "Na ação em que se requer a concessão do benefício de pensão por morte, há litisconsórcio passivo necessário e unitário entre o administrador do plano de previdência complementar e os demais beneficiários do falecido participante.",
+      "id": 10556689,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Na cumulação simples subjetiva de pedidos, o provimento do recurso que atinge o pedido de um dos litisconsortes facultativos impede a fixação de honorários recursais em relação aos pedidos autônomos do demais litisconsortes, que se mantiveram intactos após o julgamento.</p>",
+      "corpo_clean": "Na cumulação simples subjetiva de pedidos, o provimento do recurso que atinge o pedido de um dos litisconsortes facultativos impede a fixação de honorários recursais em relação aos pedidos autônomos do demais litisconsortes, que se mantiveram intactos após o julgamento.",
+      "id": 10556690,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Em demandas relativas a direito à saúde, é incabível ao juiz estadual determinar a inclusão da União no polo passivo da demanda se a parte requerente optar pela não inclusão, ante a solidariedade dos entes federados.</p>",
+      "corpo_clean": "Em demandas relativas a direito à saúde, é incabível ao juiz estadual determinar a inclusão da União no polo passivo da demanda se a parte requerente optar pela não inclusão, ante a solidariedade dos entes federados.",
+      "id": 10556691,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10556690",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

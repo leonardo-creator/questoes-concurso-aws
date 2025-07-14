@@ -1,0 +1,58 @@
+{
+  "id": 3740590,
+  "codigo_real": "144.16.1",
+  "disciplina_real": "Veterinária",
+  "assunto_real": "Anatomia e Fisiologia na Avicultura",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Prefeitura de Canaã dos Carajás",
+  "cargos_descricao": "Médico Veterinário",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em anatomia animal, é correto afirmar que o osso conhecido como <em><u>tálus</u></em> é encontrado </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>na região cervical da coluna vertebral. </p>",
+      "corpo_clean": "na região cervical da coluna vertebral. ",
+      "id": 15225858,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>na região caudal da coluna vertebral.</p>",
+      "corpo_clean": "na região caudal da coluna vertebral.",
+      "id": 15225859,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>no membro posterior. </p>",
+      "corpo_clean": "no membro posterior. ",
+      "id": 15225860,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>no membro anterior. </p>",
+      "corpo_clean": "no membro anterior. ",
+      "id": 15225861,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p> no tórax. </p>",
+      "corpo_clean": " no tórax. ",
+      "id": 15225862,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15225860",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -38,6 +38,8 @@ export function EstudarClient() {
     bancas: [],
     anos: [],
   });
+
+  const [buscaHierarquica, setBuscaHierarquica] = useState<any>(null);
   
   const [cadernos, setCadernos] = useState<CadernoPersonalizado[]>([]);
   const [totalQuestoes, setTotalQuestoes] = useState(0);
@@ -61,19 +63,24 @@ export function EstudarClient() {
 
   const carregarIndices = async () => {
     try {
-      const [disciplinasRes, bancasRes, anosRes] = await Promise.all([
+      const [disciplinasRes, bancasRes, anosRes, hierarquiaRes] = await Promise.all([
         fetch('/data/indices/disciplinas.json'),
         fetch('/data/indices/bancas.json'),
         fetch('/data/indices/anos.json'),
+        fetch('/data/indices/busca-hierarquica.json'),
       ]);
 
-      const [disciplinas, bancas, anos] = await Promise.all([
+      const [disciplinas, bancas, anos, hierarquia] = await Promise.all([
         disciplinasRes.json(),
         bancasRes.json(),
         anosRes.json(),
+        hierarquiaRes.ok ? hierarquiaRes.json() : null,
       ]);
 
       setIndices({ disciplinas, bancas, anos });
+      if (hierarquia) {
+        setBuscaHierarquica(hierarquia);
+      }
     } catch (error) {
       console.error('Erro ao carregar índices:', error);
     }
@@ -98,7 +105,7 @@ export function EstudarClient() {
     try {
       const params = new URLSearchParams({
         page: '1',
-        limit: '50',
+        limit: '120',
         ordenacao,
         ...Object.entries(filtros).reduce((acc, [key, value]) => {
           if (value !== undefined && value !== null) {
@@ -215,6 +222,7 @@ export function EstudarClient() {
               onFiltrosChange={setFiltros}
               indices={indices}
               cadernos={cadernos}
+              buscaHierarquica={buscaHierarquica}
             />
             
             {/* Estatísticas */}

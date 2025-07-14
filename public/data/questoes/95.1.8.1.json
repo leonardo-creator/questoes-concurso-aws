@@ -1,0 +1,51 @@
+{
+  "id": 2904796,
+  "codigo_real": "95.1.8.1",
+  "disciplina_real": "Informática",
+  "assunto_real": "Tipos de Software",
+  "bancas_nome": "SELECON Instituto Nacional de Seleções e Concursos",
+  "bancas_sigla": "SELECON",
+  "orgaos_nome": "Prefeitura de São José dos Quatro Marcos",
+  "cargos_descricao": "Agente de Inspeção Sanitária",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considerando os diversos dispositivos utilizados em um sistema computacional, as impressoras multifuncionais são consideradas um tipo de dispositivo de: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>saída</p>",
+      "corpo_clean": "saída",
+      "id": 11714726,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>entrada</p>",
+      "corpo_clean": "entrada",
+      "id": 11714727,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>entrada e saída </p>",
+      "corpo_clean": "entrada e saída ",
+      "id": 11714728,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>inserção e indistinto </p>",
+      "corpo_clean": "inserção e indistinto ",
+      "id": 11714729,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11714728",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

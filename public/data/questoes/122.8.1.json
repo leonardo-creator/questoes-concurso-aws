@@ -1,0 +1,58 @@
+{
+  "id": 2091347,
+  "codigo_real": "122.8.1",
+  "disciplina_real": "Nutrição",
+  "assunto_real": "Conceitos de Técnica Dietética e Gastronomia - Gastronomia",
+  "bancas_nome": "Faculdade de Ciências Aplicadas e Sociais de Petrolina",
+  "bancas_sigla": "FACAPE",
+  "orgaos_nome": "Prefeitura de Petrolina",
+  "cargos_descricao": "Auxiliar de Cozinha",
+  "ano": 2021,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um dos aspectos que mais chamam atenção no prato é a sua aparência. Existem alguns cortes de frutas, legumes e verduras que deixam o prato ainda mais bonito. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Marque a alternativa FALSA sobre os tipos de cortes:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\"><em>Juliene</em> é um tipo de corte com fatias finas para legumes.</p>",
+      "corpo_clean": "Juliene é um tipo de corte com fatias finas para legumes.",
+      "id": 8175125,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><em>Bastonetes</em> é um tipo de corte também chamado de palito.</p>",
+      "corpo_clean": "Bastonetes é um tipo de corte também chamado de palito.",
+      "id": 8175126,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p><em>Brunoise</em> é um tipo de corte feito em cubos.</p>",
+      "corpo_clean": "Brunoise é um tipo de corte feito em cubos.",
+      "id": 8175127,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O corte diagonal só é feito nas frutas.</p>",
+      "corpo_clean": "O corte diagonal só é feito nas frutas.",
+      "id": 8175128,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Existem cortes de cubos muito pequenos até grandes.</p>",
+      "corpo_clean": "Existem cortes de cubos muito pequenos até grandes.",
+      "id": 8175129,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8175128",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

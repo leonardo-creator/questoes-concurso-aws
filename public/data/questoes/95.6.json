@@ -1,0 +1,51 @@
+{
+  "id": 3244654,
+  "codigo_real": "95.6",
+  "disciplina_real": "Informática",
+  "assunto_real": "Suítes ou Pacotes de Escritório",
+  "bancas_nome": "FUNDEP Gestão de Concursos",
+  "bancas_sigla": "FUNDEP",
+  "orgaos_nome": "Universidade Federal de Ouro Preto",
+  "cargos_descricao": "Assistente em Administração",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre o uso de formulários do Google Forms, assinale com V as afirmativas verdadeiras e com F as falsas. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">( ) As perguntas de múltipla escolha no Google Forms permitem aos criadores apresentar opções predefinidas aos respondentes, não limitando a variedade de informações coletadas. </p><p style=\"text-align: justify;\">( ) A funcionalidade de “Lógica de Resposta” no Google Forms possibilita condicionar a exibição de perguntas com base nas respostas anteriores, personalizando a experiência do respondente. </p><p style=\"text-align: justify;\">( ) A opção “Respostas Automáticas” no Google Forms permite configurar ações automáticas, como o envio de e-mails de confirmação ou a adição de respostas a uma planilha no Google Sheets. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a sequência correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>V F V</p>",
+      "corpo_clean": "V F V",
+      "id": 13180751,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>V V F</p>",
+      "corpo_clean": "V V F",
+      "id": 13180752,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>F F V</p>",
+      "corpo_clean": "F F V",
+      "id": 13180753,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>F V F</p>",
+      "corpo_clean": "F V F",
+      "id": 13180754,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "13180753",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1763280,
+  "codigo_real": "95.1.7.8",
+  "disciplina_real": "Informática",
+  "assunto_real": "Computadores - Hardware",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Conselho Regional de Medicina do Espírito Santo",
+  "cargos_descricao": "Agente Administrativo",
+  "ano": 2016,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Qual tipo de computador pessoal executa o Google Chrome OS e pertence a uma classe distinta de PCs por ficar entre um <em>thin client</em> e um laptop convencional?</p>",
+  "grupoQuestao_enunciado": "<p>Nas questões que avaliam os conhecimentos de noções de informática, a menos que seja explicitamente informado o contrário, considere que todos os programas mencionados estão em configuração padrão, em português, que o mouse está configurado para pessoas destras, que expressões como \"clicar\", \"clique simples\" e \"clique duplo\" referem-se a cliques com o botão esquerdo do mouse e que teclar corresponde à operação de pressionar uma tecla e, rapidamente, liberá-la, acionando-a apenas uma vez. Considere também que não há restrições de proteção, de funcionamento e de uso em relação aos programas, arquivos, diretórios, recursos e equipamentos mencionados. </p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Googlebook</p>",
+      "corpo_clean": "Googlebook",
+      "id": 6718492,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Chromebook</p>",
+      "corpo_clean": "Chromebook",
+      "id": 6718493,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Ultrabook</p>",
+      "corpo_clean": "Ultrabook",
+      "id": 6718494,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Booktop</p>",
+      "corpo_clean": "Booktop",
+      "id": 6718495,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>ChromeOS</p>",
+      "corpo_clean": "ChromeOS",
+      "id": 6718496,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6718493",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

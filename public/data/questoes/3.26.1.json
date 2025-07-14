@@ -1,0 +1,58 @@
+{
+  "id": 703842,
+  "codigo_real": "3.26.1",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Governança Corporativa",
+  "bancas_nome": "Escola de Administração Fazendária",
+  "bancas_sigla": "ESAF",
+  "orgaos_nome": "Ministério do Turismo",
+  "cargos_descricao": "Analista Técnico Administrativo",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<P>A governança corporativa desenvolveu-se em função da necessidade de superar conflitos e inadequações internas. A superação de conflitos é alcançada por meio de mudanças a serem implementadas principalmente com relação à gestão e aos acionistas. Analise as afirmativas marcando C para Certas e E para Erradas. A seguir selecione a opção correta. </P>\r\n<P>( ) A desprezível participação efetiva de acionistas minoritários deve ser alterada para uma democracia acionária com os minoritários ativos e representados. </P>\r\n<P>( ) A baixa eficácia dos Conselhos de Administração que atuam de maneira pro forma, preponderando sobre efetividade, deverá ser corrigida por uma nova atuação comprometida e responsável voltada para resultados. </P>\r\n<P>( ) As estratégias defensivas da Direção, de proteção dos gestores e não dos geradores de valor deverão ser substituídas por estratégias agressivas e geradoras de valor. </P>\r\n<P>( ) O abuso de poder dos acionistas majoritários deverá ser substituído pela justa retribuição dos minoritários. </P>\r\n<P>( ) A desconsideração pelo mérito e a competência deverão ser substituídas por seleções que busquem o perfil de excelência.</P>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "C, C, E, C, E",
+      "corpo_clean": "C, C, E, C, E",
+      "id": 2407329,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "C, E, E, E, C",
+      "corpo_clean": "C, E, E, E, C",
+      "id": 2407330,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "E, E, C, C, C",
+      "corpo_clean": "E, E, C, C, C",
+      "id": 2407331,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "E, C, E, E, E",
+      "corpo_clean": "E, C, E, E, E",
+      "id": 2407332,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "C, C, C, C, C",
+      "corpo_clean": "C, C, C, C, C",
+      "id": 2407333,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2407333",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

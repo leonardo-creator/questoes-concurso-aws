@@ -1,0 +1,58 @@
+{
+  "id": 2957333,
+  "codigo_real": "144.27",
+  "disciplina_real": "Veterinária",
+  "assunto_real": "Patologia Clínica Veterinária",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia do Maranhão",
+  "cargos_descricao": "Médico Veterinário",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A cinomose é uma doença viral que acomete cães, geralmente não vacinados e jovens. Um paciente canino, SRD, resgatado de situação de rua há 2 meses, deu entrada em uma clínica veterinária apresentando os seguintes sinais clínicos: apatia, diarreia e alterações no hemograma, indicando leve aumento de proteínas plasmáticas, leucocitose por neutrofilia e linfopenia. Na sequência, o médico veterinário solicitou um teste para cinomose que resultou em positivo. Dentre os achados, qual é o único que NÃO corrobora para o quadro da doença?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Apatia.</p>",
+      "corpo_clean": "Apatia.",
+      "id": 11944279,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Diarreia.</p>",
+      "corpo_clean": "Diarreia.",
+      "id": 11944280,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Aumento de proteínas plasmáticas.</p>",
+      "corpo_clean": "Aumento de proteínas plasmáticas.",
+      "id": 11944281,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Leucocitose por neutrofilia. </p>",
+      "corpo_clean": "Leucocitose por neutrofilia. ",
+      "id": 11944282,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Linfopenia.</p>",
+      "corpo_clean": "Linfopenia.",
+      "id": 11944283,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11944282",
+  "dificuldade": "Difícil",
+  "anulada": true,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

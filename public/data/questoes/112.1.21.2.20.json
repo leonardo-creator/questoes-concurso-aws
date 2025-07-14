@@ -1,0 +1,58 @@
+{
+  "id": 2925929,
+  "codigo_real": "112.1.21.2.20",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Informativo",
+  "bancas_nome": "Núcleo de Concursos e Promoção de Eventos",
+  "bancas_sigla": "NUCEPE UESPI",
+  "orgaos_nome": "Corpo de Bombeiros Militar do Piauí",
+  "cargos_descricao": "Soldado",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O gênero notícia tem como objetivo apresentar os fatos em torno de um acontecimento ou tema. Na notícia lida, </p>",
+  "grupoQuestao_enunciado": "<p><strong>Texto para responder as questões 01 e 02. </strong></p><p><br></p><p style=\"text-align: justify;\">A maneira mais clara e fácil de decretar o fim de uma pandemia seria se não houvesse mais circulação do Sars-CoV-2, o coronavírus causador da covid-19. [...] Enquanto isso, <strong>embora </strong>as estatísticas sobre vacinação revelem que até agora mais de 300 milhões de doses foram administradas, a parcela das pessoas 100% imunizadas fica muito abaixo disso, uma vez que a maioria dos imunizantes requer duas aplicações para surtir o efeito desejado. [...] <strong>Apesar das </strong>fortes campanhas de imunização em curso rápido em Estados Unidos, Israel, Emirados Árabes Unidos, Reino Unido e Chile, a vacinação vem em um ritmo muito mais lento em outros lugares do planeta.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\">Redação - BBC Mundo. 21 de março de 2022.</p><p style=\"text-align: right;\">Disponível em: https://www.bbc.com/portuguese/internacional-56406423. Acesso em: 22 mar. 2023 (adaptado)</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">a temática central corresponde à apresentação do papel dos países em relação à ciência. </p>",
+      "corpo_clean": "a temática central corresponde à apresentação do papel dos países em relação à ciência. ",
+      "id": 11813042,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>os estudos sobre a Covid-19 no mundo são o destaque do texto. </p>",
+      "corpo_clean": "os estudos sobre a Covid-19 no mundo são o destaque do texto. ",
+      "id": 11813043,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a pandemia da Covid-19 e o seu enfrentamento são os elementos centrais do texto. </p>",
+      "corpo_clean": "a pandemia da Covid-19 e o seu enfrentamento são os elementos centrais do texto. ",
+      "id": 11813044,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>observa-se o destaque dado ao fim da pandemia da Covid-19. </p>",
+      "corpo_clean": "observa-se o destaque dado ao fim da pandemia da Covid-19. ",
+      "id": 11813045,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>o foco é o enfrentamento do Brasil durante a pandemia da Covid-19. </p>",
+      "corpo_clean": "o foco é o enfrentamento do Brasil durante a pandemia da Covid-19. ",
+      "id": 11813046,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11813044",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

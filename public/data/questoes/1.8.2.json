@@ -1,0 +1,51 @@
+{
+  "id": 1769424,
+  "codigo_real": "1.8.2",
+  "disciplina_real": "Administração de Recursos Materiais",
+  "assunto_real": "Gestão Patrimonial",
+  "bancas_nome": "Instituto Águia",
+  "bancas_sigla": "",
+  "orgaos_nome": "Companhia de Entrepostos e Armazéns Gerais de São Paulo",
+  "cargos_descricao": "Técnico Administrativo - Área Contábil",
+  "ano": 2018,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>A modalidade de ingresso de bens e materiais ao acervo patrimonial, com transferência gratuita de posse e troca de responsabilidade, de um órgão para outro no âmbito da Administração Pública é chamada de:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Doação.</p>",
+      "corpo_clean": "Doação.",
+      "id": 6747098,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Transferência.</p>",
+      "corpo_clean": "Transferência.",
+      "id": 6747099,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Cessão.</p>",
+      "corpo_clean": "Cessão.",
+      "id": 6747100,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Permuta</p>",
+      "corpo_clean": "Permuta",
+      "id": 6747101,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "6747100",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

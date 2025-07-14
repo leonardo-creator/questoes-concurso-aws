@@ -1,0 +1,37 @@
+{
+  "id": 3555455,
+  "codigo_real": "128.9.7",
+  "disciplina_real": "Psicologia",
+  "assunto_real": "Perícia Psicológica",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "TSE Unificado",
+  "cargos_descricao": "Analista Judiciário - Área Psicologia",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">A bateria fatorial de personalidade (BFP), baseada no uso de técnicas projetivas, é o principal instrumento para a avaliação de personalidade na prática clínica de psicologia.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">A personalidade pode ser considerada como um conjunto de características psicológicas com relativa estabilidade ao longo da vida do indivíduo, de modo a refletir um padrão de pensamentos, sentimentos e comportamentos relacionados às diferenças individuais. A esse respeito, julgue os itens subsequentes.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 14490548,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 14490549,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14490549",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

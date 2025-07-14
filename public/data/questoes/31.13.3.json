@@ -1,0 +1,58 @@
+{
+  "id": 2232017,
+  "codigo_real": "31.13.3",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Espécies de Atos de Improbidade Administrativa",
+  "bancas_nome": "Instituto Brasileiro de Apoio e Desenvolvimento Executivo",
+  "bancas_sigla": "IBADE",
+  "orgaos_nome": "Câmara de Porto Velho",
+  "cargos_descricao": "Analista Jurídico",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Segundo a Lei 8429/92, o agente público que deixa de prestar contas quando está obrigado a fazê-lo, comete ato de improbidade administrativa:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">punido com suspensão dos direitos políticos de cinco a oito anos e pagamento de multa penal de até quatro vezes o valor do dano.</p>",
+      "corpo_clean": "punido com suspensão dos direitos políticos de cinco a oito anos e pagamento de multa penal de até quatro vezes o valor do dano.",
+      "id": 8777692,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">que causa lesão ao erário.</p>",
+      "corpo_clean": "que causa lesão ao erário.",
+      "id": 8777693,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">que atenta contra os princípios da administração pública.</p>",
+      "corpo_clean": "que atenta contra os princípios da administração pública.",
+      "id": 8777694,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">que importa enriquecimento ilícito.</p>",
+      "corpo_clean": "que importa enriquecimento ilícito.",
+      "id": 8777695,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">punido com pena de reclusão de um a dois anos, e multa.</p>",
+      "corpo_clean": "punido com pena de reclusão de um a dois anos, e multa.",
+      "id": 8777696,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8777694",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

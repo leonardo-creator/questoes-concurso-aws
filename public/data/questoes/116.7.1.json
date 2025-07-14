@@ -1,0 +1,51 @@
+{
+  "id": 1546464,
+  "codigo_real": "116.7.1",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Conceitos de morte",
+  "bancas_nome": "FUNDEP Gestão de Concursos",
+  "bancas_sigla": "FUNDEP",
+  "orgaos_nome": "Corpo de Bombeiro Militar de Minas Gerais",
+  "cargos_descricao": "Bombeiro Militar / Oficial - Área Medicina Psiquiatria",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A avaliação do risco de suicídio tem a função de orientar o manejo clínico, colocando as ações terapêuticas em ordem de prioridade. Tal avaliação é possível após uma avaliação clínica cuidadosa e sensível. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Nesse tipo de avaliação, deve-se evitar:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Valorizar mais o relato do paciente do que de familiares, uma vez que quanto maior o risco, mais o paciente tenta esconder seu planejamento para o suicídio.</p>",
+      "corpo_clean": "Valorizar mais o relato do paciente do que de familiares, uma vez que quanto maior o risco, mais o paciente tenta esconder seu planejamento para o suicídio.",
+      "id": 5789709,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Perguntar sobre a existência de planos para o futuro, uma vez que lembram o paciente sobre sua condição de desesperança.</p>",
+      "corpo_clean": "Perguntar sobre a existência de planos para o futuro, uma vez que lembram o paciente sobre sua condição de desesperança.",
+      "id": 5789710,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Concluir que a presença de ambivalência, na qual o desejo de morrer e de ser resgatado coexistem, denuncia incoerência por parte do paciente.</p>",
+      "corpo_clean": "Concluir que a presença de ambivalência, na qual o desejo de morrer e de ser resgatado coexistem, denuncia incoerência por parte do paciente.",
+      "id": 5789711,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Investigar com detalhes o grau de intencionalidade suicida, já que este pode ser interpretado como curiosidade mórbida, prejudicando a relação médico-paciente.</p>",
+      "corpo_clean": "Investigar com detalhes o grau de intencionalidade suicida, já que este pode ser interpretado como curiosidade mórbida, prejudicando a relação médico-paciente.",
+      "id": 5789712,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5789711",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

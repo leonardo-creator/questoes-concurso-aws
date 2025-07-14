@@ -1,0 +1,51 @@
+{
+  "id": 3540477,
+  "codigo_real": "35.14.10.2",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Dos Direitos, Garantias e Deveres Individuais e Sociais",
+  "bancas_nome": "Associação dos Municípios do Extremo Oeste de Santa Catarina",
+  "bancas_sigla": "AMEOSC",
+  "orgaos_nome": "Prefeitura de Belmonte",
+  "cargos_descricao": "Merendeira",
+  "ano": 2024,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A Constituição Federal de 1988, conhecida como \"Constituição Cidadã\", garantiu uma série de direitos fundamentais aos brasileiros. Qual dos direitos abaixo está previsto na Constituição como um direito social? </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Saúde. </p>",
+      "corpo_clean": "Saúde. ",
+      "id": 14436153,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p> Liberdade de expressão. </p>",
+      "corpo_clean": " Liberdade de expressão. ",
+      "id": 14436154,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Proteção ao meio ambiente.</p>",
+      "corpo_clean": "Proteção ao meio ambiente.",
+      "id": 14436155,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p> Propriedade privada.</p>",
+      "corpo_clean": " Propriedade privada.",
+      "id": 14436156,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "14436153",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

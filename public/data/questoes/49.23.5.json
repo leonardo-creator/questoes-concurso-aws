@@ -1,0 +1,58 @@
+{
+  "id": 1482959,
+  "codigo_real": "49.23.5",
+  "disciplina_real": "Direito Processual Penal Militar",
+  "assunto_real": "Suspensão Condicional da Pena",
+  "bancas_nome": "Instituto Americano de Desenvolvimento",
+  "bancas_sigla": "IADES",
+  "orgaos_nome": "Polícia Militar do Pará",
+  "cargos_descricao": "Oficial",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Ainda sobre a prisão temporária, assinale a alternativa que apresenta o seu tempo máximo de duração para crimes comuns, incluindo eventual prorrogação:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">10 dias</p>",
+      "corpo_clean": "10 dias",
+      "id": 5517874,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">20 dias</p>",
+      "corpo_clean": "20 dias",
+      "id": 5517875,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">60 dias</p>",
+      "corpo_clean": "60 dias",
+      "id": 5517876,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">30 dias</p>",
+      "corpo_clean": "30 dias",
+      "id": 5517877,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">5 dias</p>",
+      "corpo_clean": "5 dias",
+      "id": 5517878,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5517874",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3732785,
+  "codigo_real": "13.2.3",
+  "disciplina_real": "Atualidades e Conhecimentos Gerais",
+  "assunto_real": "Conhecimentos Específicos dos Estados",
+  "bancas_nome": "Fundação de Apoio ao Desenvolvimento do Ensino Superior do Norte de Minas",
+  "bancas_sigla": "COTEC FADENOR",
+  "orgaos_nome": "Câmara de Buritizeiro",
+  "cargos_descricao": "Guarda Patrimonial",
+  "ano": 2025,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">INSTRUÇÃO: Analise o fragmento de texto e a figura a seguir para responder a esta questão. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">O seu território integra a região conhecida como Leste Europeu, a qual possui semelhanças nos aspectos econômicos, socioculturais e étnicos. A região, inicialmente, foi ocupada pelos povos eslavos, também conhecidos como Rus, e, durante o século XVIII, uma parte do seu território foi incorporada ao Império Russo. Esse movimento repetiu-se durante o século XX, na Revolução Bolchevique. Cinco anos mais tarde, foi criada a União das Repúblicas Socialistas Soviéticas (URSS), da qual passou a fazer parte. O país tornou-se independente somente em 1991, ano em que aconteceu a dissolução da URSS. A figura a seguir destaca a localização desse país.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/181365/questao/3732785-20250401154057000000-0.png\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: right;\">Disponível em: https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2F. Acesso em: 10 fev. 2025. Adaptado. </p><p style=\"text-align: right;\"><br></p><p style=\"text-align: justify;\">O país a que o texto e a área destacada na figura se referem é a</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p> Croácia.</p>",
+      "corpo_clean": " Croácia.",
+      "id": 15200211,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Filipinas.</p>",
+      "corpo_clean": "Filipinas.",
+      "id": 15200212,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Palestina.</p>",
+      "corpo_clean": "Palestina.",
+      "id": 15200213,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Rússia.</p>",
+      "corpo_clean": "Rússia.",
+      "id": 15200214,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Ucrânia.</p>",
+      "corpo_clean": "Ucrânia.",
+      "id": 15200215,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15200215",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

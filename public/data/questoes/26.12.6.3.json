@@ -1,0 +1,58 @@
+{
+  "id": 3818654,
+  "codigo_real": "26.12.6.3",
+  "disciplina_real": "Contabilidade Pública",
+  "assunto_real": "Definições",
+  "bancas_nome": "Instituto Brasileiro de Apoio e Desenvolvimento Executivo",
+  "bancas_sigla": "IBADE",
+  "orgaos_nome": "Prefeitura de Rolim de Moura",
+  "cargos_descricao": "Contador",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com o previsto no Manual de Contabilidade Aplicada ao Setor Público (MCASP), os recursos de terceiros que estão sob a posse do ente, mas que possuem vinculação a uma finalidade específica, incluindo a possível obrigação de devolução (como as cauções) ou de pagamento de obrigação de terceiros (como os precatórios), devem ser observados nos saldos bancários dos entes. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Com base nesse conceito, qual das alternativas abaixo está correta em relação à forma de manejo desses recursos dentro da administração pública? </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">É imprescindível que os recursos de terceiros sejam separados dos saldos gerais do ente e sejam manejados conforme a finalidade específica para a qual foram destinados.</p>",
+      "corpo_clean": "É imprescindível que os recursos de terceiros sejam separados dos saldos gerais do ente e sejam manejados conforme a finalidade específica para a qual foram destinados.",
+      "id": 15569901,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A devolução de recursos de terceiros, como cauções, não precisa ser controlada ou registrada de forma específica, pois não impacta a gestão financeira do ente público. </p>",
+      "corpo_clean": "A devolução de recursos de terceiros, como cauções, não precisa ser controlada ou registrada de forma específica, pois não impacta a gestão financeira do ente público. ",
+      "id": 15569902,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Não é necessário monitorar os aspectos operacionais das unidades gestoras quando os recursos de terceiros estão sob posse do ente, pois esses recursos não afetam diretamente a execução orçamentária. </p>",
+      "corpo_clean": "Não é necessário monitorar os aspectos operacionais das unidades gestoras quando os recursos de terceiros estão sob posse do ente, pois esses recursos não afetam diretamente a execução orçamentária. ",
+      "id": 15569903,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os precatórios e as cauções devem ser tratados como despesa do ente público, pois representam obrigações a serem quitadas.</p>",
+      "corpo_clean": "Os precatórios e as cauções devem ser tratados como despesa do ente público, pois representam obrigações a serem quitadas.",
+      "id": 15569904,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O manejo dos recursos de terceiros deve ser feito de maneira irrestrita, independentemente da sua destinação específica.</p>",
+      "corpo_clean": "O manejo dos recursos de terceiros deve ser feito de maneira irrestrita, independentemente da sua destinação específica.",
+      "id": 15569905,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15569901",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1145624,
+  "codigo_real": "58.9.4",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Hipertensão Arterial Sistêmica",
+  "bancas_nome": "Universidade Federal do Paraná",
+  "bancas_sigla": "FUNPAR NC UFPR",
+  "orgaos_nome": "Universidade Federal do Paraná",
+  "cargos_descricao": "Residência em Atenção Hospitalar - Área: Atenção à Saúde da Criança e do Adolescente - Especialidade: Enfermagem",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\">A respeito da hipertensão arterial, considere as seguintes afirmativas:\r\n</p><p align=\"justify\">1. Para um adulto com circunferência de braço de 40 cm, a largura do manguito deverá ser de 13 cm e a largura da bolsa deverá ser de 30 cm.\r\n</p><p align=\"justify\">2. A bexiga cheia pode alterar a pressão arterial.\r\n</p><p align=\"justify\">3. Ao desinflar o manguito, se os batimentos persistirem até o nível zero, deve-se determinar a pressão arterial diastólica no abafamento dos sons.\r\n</p><p align=\"justify\">4. Na primeira consulta, a pressão arterial deve ser verificada nos dois braços, utilizando-se a maior pressão obtida como referência.\r\n</p><p align=\"justify\">Assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "As afirmativas 1, 2, 3 e 4 são verdadeiras.",
+      "corpo_clean": "As afirmativas 1, 2, 3 e 4 são verdadeiras.",
+      "id": 4087784,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Somente as afirmativas 2, 3 e 4 são verdadeiras.</p>",
+      "corpo_clean": "Somente as afirmativas 2, 3 e 4 são verdadeiras.",
+      "id": 4087785,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "Somente as afirmativas 1 e 4 são verdadeiras.",
+      "corpo_clean": "Somente as afirmativas 1 e 4 são verdadeiras.",
+      "id": 4087786,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Somente as afirmativas 1 e 3 são verdadeiras.",
+      "corpo_clean": "Somente as afirmativas 1 e 3 são verdadeiras.",
+      "id": 4087787,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "Somente a afirmativa 2 é verdadeira.",
+      "corpo_clean": "Somente a afirmativa 2 é verdadeira.",
+      "id": 4087788,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4087785",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

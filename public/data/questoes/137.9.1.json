@@ -1,0 +1,37 @@
+{
+  "id": 838522,
+  "codigo_real": "137.9.1",
+  "disciplina_real": "Serviço Social",
+  "assunto_real": "Noções Gerais",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Defensoria Pública da União",
+  "cargos_descricao": "Assistente Social",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Na elaboração de um laudo, o assistente social deve evitar o uso de termos técnicos que possam dificultar o entendimento de receptores que não tenham familiaridade com os conhecimentos específicos da área de serviço social.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Relativamente à dimensão técnico-operativa do serviço social, às concepções e debates sobre instrumentos e técnicas, julgue os próximos itens.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 2897456,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 2897457,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2897457",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

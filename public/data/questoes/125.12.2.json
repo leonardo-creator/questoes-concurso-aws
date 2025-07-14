@@ -1,0 +1,58 @@
+{
+  "id": 2675754,
+  "codigo_real": "125.12.2",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Funções do Ensino Superior - Temas Educacionais Pedagógicos",
+  "bancas_nome": "Instituto de Apoio à Universidade de Pernambuco",
+  "bancas_sigla": "UPENET IAUPE",
+  "orgaos_nome": "Prefeitura de São José da Coroa Grande",
+  "cargos_descricao": "Psicopedagogo",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Acerca das Funções Psicológicas Superiores, leias as afirmativas abaixo:</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\">I. São desenvolvidas por meio da mediação, do contato com a cultura.</p><p style=\"text-align: justify;\">II. Os símbolos e os instrumentos são necessários para a emergência das Funções Psicológicas Superiores.</p><p style=\"text-align: justify;\">III. O conhecimento das Funções Psicológicas superiores está relacionado, apenas, aos processos atencionais em sala de aula.</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">-</span></p><p style=\"text-align: justify;\">Está INCORRETO o que se afirma em</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I, II e III.</p>",
+      "corpo_clean": "I, II e III.",
+      "id": 10705462,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>I, apenas.</p>",
+      "corpo_clean": "I, apenas.",
+      "id": 10705463,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>I e II, apenas.</p>",
+      "corpo_clean": "I e II, apenas.",
+      "id": 10705464,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>III, apenas.</p>",
+      "corpo_clean": "III, apenas.",
+      "id": 10705465,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>II e III, apenas.</p>",
+      "corpo_clean": "II e III, apenas.",
+      "id": 10705466,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10705465",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 448620,
+  "codigo_real": "20.2.1.1",
+  "disciplina_real": "Comunicação Social",
+  "assunto_real": "Código de Ética dos Profissionais da Propaganda",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Empresa Brasileira de InfraEstrutura Aeroportuária",
+  "cargos_descricao": "Analista Superior I - Área Comunicação Social/Publicidade",
+  "ano": 2011,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Segundo o Código de Ética do Profissional de Propaganda,</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>a comissão percebida pelo corretor é, necessariamente,\r\na mesma concedida às agências que dão del\r\ncredere efetivo e fazem as cobranças das contas\r\ndos veículos aos anunciantes.</p>",
+      "corpo_clean": "a comissão percebida pelo corretor é, necessariamente, a mesma concedida às agências que dão del credere efetivo e fazem as cobranças das contas dos veículos aos anunciantes.",
+      "id": 1585026,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>os veículos não podem jamais faturar em nome dos\r\nanunciantes. As contas devem ser faturadas em\r\nnome das agências, que se responsabilizarão pela\r\ncobrança do serviço prestado ao anunciante.</p>",
+      "corpo_clean": "os veículos não podem jamais faturar em nome dos anunciantes. As contas devem ser faturadas em nome das agências, que se responsabilizarão pela cobrança do serviço prestado ao anunciante.",
+      "id": 1585027,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>o uso de pesquisa ou estatística em uma propaganda\r\ndeve ter a fonte revelada somente quando os\r\nnúmeros forem fundamentais para os argumentos\r\npersuasivos.</p>",
+      "corpo_clean": "o uso de pesquisa ou estatística em uma propaganda deve ter a fonte revelada somente quando os números forem fundamentais para os argumentos persuasivos.",
+      "id": 1585028,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>com o objetivo de incentivar a produção de ideias\r\nnovas, de que tanto necessita a propaganda, presume-\r\nse sempre que a ideia pertence ao anunciante,\r\nque remunerou a empresa criadora. Essas\r\nideias não podem ser exploradas sem que o\r\nfinanciador delas se beneficie.</p>",
+      "corpo_clean": "com o objetivo de incentivar a produção de ideias novas, de que tanto necessita a propaganda, presume- se sempre que a ideia pertence ao anunciante, que remunerou a empresa criadora. Essas ideias não podem ser exploradas sem que o financiador delas se beneficie.",
+      "id": 1585029,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>a propaganda é sempre ostensiva. A mistificação e o\r\nengodo, que escondem a propaganda, são expressamente\r\nrepudiados pelos profissionais de propaganda.</p>",
+      "corpo_clean": "a propaganda é sempre ostensiva. A mistificação e o engodo, que escondem a propaganda, são expressamente repudiados pelos profissionais de propaganda.",
+      "id": 1585030,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1585030",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

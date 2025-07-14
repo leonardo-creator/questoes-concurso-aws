@@ -1,0 +1,51 @@
+{
+  "id": 3697229,
+  "codigo_real": "125.24.6",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Planejamento estratégico educacional",
+  "bancas_nome": "Instituto de Apoio à Gestão e Educação",
+  "bancas_sigla": "IGEDUC",
+  "orgaos_nome": "Prefeitura de Calumbi",
+  "cargos_descricao": "Professor - Área: História",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em um processo de planejamento estratégico escolar, a análise SWOT (Forças, Fraquezas, Oportunidades e Ameaças) é amplamente utilizada para compreender o contexto e traçar metas alinhadas aos objetivos institucionais. Qual das alternativas representa corretamente uma possível \"Oportunidade\" em um planejamento estratégico educacional? </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Elevado índice de rotatividade de professores na escola.</p>",
+      "corpo_clean": "Elevado índice de rotatividade de professores na escola.",
+      "id": 15055959,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Acesso a parcerias com instituições de ensino superior para projetos de extensão.</p>",
+      "corpo_clean": "Acesso a parcerias com instituições de ensino superior para projetos de extensão.",
+      "id": 15055960,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Baixo desempenho dos alunos em avaliações externas, revelando necessidade de melhorias curriculares.</p>",
+      "corpo_clean": "Baixo desempenho dos alunos em avaliações externas, revelando necessidade de melhorias curriculares.",
+      "id": 15055961,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Dificuldade de engajamento dos pais nas atividades escolares.</p>",
+      "corpo_clean": "Dificuldade de engajamento dos pais nas atividades escolares.",
+      "id": 15055962,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "15055960",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

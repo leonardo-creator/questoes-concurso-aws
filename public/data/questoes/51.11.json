@@ -1,0 +1,58 @@
+{
+  "id": 3318295,
+  "codigo_real": "51.11",
+  "disciplina_real": "Direito Sanitário e Saúde",
+  "assunto_real": "Atenção Domiciliar",
+  "bancas_nome": "Instituto BRB",
+  "bancas_sigla": "IBRB",
+  "orgaos_nome": "Prefeitura de Jeremoabo",
+  "cargos_descricao": "Odontólogo",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Qual é a característica principal da atenção secundária no sistema de saúde brasileiro?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Atendimento de média complexidade.</p>",
+      "corpo_clean": "Atendimento de média complexidade.",
+      "id": 13495558,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Atenção de alta complexidade e baixa complexidade.</p>",
+      "corpo_clean": "Atenção de alta complexidade e baixa complexidade.",
+      "id": 13495559,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Atendimento preventivo. </p>",
+      "corpo_clean": "Atendimento preventivo. ",
+      "id": 13495560,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Atendimento básico e especializado.</p>",
+      "corpo_clean": "Atendimento básico e especializado.",
+      "id": 13495561,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Atenção de média e alta complexidade.</p>",
+      "corpo_clean": "Atenção de média e alta complexidade.",
+      "id": 13495562,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13495558",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

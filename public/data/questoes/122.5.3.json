@@ -1,0 +1,51 @@
+{
+  "id": 1258336,
+  "codigo_real": "122.5.3",
+  "disciplina_real": "Nutrição",
+  "assunto_real": "Ficha técnica - Ficha técnica",
+  "bancas_nome": "SELECON Instituto Nacional de Seleções e Concursos",
+  "bancas_sigla": "SELECON",
+  "orgaos_nome": "Prefeitura de Boa Vista",
+  "cargos_descricao": "Técnico em Nutrição e Dietética",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>o cardápio de hoje de uma unidade de\r\nalimentação e nutrição, entre outros alimentos, apresenta o alimento tomate, cujo fator de correção é igual a 1,25. A quantidade de tomate a ser adquirido para 100 (cem) comensais realizarem a refeição, sabendo que seu per capita é igual a 40 g, é de:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>5,000kg\r\n</p>",
+      "corpo_clean": "5,000kg ",
+      "id": 4560895,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>4,500kg\r\n</p>",
+      "corpo_clean": "4,500kg ",
+      "id": 4560896,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>4,000kg\r\n</p>",
+      "corpo_clean": "4,000kg ",
+      "id": 4560897,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>3,500kg</p>",
+      "corpo_clean": "3,500kg",
+      "id": 4560898,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4560895",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

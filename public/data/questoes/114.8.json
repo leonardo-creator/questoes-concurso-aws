@@ -1,0 +1,58 @@
+{
+  "id": 1853460,
+  "codigo_real": "114.8",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Fluxo de Caixa",
+  "bancas_nome": "Colégio Militar de Curitiba",
+  "bancas_sigla": "",
+  "orgaos_nome": "Colégio Militar de Curitiba",
+  "cargos_descricao": "Aluno do Colégio Militar - Área Matemática (1º ano do Ensino Médio)",
+  "ano": 2019,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O diretor de uma empresa estabeleceu que os cartões de visita da corporação tivessem o formato retangular, satisfazendo a seguinte condição: cada cartão deveria ter o comprimento 60% maior que a largura. Para fazer esses cartões, foi utilizada uma chapa de plástico PVC (<em>policloreto de vinila</em>) com área útil de 7018 cm<sup>2</sup>. Com essa chapa foi possível fazer 145 cartões, sem que tivesse havido sobras, ou seja, toda a chapa foi utilizada.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>Lembre-se que a área de um retângulo é dada por <span class=\"ql-formula\" data-value=\"A = b .h\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.68333em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\">A</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.69444em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\">b</span><span class=\"mord\">.</span><span class=\"mord mathnormal\">h</span></span></span></span></span></span>, em que <span class=\"ql-formula\" data-value=\"b\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.69444em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\">b</span></span></span></span></span></span> é a medida da base do retângulo e <span class=\"ql-formula\" data-value=\"h\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.69444em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\">h</span></span></span></span></span></span> sua altura. </em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Com base nessas informações, qual a largura e o comprimento desses cartões, respectivamente?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>5 cm e 9,68 cm</p>",
+      "corpo_clean": "5 cm e 9,68 cm",
+      "id": 7126312,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>5,1 cm e 8,16 cm</p>",
+      "corpo_clean": "5,1 cm e 8,16 cm",
+      "id": 7126313,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>5,3 cm e 8,48 cm</p>",
+      "corpo_clean": "5,3 cm e 8,48 cm",
+      "id": 7126314,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>6,05 cm e 8 cm</p>",
+      "corpo_clean": "6,05 cm e 8 cm",
+      "id": 7126315,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>5,5 cm e 8,8 cm</p>",
+      "corpo_clean": "5,5 cm e 8,8 cm",
+      "id": 7126316,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7126316",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

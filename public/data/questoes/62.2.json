@@ -1,0 +1,51 @@
+{
+  "id": 2536297,
+  "codigo_real": "62.2",
+  "disciplina_real": "Engenharia Cartográfica e de Agrimensura",
+  "assunto_real": "Concepção Cartográfica",
+  "bancas_nome": "Instituto de Pesquisas Econômicas",
+  "bancas_sigla": "IPEFAE",
+  "orgaos_nome": "Prefeitura de São João da Boa Vista",
+  "cargos_descricao": "Engenheiro Agrimensor",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O controle de qualidade de uma planta, assim como de todo e qualquer trabalho de engenharia, deve ser feito em três diferentes níveis. Na inspeção um item importante é acurácia da planta, devendo ser avaliadas as acurácias planimétrica e altimétrica. Em relação à acurácias planimétrica e seu critério de aceitação ou rejeição, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Podem ter discrepâncias superiores ao padrão de acurácia planimétrica.</p>",
+      "corpo_clean": "Podem ter discrepâncias superiores ao padrão de acurácia planimétrica.",
+      "id": 10096464,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Não podem ter discrepâncias superiores ao desvio padrão resultante das distâncias medidas no terreno e na planta.</p>",
+      "corpo_clean": "Não podem ter discrepâncias superiores ao desvio padrão resultante das distâncias medidas no terreno e na planta.",
+      "id": 10096465,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O desvio padrão resultante das distâncias medidas no terreno e na planta deve ser maior a desvio padrão admissível para as discrepâncias entre as distâncias.</p>",
+      "corpo_clean": "O desvio padrão resultante das distâncias medidas no terreno e na planta deve ser maior a desvio padrão admissível para as discrepâncias entre as distâncias.",
+      "id": 10096466,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Não podem ter discrepâncias superiores ao desvio padrão resultante das distâncias medidas no terreno e na planta.</p>",
+      "corpo_clean": "Não podem ter discrepâncias superiores ao desvio padrão resultante das distâncias medidas no terreno e na planta.",
+      "id": 10096467,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "10096465",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1042230,
+  "codigo_real": "10.5.8",
+  "disciplina_real": "Arquivologia",
+  "assunto_real": "Distribuição de documentos",
+  "bancas_nome": "Instituto Águia",
+  "bancas_sigla": "",
+  "orgaos_nome": "Companhia de Entrepostos e Armazéns Gerais de São Paulo",
+  "cargos_descricao": "Técnico Administrativo III - Área Administração",
+  "ano": 2018,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "A remessa do processo às unidades que decidirão a matéria nele tratada recebe o nome de:",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "Classificação.",
+      "corpo_clean": "Classificação.",
+      "id": 3646339,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "Distribuição.",
+      "corpo_clean": "Distribuição.",
+      "id": 3646340,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": " Autuação.",
+      "corpo_clean": " Autuação.",
+      "id": 3646341,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Diligência.",
+      "corpo_clean": "Diligência.",
+      "id": 3646342,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "3646340",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

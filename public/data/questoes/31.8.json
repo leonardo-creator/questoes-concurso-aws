@@ -1,0 +1,58 @@
+{
+  "id": 6726,
+  "codigo_real": "31.8",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Licitações",
+  "bancas_nome": "Escola de Administração Fazendária",
+  "bancas_sigla": "ESAF",
+  "orgaos_nome": "Agência Nacional de Energia Elétrica",
+  "cargos_descricao": "Especialista em Regulação",
+  "ano": 2006,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Conforme expressa disposição, na Lei n. 8.666/93,\r\nque institui normas para licitações e contratos, na\r\nAdministração Pública,</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>o concurso é a modalidade de licitação para selecionar\r\ncandidatos, à ocupação de cargo ou emprego público.</p>",
+      "corpo_clean": "o concurso é a modalidade de licitação para selecionar candidatos, à ocupação de cargo ou emprego público.",
+      "id": 33250,
+      "ordem": 1,
+      "rotulo": "a    "
+    },
+    {
+      "corpo": "<p align=justify>é dispensável a licitação, para contratar compras,\r\nobras ou serviços, quando houver inviabilidade de\r\ncompetição.</p>",
+      "corpo_clean": "é dispensável a licitação, para contratar compras, obras ou serviços, quando houver inviabilidade de competição.",
+      "id": 33251,
+      "ordem": 2,
+      "rotulo": "b    "
+    },
+    {
+      "corpo": "<p align=justify>para contratar obras, poder-se-á estabelecer no\r\nedital, como comprovação da qualificação econômica,\r\na exigência de capital mínimo, em até 50% do valor\r\nestimado, da respectiva contratação.</p>",
+      "corpo_clean": "para contratar obras, poder-se-á estabelecer no edital, como comprovação da qualificação econômica, a exigência de capital mínimo, em até 50% do valor estimado, da respectiva contratação.",
+      "id": 33252,
+      "ordem": 3,
+      "rotulo": "c    "
+    },
+    {
+      "corpo": "<p align=justify>a autoridade competente, para aprovar o procedimento,\r\npoderá revogar a licitação, por razões de interesse\r\npúblico, decorrentes de fato superveniente devidamente\r\ncomprovado, pertinente e suficiente a justificar tal\r\nprocedimento.</p>",
+      "corpo_clean": "a autoridade competente, para aprovar o procedimento, poderá revogar a licitação, por razões de interesse público, decorrentes de fato superveniente devidamente comprovado, pertinente e suficiente a justificar tal procedimento.",
+      "id": 33253,
+      "ordem": 4,
+      "rotulo": "d    "
+    },
+    {
+      "corpo": "<p align=justify>é vedado à Comissão de Licitação, no curso, do\r\nprocedimento licitatório, promover diligência tendente\r\na esclarecer ou completar a instrução do processo,\r\nmas pode permitir a inclusão posterior de informação,\r\nque deixaram de constar da proposta.</p>",
+      "corpo_clean": "é vedado à Comissão de Licitação, no curso, do procedimento licitatório, promover diligência tendente a esclarecer ou completar a instrução do processo, mas pode permitir a inclusão posterior de informação, que deixaram de constar da proposta.",
+      "id": 33254,
+      "ordem": 5,
+      "rotulo": "e    "
+    }
+  ],
+  "resposta_correta": "33253",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

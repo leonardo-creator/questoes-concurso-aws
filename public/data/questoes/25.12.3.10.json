@@ -1,0 +1,58 @@
+{
+  "id": 339472,
+  "codigo_real": "25.12.3.10",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Dividendos",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal de Contas do Ceará",
+  "cargos_descricao": "Auditoria Governamental",
+  "ano": 2008,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>O montante do dividendo por ação do capital social deverá\r\nser evidenciado</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>na Demonstração do Resultado do Exercício.</p>",
+      "corpo_clean": "na Demonstração do Resultado do Exercício.",
+      "id": 1212278,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>na Demonstração dos Fluxos de Caixa.</p>",
+      "corpo_clean": "na Demonstração dos Fluxos de Caixa.",
+      "id": 1212279,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>na Demonstração de Lucros ou Prejuízos Acumulados.</p>",
+      "corpo_clean": "na Demonstração de Lucros ou Prejuízos Acumulados.",
+      "id": 1212280,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>na Demonstração do Valor Adicionado.</p>",
+      "corpo_clean": "na Demonstração do Valor Adicionado.",
+      "id": 1212281,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>no Relatório de Administração.</p>",
+      "corpo_clean": "no Relatório de Administração.",
+      "id": 1212282,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1212280",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

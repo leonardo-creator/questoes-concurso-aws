@@ -1,0 +1,51 @@
+{
+  "id": 2479452,
+  "codigo_real": "116.5",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Traumatologia",
+  "bancas_nome": "Diretoria de Ensino da Aeronáutica",
+  "bancas_sigla": "DIRENS Aeronautica",
+  "orgaos_nome": "Ministério da Defesa - Aeronáutica",
+  "cargos_descricao": "Oficial Médico (EA-CAMAR) - Especialidade: Clínica Médica",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um paciente de meia idade é atendido com queixa de tontura intensa, palpitações e desconforto torácico. Informa tomar medicações para “coração fraco e inchado depois de dois infartos do coração”. O ECG releva taquicardia com QRS alargado e frequência de cerca 170bpm.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Analise as afirmativas abaixo sobre este caso e condição clínica e, em seguida, marque a opção correta.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. A aplicação dos algoritmos para diferenciar taquicardia ventricular (TV) de taquicardia supraventricular com aberrância de condução assegurariam o diagnóstico se negativos para TV.</p><p style=\"text-align: justify;\">II. A desfibrilação com energia bifásica de 200J seria uma opção, considerando a presença de instabilidade caracterizada pela dor precordial.</p><p style=\"text-align: justify;\">III. Uma troponina alterada entre 1 e 3 vezes o valor de referência indicaria o diagnóstico de SCA, com consequente encaminhamento imediato cineangiocoronariografia de emergência.</p><p style=\"text-align: justify;\">IV. Caso a amiodarona fosse utilizada para reversão da arritmia, sua manutenção contínua para prevenção de recorrência seria superior ao cardioversor/desfibrilador implantável (CDI).</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas a afirmativa I é verdadeira.</p>",
+      "corpo_clean": "Apenas a afirmativa I é verdadeira.",
+      "id": 9848208,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apenas as afirmativas III e IV são verdadeiras.</p>",
+      "corpo_clean": "Apenas as afirmativas III e IV são verdadeiras.",
+      "id": 9848209,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Todas as afirmativas são verdadeiras.</p>",
+      "corpo_clean": "Todas as afirmativas são verdadeiras.",
+      "id": 9848210,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Todas as afirmativas são falsas.</p>",
+      "corpo_clean": "Todas as afirmativas são falsas.",
+      "id": 9848211,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9848211",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

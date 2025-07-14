@@ -1,0 +1,58 @@
+{
+  "id": 3517143,
+  "codigo_real": "112.7.2.4",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Reforma Ortográfica de 2009 (Novo Acordo Ortográfico)",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Tribunal de Justiça de Roraima",
+  "cargos_descricao": "Analista - Área: Ciência de Dados",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A contracapa do Minidicionário da Língua Portuguesa, de autoria de Evanildo Bechara, traz o seguinte:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>Elaborado pelo prof. Evanildo Bechara, o único representante da ABL no novo Acordo Ortográfico.</em></p><p style=\"text-align: justify;\"><em>Muito fácil de consultar.</em></p><p style=\"text-align: justify;\"><em>Todas as palavras alteradas pela Reforma Ortográfica vêm assinaladas.</em></p><p style=\"text-align: justify;\"><em>Mais de 30 mil palavras e locuções.</em></p><p style=\"text-align: justify;\"><em>Regionalismos, estrangeirismos e siglas.</em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a opção que <strong><em><u>não</u></em></strong> mostra uma vantagem que está explícita ou implicitamente aí indicada.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Grande número de vocábulos incluídos na obra.</p>",
+      "corpo_clean": "Grande número de vocábulos incluídos na obra.",
+      "id": 14338912,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Classificação gramatical dos vocábulos.</p>",
+      "corpo_clean": "Classificação gramatical dos vocábulos.",
+      "id": 14338913,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Facilidade de acesso à obra.</p>",
+      "corpo_clean": "Facilidade de acesso à obra.",
+      "id": 14338914,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Informações de qualidade diferenciada.</p>",
+      "corpo_clean": "Informações de qualidade diferenciada.",
+      "id": 14338915,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Informações atuais sobre palavras.</p>",
+      "corpo_clean": "Informações atuais sobre palavras.",
+      "id": 14338916,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14338913",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1797118,
+  "codigo_real": "10.6.4",
+  "disciplina_real": "Arquivologia",
+  "assunto_real": "Juntada (anexação e apensação)",
+  "bancas_nome": "COPEVE/UFAL - FUNDEPES",
+  "bancas_sigla": "",
+  "orgaos_nome": "Companhia de Saneamento de Alagoas",
+  "cargos_descricao": "Assistente Administrativo",
+  "ano": 2014,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A união provisória de um ou mais processos a outro processo, com matérias semelhantes, com o mesmo interessado ou não, é denominado de</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>anexação.</p>",
+      "corpo_clean": "anexação.",
+      "id": 6871805,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>despacho.</p>",
+      "corpo_clean": "despacho.",
+      "id": 6871806,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>união.</p>",
+      "corpo_clean": "união.",
+      "id": 6871807,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>distribuição.</p>",
+      "corpo_clean": "distribuição.",
+      "id": 6871808,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>apensação.</p>",
+      "corpo_clean": "apensação.",
+      "id": 6871809,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6871809",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

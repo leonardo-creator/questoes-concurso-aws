@@ -1,0 +1,37 @@
+{
+  "id": 202810,
+  "codigo_real": "72.2",
+  "disciplina_real": "Engenharia Elétrica e Engenharia Eletrônica",
+  "assunto_real": "Circuitos Elétricos - Circuitos Elétricos",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Petróleo Brasileiro S.A",
+  "cargos_descricao": "Engenheiro - Área Mecânica",
+  "ano": 2004,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Considere que a fonte fornece ao circuito uma voltagem alternada dada por <em>V</em>(t) = <em>V</em><sub>o</sub> sen ωt, em que <em>V</em><sub>o</sub> é a voltagem máxima e <span class=\"ql-formula\" data-value=\"\\omega\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.43056em; vertical-align: 0em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.03588em;\">ω</span></span></span></span></span></span>, a freqüência angular. Nesse caso, mantendo-se a chave S<sub>2</sub> aberta e fechando-se a chave S<sub>1</sub>, a voltagem no capacitor se atrasará em 90º em relação à corrente.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: center;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/1248/121.JPG\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: justify;\">A figura acima ilustra o esquema de um circuito elétrico constituído de uma fonte, duas resistências, um capacitor, um indutor e duas chaves (S<sub>1</sub> e S<sub>2</sub>) abertas. Com relação a esse circuito e aos princípios envolvidos, julgue os itens subseqüentes, considerando que inicialmente o capacitor esteja completamente descarregado.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 839242,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 839243,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "839242",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

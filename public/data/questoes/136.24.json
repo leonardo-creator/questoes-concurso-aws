@@ -1,0 +1,58 @@
+{
+  "id": 888225,
+  "codigo_real": "136.24",
+  "disciplina_real": "Segurança e Saúde no Trabalho (Teoria e Normas)",
+  "assunto_real": "Gestão de segurança e saúde do trabalho",
+  "bancas_nome": "FUNRIO Fundação de Apoio a Pesquisa, Ensino e Assistência",
+  "bancas_sigla": "FUNRIO",
+  "orgaos_nome": "Secretaria de Estado da Saúde de Rondônia",
+  "cargos_descricao": "Técnico em Segurança do Trabalho",
+  "ano": 2017,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Avalie, com base na NR 5, se as atribuições da CIPA incluem;</p><p>\r\nI. Identificar os riscos do processo de trabalho, e elaborar o\r\nmapa de riscos, com a participação do maior número de\r\ntrabalhadores, com assessoria do SESMT, onde houver.\r\n</p><p>II. Elaborar plano de trabalho que possibilite a ação\r\npreventiva na solução de problemas de segurança e saúde\r\nno trabalho.\r\n</p><p>III. Participar da implementação e do controle da qualidade\r\ndas medidas de prevenção necessárias, bem como da\r\navaliação das prioridades de ação nos locais de trabalho.\r\n</p><p>IV. Realizar, periodicamente, verificações nos ambientes e\r\ncondições de trabalho visando a identificação de situações\r\nque venham a trazer riscos para a segurança e saúde dos\r\ntrabalhadores.</p><p>\r\nEstão corretas as atribuições:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "I e II, apenas.",
+      "corpo_clean": "I e II, apenas.",
+      "id": 3107007,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "III e IV, apenas.",
+      "corpo_clean": "III e IV, apenas.",
+      "id": 3107008,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "I, II e III, apenas.",
+      "corpo_clean": "I, II e III, apenas.",
+      "id": 3107009,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": " II, III e IV, apenas.",
+      "corpo_clean": " II, III e IV, apenas.",
+      "id": 3107010,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "I, II, III e IV.",
+      "corpo_clean": "I, II, III e IV.",
+      "id": 3107011,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3107011",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

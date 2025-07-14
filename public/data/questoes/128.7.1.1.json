@@ -1,0 +1,58 @@
+{
+  "id": 2956803,
+  "codigo_real": "128.7.1.1",
+  "disciplina_real": "Psicologia",
+  "assunto_real": "Políticas Públicas",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Prefeitura do Município de Araçariguama",
+  "cargos_descricao": "Psicólogo",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O uso do álcool possui os aspectos culturais, sociais e históricos. Durante a pandemia, alguns estudos indicam que houve um aumento na ingestão de bebidas alcóolicas. Em muitos casos, por ser uma droga aceita socialmente e no âmbito legal, é difícil distinguir quando o uso passa a ser abusivo. Assinale a alternativa correta sobre essa temática:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O uso abusivo de álcool é caracterizado pela forte necessidade ou compulsão de usar a substancia.</p>",
+      "corpo_clean": "O uso abusivo de álcool é caracterizado pela forte necessidade ou compulsão de usar a substancia.",
+      "id": 11941655,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Beber para se sentir mais sociável e agradável durantes festas é considerado uso abusivo de ·álcool.</p>",
+      "corpo_clean": "Beber para se sentir mais sociável e agradável durantes festas é considerado uso abusivo de ·álcool.",
+      "id": 11941656,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">No caso do álcool, não é possível notar um aumento da tolerância e sintomas de abstinência.</p>",
+      "corpo_clean": "No caso do álcool, não é possível notar um aumento da tolerância e sintomas de abstinência.",
+      "id": 11941657,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">No uso abusivo do álcool, em geral o indivíduo ainda mantém outras fontes de gratificação.</p>",
+      "corpo_clean": "No uso abusivo do álcool, em geral o indivíduo ainda mantém outras fontes de gratificação.",
+      "id": 11941658,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Há poucas relações entre o uso abusivo de álcool e o feminicídio.</p>",
+      "corpo_clean": "Há poucas relações entre o uso abusivo de álcool e o feminicídio.",
+      "id": 11941659,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11941655",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

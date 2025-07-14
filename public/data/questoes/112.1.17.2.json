@@ -1,0 +1,51 @@
+{
+  "id": 3253010,
+  "codigo_real": "112.1.17.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Função emotiva ou expressiva - Função emotiva ou expressiva",
+  "bancas_nome": "FUNDEP Gestão de Concursos",
+  "bancas_sigla": "FUNDEP",
+  "orgaos_nome": "Câmara de Pará de Minas",
+  "cargos_descricao": "Analista de Informática",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A função de linguagem predominante no texto II é a</p>",
+  "grupoQuestao_enunciado": "<p><strong>INSTRUÇÃO</strong>: Leia o texto II para responder às questões de 8 a 13.</p><p><br></p><p><strong>TEXTO II </strong></p><p style=\"text-align: justify;\">Mudanças de hábito são quebras de paradigma, de modelos mentais, uma sacudida na rotina em busca de resultados diferentes daquilo que a vida nos vem apresentando. Acontece que mudar um hábito, ou alguns, não precisa se dar por meio da radicalização nem envolver todos os aspectos da existência.</p><p style=\"text-align: justify;\">O especialista em produtividade, Chris Bailey, revela como o cérebro alterna entre o modo hiperfoco (um estado de profunda concentração) e o modo foco disperso (ideal para despertar a criatividade), e que o caminho para sermos mais eficientes e criativos é saber combinar os dois na medida certa. Bailey apresenta algumas sugestões para lidarmos melhor com a atenção que colocamos no que realizamos:</p><p style=\"text-align: justify;\"><br></p><ol><li data-list=\"bullet\" style=\"text-align: justify;\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Pare de associar produtividade à trabalho: ser produtivo é cumprir o que você se propôs a fazer – e isso não necessariamente está ligado à uma atividade profissional. Se seu objetivo é maratonar uma série durante um dia inteiro e assim o faz, colocando toda sua intenção e atenção naquilo, você foi produtivo.</li></ol><p style=\"text-align: justify;\"><br></p><ol><li data-list=\"bullet\" style=\"text-align: justify;\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Não tente fugir do tédio: Domingo à tarde e todas as pendências estão em dia. Ao invés de ceder seu tempo às telas digitais, busque viver o tédio. Contemple os tons de verde das plantas e os diferentes sons do ambiente. Conte quantos azulejos existem na parede da cozinha. Brinque de encontrar desenhos nas nuvens do céu.</li></ol><p style=\"text-align: justify;\"><br></p><ol><li data-list=\"bullet\" style=\"text-align: justify;\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Deixe a mente vaguear: Como afirmou o escritor J. R. R. Tolkien, “nem todos os que vagueiam estão perdidos”. Deixar a mente vaguear significa dar liberdade à nossa atenção, de modo que ela visite lugares diversos, sem repreendê-la por isso. [...]</li></ol><p style=\"text-align: justify;\"><br></p><ol><li data-list=\"bullet\" style=\"text-align: justify;\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Faça atividades manuais: Pintar, costurar, desenhar, esculpir, cozinhar… O importante é colocar a mão na massa. Além de nos ajudarem com a concentração, porque demandam nossa completa atenção, essas práticas também são um campo rico para a criatividade e um bom recurso contra o estresse.</li></ol><p style=\"text-align: justify;\"><br></p><ol><li data-list=\"bullet\" style=\"text-align: justify;\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Experimente um detox digital: Com o objetivo de fornecer menos estímulos para o cérebro. Estabeleça um período de tempo para ficar longe do celular e, especialmente, das redes sociais. Pode ser de forma gradativa. Vale começar desativando as notificações e criando uma rotina de desconexão, como guardar o aparelho duas horas antes de dormir.</li></ol><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Experimente um detox digital: Com o objetivo de fornecer menos estímulos para o cérebro. Estabeleça um período de tempo para ficar longe do celular e, especialmente, das redes sociais. Pode ser de forma gradativa. Vale começar desativando as notificações e criando uma rotina de desconexão, como guardar o aparelho duas horas antes de dormir.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\"><span style=\"font-size: 12px;\">Disponível em: https://vidasimples.co/vida-emocional/cinco-dicaspara-aumentar-seu-foco/. Acesso em: 28 out. 2023.</span></p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">apelativa, por se concentrar no leitor. </p>",
+      "corpo_clean": "apelativa, por se concentrar no leitor. ",
+      "id": 13218473,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">metalinguística, por se concentrar no código. </p>",
+      "corpo_clean": "metalinguística, por se concentrar no código. ",
+      "id": 13218474,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">emotiva, por se concentrar nos sentimentos. </p>",
+      "corpo_clean": "emotiva, por se concentrar nos sentimentos. ",
+      "id": 13218475,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">referencial, por se concentrar em fatos.</p>",
+      "corpo_clean": "referencial, por se concentrar em fatos.",
+      "id": 13218476,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "13218473",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

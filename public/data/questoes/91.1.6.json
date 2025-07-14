@@ -1,0 +1,58 @@
+{
+  "id": 2043741,
+  "codigo_real": "91.1.6",
+  "disciplina_real": "Geografia",
+  "assunto_real": "População Brasileira - População Brasileira",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Prefeitura de São José",
+  "cargos_descricao": "Professor - Área: Geografia",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre a estrutura etária da população brasileira e do mundo, é correto afirmar:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">1. Nas últimas décadas, as mudanças ocorridas no Brasil com relação ao comportamento demográfico têm alterado também as características da estrutura etária de nossa população. </p><p style=\"text-align: justify;\">2. A estrutura etária de um país refere-se à maneira como seus habitantes estão distribuídos de acordo com a faixa etária e o sexo.</p><p style=\"text-align: justify;\">3. A população brasileira de idosos vem decrescendo rapidamente. Os motivos estão ligados aos avanços da tecnologia farmacêutica, da medicina e aos medicamentos.</p><p style=\"text-align: justify;\">4. A expectativa de vida da população do mundo apesar dos avanços da medicina e dos medicamentos não aumentou.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa que indica todas as afirmativas <strong>corretas</strong>.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>São corretas apenas as afirmativas 1 e 2.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 1 e 2.",
+      "id": 7969000,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>São corretas apenas as afirmativas 1 e 3.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 1 e 3.",
+      "id": 7969001,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>São corretas apenas as afirmativas 2 e 4.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 2 e 4.",
+      "id": 7969002,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>São corretas apenas as afirmativas 1, 2 e 3.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 1, 2 e 3.",
+      "id": 7969003,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>São corretas apenas as afirmativas 2, 3 e 4.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 2, 3 e 4.",
+      "id": 7969004,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7969000",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

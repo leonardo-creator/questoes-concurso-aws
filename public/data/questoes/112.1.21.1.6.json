@@ -1,0 +1,51 @@
+{
+  "id": 1197243,
+  "codigo_real": "112.1.21.1.6",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Texto Dissertativo-argumentativo",
+  "bancas_nome": "Fundação de Amparo e Desenvolvimento da Pesquisa",
+  "bancas_sigla": "FADESP",
+  "orgaos_nome": "Câmara de Canaã dos Carajás",
+  "cargos_descricao": "Agente Legislativo",
+  "ano": 2014,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>O título que melhor resume as ideias do excerto 1 é</p>",
+  "grupoQuestao_enunciado": "<p align=justify><img \r\nsrc=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/40509/1.gif\"></p>",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>A riqueza mundial.</p>",
+      "corpo_clean": "A riqueza mundial.",
+      "id": 4307855,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>A luta pela democracia.</p>",
+      "corpo_clean": "A luta pela democracia.",
+      "id": 4307856,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Cresce a riqueza do planeta.</p>",
+      "corpo_clean": "Cresce a riqueza do planeta.",
+      "id": 4307857,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Concentração de riqueza e desigualdade.</p>",
+      "corpo_clean": "Concentração de riqueza e desigualdade.",
+      "id": 4307858,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4307858",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

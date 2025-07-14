@@ -1,0 +1,37 @@
+{
+  "id": 201555,
+  "codigo_real": "17.12.6",
+  "disciplina_real": "Biologia",
+  "assunto_real": "Recursos Hídricos",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Polícia Federal",
+  "cargos_descricao": "Especiailista em Regulação Sanitária - Área Biomedicina",
+  "ano": 2004,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>O consumo de água está excluído do rol de pressões\r\ndiretas exercidas pela agricultura sobre os recursos\r\nnaturais.</p>",
+  "grupoQuestao_enunciado": "<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/4666/Imagem_50.gif></P>\r\n<P align=justify>Considerando a figura e o texto acima, julgue os itens a seguir.</P>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 835903,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 835904,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "835904",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

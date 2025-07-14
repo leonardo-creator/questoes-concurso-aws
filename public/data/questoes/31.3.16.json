@@ -1,0 +1,51 @@
+{
+  "id": 2133836,
+  "codigo_real": "31.3.16",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Entidades Paraestatais e o Terceiro Setor",
+  "bancas_nome": "Universidade Federal do Goiás",
+  "bancas_sigla": "UFG",
+  "orgaos_nome": "Tribunal de Justiça de Goiás",
+  "cargos_descricao": "Analista Judiciário - Área: Apoio Judiciário e Administrativo",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Leia o texto a seguir. </p><p style=\"text-align: justify;\"><br></p><div class=\"quill-better-table-wrapper\"><table class=\"quill-better-table\" style=\"width: 451px;\"><colgroup><col width=\"451.991455078125\" style=\"text-align: justify;\"></colgroup><tbody><tr data-row=\"row-zg2o\"><td data-row=\"row-zg2o\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"row-zg2o\" data-cell=\"cell-h2om\" data-rowspan=\"1\" data-colspan=\"1\" style=\"text-align: justify;\">As organizações sociais constituem uma inovação institucional, embora não representem uma nova figura jurídica, inserindo-se no marco legal vigente sob a forma de associações civis sem fins lucrativos. Estarão, portanto, fora da administração pública, como pessoas jurídicas de direito privado. A novidade será, de fato, a sua qualificação, mediante decreto, como organização social, em cada caso. Qualificada como organização social, a entidade estará habilitada a receber recursos financeiros e a administrar bens e equipamentos do Estado.</p></td></tr></tbody></table></div><p style=\"text-align: justify;\"><span style=\"font-size: 11px;\">Caderno 2 do MARE, Brasília, 1998, p.14. </span></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">De acordo com a lei n. 9.637/1998 as entidades referidas no texto poderão ser qualificadas pelo</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Poder Legislativo.</p>",
+      "corpo_clean": "Poder Legislativo.",
+      "id": 8351916,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Poder Executivo.</p>",
+      "corpo_clean": "Poder Executivo.",
+      "id": 8351917,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Poder Judiciário.</p>",
+      "corpo_clean": "Poder Judiciário.",
+      "id": 8351918,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Ministério Público.</p>",
+      "corpo_clean": "Ministério Público.",
+      "id": 8351919,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "8351917",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

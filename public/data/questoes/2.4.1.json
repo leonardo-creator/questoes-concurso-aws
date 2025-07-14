@@ -1,0 +1,37 @@
+{
+  "id": 3689767,
+  "codigo_real": "2.4.1",
+  "disciplina_real": "Administração Financeira e Orçamentária - AFO",
+  "assunto_real": "Plano Plurianual - PPA",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Empresa Brasileira de Pesquisa Agropecuária",
+  "cargos_descricao": "Analista Administrativo - Área Suprimentos",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Acerca do PPA, não é correto afirmar que tem duração até o fim do segundo ano do mandato posterior ao mandatário que formulou o plano.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 15026038,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 15026039,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15026038",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

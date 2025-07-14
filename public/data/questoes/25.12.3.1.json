@@ -1,0 +1,58 @@
+{
+  "id": 3309971,
+  "codigo_real": "25.12.3.1",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Noções Gerais",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Prefeitura de Cidreira",
+  "cargos_descricao": "Contador",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Criada para substituir o registro físico dos livros contábeis “Diário” e “Razão” e escriturar a contabilidade de forma digital, essa obrigação acessória é chamada de: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>ECD – Escrituração Contábil Digital. </p>",
+      "corpo_clean": "ECD – Escrituração Contábil Digital. ",
+      "id": 13460849,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>ECF – Escrituração Contábil Digital. </p>",
+      "corpo_clean": "ECF – Escrituração Contábil Digital. ",
+      "id": 13460850,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>DCTF/WEB. </p>",
+      "corpo_clean": "DCTF/WEB. ",
+      "id": 13460851,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>E-Social. </p>",
+      "corpo_clean": "E-Social. ",
+      "id": 13460852,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>EFD – REINF. </p>",
+      "corpo_clean": "EFD – REINF. ",
+      "id": 13460853,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13460849",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

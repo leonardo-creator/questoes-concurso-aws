@@ -1,0 +1,51 @@
+{
+  "id": 1240696,
+  "codigo_real": "112.5.7.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Regência verbal",
+  "bancas_nome": "Ministério da Defesa - Aeronáutica",
+  "bancas_sigla": "",
+  "orgaos_nome": "Ministério da Defesa - Aeronáutica",
+  "cargos_descricao": "EAGS GSIN - Sargento - Especialidade: Informática",
+  "ano": 2015,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\">Assinale a alternativa que completa, correta e\r\nrespectivamente, as lacunas do texto abaixo.\r\n</p><p align=\"justify\"><em>O candidato parece apto _____ o cargo. Tem capacidade _____\r\nexercer a função, e seu perfil profissional é coerente _____ a\r\nideologia da instituição. Além disso, seu apartamento fica\r\npróximo _____ nossa empresa.</em></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>para, com, com, de</p>",
+      "corpo_clean": "para, com, com, de",
+      "id": 4485838,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>com, para, com, a</p>",
+      "corpo_clean": "com, para, com, a",
+      "id": 4485839,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>com, de, para, a</p>",
+      "corpo_clean": "com, de, para, a",
+      "id": 4485840,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>para, de, com, a</p>",
+      "corpo_clean": "para, de, com, a",
+      "id": 4485841,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4485841",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

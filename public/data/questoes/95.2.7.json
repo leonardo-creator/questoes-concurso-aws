@@ -1,0 +1,58 @@
+{
+  "id": 3482139,
+  "codigo_real": "95.2.7",
+  "disciplina_real": "Informática",
+  "assunto_real": "Equipamentos de Redes",
+  "bancas_nome": "Fundação de Apoio ao Desenvolvimento do Ensino Superior do Norte de Minas",
+  "bancas_sigla": "COTEC FADENOR",
+  "orgaos_nome": "Prefeitura de Montes Claros",
+  "cargos_descricao": "Médico Pediatra",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\"><strong>INSTRUÇÃO:</strong> Considere o trecho a seguir para responder a esta questão. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">É uma entidade que serve como um <em>gateway </em>especial para uma rede, protegendo-a de acesso inapropriado. Para tanto, filtra o tráfego de rede que chega, verificando a validade das mensagens tanto quanto possível, podendo recusar completamente algumas mensagens. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\">Fonte: DALE, Nell; LEWIS, John. Ciência da computação. 4. ed. Rio de Janeiro: LTC, 2010, p. 357. Adaptado. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa que apresenta o termo a que o trecho se refere. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p><em>Switch</em>.</p>",
+      "corpo_clean": "Switch.",
+      "id": 14199958,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Roteador. </p>",
+      "corpo_clean": "Roteador. ",
+      "id": 14199959,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Repetidor. </p>",
+      "corpo_clean": "Repetidor. ",
+      "id": 14199960,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p><em>Proxy. </em></p>",
+      "corpo_clean": "Proxy. ",
+      "id": 14199961,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p><em>Firewall. </em></p>",
+      "corpo_clean": "Firewall. ",
+      "id": 14199962,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14199962",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

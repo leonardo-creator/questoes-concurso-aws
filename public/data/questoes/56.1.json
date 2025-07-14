@@ -1,0 +1,58 @@
+{
+  "id": 963111,
+  "codigo_real": "56.1",
+  "disciplina_real": "Economia e Finanças",
+  "assunto_real": "Microeconomia - Microeconomia",
+  "bancas_nome": "Fundação CESGRANRIO",
+  "bancas_sigla": "CESGRANRIO",
+  "orgaos_nome": "Petróleo Brasileiro S.A",
+  "cargos_descricao": "Economista Júnior",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>A teoria da firma moderna enumera as principais características\r\ndas firmas que operam num mercado perfeitamente\r\ncompetitivo e das que atuam num mercado oligopolizado.\r\n</p><p>A esse respeito, assegura-se que a firma perfeitamente\r\ncompetitiva</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "e a oligopolizada possuem curvas de demanda individuais\r\nnegativamente inclinadas, com relação aos\r\npreços de mercado.",
+      "corpo_clean": "e a oligopolizada possuem curvas de demanda individuais negativamente inclinadas, com relação aos preços de mercado.",
+      "id": 3366812,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "e a oligopolizada procuram produzir bens diferenciados\r\ncomo forma de aumentar suas respectivas fatias\r\nde mercado (market share) frente aos concorrentes.",
+      "corpo_clean": "e a oligopolizada procuram produzir bens diferenciados como forma de aumentar suas respectivas fatias de mercado (market share) frente aos concorrentes.",
+      "id": 3366813,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "e a oligopolizada podem recorrer ao registro de marcas\r\ne patentes como forma de preservar ou aumentar\r\nsuas fatias de mercado (market share) frente aos concorrentes.",
+      "corpo_clean": "e a oligopolizada podem recorrer ao registro de marcas e patentes como forma de preservar ou aumentar suas fatias de mercado (market share) frente aos concorrentes.",
+      "id": 3366814,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "e a oligopolizada conseguem maximizar lucros quando\r\nas quantidades produzidas são tais que o preço\r\nunitário de venda se iguala ao custo marginal de produção.",
+      "corpo_clean": "e a oligopolizada conseguem maximizar lucros quando as quantidades produzidas são tais que o preço unitário de venda se iguala ao custo marginal de produção.",
+      "id": 3366815,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "sempre objetiva maximizar seus lucros no curto e no\r\nlongo prazos, enquanto a firma oligopolizada pode\r\nrenunciar a esse objetivo no curto prazo, priorizando\r\ntemporariamente metas como ampliação de suas fatias\r\nde mercado (market-share) ou maximização das\r\nvendas dos produtos fabricados.",
+      "corpo_clean": "sempre objetiva maximizar seus lucros no curto e no longo prazos, enquanto a firma oligopolizada pode renunciar a esse objetivo no curto prazo, priorizando temporariamente metas como ampliação de suas fatias de mercado (market-share) ou maximização das vendas dos produtos fabricados.",
+      "id": 3366816,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3366816",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

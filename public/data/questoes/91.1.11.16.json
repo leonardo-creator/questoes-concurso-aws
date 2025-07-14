@@ -1,0 +1,58 @@
+{
+  "id": 1841040,
+  "codigo_real": "91.1.11.16",
+  "disciplina_real": "Geografia",
+  "assunto_real": "Paraná - Paraná - PR",
+  "bancas_nome": "Instituto Brasileiro de Formação e Capacitação",
+  "bancas_sigla": "IBFC",
+  "orgaos_nome": "Secretaria de Estado da Administração e da Previdência do Paraná",
+  "cargos_descricao": "Agente de Execução - Técnico de Manejo e Meio Ambiente",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Dentre os instrumentos da Política Estadual de Recursos Hídricos de acordo com a Lei nº 12.726/1999 que Institui a Política Estadual de Recursos Hídricos, está o regime de outorga de direitos de uso de recursos hídricos do Estado. De acordo com o art. 13, parágrafo 2º, a outorga e a utilização de recursos hídricos para fins de geração de energia elétrica estarão subordinadas ao _____, obedecendo a disciplina da legislação setorial específica. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa que preencha corretamente a lacuna.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Plano Diretor Municipal</p>",
+      "corpo_clean": "Plano Diretor Municipal",
+      "id": 7070071,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Plano Nacional de Recursos Hídricos</p>",
+      "corpo_clean": "Plano Nacional de Recursos Hídricos",
+      "id": 7070072,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Plano de Recursos Naturais do Estado</p>",
+      "corpo_clean": "Plano de Recursos Naturais do Estado",
+      "id": 7070073,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Conselho Municipal de Recursos Hídricos</p>",
+      "corpo_clean": "Conselho Municipal de Recursos Hídricos",
+      "id": 7070074,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Conselho Estadual de Recursos Hídricos</p>",
+      "corpo_clean": "Conselho Estadual de Recursos Hídricos",
+      "id": 7070075,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7070072",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

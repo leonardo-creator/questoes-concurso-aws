@@ -1,0 +1,58 @@
+{
+  "id": 1715782,
+  "codigo_real": "74.23",
+  "disciplina_real": "Engenharia Florestal",
+  "assunto_real": "Industrialização de Produtos Florestais - Industrialização de Produtos Florestais",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Agência de Defesa Agropecuária e Florestal do Amazonas",
+  "cargos_descricao": "Fiscal Agropecuário - Área: Engenheiro Florestal",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre o processo de briquetagem e peletização, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os péletes têm densidade de 650-1200 kg/m<sup>3</sup>, diâmetro de 60 mm e comprimento de 25 a 300 mm.</p>",
+      "corpo_clean": "Os péletes têm densidade de 650-1200 kg/m3, diâmetro de 60 mm e comprimento de 25 a 300 mm.",
+      "id": 6505035,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O poder calorífico do briquete e do pélete é geralmente menor do que o da matéria-prima de origem.</p>",
+      "corpo_clean": "O poder calorífico do briquete e do pélete é geralmente menor do que o da matéria-prima de origem.",
+      "id": 6505036,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os briquetes têm densidade de 650-700 kg/m<sup>3</sup>, diâmetro entre 6 e 16 mm e comprimento de 25 a 30 mm.</p>",
+      "corpo_clean": "Os briquetes têm densidade de 650-700 kg/m3, diâmetro entre 6 e 16 mm e comprimento de 25 a 30 mm.",
+      "id": 6505037,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A briquetagem e a peletização são processos que alteram a conformação física e a composição química da matéria-prima.</p>",
+      "corpo_clean": "A briquetagem e a peletização são processos que alteram a conformação física e a composição química da matéria-prima.",
+      "id": 6505038,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">São objetivos dessas tecnologias o aumento da concentração energética, uniformidade do tamanho e formato dos produtos, facilidade de armazenamento e agregação de valor a biomassa florestal.</p>",
+      "corpo_clean": "São objetivos dessas tecnologias o aumento da concentração energética, uniformidade do tamanho e formato dos produtos, facilidade de armazenamento e agregação de valor a biomassa florestal.",
+      "id": 6505039,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6505039",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

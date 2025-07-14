@@ -1,0 +1,58 @@
+{
+  "id": 3020447,
+  "codigo_real": "44.3.3.19",
+  "disciplina_real": "Direito Penal",
+  "assunto_real": "Princípio da Insignificância (ou Bagatela)",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Polícia Civil de São Paulo",
+  "cargos_descricao": "Delegado de Polícia",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre o princípio da bagatela/insignificância, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A insignificância, quando reconhecida, afasta a tipicidade formal e material do delito.</p>",
+      "corpo_clean": "A insignificância, quando reconhecida, afasta a tipicidade formal e material do delito.",
+      "id": 12221587,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A primariedade do agente é requisito para o reconhecimento do princípio da insignificância.</p>",
+      "corpo_clean": "A primariedade do agente é requisito para o reconhecimento do princípio da insignificância.",
+      "id": 12221588,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A bagatela imprópria reconhece a tipicidade formal e material do delito em primeiro momento, todavia afasta a aplicação de pena ao agente no decorrer do processo.</p>",
+      "corpo_clean": "A bagatela imprópria reconhece a tipicidade formal e material do delito em primeiro momento, todavia afasta a aplicação de pena ao agente no decorrer do processo.",
+      "id": 12221589,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">É aplicável o princípio da insignificância aos casos de transmissão clandestina de sinal de internet via radiofrequência, conforme entendimento sumulado do STJ.</p>",
+      "corpo_clean": "É aplicável o princípio da insignificância aos casos de transmissão clandestina de sinal de internet via radiofrequência, conforme entendimento sumulado do STJ.",
+      "id": 12221590,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A inexpressiva periculosidade social da ação é requisito para o reconhecimento do princípio da insignificância.</p>",
+      "corpo_clean": "A inexpressiva periculosidade social da ação é requisito para o reconhecimento do princípio da insignificância.",
+      "id": 12221591,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12221589",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

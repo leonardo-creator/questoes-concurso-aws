@@ -1,0 +1,37 @@
+{
+  "id": 3304592,
+  "codigo_real": "99.1.12.11",
+  "disciplina_real": "Legislação Estadual, Distrital e Municipal",
+  "assunto_real": "Lei nº 4.188/2012 - Dispõe sobre a reorganização da carreira Gestão de Atividades de Desenvolvimento Agrário, integrada por cargos efetivos do Grupo Gestão Institucional do Plano de Cargos, Empregos e Carreiras do Poder Executivo; reestrutura o quadro de",
+  "bancas_nome": "Instituto de Apoio à Gestão e Educação",
+  "bancas_sigla": "IGEDUC",
+  "orgaos_nome": "Prefeitura de Garanhuns",
+  "cargos_descricao": "Professor - Área: Ciências",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com o Artigo 1º da lei municipal nº 5.156/23 do município de Garanhuns-PE, os cargos de agente de disciplina e agente administrativo, fazem parte da Estrutura Organizacional das Escolas Fundamental Inova em Tempo Integral.</p>",
+  "grupoQuestao_enunciado": "<p><strong>Julgue os itens que se seguem.</strong></p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 13437503,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 13437504,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13437503",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

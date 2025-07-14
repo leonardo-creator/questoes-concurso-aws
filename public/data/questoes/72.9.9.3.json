@@ -1,0 +1,58 @@
+{
+  "id": 3791841,
+  "codigo_real": "72.9.9.3",
+  "disciplina_real": "Engenharia Elétrica e Engenharia Eletrônica",
+  "assunto_real": "Fontes renováveis (eólica , solar e maremotriz)",
+  "bancas_nome": "Universidade de Blumenau",
+  "bancas_sigla": "FURB",
+  "orgaos_nome": "Prefeitura de Bombinhas",
+  "cargos_descricao": "Eletricista",
+  "ano": 2024,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A geração de energia elétrica a partir da fonte de energia solar vem se popularizando rapidamente. Sobre esse tipo de geração, assinale a alternativa correta:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">As placas solares produzem energia elétrica em corrente contínua. Para que esse sistema seja conectado em série com a rede de corrente alternada da concessionária, faz-se necessário o uso de um equipamento chamado Inversor.</p>",
+      "corpo_clean": "As placas solares produzem energia elétrica em corrente contínua. Para que esse sistema seja conectado em série com a rede de corrente alternada da concessionária, faz-se necessário o uso de um equipamento chamado Inversor.",
+      "id": 15449418,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As placas solares produzem energia elétrica em corrente contínua. Para que esse sistema seja conectado em paralelo com a rede de corrente alternada da concessionária, faz-se necessário o uso de um equipamento chamado Inversor.</p>",
+      "corpo_clean": "As placas solares produzem energia elétrica em corrente contínua. Para que esse sistema seja conectado em paralelo com a rede de corrente alternada da concessionária, faz-se necessário o uso de um equipamento chamado Inversor.",
+      "id": 15449419,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As placas solares produzem energia elétrica em corrente contínua. Para que esse sistema seja conectado em paralelo com a rede de corrente alternada da concessionária, faz-se necessário o uso de um equipamento chamado Turbina.</p>",
+      "corpo_clean": "As placas solares produzem energia elétrica em corrente contínua. Para que esse sistema seja conectado em paralelo com a rede de corrente alternada da concessionária, faz-se necessário o uso de um equipamento chamado Turbina.",
+      "id": 15449420,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As placas solares produzem energia elétrica em frequência contínua. Para que esse sistema seja conectado em paralelo com a rede de corrente contínua da concessionária, faz-se necessário o uso de um equipamento chamado Inversor.</p>",
+      "corpo_clean": "As placas solares produzem energia elétrica em frequência contínua. Para que esse sistema seja conectado em paralelo com a rede de corrente contínua da concessionária, faz-se necessário o uso de um equipamento chamado Inversor.",
+      "id": 15449421,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As placas solares produzem energia elétrica em corrente alternada. Para que esse sistema seja conectado em paralelo com a rede de corrente alternada da concessionária, faz-se necessário o uso de um equipamento chamado Inversor.</p>",
+      "corpo_clean": "As placas solares produzem energia elétrica em corrente alternada. Para que esse sistema seja conectado em paralelo com a rede de corrente alternada da concessionária, faz-se necessário o uso de um equipamento chamado Inversor.",
+      "id": 15449422,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15449419",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

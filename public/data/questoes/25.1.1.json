@@ -1,0 +1,58 @@
+{
+  "id": 1836861,
+  "codigo_real": "25.1.1",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Conceitos Básicos - Conceitos Básicos",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Assembléia Legislativa de Pernambuco",
+  "cargos_descricao": "Analista Legislativo - Área Contabilidade",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A Lei de Diretrizes Orçamentárias − LDO disporá sobre:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. A distribuição dos recursos correntes e de capital de forma regionalizada.</p><p style=\"text-align: justify;\">II. As alterações na legislação tributária.</p><p style=\"text-align: justify;\">III. O equilíbrio entre receitas e despesas.</p><p style=\"text-align: justify;\">IV. As normas relativas ao controle de custos e a avaliação dos resultados dos programas financiados com recursos dos orçamentos.</p><p style=\"text-align: justify;\">V. As diretrizes, objetivos e metas para as despesas de capital e outras dela decorrentes e para os programas de duração continuada.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">É correto o que se afirma APENAS em</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I, II e III.</p>",
+      "corpo_clean": "I, II e III.",
+      "id": 7050739,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>I, III e IV.</p>",
+      "corpo_clean": "I, III e IV.",
+      "id": 7050740,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>II, III e IV.</p>",
+      "corpo_clean": "II, III e IV.",
+      "id": 7050741,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>I, II e V.</p>",
+      "corpo_clean": "I, II e V.",
+      "id": 7050742,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>III, IV e V.</p>",
+      "corpo_clean": "III, IV e V.",
+      "id": 7050743,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7050741",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

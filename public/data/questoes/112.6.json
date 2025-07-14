@@ -1,0 +1,58 @@
+{
+  "id": 3849670,
+  "codigo_real": "112.6",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Literatura",
+  "bancas_nome": "FACET Concursos",
+  "bancas_sigla": "FACET",
+  "orgaos_nome": "Prefeitura de Mamanguape",
+  "cargos_descricao": "Professor - Área: Língua Portuguesa",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Qual dessas obras não é do escritor Manuel Bandeira?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Carnaval.</p>",
+      "corpo_clean": "Carnaval.",
+      "id": 15702296,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Belo belo.</p>",
+      "corpo_clean": "Belo belo.",
+      "id": 15702297,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Estrela da Manhã.</p>",
+      "corpo_clean": "Estrela da Manhã.",
+      "id": 15702298,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>A cinza das horas.</p>",
+      "corpo_clean": "A cinza das horas.",
+      "id": 15702299,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Liberdade.</p>",
+      "corpo_clean": "Liberdade.",
+      "id": 15702300,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15702300",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

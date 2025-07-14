@@ -1,0 +1,58 @@
+{
+  "id": 806646,
+  "codigo_real": "35.14.26.14",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Da Educação, Cultura, Saúde, Ciência e Tecnologia",
+  "bancas_nome": "Fundação Universa",
+  "bancas_sigla": "Universa",
+  "orgaos_nome": "Polícia Civil do Distrito Federal",
+  "cargos_descricao": "Perito Médico-Legista",
+  "ano": 2015,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Acerca dos direitos e deveres individuais e coletivos e dos direitos políticos, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>O voto é proibido para os analfabetos.</p>",
+      "corpo_clean": "O voto é proibido para os analfabetos.",
+      "id": 2777955,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Conforme a Constituição Federal de 1988 (CF), são inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consanguíneos ou afins, até o segundo grau ou por adoção, de governador(a) de estado. Entretanto, em se tratando de norma restritiva do direito de ser eleito, o Supremo Tribunal Federal (STF) entende que a proibição não se estende ao companheiro ou à companheira do governador(a).</p>",
+      "corpo_clean": "Conforme a Constituição Federal de 1988 (CF), são inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consanguíneos ou afins, até o segundo grau ou por adoção, de governador(a) de estado. Entretanto, em se tratando de norma restritiva do direito de ser eleito, o Supremo Tribunal Federal (STF) entende que a proibição não se estende ao companheiro ou à companheira do governador(a).",
+      "id": 2777956,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">É ilícita a prisão civil de depositário infiel em qualquer modalidade de depósito.</p>",
+      "corpo_clean": "É ilícita a prisão civil de depositário infiel em qualquer modalidade de depósito.",
+      "id": 2777957,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>De acordo com a CF, a tortura é crime imprescritível.</p>",
+      "corpo_clean": "De acordo com a CF, a tortura é crime imprescritível.",
+      "id": 2777958,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os servidores públicos não possuem direito à greve garantido explicitamente na CF, embora esse direito tenha surgido, ao longo do tempo, a partir de construção jurisprudencial.</p>",
+      "corpo_clean": "Os servidores públicos não possuem direito à greve garantido explicitamente na CF, embora esse direito tenha surgido, ao longo do tempo, a partir de construção jurisprudencial.",
+      "id": 2777959,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2777957",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

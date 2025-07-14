@@ -1,0 +1,51 @@
+{
+  "id": 2897592,
+  "codigo_real": "98.4.12.58.1.1.3",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Da Inscrição",
+  "bancas_nome": "Instituto Brasileiro de Administração Municipal",
+  "bancas_sigla": "IBAM",
+  "orgaos_nome": "Conselho de Arquitetura e Urbanismo do Rio de Janeiro",
+  "cargos_descricao": "Assistente Técnico",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A decisão sobre a admissibilidade ou não de denúncia sobre infração à legislação profissional ocorre na seguinte fase:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>Responda às questões de número 17 a 20, de acordo com o Manual para Condução de Processo Administrativo Ético-disciplinar do CAU/RJ.</strong></p>",
+  "alternativas": [
+    {
+      "corpo": "<p>apreciação e parecer da assessoria jurídica do CAU/RJ</p>",
+      "corpo_clean": "apreciação e parecer da assessoria jurídica do CAU/RJ",
+      "id": 11681954,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>análise e pronunciamento da Comissão de Ética e Disciplina</p>",
+      "corpo_clean": "análise e pronunciamento da Comissão de Ética e Disciplina",
+      "id": 11681955,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>encaminhamento da denúncia à unidade competente do CAU/RJ</p>",
+      "corpo_clean": "encaminhamento da denúncia à unidade competente do CAU/RJ",
+      "id": 11681956,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">avaliação das informações do banco de dados do CAU/RJ para complementar, ratificar ou retificar a denúncia</p>",
+      "corpo_clean": "avaliação das informações do banco de dados do CAU/RJ para complementar, ratificar ou retificar a denúncia",
+      "id": 11681957,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11681955",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

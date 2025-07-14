@@ -1,0 +1,58 @@
+{
+  "id": 763991,
+  "codigo_real": "17.18",
+  "disciplina_real": "Biologia",
+  "assunto_real": "Biologia Forense",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Associação Sulina de Crédito e Assistência Rural",
+  "cargos_descricao": "Biólogo",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "A criação de porcos é realizada em\r\nvários municípios do estado do Rio Grande do Sul. A\r\norientação dada a esses criadores pelos profissionais\r\nda EMATER/RS-ASCAR é que se faça um isolamento\r\ndos coletores de fezes humanas, tendo em vista a\r\npresença de suínos de criação livre, evitando que os\r\nmesmos se alimentem desses excrementos. Esse\r\nprocesso evita a proliferação de vermes que podem\r\ncontaminar o homem. Os vermes do filo\r\nPlatyhelminthes que podem contaminar o homem ao\r\nse alimentarem de carne, mal cozida, dos porcos\r\ncontaminados, são",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "as tênias.",
+      "corpo_clean": "as tênias.",
+      "id": 2642248,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "os esquistossomos.",
+      "corpo_clean": "os esquistossomos.",
+      "id": 2642249,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "as planárias.",
+      "corpo_clean": "as planárias.",
+      "id": 2642250,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "as lombrigas.",
+      "corpo_clean": "as lombrigas.",
+      "id": 2642251,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "as fascíolas.",
+      "corpo_clean": "as fascíolas.",
+      "id": 2642252,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2642248",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

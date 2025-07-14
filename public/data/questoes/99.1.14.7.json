@@ -1,0 +1,58 @@
+{
+  "id": 805132,
+  "codigo_real": "99.1.14.7",
+  "disciplina_real": "Legislação Estadual, Distrital e Municipal",
+  "assunto_real": "Lei Estadual 6.474/2002 -Institui, no Estado do Pará, a modalidade de licitação denominada pregão.",
+  "bancas_nome": "Assessoria em Organização de Concursos Públicos",
+  "bancas_sigla": "AOCP",
+  "orgaos_nome": "Tribunal de Contas do Pará",
+  "cargos_descricao": "Assessor Técnico de Procuradoria",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>A respeito da Lei Estadual n. 6474/2002, analise as\r\nassertivas e assinale a alternativa que aponta as\r\ncorretas. A função de pregoeiro deverá ser exercida\r\npor servidor público ou militar lotado no órgão ou\r\nna entidade promotora do certame licitatório. As\r\natribuições do pregoeiro incluem, entre outras:\r\n</p><p>I. o credenciamento dos interessados.\r\n</p><p>II. o recebimento das propostas de preços e\r\ndos documentos de habilitação.\r\n</p><p>III. a abertura dos envelopes das propostas de\r\npreços, o seu exame e a classificação dos\r\nproponentes.\r\n</p><p>IV. a condução dos procedimentos relativos aos\r\nlances e à escolha da proposta ou do lance\r\nde menor preço.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "Apenas I, II e III.",
+      "corpo_clean": "Apenas I, II e III.",
+      "id": 2772590,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "Apenas II, III e IV.",
+      "corpo_clean": "Apenas II, III e IV.",
+      "id": 2772591,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "Apenas I e II.",
+      "corpo_clean": "Apenas I e II.",
+      "id": 2772592,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Apenas III e IV.",
+      "corpo_clean": "Apenas III e IV.",
+      "id": 2772593,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "I, II, III e IV.",
+      "corpo_clean": "I, II, III e IV.",
+      "id": 2772594,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2772594",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

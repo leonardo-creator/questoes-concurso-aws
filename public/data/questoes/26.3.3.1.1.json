@@ -1,0 +1,58 @@
+{
+  "id": 2632565,
+  "codigo_real": "26.3.3.1.1",
+  "disciplina_real": "Contabilidade Pública",
+  "assunto_real": "Variações Patrimoniais - Variações Patrimoniais",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal de Contas de Goiás",
+  "cargos_descricao": "Analista de Controle Externo",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">As informações a seguir se referem a um adiantamento de valor concedido a um servidor de uma entidade pública. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">21/12/2021: empenho da despesa no valor de R$ 200,00. </p><p style=\"text-align: justify;\">22/12/2021: liquidação da despesa pelo valor total do empenho e reconhecimento do adiantamento concedido no ativo circulante da entidade. </p><p style=\"text-align: justify;\">23/12/2021: pagamento da despesa pelo valor total do empenho. </p><p style=\"text-align: justify;\">11/01/2022: devolução do valor total recebido pelo servidor, em decorrência da não utilização do adiantamento recebido. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">De acordo com o Manual de Contabilidade Aplicada ao Setor Público, a referida entidade efetuou o registro contábil de</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>uma variação patrimonial diminutiva em 22/12/2021.</p>",
+      "corpo_clean": "uma variação patrimonial diminutiva em 22/12/2021.",
+      "id": 10509073,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>uma variação patrimonial diminutiva em 23/12/2021.</p>",
+      "corpo_clean": "uma variação patrimonial diminutiva em 23/12/2021.",
+      "id": 10509074,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>uma receita orçamentária em 11/01/2022.</p>",
+      "corpo_clean": "uma receita orçamentária em 11/01/2022.",
+      "id": 10509075,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>uma receita extraorçamentária em 11/01/2022.</p>",
+      "corpo_clean": "uma receita extraorçamentária em 11/01/2022.",
+      "id": 10509076,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>um crédito orçamentário adicional em 11/01/2022.</p>",
+      "corpo_clean": "um crédito orçamentário adicional em 11/01/2022.",
+      "id": 10509077,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10509075",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

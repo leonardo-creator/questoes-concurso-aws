@@ -1,0 +1,58 @@
+{
+  "id": 3550697,
+  "codigo_real": "112.1.24.1.3",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Reorganização e reescrita de orações e períodos",
+  "bancas_nome": "Fenaz do Pará",
+  "bancas_sigla": "",
+  "orgaos_nome": "Secretaria de Educação do Estado da Bahia - SEC BA",
+  "cargos_descricao": "Técnico de Atendimento Educacional Especializado",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">“E agora, José?</p><p style=\"text-align: justify;\">A festa acabou,</p><p style=\"text-align: justify;\">a luz apagou,</p><p style=\"text-align: justify;\">o povo sumiu,</p><p style=\"text-align: justify;\">a noite esfriou,</p><p style=\"text-align: justify;\">e agora, José?</p><p style=\"text-align: justify;\">e agora, você?</p><p style=\"text-align: justify;\">você que é sem nome,</p><p style=\"text-align: justify;\">que zomba dos outros,</p><p style=\"text-align: justify;\">você que faz versos,</p><p style=\"text-align: justify;\">que ama, protesta?</p><p style=\"text-align: justify;\">e agora, José? [...]”</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">(Carlos Drummond de Andrade)</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Disponível em: https://www.culturagenial.com/poema-e-agorajose-carlos-drummond-de-andrade/. Acesso em 24 de outubro de 2024. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Analise as versões reescritas apresentadas do trecho do poema e identifique a alternativa que contém todos os conectores usados de forma adequada, mantendo o sentido original do texto.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">\"E agora, José? <strong>Embora </strong>a festa tenha acabado, <strong>mas </strong>a luz apagado, <strong>e </strong>o povo sumido, <strong>uma vez que</strong> a noite esfriou, o que fazer? E agora, você? Você que é sem nome, que zomba dos outros, você que faz versos, <strong>assim como </strong>ama, protesta? <strong>Portanto</strong>, e agora, José?\".</p>",
+      "corpo_clean": "\"E agora, José? Embora a festa tenha acabado, mas a luz apagado, e o povo sumido, uma vez que a noite esfriou, o que fazer? E agora, você? Você que é sem nome, que zomba dos outros, você que faz versos, assim como ama, protesta? Portanto, e agora, José?\".",
+      "id": 14473618,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">“E agora, José? <strong>Como </strong>a festa acabou, <strong>e </strong>a luz apagou, <strong>e </strong>o povo sumiu, <strong>conquanto </strong>a noite esfriou, o que fazer? E agora, você? Você que é sem nome, que zomba dos outros, você que faz versos, <strong>e </strong>ama, protesta? <strong>Então</strong>, e agora, José?”. </p>",
+      "corpo_clean": "“E agora, José? Como a festa acabou, e a luz apagou, e o povo sumiu, conquanto a noite esfriou, o que fazer? E agora, você? Você que é sem nome, que zomba dos outros, você que faz versos, e ama, protesta? Então, e agora, José?”. ",
+      "id": 14473619,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">\"E agora, José? <strong>Embora </strong>a festa tenha acabado, <strong>contudo </strong>a luz apagado, e o povo sumido,<strong> já que</strong> a noite esfriou, o que fazer? E agora, você? Você que é sem nome, que zomba dos outros, você que faz versos, <strong>mas </strong>ama, protesta? <strong>Assim</strong>, e agora, José?\".</p>",
+      "corpo_clean": "\"E agora, José? Embora a festa tenha acabado, contudo a luz apagado, e o povo sumido, já que a noite esfriou, o que fazer? E agora, você? Você que é sem nome, que zomba dos outros, você que faz versos, mas ama, protesta? Assim, e agora, José?\".",
+      "id": 14473620,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> \"E agora, José? <strong>Embora</strong> a festa tenha acabado, <strong>e </strong>a luz apagado, <strong>portanto </strong>o povo sumido, <strong>mas </strong>a noite esfriou, o que fazer? E agora, você? Você que é sem nome, que zomba dos outros, você que faz versos, <strong>e </strong>ama, protesta? Por isso, e agora, José?\".</p>",
+      "corpo_clean": " \"E agora, José? Embora a festa tenha acabado, e a luz apagado, portanto o povo sumido, mas a noite esfriou, o que fazer? E agora, você? Você que é sem nome, que zomba dos outros, você que faz versos, e ama, protesta? Por isso, e agora, José?\".",
+      "id": 14473621,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">\"E agora, José? <strong>Embora</strong> a festa tenha acabado, <strong>e </strong>a luz apagado, <strong>e </strong>o povo sumido, <strong>e logo</strong> a noite esfriado, o que fazer? E agora, você? Você que é sem nome, que zomba dos outros, você que faz versos, <strong>e </strong>ama, protesta? <strong>Então</strong>, e agora, José?\".</p>",
+      "corpo_clean": "\"E agora, José? Embora a festa tenha acabado, e a luz apagado, e o povo sumido, e logo a noite esfriado, o que fazer? E agora, você? Você que é sem nome, que zomba dos outros, você que faz versos, e ama, protesta? Então, e agora, José?\".",
+      "id": 14473622,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14473622",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3008908,
+  "codigo_real": "72.6.1.1",
+  "disciplina_real": "Engenharia Elétrica e Engenharia Eletrônica",
+  "assunto_real": "Circuitos equivalentes e circuitos magnéticos",
+  "bancas_nome": "Instituto Federal de Minas Gerais",
+  "bancas_sigla": "IFMG",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",
+  "cargos_descricao": "Técnico em Laboratório - Área Eletroeletrônica",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>A figura a seguir ilustra um circuito totalmente composto por indutores.</p><p><br></p><p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/115501/questao/3008908-20230918113148000000-0.png\" width=\"297\" style=\"display: block; margin: auto;\" align=\"center\"></p><p><br></p><p style=\"text-indent: 2em;\">\tA indutância equivalente L (em H) desse circuito será:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong><u>ATENÇÃO</u></strong>: Para as <strong><u>questões 26 e 27</u></strong> considere, no circuito abaixo, os diodos sendo de silício, com uma queda de tensão em condução direta de 0,7 Volts.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/115501/grupo-questao/604328-20230918100743000000-0.png\" width=\"495\" style=\"display: block; margin: auto;\" align=\"center\"></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span class=\"ql-cursor\"></span></p>",
+  "alternativas": [
+    {
+      "corpo": "<p>4,2.</p>",
+      "corpo_clean": "4,2.",
+      "id": 12169906,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>23,5.</p>",
+      "corpo_clean": "23,5.",
+      "id": 12169907,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>29.</p>",
+      "corpo_clean": "29.",
+      "id": 12169908,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>64.</p>",
+      "corpo_clean": "64.",
+      "id": 12169909,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>111,5.</p>",
+      "corpo_clean": "111,5.",
+      "id": 12169910,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12169908",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 817021,
+  "codigo_real": "33.8.4",
+  "disciplina_real": "Direito Ambiental",
+  "assunto_real": "Sistema Nacional de Unidades de Conservação - Sistema Nacional de Unidades de Conservação - SNUC - Lei nº 9.985/2000",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal de Justiça de Goiás",
+  "cargos_descricao": "Juiz Substituto",
+  "ano": 2015,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "O Estado X criou por Decreto um Parque Estadual, unidade de conservação da natureza de proteção integral segundo a Lei\r\nFederal no 9.985/2000. Passados 5 anos, editou-se um novo Decreto para desafetar parte da área deste Parque Estadual,\r\nreduzindo-se, assim, sua extensão territorial. O novo Decreto é",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "válido, pois não há impedimento legal para que o Ente Federativo que criou uma unidade de conservação possa alterar\r\nseus limites por meio de Decreto.",
+      "corpo_clean": "válido, pois não há impedimento legal para que o Ente Federativo que criou uma unidade de conservação possa alterar seus limites por meio de Decreto.",
+      "id": 2815627,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "válido, uma vez que a desafetação foi realizada pelo mesmo tipo de ato normativo que criou o Parque Estadual.",
+      "corpo_clean": "válido, uma vez que a desafetação foi realizada pelo mesmo tipo de ato normativo que criou o Parque Estadual.",
+      "id": 2815628,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "nulo, porque há expressa proibição legal para desafetar ou reduzir limites de qualquer unidade de conservação.",
+      "corpo_clean": "nulo, porque há expressa proibição legal para desafetar ou reduzir limites de qualquer unidade de conservação.",
+      "id": 2815629,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "nulo, salvo se o Decreto contiver exposição de motivos.",
+      "corpo_clean": "nulo, salvo se o Decreto contiver exposição de motivos.",
+      "id": 2815630,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "nulo, uma vez que a desafetação ou redução dos limites de uma unidade de conservação só pode ser feita mediante lei\r\nespecífica.",
+      "corpo_clean": "nulo, uma vez que a desafetação ou redução dos limites de uma unidade de conservação só pode ser feita mediante lei específica.",
+      "id": 2815631,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2815631",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1886927,
+  "codigo_real": "122.8",
+  "disciplina_real": "Nutrição",
+  "assunto_real": "Técnica Dietética e Gastronomia",
+  "bancas_nome": "Universidade Regional do Cariri",
+  "bancas_sigla": "URCA",
+  "orgaos_nome": "Prefeitura de Crato",
+  "cargos_descricao": "Nutricionista",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">As hortaliças e frutas devem ser cortadas com faca afiada para impedir maceração e consequente destruição das vitaminas. As hortaliças podem ser cortadas em formatos diferentes, para atender às exigências estéticas de certas receitas. Cada corte tem, na cozinha clássica, sua designação especial. Marque a alternativa incorreta: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Brunoise: cubos de 2 a 3 milímetros quadrados para guarnição ou sopa de hortaliças</p>",
+      "corpo_clean": "Brunoise: cubos de 2 a 3 milímetros quadrados para guarnição ou sopa de hortaliças",
+      "id": 7266051,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Juliana: cubos de 2 a 3 milímetros quadrados para guarnição ou sopa de hortaliças</p>",
+      "corpo_clean": "Juliana: cubos de 2 a 3 milímetros quadrados para guarnição ou sopa de hortaliças",
+      "id": 7266052,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Chateau (Castelo): é um corte torneado que se faz com uma faquinha de ponta, dando aos vegetais uma forma de amêndoa </p>",
+      "corpo_clean": "Chateau (Castelo): é um corte torneado que se faz com uma faquinha de ponta, dando aos vegetais uma forma de amêndoa ",
+      "id": 7266053,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Jardineira : corte em cubos de 1 cm usado para guarnições simples e mista de vegetais compactos</p>",
+      "corpo_clean": "Jardineira : corte em cubos de 1 cm usado para guarnições simples e mista de vegetais compactos",
+      "id": 7266054,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Paisana : corte em forma de 1/4 de medalhão que se obtém com vegetais compactos </p>",
+      "corpo_clean": "Paisana : corte em forma de 1/4 de medalhão que se obtém com vegetais compactos ",
+      "id": 7266055,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7266052",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

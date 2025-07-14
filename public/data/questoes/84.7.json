@@ -1,0 +1,37 @@
+{
+  "id": 3063162,
+  "codigo_real": "84.7",
+  "disciplina_real": "Filosofia do Direito",
+  "assunto_real": "Positivismo Jurídico",
+  "bancas_nome": "Instituto Americano de Desenvolvimento",
+  "bancas_sigla": "IADES",
+  "orgaos_nome": "Secretaria de Educação do Distrito Federal",
+  "cargos_descricao": "Professor - Área: Filosofia",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Em sua perspectiva crítica, Nietzsche sugere a possibilidade de que o “bom” possa conter um perigo, um veneno. Com isso, contraria os que não hesitam em atribuir ao bom valor mais elevado do que ao mau.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify; text-indent: 3em;\">(…) necessitamos de uma crítica dos valores morais, o próprio valor desses valores deverá ser colocado em questão — para isto, é necessário um conhecimento das condições e circunstâncias nas quais nasceram, sob as quais se desenvolveram e se modificaram (moral como consequência, como sintoma, máscara, tartufice, doença, mal-entendido; mas também moral como causa, medicamento, estimulante, inibição, veneno), um conhecimento tal como até hoje nunca existiu nem foi desejado. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">NIETZSCHE, Friedrich. Genealogia da Moral. Disponível em: &lt;https://aletp.com.br/wp-content/uploads/2017/12/nietzsche-genealogia-da-moral.pdf, p. 4&gt;. Acesso em: 3 nov. 2023. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Quanto à crítica dos valores morais proposta por Nietzsche, julgue (C ou E) os itens a seguir.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 12408041,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 12408042,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12408041",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2092727,
+  "codigo_real": "91.8.2",
+  "disciplina_real": "Geografia",
+  "assunto_real": "Sistema de Informação Geográfica - Sistema de Informação Geográfica - SIG",
+  "bancas_nome": "Fundação Mariana Resende Costa",
+  "bancas_sigla": "FUMARC",
+  "orgaos_nome": "Polícia Civil de Minas Gerais",
+  "cargos_descricao": "Perito Criminal - Área Geral",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A utilização de Sistemas de Informações Geográficas (SIGs) pode conferir avanços significativos nos trabalhos periciais, que vão além da melhoria na apresentação dos laudos periciais, sendo úteis desde o planejamento dos exames em campo, passando pela organização das informações geográficas colhidas e pelo incremento de imagens de sensoriamento remoto obtidas de fontes diversas, entre outras possibilidades (ALVES, 2014, p. 432).</p><p style=\"text-align: justify;\"><br></p><p style=\"text-indent: 3em; text-align: right;\">\t<span style=\"font-size: 12px;\">ALVES, R. de A. L.; RUSSO, D.; MAGLIANO, M. M.; BLUM, M. de L. B. Fundamentos </span></p><p style=\"text-indent: 3em; text-align: right;\">\t<span style=\"font-size: 12px;\">de Geoprocessamento Aplicado à Perícia. In: TOCCHETTO D. (org.). </span><strong style=\"font-size: 12px;\">Perícia Ambi-</strong></p><p style=\"text-indent: 3em; text-align: right;\">\t<strong style=\"font-size: 12px;\">ental Criminal.</strong><span style=\"font-size: 12px;\"> 3. ed. Campinas: Millennium,2 014. p. 407-445.</span></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Considerando-se as principais operações em SIG nas atividades periciais, a <strong>operação </strong>utilizada comumente para se fazer uma zona em volta de uma feição do mapa representativa de uma nascente é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Buffer.</p>",
+      "corpo_clean": "Buffer.",
+      "id": 8181310,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Cálculo de área.</p>",
+      "corpo_clean": "Cálculo de área.",
+      "id": 8181311,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Cálculo de declividade.</p>",
+      "corpo_clean": "Cálculo de declividade.",
+      "id": 8181312,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Determinação de direções.</p>",
+      "corpo_clean": "Determinação de direções.",
+      "id": 8181313,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "8181310",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

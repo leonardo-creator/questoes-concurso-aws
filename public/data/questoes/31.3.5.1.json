@@ -1,0 +1,58 @@
+{
+  "id": 3281053,
+  "codigo_real": "31.3.5.1",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Conceito e características",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Câmara de Paraty",
+  "cargos_descricao": "Auxiliar - Área: Plenário",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Os atos administrativos, porque emanados do Poder Público, trazem consigo determinados atributos que os distinguem dos atos jurídicos privados, conferindo-lhes características próprias e condições peculiares de atuação. Assim, como é caracterizado o atributo que decorre do princípio da legalidade ao qual a Administração está adstrita?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Presunção de legitimidade</p>",
+      "corpo_clean": "Presunção de legitimidade",
+      "id": 13337438,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Imperatividade</p>",
+      "corpo_clean": "Imperatividade",
+      "id": 13337439,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Autoexecutoriedade</p>",
+      "corpo_clean": "Autoexecutoriedade",
+      "id": 13337440,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Poder extroverso</p>",
+      "corpo_clean": "Poder extroverso",
+      "id": 13337441,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Regulatório</p>",
+      "corpo_clean": "Regulatório",
+      "id": 13337442,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13337438",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

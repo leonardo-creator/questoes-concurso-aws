@@ -1,0 +1,37 @@
+{
+  "id": 584158,
+  "codigo_real": "31.13",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Improbidade Administrativa - Lei 8.429/92 e suas alterações",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Conselho Nacional de Justiça",
+  "cargos_descricao": "Técnico Judiciário - Área Programação de Sistemas",
+  "ano": 2013,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>A configuração da improbidade exige os seguintes elementos: o\r\nenriquecimento ilícito, o prejuízo ao erário e o atentado contra os\r\nprincípios fundamentais (legalidade, impessoalidade, moralidade,\r\npublicidade e eficiência), presente o elemento subjetivo doloso.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>A respeito de controle e responsabilização da administração pública,\r\njulgue os itens subsequentes.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2063096,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2063097,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2063096",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3028817,
+  "codigo_real": "114.2.2.1.7",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Taxa Real",
+  "bancas_nome": "Fundação de Apoioao Desenvolvimento Unicentro",
+  "bancas_sigla": "FAU UNICENTRO",
+  "orgaos_nome": "Prefeitura de Laranjeiras do Sul",
+  "cargos_descricao": "Auxiliar de Farmácia",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Durante o período de uma hora passou por um radar 60 veículos, neste radar a velocidade máxima permitida é de 50 Km/h. Um técnico da empresa responsável pelo radar calculou a média de velocidade destes 60 veículos e o valor encontrado foi de 56 Km/h. Como encontrou um valor atípico resolveu aferir o equipamento e verificou que devido a problemas técnicos este estava considerando 8 Km a mais que a velocidade real do veículo. O aparelho foi corrigido e a velocidade dos veículos que passaram naquele momento também. Com base nestas informações, qual é o valor da verdadeira média dos 60 veículos que passaram pelo radar naquela hora?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>40 Km/h.</p>",
+      "corpo_clean": "40 Km/h.",
+      "id": 12259096,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>42 Km/h.</p>",
+      "corpo_clean": "42 Km/h.",
+      "id": 12259097,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>46 Km/h.</p>",
+      "corpo_clean": "46 Km/h.",
+      "id": 12259098,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>48 Km/h.</p>",
+      "corpo_clean": "48 Km/h.",
+      "id": 12259099,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>50 Km/h.</p>",
+      "corpo_clean": "50 Km/h.",
+      "id": 12259100,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12259099",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

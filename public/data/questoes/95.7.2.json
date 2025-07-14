@@ -1,0 +1,51 @@
+{
+  "id": 1014241,
+  "codigo_real": "95.7.2",
+  "disciplina_real": "Informática",
+  "assunto_real": "Windows",
+  "bancas_nome": "MOURA MELO Consultoria em Recursos Humanos LTDA.",
+  "bancas_sigla": "",
+  "orgaos_nome": "Câmara de Santo André",
+  "cargos_descricao": "Analista de Tecnologia da Informação de Redes - Área Servidores",
+  "ano": 2008,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Graças a um recurso do Windows 2000 Server, é possível\r\ndeterminar um espaço em disco no servidor para os clientes da\r\nrede. Este recurso está disponível no seu sistema de arquivos e é\r\ndenominado:",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": " File records.",
+      "corpo_clean": " File records.",
+      "id": 3548927,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "Stile free.",
+      "corpo_clean": "Stile free.",
+      "id": 3548928,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "Cotas de disco.",
+      "corpo_clean": "Cotas de disco.",
+      "id": 3548929,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Tecnologia SMP.",
+      "corpo_clean": "Tecnologia SMP.",
+      "id": 3548930,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "3548929",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1964017,
+  "codigo_real": "13.1.11.1",
+  "disciplina_real": "Atualidades e Conhecimentos Gerais",
+  "assunto_real": "Covid 19/Corona Vírus/Pandemia",
+  "bancas_nome": "Fundação de Apoio ao Desenvolvimento da UEL",
+  "bancas_sigla": "FAUEL",
+  "orgaos_nome": "Prefeitura de Bela Vista da Caroba",
+  "cargos_descricao": "Engenheiro Civil",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Desde o início das discussões em torno do combate à pandemia do coronavírus, surgiram polêmicas sobre a eficácia do tratamento precoce à doença. A respeito dessa questão, marque a alternativa que NÃO indica um dos principais medicamentos citados em discussões para o suposto tratamento precoce contra a Covid-19.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Azitromicina</p>",
+      "corpo_clean": "Azitromicina",
+      "id": 7611049,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Hidroxicloroquina.</p>",
+      "corpo_clean": "Hidroxicloroquina.",
+      "id": 7611050,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Ivermectina.</p>",
+      "corpo_clean": "Ivermectina.",
+      "id": 7611051,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Oxicodona.</p>",
+      "corpo_clean": "Oxicodona.",
+      "id": 7611052,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "7611052",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

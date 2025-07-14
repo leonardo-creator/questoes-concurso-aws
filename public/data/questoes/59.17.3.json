@@ -1,0 +1,58 @@
+{
+  "id": 1119392,
+  "codigo_real": "59.17.3",
+  "disciplina_real": "Engenharia Agronômica",
+  "assunto_real": "Cultura dos Cereais - Culturas",
+  "bancas_nome": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso",
+  "bancas_sigla": "IFMT",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso",
+  "cargos_descricao": "Técnico em Agropecuária",
+  "ano": 2019,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\">Para que os tratos culturais, como a adubação e o monitoramento de pragas e doenças, sejam realizados no momento adequado na cultura da soja (<em>Glycine max</em>), é de fundamental importância conhecer os seus estádios de desenvolvimento. Segundo a classificação de Fehr e Caviness (1977), o estádio R3 na cultura da soja é definido como:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Início da maturação: uma vagem normal na haste principal com coloração de madura.</p>",
+      "corpo_clean": "Início da maturação: uma vagem normal na haste principal com coloração de madura.",
+      "id": 3977361,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Início do florescimento: uma flor aberta em qualquer nó da haste principal.</p>",
+      "corpo_clean": "Início do florescimento: uma flor aberta em qualquer nó da haste principal.",
+      "id": 3977362,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Início do enchimento do grão: grão com 3 mm de comprimento em uma vagem em um dos quatro últimos nós da haste principal.</p>",
+      "corpo_clean": "Início do enchimento do grão: grão com 3 mm de comprimento em uma vagem em um dos quatro últimos nós da haste principal.",
+      "id": 3977363,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Início da formação da vagem: vagem com 5 mm de comprimento em um dos quatro últimos nós da haste principal.</p>",
+      "corpo_clean": "Início da formação da vagem: vagem com 5 mm de comprimento em um dos quatro últimos nós da haste principal.",
+      "id": 3977364,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>Vagem completamente desenvolvida: vagem com 2 cm de comprimento em um dos 4 últimos nós da haste principal.</p>",
+      "corpo_clean": "Vagem completamente desenvolvida: vagem com 2 cm de comprimento em um dos 4 últimos nós da haste principal.",
+      "id": 3977365,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3977364",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

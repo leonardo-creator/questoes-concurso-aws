@@ -1,0 +1,58 @@
+{
+  "id": 1780837,
+  "codigo_real": "116.7.7.1",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Diagnóstico comparado",
+  "bancas_nome": "Coordenação de Seleção e Ingresso da Secretaria Municipal de Administração",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Porto Alegre",
+  "cargos_descricao": "Médico - Área: Pediatria",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Paciente de 6 anos com disúria e febre, EQU por jato médio evidenciou alteração compatível com infecção do trato urinário. É <strong>IMPROVÁVEL </strong>que verifiquemos:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Hematúria macroscópica, uma vez que a infeccção urinária é sua causa principal.</p>",
+      "corpo_clean": "Hematúria macroscópica, uma vez que a infeccção urinária é sua causa principal.",
+      "id": 6798367,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Mais de 10.000 colônias de um patógeno na urocultura coletada.</p>",
+      "corpo_clean": "Mais de 10.000 colônias de um patógeno na urocultura coletada.",
+      "id": 6798368,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Um valor aumentado da proteína C reativa no sangue.</p>",
+      "corpo_clean": "Um valor aumentado da proteína C reativa no sangue.",
+      "id": 6798369,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Uma cintilografia renal normal, se realizada na vigência de infecção.</p>",
+      "corpo_clean": "Uma cintilografia renal normal, se realizada na vigência de infecção.",
+      "id": 6798370,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Um hemograma com quantidade normal de leucócitos para a faixa – etária.</p>",
+      "corpo_clean": "Um hemograma com quantidade normal de leucócitos para a faixa – etária.",
+      "id": 6798371,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6798371",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

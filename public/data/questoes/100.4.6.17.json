@@ -1,0 +1,51 @@
+{
+  "id": 2332107,
+  "codigo_real": "100.4.6.17",
+  "disciplina_real": "Legislação Federal",
+  "assunto_real": "Lei nº 9.605/1998 - Dispõe Sobre as Sanções Penais e Administrativas Derivadas de Condutas e Atividades Lesivas ao Meio Ambiente, e dá Outras Providências.",
+  "bancas_nome": "Coordenadoria de Apoio a Instituições Públicas IMES",
+  "bancas_sigla": "CAIPIMES",
+  "orgaos_nome": "Serviço Municipal de Saneamento Ambiental de Santo André",
+  "cargos_descricao": "Sociólogo",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">É considerada infração administrativa ambiental toda ação ou omissão que viole as regras jurídicas de uso, promoção e recuperação do meio ambiente e podem ser punidas com as seguintes sanções, EXCETO:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>advertência.</p>",
+      "corpo_clean": "advertência.",
+      "id": 9213828,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>multa simples ou diária.</p>",
+      "corpo_clean": "multa simples ou diária.",
+      "id": 9213829,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>embargo de obra ou atividade.</p>",
+      "corpo_clean": "embargo de obra ou atividade.",
+      "id": 9213830,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>bônus para o infrator.</p>",
+      "corpo_clean": "bônus para o infrator.",
+      "id": 9213831,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9213831",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

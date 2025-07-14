@@ -1,0 +1,58 @@
+{
+  "id": 3438021,
+  "codigo_real": "33.5.4",
+  "disciplina_real": "Direito Ambiental",
+  "assunto_real": "Licenciamento e licença ambiental - Licenciamento e licença ambiental",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Serviço de Água e Esgotos",
+  "cargos_descricao": "Biólogo",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em relação ao Licenciamento Ambiental, conforme o Código Estadual do Meio Ambiente do Estado do Rio Grande do Sul, analise o trecho a seguir: “O licenciamento ambiental dependerá de autorização do órgão responsável pela administração de Unidades de Conservação quando se tratar de empreendimentos de significativo impacto ambiental, assim considerado pelo órgão ambiental competente, com fundamento no(a) ___________________ e no(a) ___________________, que se localizem ou que possam afetar Unidade de Conservação específica ou sua Zona de Amortecimento (ZA)”. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Avaliação Ambiental Integrada (AAI) – Zoneamento Ecológico-Econômico (ZEE)</p>",
+      "corpo_clean": "Avaliação Ambiental Integrada (AAI) – Zoneamento Ecológico-Econômico (ZEE)",
+      "id": 14005875,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Plano de Manejo – Plano de Conformidade Ambiental (PCA)</p>",
+      "corpo_clean": "Plano de Manejo – Plano de Conformidade Ambiental (PCA)",
+      "id": 14005876,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Estudo de Controle Ambiental (ECA) – respectivo Relatório de Controle Ambiental (RCA)</p>",
+      "corpo_clean": "Estudo de Controle Ambiental (ECA) – respectivo Relatório de Controle Ambiental (RCA)",
+      "id": 14005877,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> Licença de Instalação (LI) – Licença de Operação (LO) </p>",
+      "corpo_clean": " Licença de Instalação (LI) – Licença de Operação (LO) ",
+      "id": 14005878,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Estudo Prévio de Impacto Ambiental (EIA) – respectivo Relatório de Impacto Ambiental (RIMA)</p>",
+      "corpo_clean": "Estudo Prévio de Impacto Ambiental (EIA) – respectivo Relatório de Impacto Ambiental (RIMA)",
+      "id": 14005879,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14005879",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

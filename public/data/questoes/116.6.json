@@ -1,0 +1,37 @@
+{
+  "id": 241308,
+  "codigo_real": "116.6",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Asfixiologia (energias físico-químicas)",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Ministério Público de Tocantins",
+  "cargos_descricao": "Analista Ministerial - Área Medicina",
+  "ano": 2006,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>A fórmula de Parkland, utilizada para a reposição de\r\nsoluções cristalóides e colóides, leva em consideração o peso\r\ncorporal e a área total queimada da superfície corporal.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Acerca das queimaduras, julgue os itens subseqüentes.</p>",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 933108,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 933107,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "933108",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

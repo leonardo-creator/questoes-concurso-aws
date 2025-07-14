@@ -1,0 +1,58 @@
+{
+  "id": 1947117,
+  "codigo_real": "3.1.5",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Habilidades do Administrador - Habilidades do Administrador",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Agência Brasileira de Desenvolvimento Industrial",
+  "cargos_descricao": "Nível Superior Iniciante - Área: Desenvolvimento de RH",
+  "ano": 2013,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Proporcionar orientação às pessoas atende a vários objetivos. O processo de orientação procura enviar mensagens claras e oferecer informação a respeito da cultura da organização, do cargo a ser ocupado e das expectativas a respeito do trabalho. Podemos citar como objetivos do programa de orientação: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. Reduzir a ansiedade das pessoas. </p><p style=\"text-align: justify;\">II. Economizar tempo. </p><p style=\"text-align: justify;\">III. Reduzir a rotatividade. </p><p style=\"text-align: justify;\">IV. Aumentar a capacidade. </p><p style=\"text-align: justify;\">V. Diminuir o tempo de serviço.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Somente I, II e III.</p>",
+      "corpo_clean": "Somente I, II e III.",
+      "id": 7534076,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Somente II, III e IV.</p>",
+      "corpo_clean": "Somente II, III e IV.",
+      "id": 7534077,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Somente III, IV e V.</p>",
+      "corpo_clean": "Somente III, IV e V.",
+      "id": 7534078,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Somente I, II e V.</p>",
+      "corpo_clean": "Somente I, II e V.",
+      "id": 7534079,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Somente I, III e IV.</p>",
+      "corpo_clean": "Somente I, III e IV.",
+      "id": 7534080,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7534076",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

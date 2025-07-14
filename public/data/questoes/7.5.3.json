@@ -1,0 +1,58 @@
+{
+  "id": 1039292,
+  "codigo_real": "7.5.3",
+  "disciplina_real": "Análise das Demonstrações Contábeis",
+  "assunto_real": "Alavancagem financeira",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Secretaria da Fazenda do Estado do Rio Grande do Sul",
+  "cargos_descricao": "Auditor Fiscal da Receita Estadual",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Os eventos que provocam aumento no capital permanente líquido\r\nde uma empresa incluem o(a)",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "aumento de capital com incorporação de reservas de lucros.",
+      "corpo_clean": "aumento de capital com incorporação de reservas de lucros.",
+      "id": 3634678,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "aquisição de ativo imobilizado com financiamento de longo\r\nprazo.",
+      "corpo_clean": "aquisição de ativo imobilizado com financiamento de longo prazo.",
+      "id": 3634679,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "venda de estoques para recebimento no longo prazo.",
+      "corpo_clean": "venda de estoques para recebimento no longo prazo.",
+      "id": 3634680,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "conversão de dívidas de curto prazo em dívidas de longo\r\nprazo.",
+      "corpo_clean": "conversão de dívidas de curto prazo em dívidas de longo prazo.",
+      "id": 3634681,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "obtenção de empréstimos com vencimento anterior ao término\r\ndo exercício social seguinte.",
+      "corpo_clean": "obtenção de empréstimos com vencimento anterior ao término do exercício social seguinte.",
+      "id": 3634682,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3634681",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

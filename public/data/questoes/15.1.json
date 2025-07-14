@@ -1,0 +1,58 @@
+{
+  "id": 50235,
+  "codigo_real": "15.1",
+  "disciplina_real": "Auditoria",
+  "assunto_real": "Auditoria Privada, Independente ou de Recursos Externos",
+  "bancas_nome": "Escola de Administração Fazendária",
+  "bancas_sigla": "ESAF",
+  "orgaos_nome": "Instituto Nacional do Seguro Social",
+  "cargos_descricao": "Auditor Fiscal da Previdência Social AFPS - Área Auditoria",
+  "ano": 2002,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>A auditoria deve ser realizada consoante os Princípios\r\nFundamentais e as Normas Brasileiras de\r\nContabilidade. Na ausência de disposições específicas,\r\no auditor deve:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>recusar o trabalho de auditoria e encaminhar\r\nrelatório consubstanciado para a direção da\r\nempresa.</p>",
+      "corpo_clean": "recusar o trabalho de auditoria e encaminhar relatório consubstanciado para a direção da empresa.",
+      "id": 238584,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>seguir as práticas utilizadas pela empresa de\r\nauditoria, ainda que não aceitas pelos órgãos\r\nregulamentadores.</p>",
+      "corpo_clean": "seguir as práticas utilizadas pela empresa de auditoria, ainda que não aceitas pelos órgãos regulamentadores.",
+      "id": 238585,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>seguir as práticas já consagradas pela Profissão\r\nContábil, formalizadas ou não pelos seus\r\norganismos próprios.</p>",
+      "corpo_clean": "seguir as práticas já consagradas pela Profissão Contábil, formalizadas ou não pelos seus organismos próprios.",
+      "id": 238586,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>seguir as teorias defendidas pela empresa de\r\nauditoria e não aceitas pelos organismos\r\npróprios.</p>",
+      "corpo_clean": "seguir as teorias defendidas pela empresa de auditoria e não aceitas pelos organismos próprios.",
+      "id": 238587,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>omitir seu parecer, independente de quaisquer\r\npráticas realizadas, ainda que já estejam\r\nconsagradas pela Profissão Contábil.</p>",
+      "corpo_clean": "omitir seu parecer, independente de quaisquer práticas realizadas, ainda que já estejam consagradas pela Profissão Contábil.",
+      "id": 238588,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "238586",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

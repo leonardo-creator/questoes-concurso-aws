@@ -1,0 +1,58 @@
+{
+  "id": 118482,
+  "codigo_real": "72.13",
+  "disciplina_real": "Engenharia Elétrica e Engenharia Eletrônica",
+  "assunto_real": "Redes de Computadores",
+  "bancas_nome": "Núcleo de Computação Eletrônica UFRJ",
+  "bancas_sigla": "NCE",
+  "orgaos_nome": "Ministério Público do Rio de Janeiro",
+  "cargos_descricao": "Secretario de Procuradoria",
+  "ano": 2002,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "O endereço de um servidor de arquivos chamado\r\n\"guanabara\" em uma rede Microsoft é:",
+  "grupoQuestao_enunciado": "As questões de número 91 até 100 referem-se à configuração\r\npadrão de software e hardware do fabricante. Quando aplicável,\r\ntodos os softwares devem ser considerados em sua\r\nversão em português, exceto quando houver especificação\r\nem contrário.",
+  "alternativas": [
+    {
+      "corpo": "\\\\\\\\guanabara",
+      "corpo_clean": "\\\\\\\\guanabara",
+      "id": 553401,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "file:/guanabara",
+      "corpo_clean": "file:/guanabara",
+      "id": 553402,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "ftp://ftp.guanabara.com.br",
+      "corpo_clean": "ftp://ftp.guanabara.com.br",
+      "id": 553403,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "http://guanabara",
+      "corpo_clean": "http://guanabara",
+      "id": 553404,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "http://www.guanabara.com.br",
+      "corpo_clean": "http://www.guanabara.com.br",
+      "id": 553405,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "553401",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

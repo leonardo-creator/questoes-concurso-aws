@@ -1,0 +1,58 @@
+{
+  "id": 2850724,
+  "codigo_real": "31.19.40",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Lei nº 14.133/2021 - Lei de Licitações e Contratos Administrativos.",
+  "bancas_nome": "Legalle Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Poço das Antas",
+  "cargos_descricao": "Assessor Técnico",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O licitante ou o contratado será responsabilizado administrativamente pelas seguintes infrações, EXCETO:</p>",
+  "grupoQuestao_enunciado": "<p><strong>As questões de 33 a 35 se referem à Lei nº 14.133/21 - Lei de Licitações e Contratos Administrativos.</strong></p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Dar causa à inexecução parcial do contrato.</p>",
+      "corpo_clean": "Dar causa à inexecução parcial do contrato.",
+      "id": 11473438,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Deixar de entregar a documentação exigida para o certame.</p>",
+      "corpo_clean": "Deixar de entregar a documentação exigida para o certame.",
+      "id": 11473439,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo justificado.</p>",
+      "corpo_clean": "Ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo justificado.",
+      "id": 11473440,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Comportar-se de modo inidôneo.</p>",
+      "corpo_clean": "Comportar-se de modo inidôneo.",
+      "id": 11473441,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Não manter a proposta, mesmo em decorrência de fato superveniente devidamente justificado.</p>",
+      "corpo_clean": "Não manter a proposta, mesmo em decorrência de fato superveniente devidamente justificado.",
+      "id": 11473442,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11473442",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

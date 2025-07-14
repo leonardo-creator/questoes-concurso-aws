@@ -1,0 +1,58 @@
+{
+  "id": 1821012,
+  "codigo_real": "77.8",
+  "disciplina_real": "Engenharia Mecânica",
+  "assunto_real": "Manutenção Mecânica",
+  "bancas_nome": "Instituto Americano de Desenvolvimento",
+  "bancas_sigla": "IADES",
+  "orgaos_nome": "Policia Militar do Distrito Federal",
+  "cargos_descricao": "Policial Militar PM / Oficial - Área: Motomecanização (CHO/CSTGSP)",
+  "ano": 2017,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/60168/questao/1821012-20210727190716000000-0.png\"></p><p style=\"text-align: justify;\">Na manutenção de um veículo, é necessário utilizar uma gama de equipamentos e de ferramentas dos mais variados tipos. A figura apresentada mostra o (a) </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>teste de compressão do motor.</p>",
+      "corpo_clean": "teste de compressão do motor.",
+      "id": 6982576,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>medição do desgaste do cilindro.</p>",
+      "corpo_clean": "medição do desgaste do cilindro.",
+      "id": 6982577,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>medição de vazão do cilindro.</p>",
+      "corpo_clean": "medição de vazão do cilindro.",
+      "id": 6982578,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>empeno do disco de freio.</p>",
+      "corpo_clean": "empeno do disco de freio.",
+      "id": 6982579,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>ângulo de inclinação do pistão.</p>",
+      "corpo_clean": "ângulo de inclinação do pistão.",
+      "id": 6982580,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6982577",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

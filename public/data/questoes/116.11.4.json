@@ -1,0 +1,58 @@
+{
+  "id": 2521397,
+  "codigo_real": "116.11.4",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Grandes desastres",
+  "bancas_nome": "Fundação Dom Cintra",
+  "bancas_sigla": "FDC",
+  "orgaos_nome": "Serviço Social Autônomo Hospital Alcides Carneiro",
+  "cargos_descricao": "Médico Pneumologista",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">É sinal de gravidade na crise asmática:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>PO2 = 70mmHg e PCO2 = 32mmHg;</p>",
+      "corpo_clean": "PO2 = 70mmHg e PCO2 = 32mmHg;",
+      "id": 10031503,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>PO2 = 65mmHg e pH = 7:48;</p>",
+      "corpo_clean": "PO2 = 65mmHg e pH = 7:48;",
+      "id": 10031504,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>PO2 = 85mmHg e PCO2 = 30mmHg;</p>",
+      "corpo_clean": "PO2 = 85mmHg e PCO2 = 30mmHg;",
+      "id": 10031505,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>PO2 = 65mmHg e PCO2 = 42mmHg;</p>",
+      "corpo_clean": "PO2 = 65mmHg e PCO2 = 42mmHg;",
+      "id": 10031506,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>PO2 = 85mmHg e PCO2 = 37mmHg.</p>",
+      "corpo_clean": "PO2 = 85mmHg e PCO2 = 37mmHg.",
+      "id": 10031507,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10031506",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

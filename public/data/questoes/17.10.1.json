@@ -1,0 +1,37 @@
+{
+  "id": 528595,
+  "codigo_real": "17.10.1",
+  "disciplina_real": "Biologia",
+  "assunto_real": "Biofísica",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Instituto Nacional de Câncer",
+  "cargos_descricao": "Tecnologista Júnior - Área Biologia - Especialidade: Biologia Estrutural",
+  "ano": 2010,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Muitos dos fenômenos de interesse que são medidos usando-se\r\ncorantes ocorrem próximos à periferia da célula e(ou) na\r\nmembrana plasmática.</p>",
+  "grupoQuestao_enunciado": "A microscopia confocal tem sido usada para examinar o papel dos\r\ncanais iônicos, especialmente o de sódio, na liberação de\r\nneurotransmissores. Para isso, uma variedade de corantes\r\nfluorescentes é usada para examinar os níveis intracelulares dos\r\níons sódio e cálcio. Acerca desses corantes na imagem confocal,\r\njulgue os itens subsequentes.",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 1915601,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 1915602,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1915601",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

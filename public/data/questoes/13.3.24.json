@@ -1,0 +1,51 @@
+{
+  "id": 3508272,
+  "codigo_real": "13.3.24",
+  "disciplina_real": "Atualidades e Conhecimentos Gerais",
+  "assunto_real": "Rio de Janeiro - RJ",
+  "bancas_nome": "Centro Universitário Barriga Verde",
+  "bancas_sigla": "Unibave",
+  "orgaos_nome": "Câmara Municipal de Capivari de Baixo",
+  "cargos_descricao": "Secretário Legislativo",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em 2024, um evento histórico foi amplamente lembrado no Brasil por marcar os 60 anos de um importante acontecimento político. Qual foi esse evento?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A eleição de Juscelino Kubitschek.</p>",
+      "corpo_clean": "A eleição de Juscelino Kubitschek.",
+      "id": 14307621,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A promulgação da Constituição de 1988.</p>",
+      "corpo_clean": "A promulgação da Constituição de 1988.",
+      "id": 14307622,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A renúncia de Jânio Quadros.</p>",
+      "corpo_clean": "A renúncia de Jânio Quadros.",
+      "id": 14307623,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O golpe militar de 1964.</p>",
+      "corpo_clean": "O golpe militar de 1964.",
+      "id": 14307624,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "14307624",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

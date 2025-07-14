@@ -1,0 +1,58 @@
+{
+  "id": 1602748,
+  "codigo_real": "128.1.3.3",
+  "disciplina_real": "Psicologia",
+  "assunto_real": "Dependência Química",
+  "bancas_nome": "Fundação Universidade de Tocantis",
+  "bancas_sigla": "UNITINS",
+  "orgaos_nome": "Secretaria de Administração do Estado do Tocantins",
+  "cargos_descricao": "Psicólogo",
+  "ano": 2009,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Na abordagem de um dependente de substâncias que procura assistência, Prochaska e diClemente (1992) recomendam ao profissional que</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">estabeleça uma relação amigável e receptiva, sem denotar desaprovação.</p>",
+      "corpo_clean": "estabeleça uma relação amigável e receptiva, sem denotar desaprovação.",
+      "id": 6017919,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>proponha uma psicoterapia expressiva para aliviar sua ansiedade.</p>",
+      "corpo_clean": "proponha uma psicoterapia expressiva para aliviar sua ansiedade.",
+      "id": 6017920,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">seja firme e direto, deixando claro que a conduta não é aceitável para um tratamento adequado.</p>",
+      "corpo_clean": "seja firme e direto, deixando claro que a conduta não é aceitável para um tratamento adequado.",
+      "id": 6017921,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">explique que o uso de certas substâncias infringe a lei e que é preciso ser interrompido para fazer o tratamento.</p>",
+      "corpo_clean": "explique que o uso de certas substâncias infringe a lei e que é preciso ser interrompido para fazer o tratamento.",
+      "id": 6017922,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">sugira à pessoa ajuda espiritual e exercícios físicos aliados ao tratamento.</p>",
+      "corpo_clean": "sugira à pessoa ajuda espiritual e exercícios físicos aliados ao tratamento.",
+      "id": 6017923,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6017919",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

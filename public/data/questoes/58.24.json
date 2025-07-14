@@ -1,0 +1,58 @@
+{
+  "id": 2234988,
+  "codigo_real": "58.24",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Enfermagem em Oncologia",
+  "bancas_nome": "Comissão permanente de Seleção da Universidade Federal do Piauí",
+  "bancas_sigla": "COPESE UFPI",
+  "orgaos_nome": "Prefeitura de Bom Jesus",
+  "cargos_descricao": "Técnico em Enfermagem",
+  "ano": 2016,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">As ações de controle dos cânceres do colo do útero e da mama são diversas, vão desde cadastro e identificação da população prioritária ao acompanhamento das usuárias em cuidados paliativos (BRASIL, 2013). São atribuições do técnico de enfermagem no controle dos cânceres do colo do útero e da mama, EXCETO:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Contribuir, participar e realizar atividades de educação permanente.</p>",
+      "corpo_clean": "Contribuir, participar e realizar atividades de educação permanente.",
+      "id": 8791377,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Participar do gerenciamento dos insumos necessários para a adequada realização do exame citopatológico.</p>",
+      "corpo_clean": "Participar do gerenciamento dos insumos necessários para a adequada realização do exame citopatológico.",
+      "id": 8791378,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Atender às usuárias de maneira integral.</p>",
+      "corpo_clean": "Atender às usuárias de maneira integral.",
+      "id": 8791379,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Avaliar resultados dos exames solicitados e coletados de acordo com os protocolos e diretrizes clínicas.</p>",
+      "corpo_clean": "Avaliar resultados dos exames solicitados e coletados de acordo com os protocolos e diretrizes clínicas.",
+      "id": 8791380,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Realizar cuidado paliativo na unidade básica de saúde ou no domicílio, de acordo com as necessidades da usuária.</p>",
+      "corpo_clean": "Realizar cuidado paliativo na unidade básica de saúde ou no domicílio, de acordo com as necessidades da usuária.",
+      "id": 8791381,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8791380",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

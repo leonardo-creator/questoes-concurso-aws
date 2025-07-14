@@ -1,0 +1,37 @@
+{
+  "id": 1587948,
+  "codigo_real": "2.4.4.2",
+  "disciplina_real": "Administração Financeira e Orçamentária - AFO",
+  "assunto_real": "Tipos ou Espécies",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba",
+  "cargos_descricao": "Analista em Desenvolvimento Regional - Área: Contabilidade",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Em situações em que o governo reconheça o estado de calamidade pública, como ocorreu em 2020 devido à pandemia de covid-19, para alocar recursos adicionais ao orçamento com o objetivo de atender os municípios atingidos, deve-se utilizar o mecanismo retificador do orçamento denominado crédito especial.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Orçamento público é o instrumento utilizado pelo Governo Federal para planejar a utilização do dinheiro arrecadado com os tributos. Esse planejamento é essencial para oferecer serviços públicos adequados, além de especificar gastos e investimentos que foram priorizados pelos poderes. A respeito desse assunto, julgue os próximos itens.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 5956601,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 5956602,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5956602",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

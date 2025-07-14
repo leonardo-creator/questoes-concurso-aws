@@ -1,0 +1,51 @@
+{
+  "id": 1034691,
+  "codigo_real": "98.4.12.59.1",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Legislação Aplicada - Petrobras",
+  "bancas_nome": "Consultoria e Planejamento em Administração Pública LTDA",
+  "bancas_sigla": "Consulplan",
+  "orgaos_nome": "Conselho Federal de Contabilidade",
+  "cargos_descricao": "Contador",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Uma indústria produz um único produto e adota a análise de regressão linear para estimar os custos indiretos de\r\nmanutenção fixos e variáveis. Ela fundamenta-se em dados históricos da sua capacidade normal de produção e utiliza\r\na seguinte Função de Regressão Amostral (FRA):</p><p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/35100/41.gif\"></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": " R$ 0,00.",
+      "corpo_clean": " R$ 0,00.",
+      "id": 3618870,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "R$ 350.000,00.",
+      "corpo_clean": "R$ 350.000,00.",
+      "id": 3618871,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "R$ 600.000,00.",
+      "corpo_clean": "R$ 600.000,00.",
+      "id": 3618872,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": " R$ 1.000.000,00.",
+      "corpo_clean": " R$ 1.000.000,00.",
+      "id": 3618873,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "3618872",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

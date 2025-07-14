@@ -1,0 +1,51 @@
+{
+  "id": 2122447,
+  "codigo_real": "112.1.11.3.9",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Acerca de/Há cerca de/a cerca de",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Serviço Autônomo de Água e Esgoto de Formiga",
+  "cargos_descricao": "Auxiliar Administrativo",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>A expressão “cerca de” (2º§) é classificada, morfologicamente, como:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: center;\"><strong><u>Proibir para mudar </u></strong></p><p><br></p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">__</span>Ao ser questionado sobre o uso de produtos descartáveis, talvez você não se lembre que provavelmente utilizou vários deles na última semana. Grande parte das atividades humanas modernas utiliza produtos descartáveis feitos de material plástico e, quando paramos para observar o comércio de alimentos e bebidas, vemos que o uso desses materiais é significativamente mais expressivo.</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">__</span>Anualmente, são geradas cerca de 300 milhões de toneladas de lixo plástico no mundo, sendo 14% desse resíduo encaminhado para reciclagem e apenas 9% efetivamente reciclado. Algumas pessoas têm a falsa impressão de que todos os resíduos plásticos são recicláveis, mas produtos químicos acrescentados aos polímeros plásticos e embalagens de alimentos contaminadas com restos orgânicos podem inviabilizar o processo de reciclagem.</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">__</span>Desta forma, fica clara a necessidade de reduzir a geração desse resíduo por meio da redução do consumo de materiais plásticos. Vários países já estão adotando medidas que proíbem a utilização de produtos plásticos descartáveis. O Canadá, a Indonésia e a União Europeia, por exemplo, já definiram uma data para a proibição; o Brasil, sendo o quarto país que mais gera resíduos plásticos no mundo, precisa acompanhar esse movimento.</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">__</span>Sob o mesmo ponto de vista, temos na utilização de produtos descartáveis em bares e restaurantes uma grande oportunidade de redução de consumo, visto que o volume de itens plásticos utilizados pela maioria desses estabelecimentos é bastante expressivo. Copos, canudos, pratos e talheres descartáveis são utilizados cotidianamente em muitos estabelecimentos e o consumidor, tão acostumado com esse padrão de consumo, não tem por hábito questionar a real necessidade de utilização desses materiais.</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">__</span>É necessário que proprietários de bares e restaurantes comecem a buscar produtos que possam substituir o plástico, exercendo a mesma função, porém formados de material biodegradável. Em contrapartida, a indústria responsável pela produção desses produtos precisa aumentar o investimento em pesquisa e desenvolvimento de materiais com baixo impacto ambiental, promovendo a inovação nos seus produtos para a garantia da manutenção dos seus negócios.</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">__</span>Ademais, é importante destacar que nós, como consumidores, podemos adotar uma postura consciente e proativa que não dependa da existência de políticas públicas. O consumidor final é o agente de transformação com maior poder nesta cadeia e podemos incentivar as marcas que consumimos, os fornecedores que contratamos e os estabelecimentos comerciais que frequentamos a realizar iniciativas de substituição do plástico.</p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 255, 255);\">__</span>Por fim, partindo do princípio de que nenhuma mudança é fácil, devemos reconhecer, por meio da preferência, aquelas empresas que tenham um posicionamento ativo e comprometido no que diz respeito a iniciativas de baixo impacto ambiental, contribuindo para viabilizar essa mudança de comportamento tão urgente e fundamental para a sustentabilidade do nosso futuro.</p><p style=\"text-align: right;\"><br></p><p style=\"text-align: right;\"><strong><span class=\"ql-cursor\"></span>(ARANTES, Andréa Luiza Santos. Proibir para mudar. Disponível em: https://www.gazetadopovo.com.br/opiniao/artigos/proibir-paramudar/. Acesso em: 21/01/2020.)</strong></p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Advérbio.</p>",
+      "corpo_clean": "Advérbio.",
+      "id": 8299931,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Substantivo.</p>",
+      "corpo_clean": "Substantivo.",
+      "id": 8299932,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Locução conjuntiva.</p>",
+      "corpo_clean": "Locução conjuntiva.",
+      "id": 8299933,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Locução prepositiva.</p>",
+      "corpo_clean": "Locução prepositiva.",
+      "id": 8299934,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "8299934",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

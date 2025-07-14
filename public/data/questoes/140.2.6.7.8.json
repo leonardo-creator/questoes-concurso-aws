@@ -1,0 +1,51 @@
+{
+  "id": 3243171,
+  "codigo_real": "140.2.6.7.8",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Functions",
+  "bancas_nome": "FUNDEP Gestão de Concursos",
+  "bancas_sigla": "FUNDEP",
+  "orgaos_nome": "Universidade Federal de Ouro Preto",
+  "cargos_descricao": "Analista de Tecnologia da Informação",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a função SQL que deverá ser utilizada quando for necessário obter o maior valor em uma lista.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">SUM</p>",
+      "corpo_clean": "SUM",
+      "id": 13174647,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">MAXX</p>",
+      "corpo_clean": "MAXX",
+      "id": 13174648,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">COUNT</p>",
+      "corpo_clean": "COUNT",
+      "id": 13174649,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">GREATEST</p>",
+      "corpo_clean": "GREATEST",
+      "id": 13174650,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "13174650",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

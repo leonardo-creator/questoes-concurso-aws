@@ -1,0 +1,51 @@
+{
+  "id": 3287760,
+  "codigo_real": "112.5.1.2.2",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Tipos de oração",
+  "bancas_nome": "Instituto de Desenvolvimento Social e Tecnologia",
+  "bancas_sigla": "IDESG",
+  "orgaos_nome": "Câmara de São Gabriel da Palha",
+  "cargos_descricao": "Auxiliar de Serviços Gerais",
+  "ano": 2024,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\"><em>Vieram os açougueiros com facas, machados, serrotes.</em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">O sujeito dessa oração é:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Atenção: Leia atentamente o texto a seguir e responda as questões de 01 a 08:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\">O homem cuja orelha cresceu – Conto de Ignácio de Loyola Brandão </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify; text-indent: 3em;\">Estava escrevendo, sentiu a orelha pesada. Pensou que fosse cansaço, eram 11 da noite, estava fazendo hora extra. Escriturário de uma firma de tecidos, solteiro, 35 anos, ganhava pouco, reforçava com extras. Mas o peso foi aumentando e ele percebeu que as orelhas cresciam. Apavorado, passou a mão. Deviam ter uns dez centímetros. Eram moles, como de cachorro. Correu ao banheiro. As orelhas estavam na altura do ombro e continuavam crescendo. Ficou só olhando. Elas cresciam, chegavam a cintura. Finas, compridas, como fitas de carne, enrugadas. Procurou uma tesoura, ia cortar a orelha, não importava que doesse. Mas não encontrou, as gavetas das moças estavam fechadas. O armário de material também. O melhor era correr para a pensão, se fechar, antes que não pudesse mais andar na rua. Se tivesse um amigo, ou namorada, iria mostrar o que estava acontecendo. Mas o escriturário não conhecia ninguém a não ser os colegas de escritório. Colegas, não amigos. Ele abriu a camisa, enfiou as orelhas para dentro. Enrolou uma toalha na cabeça, como se estivesse machucado. </p><p style=\"text-align: justify; text-indent: 3em;\">Quando chegou na pensão, a orelha saia pela perna da calça. O escriturário tirou a roupa. Deitou-se, louco para dormir e esquecer. E se fosse ao médico? Um otorrinolaringologista. A esta hora da noite? Olhava o forro branco. Incapaz de pensar, dormiu de desespero. </p><p style=\"text-align: justify; text-indent: 3em;\">Ao acordar, viu aos pés da cama o monte de uns trinta centímetros de altura. A orelha crescera e se enrolara como cobra. Tentou se levantar. Difícil. Precisava segurar as orelhas enroladas. Pesavam. Ficou na cama. E sentia a orelha crescendo, com uma cosquinha. O sangue correndo para lá, os nervos, músculos, a pele se formando, rápido. Às quatro da tarde, toda a cama tinha sido tomada pela orelha. O escriturário sentia fome, sede. Às dez da noite, sua barriga roncava. A orelha tinha caído para fora da cama. Dormiu.</p><p style=\"text-align: justify; text-indent: 3em;\">Acordou no meio da noite com o barulhinho da orelha crescendo. Dormiu de novo e quando acordou na manhã seguinte, o quarto se enchera com a orelha. Ela estava em cima do guarda-roupa, embaixo da cama, na pia. E forçava a porta. Ao meio-dia, a orelha derrubou a porta, saiu pelo corredor. Duas horas mais tarde, encheu o corredor. Inundou a casa. Os hóspedes fugiram para a rua. Chamaram a polícia, o corpo de bombeiros. A orelha saiu para o quintal. Para a rua.</p><p style=\"text-align: justify; text-indent: 3em;\">Vieram os açougueiros com facas, machados, serrotes. Os açougueiros trabalharam o dia inteiro cortando e amontoando. O prefeito mandou dar a carne aos pobres. Vieram os favelados, as organizações de assistência social, irmandades religiosas, donos de restaurantes, vendedores de churrasquinho na porta do estádio, donas de casa. Vinham com cestas, carrinhos, carroças, camionetas. Toda a população apanhou carne de orelha. Apareceu um administrador, trouxe sacos de plástico, higiênicos, organizou filas, fez uma distribuição racional.</p><p style=\"text-align: justify; text-indent: 3em;\">E quando todos tinham levado carne para aquele dia e para os outros, começaram a estocar. Encheram silos, frigoríficos, geladeiras. Quando não havia mais onde estocar a carne de orelha, chamaram outras cidades. Vieram novos açougueiros. E a orelha crescia, era cortada e crescia, e os açougueiros trabalhavam. E vinham outros açougueiros. E os outros se cansavam. E a cidade não suportava mais carne de orelha. O povo pediu uma providência ao prefeito. E o prefeito ao governador. E o governador ao presidente. </p><p style=\"text-align: justify; text-indent: 3em;\">E quando não havia solução, um menino, diante da rua cheia de carne de orelha, disse a um policial: “Por que o senhor não mata o dono da orelha?”</p><p style=\"text-align: justify; text-indent: 3em;\"><br></p><p style=\"text-align: right; text-indent: 3em;\">Fonte &lt;https://contobrasileiro.com.br/o-homem-cuja-orelha-cresceu-conto-de-ignacio-de-loyola-brandao/&gt;. Acesso em 16/02/2024. Com adaptações.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Indeterminado.</p>",
+      "corpo_clean": "Indeterminado.",
+      "id": 13364044,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Os açougueiros.</p>",
+      "corpo_clean": "Os açougueiros.",
+      "id": 13364045,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Com facas, machados, serrotes.</p>",
+      "corpo_clean": "Com facas, machados, serrotes.",
+      "id": 13364046,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Oculto.</p>",
+      "corpo_clean": "Oculto.",
+      "id": 13364047,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "13364045",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

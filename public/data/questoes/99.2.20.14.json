@@ -1,0 +1,58 @@
+{
+  "id": 2492932,
+  "codigo_real": "99.2.20.14",
+  "disciplina_real": "Legislação Estadual, Distrital e Municipal",
+  "assunto_real": "Município de Caxias do Sul - Legislação Aplicada",
+  "bancas_nome": "Legalle Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Caxias do Sul",
+  "cargos_descricao": "Professor de Língua Estrangeira - Área: Inglês",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Conforme a Resolução CME nº 38/2017, que estabelece normas para a oferta da Modalidade da Educação de Jovens e Adultos (EJA) para o Sistema Municipal de Ensino de Caxias do Sul, para a promoção, o estudante deve apresentar frequência mínima de quantos por cento em cada totalidade?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>25%</p>",
+      "corpo_clean": "25%",
+      "id": 9909217,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>50%</p>",
+      "corpo_clean": "50%",
+      "id": 9909218,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>60%</p>",
+      "corpo_clean": "60%",
+      "id": 9909219,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>75%</p>",
+      "corpo_clean": "75%",
+      "id": 9909220,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>85%</p>",
+      "corpo_clean": "85%",
+      "id": 9909221,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9909220",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

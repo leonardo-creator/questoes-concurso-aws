@@ -1,0 +1,58 @@
+{
+  "id": 2057691,
+  "codigo_real": "112.1.11.3.17",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Cujo/cuja/cujos/cujas",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Prefeitura de Vinhedo",
+  "cargos_descricao": "Medico Neuropediatra",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa que apresenta o substantivo coletivo da palavra “cabra”: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">cabralhada.</p>",
+      "corpo_clean": "cabralhada.",
+      "id": 8029698,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">penca. </p>",
+      "corpo_clean": "penca. ",
+      "id": 8029699,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">récua. </p>",
+      "corpo_clean": "récua. ",
+      "id": 8029700,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">plêiade. </p>",
+      "corpo_clean": "plêiade. ",
+      "id": 8029701,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">alhada. </p>",
+      "corpo_clean": "alhada. ",
+      "id": 8029702,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8029698",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

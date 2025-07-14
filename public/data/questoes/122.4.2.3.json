@@ -1,0 +1,58 @@
+{
+  "id": 1420486,
+  "codigo_real": "122.4.2.3",
+  "disciplina_real": "Nutrição",
+  "assunto_real": "Paciente crítico",
+  "bancas_nome": "Fundação Professor Carlos Augusto Bittencourt",
+  "bancas_sigla": "FUNCAB",
+  "orgaos_nome": "Empresa Maranhense de Serviços Hospitalares - EMSERH",
+  "cargos_descricao": "Nutricionista",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O objetivo do tratamento da glomerulonefrite aguda é manter um bom estado nutricional. A restrição de proteína ou potássio deve ser utilizada se o paciente apresentar:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">glicosúria ou uremia.</p>",
+      "corpo_clean": "glicosúria ou uremia.",
+      "id": 5240401,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">glicosúria ou hiperurecemia.</p>",
+      "corpo_clean": "glicosúria ou hiperurecemia.",
+      "id": 5240402,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">glicosúria ou hipourecemia.</p>",
+      "corpo_clean": "glicosúria ou hipourecemia.",
+      "id": 5240403,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">uremia ou hipercalemia.</p>",
+      "corpo_clean": "uremia ou hipercalemia.",
+      "id": 5240404,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">uremia ou hipocalemia.</p>",
+      "corpo_clean": "uremia ou hipocalemia.",
+      "id": 5240405,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5240404",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

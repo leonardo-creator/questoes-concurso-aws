@@ -1,0 +1,51 @@
+{
+  "id": 1386478,
+  "codigo_real": "136.6.25",
+  "disciplina_real": "Segurança e Saúde no Trabalho (Teoria e Normas)",
+  "assunto_real": "NR 24 - NR 24 - Condições Sanitárias e de Conforto nos Locais de Trabalho",
+  "bancas_nome": "Fundação de Amparo e Desenvolvimento da Pesquisa",
+  "bancas_sigla": "FADESP",
+  "orgaos_nome": "Prefeitura de Marabá",
+  "cargos_descricao": "Técnico em Segurança do Trabalho",
+  "ano": 2019,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Com base na norma de instalações sanitárias, para adequada ligação do alojamento com o sanitário, as portas deverão apresentar as dimensões mínimas de</p>",
+  "grupoQuestao_enunciado": null,
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">0,60 m x 2,10 m.</p>",
+      "corpo_clean": "0,60 m x 2,10 m.",
+      "id": 5099386,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">0,70 m x 2,10 m.</p>",
+      "corpo_clean": "0,70 m x 2,10 m.",
+      "id": 5099387,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">0,80 m x 2,10 m.</p>",
+      "corpo_clean": "0,80 m x 2,10 m.",
+      "id": 5099388,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">1,00 m x 2,10 m.</p>",
+      "corpo_clean": "1,00 m x 2,10 m.",
+      "id": 5099389,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5099388",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

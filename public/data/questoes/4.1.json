@@ -1,0 +1,58 @@
+{
+  "id": 2884369,
+  "codigo_real": "4.1",
+  "disciplina_real": "Administração Pública",
+  "assunto_real": "Estado, Governo e Administração Pública",
+  "bancas_nome": "Universidade Federal do Maranhão",
+  "bancas_sigla": "UFMA",
+  "orgaos_nome": "Universidade Federal do Maranhão",
+  "cargos_descricao": "Assistente em Administração",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Qual das seguintes opções representa uma característica do modelo gerencial, em oposição aos modelos burocrático e patrimonialista?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Decisões tomadas de forma centralizada e hierárquica, sem participação dos servidores e da sociedade civil.</p>",
+      "corpo_clean": "Decisões tomadas de forma centralizada e hierárquica, sem participação dos servidores e da sociedade civil.",
+      "id": 11623868,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Foco na eficiência e na entrega de serviços de qualidade, com maior autonomia para os gestores públicos.</p>",
+      "corpo_clean": "Foco na eficiência e na entrega de serviços de qualidade, com maior autonomia para os gestores públicos.",
+      "id": 11623869,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Forte ênfase na hierarquia e na obediência estrita às regras formais.</p>",
+      "corpo_clean": "Forte ênfase na hierarquia e na obediência estrita às regras formais.",
+      "id": 11623870,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Ênfase na manutenção do status quo, com baixa capacidade de inovação e adaptação às mudanças.</p>",
+      "corpo_clean": "Ênfase na manutenção do status quo, com baixa capacidade de inovação e adaptação às mudanças.",
+      "id": 11623871,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Predominância dos interesses pessoais dos governantes e dos seus aliados, em detrimento do interesse público.</p>",
+      "corpo_clean": "Predominância dos interesses pessoais dos governantes e dos seus aliados, em detrimento do interesse público.",
+      "id": 11623872,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11623869",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

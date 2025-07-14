@@ -1,0 +1,58 @@
+{
+  "id": 2385552,
+  "codigo_real": "117.8.45",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Proctologia - Proctologia",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Polícia Militar do Rio Grande do Norte",
+  "cargos_descricao": "Oficiais de Saúde - Área Medicina Proctologia",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A Doença Inflamatória Intestinal (DII) é um tema de relevância a ser abordado, tendo em vista o aumento da incidência desta patologia nas últimas décadas e do impacto biopsicossocial e econômico desta condição. Diante do exposto, assinale a afirmativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os pacientes com retocolite ulcerativa são classificados pela idade do diagnóstico, locais da doença, comportamento e presença de atraso no crescimento das crianças.</p>",
+      "corpo_clean": "Os pacientes com retocolite ulcerativa são classificados pela idade do diagnóstico, locais da doença, comportamento e presença de atraso no crescimento das crianças.",
+      "id": 9441624,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Está presente em todas as regiões, de forma homogênea. É mais prevalente em indivíduos caucasianos de países industrializados da América do Norte e Europa setentrional.</p>",
+      "corpo_clean": "Está presente em todas as regiões, de forma homogênea. É mais prevalente em indivíduos caucasianos de países industrializados da América do Norte e Europa setentrional.",
+      "id": 9441625,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Apresenta distribuição desigual entre os sexos, sendo as mulheres as mais acometidas, distribuição bimodal, acometendo pessoas entre 15-30 anos de idade e entre 50 e 70 anos.</p>",
+      "corpo_clean": "Apresenta distribuição desigual entre os sexos, sendo as mulheres as mais acometidas, distribuição bimodal, acometendo pessoas entre 15-30 anos de idade e entre 50 e 70 anos.",
+      "id": 9441626,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Uma interação complexa entre fatores genéticos, ambientais e microbianos que promovem as respostas imunes associadas em indivíduos suscetíveis parece ser responsável pela patogênese.</p>",
+      "corpo_clean": "Uma interação complexa entre fatores genéticos, ambientais e microbianos que promovem as respostas imunes associadas em indivíduos suscetíveis parece ser responsável pela patogênese.",
+      "id": 9441627,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A maior parte de pacientes portadores de DII apresenta uma forma moderada a grave da doença e, provavelmente, necessitarão de drogas biológicas ou procedimentos cirúrgicos para o controle da inflamação intestinal.</p>",
+      "corpo_clean": "A maior parte de pacientes portadores de DII apresenta uma forma moderada a grave da doença e, provavelmente, necessitarão de drogas biológicas ou procedimentos cirúrgicos para o controle da inflamação intestinal.",
+      "id": 9441628,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9441627",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

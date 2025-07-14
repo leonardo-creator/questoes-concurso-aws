@@ -1,0 +1,58 @@
+{
+  "id": 1145479,
+  "codigo_real": "140.9.14.1.1",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "SGSI - NBR ISO/IEC 27001",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Centrais Elétricas de Santa Catarina",
+  "cargos_descricao": "Analista de Sistemas - Área Infraestrutura/Operação",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\">Analise as afirmativas abaixo sobre o padrão ou norma ISO 27001.\r\n</p><p align=\"justify\"><br></p><p align=\"justify\">1.\r\nSeu escopo está voltado à proteção de todo tipo de informação, a digital e também aquela baseada em papel.\r\n</p><p align=\"justify\">2.\r\nTrabalha com uma abordagem adaptativa às mudanças tanto do ambiente externo quanto internas da própria organização.\r\n</p><p align=\"justify\">3.\r\nContém diretrizes e técnicas de modelagem de processos e gestão de projetos para modelar os processos formais de segurança da informação.\r\n</p><p align=\"justify\"><br></p><p align=\"justify\">Assinale a alternativa que indica todas as afirmativas corretas.</p><p><br></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>É correta apenas a afirmativa 2.</p>",
+      "corpo_clean": "É correta apenas a afirmativa 2.",
+      "id": 4087084,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>São corretas apenas as afirmativas 1 e 2.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 1 e 2.",
+      "id": 4087085,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>São corretas apenas as afirmativas 1 e 3.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 1 e 3.",
+      "id": 4087086,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>São corretas apenas as afirmativas 2 e 3.</p>",
+      "corpo_clean": "São corretas apenas as afirmativas 2 e 3.",
+      "id": 4087087,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>São corretas as afirmativas 1, 2 e 3.</p>",
+      "corpo_clean": "São corretas as afirmativas 1, 2 e 3.",
+      "id": 4087088,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4087085",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

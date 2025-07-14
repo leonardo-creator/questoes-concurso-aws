@@ -1,0 +1,37 @@
+{
+  "id": 3236376,
+  "codigo_real": "72.15",
+  "disciplina_real": "Engenharia Elétrica e Engenharia Eletrônica",
+  "assunto_real": "Gerenciamento de projetos e obras",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Prefeitura de Cachoeiro de Itapemirim",
+  "cargos_descricao": "Engenheiro Eletricista",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Segundo a legislação profissional pertinente, estudo, planejamento, projeto, especificação, direção de obra e serviço técnico referente à transmissão de energia elétrica e seus serviços afins e correlatos são atividades que competem ao engenheiro eletricista, na modalidade eletrotécnica.</p>",
+  "grupoQuestao_enunciado": "<p>Acerca da atuação de engenheiros eletricistas, julgue os itens seguintes.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 13145073,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 13145074,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13145073",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3715294,
+  "codigo_real": "124.1.4",
+  "disciplina_real": "Odontologia",
+  "assunto_real": "Materiais Odontológicos",
+  "bancas_nome": "EDUCA Assessoria Educacional",
+  "bancas_sigla": "EDUCA",
+  "orgaos_nome": "Prefeitura de Alhandra",
+  "cargos_descricao": "Auxiliar de Consultório Dentário",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Sobre a utilização dos materiais dentários disponíveis no consultório, considere as afirmativas: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. O cimento de hidróxido de cálcio é utilizado como proteção pulpar em cavidades profundas. </p><p style=\"text-align: justify;\">II. O amálgama necessita de aplicação prévia de sistema adesivo e fotopolimerização. </p><p style=\"text-align: justify;\">III. A resina composta necessita de preparo prévio com ácido fosfórico e aplicação do sistema adesivo. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Está(ão) CORRETA(S): </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I, apenas. </p>",
+      "corpo_clean": "I, apenas. ",
+      "id": 15133791,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>II, apenas.</p>",
+      "corpo_clean": "II, apenas.",
+      "id": 15133792,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>III, apenas.</p>",
+      "corpo_clean": "III, apenas.",
+      "id": 15133793,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>I e II, apenas.</p>",
+      "corpo_clean": "I e II, apenas.",
+      "id": 15133794,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>I e III, apenas.</p>",
+      "corpo_clean": "I e III, apenas.",
+      "id": 15133795,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15133795",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

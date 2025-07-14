@@ -1,0 +1,58 @@
+{
+  "id": 1648222,
+  "codigo_real": "142.15",
+  "disciplina_real": "Terapia Ocupacional",
+  "assunto_real": "Terapia Ocupacional Hospitalar",
+  "bancas_nome": "Instituto Americano de Desenvolvimento",
+  "bancas_sigla": "IADES",
+  "orgaos_nome": "Secretaria de Estado da Saúde de São Paulo",
+  "cargos_descricao": "Residência em Terapia Ocupacional- Área: Atenção à Terapia Intensiva",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considerando a Terapia Ocupacional, na área de cuidados paliativos, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os terapeutas ocupacionais, que compõe a equipe de Cuidados Paliativos, atuam também com toda a família, cuidadores, comunidade, equipe de trabalho e escola do paciente.</p>",
+      "corpo_clean": "Os terapeutas ocupacionais, que compõe a equipe de Cuidados Paliativos, atuam também com toda a família, cuidadores, comunidade, equipe de trabalho e escola do paciente.",
+      "id": 6209083,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Quando o envolvimento em ocupações é interrompido e comprometido, temporária ou definitivamente, pode ocorrer a ruptura de todas as ocupações. A ruptura ocupacional surge quando uma pessoa, devido a qualquer razão, deixa de desempenhar aquilo que é importante para ela.</p>",
+      "corpo_clean": "Quando o envolvimento em ocupações é interrompido e comprometido, temporária ou definitivamente, pode ocorrer a ruptura de todas as ocupações. A ruptura ocupacional surge quando uma pessoa, devido a qualquer razão, deixa de desempenhar aquilo que é importante para ela.",
+      "id": 6209084,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A palavra “paliativo” deriva do vocábulo latino <em>pallium</em>, termo que significa abraço de amigo.</p>",
+      "corpo_clean": "A palavra “paliativo” deriva do vocábulo latino pallium, termo que significa abraço de amigo.",
+      "id": 6209085,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Todos os procedimentos diagnósticos e terapêuticos devem ser propostos tendo como única finalidade a manutenção do conforto.</p>",
+      "corpo_clean": "Todos os procedimentos diagnósticos e terapêuticos devem ser propostos tendo como única finalidade a manutenção do conforto.",
+      "id": 6209086,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Integrar aspectos psicossociais e espirituais ao cuidado é um dos princípios, descritos pela OMS para a atuação da equipe multiprofissional de cuidados paliativos.</p>",
+      "corpo_clean": "Integrar aspectos psicossociais e espirituais ao cuidado é um dos princípios, descritos pela OMS para a atuação da equipe multiprofissional de cuidados paliativos.",
+      "id": 6209087,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6209087",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

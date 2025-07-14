@@ -1,0 +1,37 @@
+{
+  "id": 1158779,
+  "codigo_real": "122.6",
+  "disciplina_real": "Nutrição",
+  "assunto_real": "Nutrição e Saúde Pública",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Conselho Regional de Nutricionistas da 9ª Região",
+  "cargos_descricao": "Nutricionista Fiscal",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Há um cardápio fixo nacional estabelecido para todas as \r\nescolas que participam do PNAE. </p>",
+  "grupoQuestao_enunciado": "<p align=\"justify\">O Programa Nacional de \r\nAlimentação Escolar (PNAE) tem por \r\nobjetivo contribuir para o crescimento e o \r\ndesenvolvimento \r\nbiopsicossocial,  a  aprendizagem,  o  \r\nrendimento  escolar  e  a \r\nformação de práticas alimentares saudáveis \r\ndos alunos, por \r\nmeio  de  ações  de  educação  alimentar  \r\ne  nutricional  e  \r\nda  oferta  de  refeições  que  cubram  \r\nsuas  necessidades \r\nnutricionais  durante  o  período  letivo.  \r\nCom  base  nessas \r\ninformações, julgue os itens de <b>101 a \r\n104</b>. \r\n</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 4143363,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 4143364,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4143364",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

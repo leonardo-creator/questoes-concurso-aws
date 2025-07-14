@@ -1,0 +1,58 @@
+{
+  "id": 2285215,
+  "codigo_real": null,
+  "disciplina_real": null,
+  "assunto_real": null,
+  "bancas_nome": "EDUCA Assessoria Educacional",
+  "bancas_sigla": "EDUCA",
+  "orgaos_nome": "Prefeitura de Patos",
+  "cargos_descricao": "Intérprete de Libras",
+  "ano": 2018,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A história da constituição do profissional tradutores e intérpretes de língua de sinais se deu a partir de atividades voluntárias que foram sendo valorizadas enquanto atividade laboral na medida em que os surdos foram conquistando o seu exercício de cidadania.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Sobre o profissional tradutor e intérprete de Libras, é CORRETO afirmar que:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. Presença de intérpretes de língua de sinais em trabalhos religiosos iniciados por volta dos anos 80.</p><p style=\"text-align: justify;\">II. A partir dos anos 90, foram estabelecidas unidades de intérpretes ligadas aos escritórios regionais da FENEIS.</p><p style=\"text-align: justify;\">III. Em 2000, foi disponibilizada a página dos intérpretes de língua de sinais www.interpretels.hpg.com.br Também foi aberto um espaço para participação dos intérpretes através de uma lista de discussão via e-mail.</p><p style=\"text-align: justify;\">IV. No dia 24 de abril de 2002, foi homologada a lei federal que reconhece a língua brasileira de sinai como língua oficial das comunidades surdas brasileiras.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Estão CORRETAS:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">I e II apenas. </p>",
+      "corpo_clean": "I e II apenas. ",
+      "id": 9003490,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">III e IV apenas. </p>",
+      "corpo_clean": "III e IV apenas. ",
+      "id": 9003491,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I, II e III apenas. </p>",
+      "corpo_clean": "I, II e III apenas. ",
+      "id": 9003492,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">II, III e IV apenas. </p>",
+      "corpo_clean": "II, III e IV apenas. ",
+      "id": 9003493,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I, II, III e IV. </p>",
+      "corpo_clean": "I, II, III e IV. ",
+      "id": 9003494,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9003494",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

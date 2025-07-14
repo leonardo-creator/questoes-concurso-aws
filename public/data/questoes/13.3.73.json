@@ -1,0 +1,58 @@
+{
+  "id": 3006213,
+  "codigo_real": "13.3.73",
+  "disciplina_real": "Atualidades e Conhecimentos Gerais",
+  "assunto_real": "Taquaral de Goiás - GO",
+  "bancas_nome": "Assessoria e Consultoria Pública",
+  "bancas_sigla": "Planexcon",
+  "orgaos_nome": "Prefeitura de Tatui",
+  "cargos_descricao": "Monitor",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O aniversário da cidade de Tatuí é comemorado em:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>11 de maio.</p>",
+      "corpo_clean": "11 de maio.",
+      "id": 12157898,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>11 de junho.</p>",
+      "corpo_clean": "11 de junho.",
+      "id": 12157899,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>11 de julho.</p>",
+      "corpo_clean": "11 de julho.",
+      "id": 12157900,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>11 de agosto.</p>",
+      "corpo_clean": "11 de agosto.",
+      "id": 12157901,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>11 de setembro.</p>",
+      "corpo_clean": "11 de setembro.",
+      "id": 12157902,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12157901",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2038069,
+  "codigo_real": "31.16.2.1",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Servidão Administrativa",
+  "bancas_nome": "Método Soluções Educacionais",
+  "bancas_sigla": "Metodo",
+  "orgaos_nome": "Prefeitura de Sinop",
+  "cargos_descricao": "Procurador Jurídico",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Acerca da \"Intervenção do Estado na Propriedade\" assinale a alternativa incorreta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A desapropriação poderá recair, inclusive, em bens públicos.</p>",
+      "corpo_clean": "A desapropriação poderá recair, inclusive, em bens públicos.",
+      "id": 7944965,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Limitações administrativas são .determinações de caráter geral, através das quais o Poder Público impõe a proprietários indeterminados obrigações positivas, negativas ou permissivas, para o fim de condicionar as propriedades ao atendimento da função social.</p>",
+      "corpo_clean": "Limitações administrativas são .determinações de caráter geral, através das quais o Poder Público impõe a proprietários indeterminados obrigações positivas, negativas ou permissivas, para o fim de condicionar as propriedades ao atendimento da função social.",
+      "id": 7944966,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A servidão Pública pode cair sobre imóveis determinados, podendo ainda, ser registrada, no Cartório de Registro de Imóveis.</p>",
+      "corpo_clean": "A servidão Pública pode cair sobre imóveis determinados, podendo ainda, ser registrada, no Cartório de Registro de Imóveis.",
+      "id": 7944967,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A servidão administrativa depende de autorização legislativa para que seja regularmente constituída.</p>",
+      "corpo_clean": "A servidão administrativa depende de autorização legislativa para que seja regularmente constituída.",
+      "id": 7944968,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "7944967",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

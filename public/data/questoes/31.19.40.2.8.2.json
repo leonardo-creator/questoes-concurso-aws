@@ -1,0 +1,58 @@
+{
+  "id": 3478760,
+  "codigo_real": "31.19.40.2.8.2",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Da Inexigibilidade de Licitação",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Prefeitura de Vitória",
+  "cargos_descricao": "Analista - Área: Administrador",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com a Lei Federal nº 14.133/2021, as contratações diretas poderão ser realizadas por inexigibilidade ou dispensa de licitação.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Classifique os casos a seguir em 1 para inexigibilidade ou 2 para dispensa de licitação.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">( ) Objetos que devam ou possam ser contratados por meio de credenciamento.</p><p style=\"text-align: justify;\">( ) Aquisição ou restauração de obras de arte e objetos históricos, de autenticidade certificada, desde que inerente às finalidades do órgão ou com elas compatível.</p><p style=\"text-align: justify;\">( ) Contratação de profissionais para compor a comissão de avaliação de critérios de técnica, quando se tratar de profissional técnico de notória especialização.</p><p style=\"text-align: justify;\">( ) Objetos que devam ou possam ser contratados por meio de credenciamento.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">A numeração correta na ordem apresentada é</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>2 – 1 – 2 – 2.</p>",
+      "corpo_clean": "2 – 1 – 2 – 2.",
+      "id": 14184958,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>2 – 2 – 1 – 1.</p>",
+      "corpo_clean": "2 – 2 – 1 – 1.",
+      "id": 14184959,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>1 – 2 – 1 – 1.</p>",
+      "corpo_clean": "1 – 2 – 1 – 1.",
+      "id": 14184960,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>1 – 2 – 2 – 1.</p>",
+      "corpo_clean": "1 – 2 – 2 – 1.",
+      "id": 14184961,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>1 – 2 – 1 – 2.</p>",
+      "corpo_clean": "1 – 2 – 1 – 2.",
+      "id": 14184962,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14184961",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2220962,
+  "codigo_real": "63.12.4.1",
+  "disciplina_real": "Engenharia Civil",
+  "assunto_real": "Concreto Armado - Concreto Armado",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Agência de Fomento de São Paulo S.A",
+  "cargos_descricao": "Engenheiro",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">As barras comprimidas das estruturas de concreto armado, ancoradas por aderência</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>não devem possuir ganchos.</p>",
+      "corpo_clean": "não devem possuir ganchos.",
+      "id": 8729835,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">obrigatoriamente devem possuir gancho de grande curvatura.</p>",
+      "corpo_clean": "obrigatoriamente devem possuir gancho de grande curvatura.",
+      "id": 8729836,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">devem possuir ganchos semicirculares, com ponta reta de comprimento não inferior a 2φ.</p>",
+      "corpo_clean": "devem possuir ganchos semicirculares, com ponta reta de comprimento não inferior a 2φ.",
+      "id": 8729837,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">podem possuir ganchos em ângulo de 45° (interno), com ponta reta de comprimento não inferior a 4φ.</p>",
+      "corpo_clean": "podem possuir ganchos em ângulo de 45° (interno), com ponta reta de comprimento não inferior a 4φ.",
+      "id": 8729838,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">podem possuir ganchos em ângulo reto, com a ponta reta de comprimento não inferior a 8φ.</p>",
+      "corpo_clean": "podem possuir ganchos em ângulo reto, com a ponta reta de comprimento não inferior a 8φ.",
+      "id": 8729839,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8729835",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

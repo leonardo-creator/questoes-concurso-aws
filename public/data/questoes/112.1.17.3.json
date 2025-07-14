@@ -1,0 +1,58 @@
+{
+  "id": 2185434,
+  "codigo_real": "112.1.17.3",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Função conativa ou apelativa",
+  "bancas_nome": "Fundação de Apoio ao Desenvolvimento do Ensino Superior do Norte de Minas",
+  "bancas_sigla": "COTEC FADENOR",
+  "orgaos_nome": "Prefeitura de São João da Ponte",
+  "cargos_descricao": "Fiscal Sanitário",
+  "ano": 2021,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\"><strong><u>Texto 2 </u></strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/68411/questao/2185430-20220127212952000000-0.png\"></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Disponível em: https://bichinhosdejardim.com/. Acesso em: 20 out. 2021.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Sobre a construção do Texto 2, é <strong>CORRETO</strong> afirmar que se verifica o uso de</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>registro formal e registro informal.</p>",
+      "corpo_clean": "registro formal e registro informal.",
+      "id": 8576856,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>função apelativa e função emotiva.</p>",
+      "corpo_clean": "função apelativa e função emotiva.",
+      "id": 8576857,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>linguagem verbal e linguagem não verbal.</p>",
+      "corpo_clean": "linguagem verbal e linguagem não verbal.",
+      "id": 8576858,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>frase nominal e frase verbal.</p>",
+      "corpo_clean": "frase nominal e frase verbal.",
+      "id": 8576859,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>intertextualidade.</p>",
+      "corpo_clean": "intertextualidade.",
+      "id": 8576860,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8576858",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

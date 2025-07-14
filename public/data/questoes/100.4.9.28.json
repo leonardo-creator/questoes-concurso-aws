@@ -1,0 +1,58 @@
+{
+  "id": 881963,
+  "codigo_real": "100.4.9.28",
+  "disciplina_real": "Legislação Federal",
+  "assunto_real": "Lei nº 12.101/2009 - Dispõe sobre a certificação das entidades beneficentes de assistência social; regula os procedimentos de isenção de contribuições para a seguridade social; altera a Lei no 8.742, de 7 de dezembro de 1993; revoga dispositivos das Leis",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Assembléia Legislativa do Mato Grosso do Sul",
+  "cargos_descricao": "Assistente Social",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Tendo sido chamado para opinar sobre um projeto de lei que cria o sistema de vigilância socioassistencial na esfera estadual, o\r\nAssistente Social deve considerar as responsabilidades dessa esfera com base na Lei no 12.435/2011, que dispõe sobre a\r\nvigilância socioassistencial como",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "um dos instrumentos das proteções da assistência social que identifica e previne as situações de risco e vulnerabilidade\r\nsocial e seus agravos no território.",
+      "corpo_clean": "um dos instrumentos das proteções da assistência social que identifica e previne as situações de risco e vulnerabilidade social e seus agravos no território.",
+      "id": 3078097,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "o instrumento essencial para fazer a medição quantitativa da realidade regional dos Estados, sobretudo no que concerne à\r\nvulnerabilidade e risco social.",
+      "corpo_clean": "o instrumento essencial para fazer a medição quantitativa da realidade regional dos Estados, sobretudo no que concerne à vulnerabilidade e risco social.",
+      "id": 3078098,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "um conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas do meio\r\nambiente, da produção e circulação de bens e da prestação de serviços.",
+      "corpo_clean": "um conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas do meio ambiente, da produção e circulação de bens e da prestação de serviços.",
+      "id": 3078099,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "a articulação dos Institutos de Pesquisa oficiais e não oficiais que podem oferecer dados e informações sobre a realidade\r\ngeral, sobretudo dos territórios com maior incidência epidemiológica.",
+      "corpo_clean": "a articulação dos Institutos de Pesquisa oficiais e não oficiais que podem oferecer dados e informações sobre a realidade geral, sobretudo dos territórios com maior incidência epidemiológica.",
+      "id": 3078100,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "a capacidade de investigação dos servidores públicos, especificamente sobre a rede de prestação de serviços na área da\r\nassistência social.",
+      "corpo_clean": "a capacidade de investigação dos servidores públicos, especificamente sobre a rede de prestação de serviços na área da assistência social.",
+      "id": 3078101,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3078097",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

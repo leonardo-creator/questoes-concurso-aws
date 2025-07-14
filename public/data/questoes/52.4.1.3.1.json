@@ -1,0 +1,51 @@
+{
+  "id": 1474685,
+  "codigo_real": "52.4.1.3.1",
+  "disciplina_real": "Direito Tributário",
+  "assunto_real": "Imposto Predial e Territorial Urbano - Imposto Predial e Territorial Urbano - IPTU",
+  "bancas_nome": "Instituto de Desenvolvimento Institucional Brasileiro",
+  "bancas_sigla": "IDIB",
+  "orgaos_nome": "Prefeitura de Jaguaribe",
+  "cargos_descricao": "Auditor Fiscal de Tributos Municipais",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a única alternativa que representa uma característica do imposto sobre a propriedade predial e territorial urbana.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">deverá ser progressivo em razão do valor do imóvel</p>",
+      "corpo_clean": "deverá ser progressivo em razão do valor do imóvel",
+      "id": 5481239,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">impossibilidade de diferenciação de alíquotas de acordo com a localização do imóvel</p>",
+      "corpo_clean": "impossibilidade de diferenciação de alíquotas de acordo com a localização do imóvel",
+      "id": 5481240,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o princípio da anterioridade nonagesimal não se aplica à fixação da sua base de cálculo</p>",
+      "corpo_clean": "o princípio da anterioridade nonagesimal não se aplica à fixação da sua base de cálculo",
+      "id": 5481241,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">deverá ter alíquotas diferentes de acordo com o uso do imóvel</p>",
+      "corpo_clean": "deverá ter alíquotas diferentes de acordo com o uso do imóvel",
+      "id": 5481242,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5481241",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

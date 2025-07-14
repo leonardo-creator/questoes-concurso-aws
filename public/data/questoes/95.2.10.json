@@ -1,0 +1,37 @@
+{
+  "id": 213831,
+  "codigo_real": "95.2.10",
+  "disciplina_real": "Informática",
+  "assunto_real": "Arquitetura TCP/IP",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Tribunal de Justiça do Acre",
+  "cargos_descricao": "Analista de Sistemas",
+  "ano": 2002,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>O protocolo TCP não apresenta funcionalidade de\r\nfragmentação, pois utiliza os serviços do IP incluindo a\r\ncapacidade de fragmentação deste último.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>A arquitetura TCP/IP tornou-se dominante no setor de redes de\r\ncomunicação e sua pilha de protocolos constitui-se o principal\r\nambiente da atualidade para a estruturação de redes e a realização\r\nde novos desenvolvimentos de protocolos e aplicações. Julgue os\r\nitens subseqüentes, relativos a arquitetura TCP/IP e seus\r\nprotocolos.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 872002,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 872003,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "872003",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

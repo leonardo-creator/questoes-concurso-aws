@@ -1,0 +1,51 @@
+{
+  "id": 2795537,
+  "codigo_real": "95.6.2.3.1.2.1",
+  "disciplina_real": "Informática",
+  "assunto_real": "Arquivo",
+  "bancas_nome": "Universidade Federal de Uberlândia",
+  "bancas_sigla": "UFU",
+  "orgaos_nome": "Universidade Federal de Uberlândia",
+  "cargos_descricao": "Técnico de Laboratório - Área Microbiologia",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa <strong>INCORRETA </strong>sobre o controle de compartilhamento de arquivos e pastas no Explorador de Arquivos (Windows Explorer) do Microsoft Windows 10.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">É possível mapear uma pasta compartilhada na forma de unidade de rede para facilitar acesso posterior, sem necessidade de digitar o endereço de rede. </p>",
+      "corpo_clean": "É possível mapear uma pasta compartilhada na forma de unidade de rede para facilitar acesso posterior, sem necessidade de digitar o endereço de rede. ",
+      "id": 11235168,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A conexão de rede sem fio deve estar definida como pública para permitir o compartilhamento e descoberta de arquivos na rede. </p>",
+      "corpo_clean": "A conexão de rede sem fio deve estar definida como pública para permitir o compartilhamento e descoberta de arquivos na rede. ",
+      "id": 11235169,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O usuário pode digitar “\\\\localhost” na barra de endereços para acessar os arquivos e pastas da máquina local, compartilhados na rede. </p>",
+      "corpo_clean": "O usuário pode digitar “\\\\localhost” na barra de endereços para acessar os arquivos e pastas da máquina local, compartilhados na rede. ",
+      "id": 11235170,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Por meio da guia de compartilhamento, pode-se escolher entre remover o compartilhamento ou compartilhar um arquivo ou pasta selecionado(a) com pessoas específicas. </p>",
+      "corpo_clean": "Por meio da guia de compartilhamento, pode-se escolher entre remover o compartilhamento ou compartilhar um arquivo ou pasta selecionado(a) com pessoas específicas. ",
+      "id": 11235171,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11235169",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

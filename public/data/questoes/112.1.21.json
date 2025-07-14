@@ -1,0 +1,51 @@
+{
+  "id": 3796667,
+  "codigo_real": "112.1.21",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Tipologias e Gêneros Textuais",
+  "bancas_nome": "Ganzaroli Assessoria, Consultoria e Concursos",
+  "bancas_sigla": "Ganzaroli",
+  "orgaos_nome": "Prefeitura de Amaralina",
+  "cargos_descricao": "Enfermeiro",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">É possível observar que os dois textos abordam o mesmo tema , mesmo sendo bastante diferentes, o que ocorre devido ao fato de pertencerem a gêneros distintos, cuja finalidade varia de acordo com o público para o qual se destina. Qual seria, então, a finalidade, respectivamente, dos textos I e II?</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>Leia os textos e responda as questões de 1 a 5.</strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><strong>TEXTO</strong></p><p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\">I Cientistas americanos estudam o caso de uma mulher portadora de uma rara condição, em resultado da qual ela não tem medo de nada.(Folha de S. Paulo, 17 de dezembro de 2010. Cotidiano)</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><strong>TEXTO II</strong></p><p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\"><strong>A mulher sem medo</strong></p><p style=\"text-align: justify;\">MOACYR SCLIAR</p><p style=\"text-align: justify;\"><br></p><p style=\"text-indent: 2em; text-align: justify;\">Ele não sabia o que o esperava quando, levado mais pela curiosidade do que pela paixão, começou a namorar a mulher sem medo. Na verdade havia aí também um elemento interesseiro; tinha um projeto secreto, que era o de escrever um livro chamado \"A Vida com a Mulher sem Medo\", uma obra que, imaginava, poderia fazer enorme sucesso, trazendo-lhe fama e fortuna. Mas ele não tinha a menor ideia do que viria a acontecer.</p><p style=\"text-indent: 2em; text-align: justify;\">Dominador, o homem queria ser o rei da casa. Suas ordens deveriam ser rigorosamente obedecidas pela mulher. Mas como impor sua vontade? Como muitos ele recorria a ameaças: quero o café servido às nove horas da manhã, senão... E aí vinham as advertências: senão eu grito com você, senão eu bato em você, senão eu deixo você sem comida.</p><p style=\"text-indent: 2em; text-align: justify;\">Acontece que a mulher simplesmente não tomava conhecimento disso; ao contrário, ria às gargalhadas. Não temia gritos, não temia tapas, não temia qualquer tipo de castigo. E até dizia, gentil: \"Bem que eu queria ficar assustada com suas ameaças, como prova de consideração e de afeto, mas você vê, não consigo.\" </p><p style=\"text-indent: 2em; text-align: justify;\"><strong>Aquilo, além de humilhá-lo profundamente, deixava-o completamente perturbado. </strong>Meter medo na mulher transformou-se para ele em questão de honra. Tinha de vê-la pálida, trêmula, gritando por socorro. </p><p style=\"text-indent: 2em; text-align: justify;\">Como fazê-lo? Pensou muito a respeito e chegou a uma conclusão: para amedrontá-la só barata ou rato. Resolveu optar pela barata, por uma questão de facilidade: perto de onde moravam havia um velho depósito abandonado, cheio de baratas. Foi até lá e conseguiu quatro exemplares, que guardou num vidro de boca larga.</p><p style=\"text-indent: 2em; text-align: justify;\">Voltou para casa e ficou esperando que a mulher chegasse, quando então soltaria as baratas. Já antegozava a cena: ela sem dúvida subiria numa cadeira, gritando histericamente. <strong>E ele enfim se sentiria o vencedor.</strong></p><p style=\"text-indent: 2em; text-align: justify;\">Foi neste momento que o rato apareceu. Coisa surpreendente, porque ali não havia ratos, sobretudo um roedor como aquele, enorme, ameaçador, o Rei dos Ratos. Quando a mulher finalmente retornou encontrou-o de pé sobre uma cadeira, agarrado ao vidro com as baratas, gritando histericamente.</p><p style=\"text-indent: 2em; text-align: justify;\">Fazendo jus à fama ela não demonstrou o menor temor; ao contrário, ria às gargalhadas. Foi buscar uma vassoura, caçou o rato pela sala, conseguiu encurralá-lo e liquidou-o sem maiores problemas. Feito que ajudou o homem, ainda trêmulo, a descer da cadeira. E aí viu que ele segurava o vidro com as quatro baratas. O que deixou-a assombrada: o que pretendia ele fazer com os pobres insetos? Ou aquilo era um novo tipo de perversão?</p><p style=\"text-indent: 2em; text-align: justify;\">Àquela altura ele já nem sabia o que dizer. Confessar que se tratava do derradeiro truque para assustá-la seria um vexame, mesmo porque, como ele agora o constatava, ela não tinha medo de baratas, assim como não tivera medo do rato. O jeito era aceitar a situação. E admitir que viver com uma mulher sem medo era uma coisa no mínimo amedrontadora. </p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Informar o leitor sobre um acontecimento raro. Entreter o leitor, além de provocar algumas reflexões acerca da natureza humana.</p>",
+      "corpo_clean": "Informar o leitor sobre um acontecimento raro. Entreter o leitor, além de provocar algumas reflexões acerca da natureza humana.",
+      "id": 15471260,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Informar o leitor sobre um acontecimento recorrente. Informar o leitor, além de provocar algumas reflexões acerca da natureza humana. </p>",
+      "corpo_clean": "Informar o leitor sobre um acontecimento recorrente. Informar o leitor, além de provocar algumas reflexões acerca da natureza humana. ",
+      "id": 15471261,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Entreter o leitor sobre um acontecimento raro. Informar o leitor, além de provocar algumas reflexões acerca da natureza humana.</p>",
+      "corpo_clean": "Entreter o leitor sobre um acontecimento raro. Informar o leitor, além de provocar algumas reflexões acerca da natureza humana.",
+      "id": 15471262,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Entreter o leitor sobre um acontecimento recorrente. Informar o leitor, mas sem provocar reflexões acerca da natureza humana.</p>",
+      "corpo_clean": "Entreter o leitor sobre um acontecimento recorrente. Informar o leitor, mas sem provocar reflexões acerca da natureza humana.",
+      "id": 15471263,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "15471260",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

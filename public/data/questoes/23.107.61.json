@@ -1,0 +1,51 @@
+{
+  "id": 3160366,
+  "codigo_real": "23.107.61",
+  "disciplina_real": "Conhecimentos Específicos de um determinado Cargo-Área",
+  "assunto_real": "Área: Radiologia",
+  "bancas_nome": "Fundação de Apoio ao Desenvolvimento da UEL",
+  "bancas_sigla": "FAUEL",
+  "orgaos_nome": "Prefeitura de Cândido de Abreu",
+  "cargos_descricao": "Técnico em Radiologia",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O filme radiográfico é formado por uma base e a emulsão. Com relação aos componentes da base e emulsão do filme radiográfico convencional, assinale a alternativa CORRETA.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Celulose e cloreto de prata.</p>",
+      "corpo_clean": "Celulose e cloreto de prata.",
+      "id": 12829735,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Gelatina e fosforo.</p>",
+      "corpo_clean": "Gelatina e fosforo.",
+      "id": 12829736,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Poliester e brometo de prata.</p>",
+      "corpo_clean": "Poliester e brometo de prata.",
+      "id": 12829737,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Fósforo e iodo.</p>",
+      "corpo_clean": "Fósforo e iodo.",
+      "id": 12829738,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "12829737",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

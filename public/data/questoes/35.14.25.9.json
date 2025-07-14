@@ -1,0 +1,58 @@
+{
+  "id": 3331545,
+  "codigo_real": "35.14.25.9",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Ato das Disposições Constitucionais Transitórias",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Defensoria Pública do Estado do Paraná",
+  "cargos_descricao": "Defensor Público Substituto",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Analise os trechos a seguir:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. “Eu escutei feministas radicais afirmando que são contrárias à utilização de banheiros por mulheres trans porque elas são, na verdade, homens e podem estuprá-las. O que significa ‘de verdade’ aqui? Que as mulheres trans foram socializadas como homens e preparadas para desempenhar o lugar de poder que os homens ocupam (no que se refere à virilidade)? Certamente. Mas não é justamente esta maldição do gênero masculino (ou herança de gênero) que elas negam? No entanto, o ‘de verdade’ (no discurso das feministas radicais) está em outro lugar. Refere-se à materialidade corpórea. ‘Eles podem me estuprar’ porque têm pênis. Nada é mais absurdo que esta afirmação. Jamais uma pessoa que tenha feito o mínimo de ‘tradução cultural’ das dimensões que constituem as múltiplas possibilidades de viver as experiências trans faria uma afirmação como esta” (BENTO, Berenice. “Que nossas universidades sejam arco-íris: Entrevista com Berenice Bento”. Em Construção: arquivos de epistemologia histórica e estudos de ciência. UERJ. Número 5/2019; p. 194 – 200, p. 197-198.)</p><p style=\"text-align: justify;\">II. “Por fim, e em reforço ao que se vem de expor, esta Corte reconheceu recentemente o caráter constitucional e a repercussão geral em hipótese também envolvendo direitos de transexuais, destacando-se a importância de esta Corte definir ‘o conteúdo jurídico do direito à autodeterminação sexual’” (Min. Luís Roberto Barroso. RE 845779 RG/SC).</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Tomando por base (I) o estudo do transfeminismo e (II) a tutela jurídica dos direitos das pessoas transgênero pela jurisprudência do STJ e do STF, assinale a alternativa INCORRETA em relação a cada um desses temas, respectivamente.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O transfeminismo pode ser entendido como uma corrente teórica e política relacionada ao feminismo, pensando-o a partir das experiências e práticas de mulheres trans e travestis. Segundo o STJ, não é uma discricionariedade livre do julgador a determinação do local de cumprimento de pena privativa de liberdade das pessoas trans, devendo-se resguardar os direitos constitucionais à integridade física e à vida, respeitando a diversidade de gênero.</p>",
+      "corpo_clean": "O transfeminismo pode ser entendido como uma corrente teórica e política relacionada ao feminismo, pensando-o a partir das experiências e práticas de mulheres trans e travestis. Segundo o STJ, não é uma discricionariedade livre do julgador a determinação do local de cumprimento de pena privativa de liberdade das pessoas trans, devendo-se resguardar os direitos constitucionais à integridade física e à vida, respeitando a diversidade de gênero.",
+      "id": 13550953,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">As mulheres travestis e transexuais lutam contra o local marginal que ocupavam na construção de políticas públicas e também na política LGBTQIAPN+, que historicamente destacaram o homem gay branco. É aplicável a Lei Maria da Penha às mulheres travestis e transexuais, no contexto da proteção constitucional da igualdade, liberdade e dignidade humana, segundo o STJ, que expressamente distinguiu sexo de gênero, considerando mulheres trans como mulheres.</p>",
+      "corpo_clean": "As mulheres travestis e transexuais lutam contra o local marginal que ocupavam na construção de políticas públicas e também na política LGBTQIAPN+, que historicamente destacaram o homem gay branco. É aplicável a Lei Maria da Penha às mulheres travestis e transexuais, no contexto da proteção constitucional da igualdade, liberdade e dignidade humana, segundo o STJ, que expressamente distinguiu sexo de gênero, considerando mulheres trans como mulheres.",
+      "id": 13550954,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Assim como o feminismo é plural, comportando variadas correntes, o transfeminismo também não se constitui em um bloco monolítico de pensamento. A pessoa transgênero possui direito fundamental subjetivo à alteração de prenome e gênero em seu registro civil, exigindo-se, para tanto, a simples manifestação de vontade da pessoa, independentemente de procedimentos cirúrgicos, segundo o STF, uma vez que a igualdade sem discriminações abrange a identidade ou expressão de gênero.</p>",
+      "corpo_clean": "Assim como o feminismo é plural, comportando variadas correntes, o transfeminismo também não se constitui em um bloco monolítico de pensamento. A pessoa transgênero possui direito fundamental subjetivo à alteração de prenome e gênero em seu registro civil, exigindo-se, para tanto, a simples manifestação de vontade da pessoa, independentemente de procedimentos cirúrgicos, segundo o STF, uma vez que a igualdade sem discriminações abrange a identidade ou expressão de gênero.",
+      "id": 13550955,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">É indiscutível a adoção do determinismo biológico, fisiologia e anatomia por parte do transfeminismo como chave de leitura e definição do que é ser mulher, compreensão una que se mantém no tempo e espaço. Segundo o STF, o direito fundamental ao livre desenvolvimento da personalidade compreende a expressão da identidade de gênero das pessoas trans, cabendo ao Estado o dever de constituição dessa identidade, seja por via judicial ou administrativa, não se tratando de mero reconhecimento estatal.</p>",
+      "corpo_clean": "É indiscutível a adoção do determinismo biológico, fisiologia e anatomia por parte do transfeminismo como chave de leitura e definição do que é ser mulher, compreensão una que se mantém no tempo e espaço. Segundo o STF, o direito fundamental ao livre desenvolvimento da personalidade compreende a expressão da identidade de gênero das pessoas trans, cabendo ao Estado o dever de constituição dessa identidade, seja por via judicial ou administrativa, não se tratando de mero reconhecimento estatal.",
+      "id": 13550956,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O transfeminismo reconhece o papel histórico das travestis e das mulheres transexuais como elementos fundamentais para a compreensão do feminismo. Segundo o STJ, é indevida a negativa por parte de plano de saúde das cirurgias de transgenitalização e plástica mamária com implantação de próteses em mulheres trans, uma vez que tais procedimentos se relacionam ao direito à saúde integral do ser humano e à afirmação do próprio gênero.</p>",
+      "corpo_clean": "O transfeminismo reconhece o papel histórico das travestis e das mulheres transexuais como elementos fundamentais para a compreensão do feminismo. Segundo o STJ, é indevida a negativa por parte de plano de saúde das cirurgias de transgenitalização e plástica mamária com implantação de próteses em mulheres trans, uma vez que tais procedimentos se relacionam ao direito à saúde integral do ser humano e à afirmação do próprio gênero.",
+      "id": 13550957,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13550956",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

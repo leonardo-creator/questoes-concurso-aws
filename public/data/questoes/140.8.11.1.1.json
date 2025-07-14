@@ -1,0 +1,51 @@
+{
+  "id": 3198355,
+  "codigo_real": "140.8.11.1.1",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "IP (INTERNET PROTOCOL)",
+  "bancas_nome": "Diretoria de Ensino da Aeronáutica",
+  "bancas_sigla": "DIRENS Aeronautica",
+  "orgaos_nome": "Ministério da Defesa - Aeronáutica",
+  "cargos_descricao": "Sargento da Aeronáutica - Especialidade: Informática",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Avalie as informações abaixo sobre o IPsec.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I- É orientado a conexões.</p><p style=\"text-align: justify;\">II- Pode ser usado nos modos transporte e tunelamento.</p><p style=\"text-align: justify;\">III- Possui três partes principais: cabeçalho, corpo e mensagem.</p><p style=\"text-align: justify;\">IV- Possui dados de protocolo chamados de associação de conexão remota.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Está correto o que se afirma em</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>I e II.</p>",
+      "corpo_clean": "I e II.",
+      "id": 12991381,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>I e IV.</p>",
+      "corpo_clean": "I e IV.",
+      "id": 12991382,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>II e III.</p>",
+      "corpo_clean": "II e III.",
+      "id": 12991383,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>III e IV.</p>",
+      "corpo_clean": "III e IV.",
+      "id": 12991384,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "12991381",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1377524,
+  "codigo_real": "83.9.4",
+  "disciplina_real": "Farmácia",
+  "assunto_real": "Farmacodinâmica - Farmacodinâmica",
+  "bancas_nome": "Instituto Municipal de Desenvolvimento de Recursos Humanos",
+  "bancas_sigla": "IMPARH",
+  "orgaos_nome": "Prefeitura de Fortaleza",
+  "cargos_descricao": "Farmacêutico - Área: Hospitalar",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Os fármacos que são aplicados em emergências hospitalares, como é o caso do Instituto Dr. José Frota, necessitam exercer suas atividades rapidamente. Assim, via de regra, de acordo com os conceitos farmacodinâmicos, os receptores que possuem maior velocidade de resposta, quando ativados por fármacos, são os:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>metabotrópicos.</p>",
+      "corpo_clean": "metabotrópicos.",
+      "id": 5063416,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>inotrópicos.</p>",
+      "corpo_clean": "inotrópicos.",
+      "id": 5063417,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>que produzem segundos mensageiros.</p>",
+      "corpo_clean": "que produzem segundos mensageiros.",
+      "id": 5063418,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>presentes nos núcleos celulares.</p>",
+      "corpo_clean": "presentes nos núcleos celulares.",
+      "id": 5063419,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5063417",
+  "dificuldade": "Difícil",
+  "anulada": true,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

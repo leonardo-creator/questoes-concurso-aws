@@ -1,0 +1,58 @@
+{
+  "id": 179772,
+  "codigo_real": "56.1.7",
+  "disciplina_real": "Economia e Finanças",
+  "assunto_real": "Elasticidades",
+  "bancas_nome": "Núcleo de Computação Eletrônica UFRJ",
+  "bancas_sigla": "NCE",
+  "orgaos_nome": "Agência Nacional de Transportes Terrestres",
+  "cargos_descricao": "Especialista em Regulação - Área Estudo de Mercado dos Serviços de Transportes Terrestres",
+  "ano": 2005,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<P align=justify>Em um modelo destinado a estimar o crescimento do parque automobilístico de uma região metropolitana, adotou-se a especificação funcional y(t) = k/(1+&#8494;<SUP>b-at</SUP>) onde y(t) é o índice de motorização (em veículos por mil habitantes) no instante de tempo t &#8805; 0, a e b são parâmetros a estimar. Nesse modelo, k representa:</P>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "o valor do índice de motorização para o instante t = 0;",
+      "corpo_clean": "o valor do índice de motorização para o instante t = 0;",
+      "id": 772369,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "o valor de saturação do índice de motorização;",
+      "corpo_clean": "o valor de saturação do índice de motorização;",
+      "id": 772370,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "a renda familiar média na região estudada, em t = 0;",
+      "corpo_clean": "a renda familiar média na região estudada, em t = 0;",
+      "id": 772371,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "a elasticidade-renda da demanda por automóveis para a população estudada;",
+      "corpo_clean": "a elasticidade-renda da demanda por automóveis para a população estudada;",
+      "id": 772372,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "a elasticidade-preço da demanda por automóveis para a população estudada.",
+      "corpo_clean": "a elasticidade-preço da demanda por automóveis para a população estudada.",
+      "id": 772373,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "772370",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

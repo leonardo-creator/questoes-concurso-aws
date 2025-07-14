@@ -1,0 +1,58 @@
+{
+  "id": 370588,
+  "codigo_real": "109.2.6.1",
+  "disciplina_real": "Língua Espanhola",
+  "assunto_real": "Sinônimos",
+  "bancas_nome": "Núcleo de Computação Eletrônica UFRJ",
+  "bancas_sigla": "NCE",
+  "orgaos_nome": "Ministério da Agricultura, Pecuária e Abastecimento",
+  "cargos_descricao": "Zootecnia",
+  "ano": 2004,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "\"Nada, por lo tanto, parecido al Don Juan...\"; por lo\r\ntanto equivale a:",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "hasta;",
+      "corpo_clean": "hasta;",
+      "id": 1322455,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "hacia;",
+      "corpo_clean": "hacia;",
+      "id": 1322456,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "aunque;",
+      "corpo_clean": "aunque;",
+      "id": 1322457,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "entonces;",
+      "corpo_clean": "entonces;",
+      "id": 1322458,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "pero.",
+      "corpo_clean": "pero.",
+      "id": 1322459,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1322458",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

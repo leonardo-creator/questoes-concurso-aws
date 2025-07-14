@@ -1,0 +1,58 @@
+{
+  "id": 714077,
+  "codigo_real": "34.2",
+  "disciplina_real": "Direito Civil",
+  "assunto_real": "Teoria Geral do Direito Civil",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Polícia Civil de São Paulo",
+  "cargos_descricao": "Delegado de Polícia",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa correta, de acordo com as disposições da Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei n.º 4.657/1942).</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A lei nova revoga a lei antiga, quando com esta incompatível, ainda que não haja expressa declaração de revogação.</p>",
+      "corpo_clean": "A lei nova revoga a lei antiga, quando com esta incompatível, ainda que não haja expressa declaração de revogação.",
+      "id": 2446940,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>As correções a texto de lei já em vigor não implicam em lei nova.</p>",
+      "corpo_clean": "As correções a texto de lei já em vigor não implicam em lei nova.",
+      "id": 2446941,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A repristinação é regra no direito brasileiro, admitindo-se disposição legal que afaste sua incidência.</p>",
+      "corpo_clean": "A repristinação é regra no direito brasileiro, admitindo-se disposição legal que afaste sua incidência.",
+      "id": 2446942,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Entende-se por ato jurídico perfeito a decisão judicial da qual não caiba mais recurso.</p>",
+      "corpo_clean": "Entende-se por ato jurídico perfeito a decisão judicial da qual não caiba mais recurso.",
+      "id": 2446943,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O Brasil não adota, em regra, o instituto da <em>vacatio legis</em>, salvo no estrangeiro, quando admitida a obrigatoriedade da lei brasileira.</p>",
+      "corpo_clean": "O Brasil não adota, em regra, o instituto da vacatio legis, salvo no estrangeiro, quando admitida a obrigatoriedade da lei brasileira.",
+      "id": 2446944,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2446940",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

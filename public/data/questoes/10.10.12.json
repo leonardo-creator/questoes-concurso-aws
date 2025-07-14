@@ -1,0 +1,37 @@
+{
+  "id": 137631,
+  "codigo_real": "10.10.12",
+  "disciplina_real": "Arquivologia",
+  "assunto_real": "Escolha do método a ser adotado - Escolha do método a ser adotado",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Tribunal Regional Eleitoral de Alagoas",
+  "cargos_descricao": "Técnico Judiciário - Área: Administrativa",
+  "ano": 2004,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>No que se refere ao arquivamento de documentos, é indicado\r\nque a instituição adote um método de arquivamento único.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Acerca do arquivamento de documentos, julgue os itens\r\nsubseqüentes.</p>",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 624372,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 624371,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "624372",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2491328,
+  "codigo_real": "122.18",
+  "disciplina_real": "Nutrição",
+  "assunto_real": "Educação Nutricional",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Secretaria de Educação e Esportes de Pernambuco",
+  "cargos_descricao": "Professor de Nutrição - Área: Dietética",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a opção que indica o alimento/preparação que o paciente com doença celíaca deve evitar. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Tofu.</p>",
+      "corpo_clean": "Tofu.",
+      "id": 9902214,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Leite batido com fruta.</p>",
+      "corpo_clean": "Leite batido com fruta.",
+      "id": 9902215,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Polenta frita.</p>",
+      "corpo_clean": "Polenta frita.",
+      "id": 9902216,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><em>Ketchup.</em></p>",
+      "corpo_clean": "Ketchup.",
+      "id": 9902217,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Salada verde com <em>croutons.</em></p>",
+      "corpo_clean": "Salada verde com croutons.",
+      "id": 9902218,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9902218",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1545184,
+  "codigo_real": "87.11",
+  "disciplina_real": "Fisioterapia",
+  "assunto_real": "Fisioterapia em Geriatria",
+  "bancas_nome": "Prefeitura de Arapiraca",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Arapiraca",
+  "cargos_descricao": "Fisioterapeuta",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O combate à osteoporose é importante para garantir que um indivíduo esteja protegido contra os efeitos e complicações da doença, como as ________________, e mantenha sua qualidade de vida ao envelhecer. Nesse sentido, ________________ é um dos maiores aliados, já que se trata de uma forma eficaz de ________________ a osteoporose. Assinale a opção que explicita os termos que correspondem respectiva e <strong>CORRETAMENTE </strong>às lacunas.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>deformidades, o sedentarismo e melhorar</p>",
+      "corpo_clean": "deformidades, o sedentarismo e melhorar",
+      "id": 5784317,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>lacerações, o tabagismo, e ajudar</p>",
+      "corpo_clean": "lacerações, o tabagismo, e ajudar",
+      "id": 5784318,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>fraturas, atletismo e prejudicar</p>",
+      "corpo_clean": "fraturas, atletismo e prejudicar",
+      "id": 5784319,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">fraturas ósseas, a prática de exercícios físicos e prevenir e tratar</p>",
+      "corpo_clean": "fraturas ósseas, a prática de exercícios físicos e prevenir e tratar",
+      "id": 5784320,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>NDA.</p>",
+      "corpo_clean": "NDA.",
+      "id": 5784321,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5784320",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

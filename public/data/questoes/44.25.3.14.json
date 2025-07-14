@@ -1,0 +1,51 @@
+{
+  "id": 1351372,
+  "codigo_real": "44.25.3.14",
+  "disciplina_real": "Direito Penal",
+  "assunto_real": "Exercício Ilegal da Medicina, Arte Dentária ou Farmacêutica",
+  "bancas_nome": "Instituto de Estudos Superiores do Extremo Sul",
+  "bancas_sigla": "IESES",
+  "orgaos_nome": "Conselho Regional de Administração de Santa Catarina",
+  "cargos_descricao": "Advogado",
+  "ano": 2013,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Segundo o que consta a lei penal, é INCORRETO afirmar que:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>É conduta tipificada como crime, poluir água potável, de uso\r\ncomum ou particular, tornando-a imprópria para consumo ou\r\nnociva à saúde.</p>",
+      "corpo_clean": "É conduta tipificada como crime, poluir água potável, de uso comum ou particular, tornando-a imprópria para consumo ou nociva à saúde.",
+      "id": 4953769,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Não é tipificado como crime, a conduta de exercer a título gratuito,\r\na profissão de farmacêutico, sem autorização legal específica para\r\ntanto.</p>",
+      "corpo_clean": "Não é tipificado como crime, a conduta de exercer a título gratuito, a profissão de farmacêutico, sem autorização legal específica para tanto.",
+      "id": 4953770,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Fornecer substância medicinal em desacordo com receita médica\r\né conduta tipificada como crime que admite a modalidade culposa.</p>",
+      "corpo_clean": "Fornecer substância medicinal em desacordo com receita médica é conduta tipificada como crime que admite a modalidade culposa.",
+      "id": 4953771,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Ter em depósito para vender, substância nociva à saúde, ainda\r\nque não destinada à alimentação ou a fim medicinal, é conduta\r\ntipificada como crime que admite a modalidade culposa.</p>",
+      "corpo_clean": "Ter em depósito para vender, substância nociva à saúde, ainda que não destinada à alimentação ou a fim medicinal, é conduta tipificada como crime que admite a modalidade culposa.",
+      "id": 4953772,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4953770",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

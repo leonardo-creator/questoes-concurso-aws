@@ -1,0 +1,58 @@
+{
+  "id": 2590275,
+  "codigo_real": "25.15.5",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Empresas Controladas",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Secretaria de Estado de Fazenda de Minas Gerais",
+  "cargos_descricao": "Cargo não definido",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A empresa PCZ adquiriu 100% das ações da empresa ABC. As informações sobre a negociação são as seguintes:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">valor pago por ABC = 25 milhões;</p><p style=\"text-align: justify;\">PL de PCZ = 100 milhões;</p><p style=\"text-align: justify;\">PL de ABC = 18 milhões;</p><p style=\"text-align: justify;\">valor justo de PCZ = 120 milhões;</p><p style=\"text-align: justify;\">valor justo de ABC = 20 milhões.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Considerando as informações apresentadas, a empresa PCZ irá reconhecer:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>um mais valia de 2 milhões.</p>",
+      "corpo_clean": "um mais valia de 2 milhões.",
+      "id": 10332614,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>um fundo de comércio adquirido de 7 milhões.</p>",
+      "corpo_clean": "um fundo de comércio adquirido de 7 milhões.",
+      "id": 10332615,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>um mais valia de 5 milhões.</p>",
+      "corpo_clean": "um mais valia de 5 milhões.",
+      "id": 10332616,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>participações societárias em ABC de 20 milhões.</p>",
+      "corpo_clean": "participações societárias em ABC de 20 milhões.",
+      "id": 10332617,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>um fundo de comércio adquirido de 2 milhões.</p>",
+      "corpo_clean": "um fundo de comércio adquirido de 2 milhões.",
+      "id": 10332618,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10332614",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

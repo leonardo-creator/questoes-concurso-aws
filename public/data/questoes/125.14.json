@@ -1,0 +1,51 @@
+{
+  "id": 3654016,
+  "codigo_real": "125.14",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Educação Infantil",
+  "bancas_nome": "Objetiva Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Nonoai",
+  "cargos_descricao": "Professor - Área: Educação Infantil",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Uma criança que consegue organizar seus brinquedos em sequência, do menor para o maior, está desenvolvendo qual habilidade lógico-matemática essencial?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Contagem.</p>",
+      "corpo_clean": "Contagem.",
+      "id": 14882910,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Seriação.</p>",
+      "corpo_clean": "Seriação.",
+      "id": 14882911,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Classificação.</p>",
+      "corpo_clean": "Classificação.",
+      "id": 14882912,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Inclusão de classe.</p>",
+      "corpo_clean": "Inclusão de classe.",
+      "id": 14882913,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "14882911",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

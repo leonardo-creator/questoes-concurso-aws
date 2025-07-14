@@ -1,0 +1,58 @@
+{
+  "id": 2949810,
+  "codigo_real": "124.8",
+  "disciplina_real": "Odontologia",
+  "assunto_real": "Saúde Bucal Coletiva - SUS",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Prefeitura de Capão da Canoa",
+  "cargos_descricao": "Técnico em Saúde Bucal",
+  "ano": 2019,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Os profissionais de saúde bucal que compõem as equipes de saúde da família podem se organizar nas seguintes modalidades: </p><p><br></p><p><br></p><p><br></p><p>I. Modalidade I – dois profissionais – dentista + auxiliar de saúde bucal ou técnico de saúde bucal.</p><p>II. Modalidade II – três profissionais – 2 dentistas + auxiliar de saúde bucal ou técnico de saúde bucal.</p><p>III. Modalidade III – profissionais das modalidades I ou II que operam em Unidade Odontológica Móvel. </p><p><br></p><p><br></p><p>Quais estão corretas?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Apenas I.</p>",
+      "corpo_clean": "Apenas I.",
+      "id": 11910611,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Apenas II. </p>",
+      "corpo_clean": "Apenas II. ",
+      "id": 11910612,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Apenas III.</p>",
+      "corpo_clean": "Apenas III.",
+      "id": 11910613,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Apenas I e II.</p>",
+      "corpo_clean": "Apenas I e II.",
+      "id": 11910614,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p> Apenas I e III.</p>",
+      "corpo_clean": " Apenas I e III.",
+      "id": 11910615,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11910615",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

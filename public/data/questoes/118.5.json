@@ -1,0 +1,37 @@
+{
+  "id": 633687,
+  "codigo_real": "118.5",
+  "disciplina_real": "Meio Ambiente",
+  "assunto_real": "Saneamento ambiental",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Instituto de Meio Ambiente",
+  "cargos_descricao": "Agente Tecnólogo - Área Saneamento Ambiental",
+  "ano": 2004,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify><p align=justify>O texto afirma que, entre as unidades espaciais de trabalho, a bacia hidrográfica ainda é a melhor unidade dentro do planejamento\r\nambiental.</p></p>",
+  "grupoQuestao_enunciado": "<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/18306/40.gif></P>\r\n<P align=justify>A partir do texto acima, julgue os itens seguintes.</P>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2199728,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2199729,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2199729",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

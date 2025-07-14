@@ -1,0 +1,37 @@
+{
+  "id": 1019034,
+  "codigo_real": "2015",
+  "disciplina_real": "Direito Processual Civil - CPC",
+  "assunto_real": "47.14.1.12.2.6.5 Direito ao Silêncio",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Ministério Público da União",
+  "cargos_descricao": "Analista do Ministério Público - Área Direito",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "Em processo que envolva interesse de incapaz, tendo sido\r\nverificado que o parquet não foi intimado, o juiz decretará, de\r\nofício, a nulidade do processo.",
+  "grupoQuestao_enunciado": "Com base nas normas que regem o processo civil, julgue os itens\r\nseguintes, acerca da função jurisdicional; do Ministério Público; de\r\nnulidades processuais; e de sentença.",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 3566462,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 3566463,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3566463",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

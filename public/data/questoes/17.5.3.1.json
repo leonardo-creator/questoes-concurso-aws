@@ -1,0 +1,58 @@
+{
+  "id": 1513469,
+  "codigo_real": "17.5.3.1",
+  "disciplina_real": "Biologia",
+  "assunto_real": "Doenças parasitárias",
+  "bancas_nome": "CONSCAM - Assessoria e Consultoria",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Dracena",
+  "cargos_descricao": "Agente de Controle de Vetores",
+  "ano": 2017,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A leishmaniose é uma doença infecciosa, porém, não contagiosa, causada por parasitas do gênero Leishmania. Há dois tipos de leishmaniose: leishmaniose tegumentar ou cutânea e a leishmaniose visceral ou calazar. A leishmaniose tegumentar é caracterizada por feridas na pele que se localizam com maior frequência nas partes descobertas do corpo, podendo também surgir nas mucosas do nariz, da boca e da garganta. A leishmaniose visceral é uma doença sistêmica que acomete os seguintes órgãos internos:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Rins e olhos.</p>",
+      "corpo_clean": "Rins e olhos.",
+      "id": 5651085,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Fígado, baço e medula óssea.</p>",
+      "corpo_clean": "Fígado, baço e medula óssea.",
+      "id": 5651086,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Pele, pés e intestino.</p>",
+      "corpo_clean": "Pele, pés e intestino.",
+      "id": 5651087,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Pâncreas, bexiga e intestino.</p>",
+      "corpo_clean": "Pâncreas, bexiga e intestino.",
+      "id": 5651088,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Fígado, rins e pâncreas.</p>",
+      "corpo_clean": "Fígado, rins e pâncreas.",
+      "id": 5651089,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5651086",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

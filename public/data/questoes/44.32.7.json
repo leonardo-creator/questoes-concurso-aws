@@ -1,0 +1,58 @@
+{
+  "id": 2617427,
+  "codigo_real": "44.32.7",
+  "disciplina_real": "Direito Penal",
+  "assunto_real": "Crime contra a Ordem Econômica e Tributária - Lei nº 8.137/1990",
+  "bancas_nome": "Instituto Brasileiro de Apoio e Desenvolvimento Executivo",
+  "bancas_sigla": "IBADE",
+  "orgaos_nome": "Prefeitura de Barra de São Francisco",
+  "cargos_descricao": "Auditor Fiscal de Tributos Municipais",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a alternativa que se refere ao crime contra a ordem tributária:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">elevar o valor cobrado nas vendas a prazo de bens ou serviços, mediante a exigência de comissão ou de taxa de juros ilegais.</p>",
+      "corpo_clean": "elevar o valor cobrado nas vendas a prazo de bens ou serviços, mediante a exigência de comissão ou de taxa de juros ilegais.",
+      "id": 10442118,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">fraudar preços por meio de aviso de inclusão de insumo não empregado na produção do bem ou na prestação dos serviços.</p>",
+      "corpo_clean": "fraudar preços por meio de aviso de inclusão de insumo não empregado na produção do bem ou na prestação dos serviços.",
+      "id": 10442119,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">abusar do poder econômico, dominando o mercado ou eliminando, total ou parcialmente, a concorrência mediante qualquer forma de ajuste ou acordo de empresas.</p>",
+      "corpo_clean": "abusar do poder econômico, dominando o mercado ou eliminando, total ou parcialmente, a concorrência mediante qualquer forma de ajuste ou acordo de empresas.",
+      "id": 10442120,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">formar acordo ou aliança entre ofertantes, visando ao controle regionalizado do mercado por empresa ou grupo de empresas.</p>",
+      "corpo_clean": "formar acordo ou aliança entre ofertantes, visando ao controle regionalizado do mercado por empresa ou grupo de empresas.",
+      "id": 10442121,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">negar ou deixar de fornecer, quando obrigatório, nota fiscal ou documento equivalente, relativa a venda de mercadoria ou prestação de serviço, efetivamente realizada, ou fornecê-la em desacordo com a legislação.</p>",
+      "corpo_clean": "negar ou deixar de fornecer, quando obrigatório, nota fiscal ou documento equivalente, relativa a venda de mercadoria ou prestação de serviço, efetivamente realizada, ou fornecê-la em desacordo com a legislação.",
+      "id": 10442122,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10442122",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1302087,
+  "codigo_real": "142.10",
+  "disciplina_real": "Terapia Ocupacional",
+  "assunto_real": "Recursos Terapêuticos - Recursos Terapêuticos",
+  "bancas_nome": "Instituto de Apoio à Universidade de Pernambuco",
+  "bancas_sigla": "UPENET IAUPE",
+  "orgaos_nome": "Prefeitura de Petrolina",
+  "cargos_descricao": "Terapeuta Ocupacional",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\">A atividade do brincar nos atendimentos das crianças com disfunções físicas e a forma como Terapeutas Ocupacionais abordam significam observar alguns critérios para iniciação de um projeto terapêutico como\r\n</p><p align=\"justify\">1. Observação de suas habilidades funcionais, motoras, verbais e de comunicação, além da decodificação da linguagem verbal.\r\n</p><p align=\"justify\">2. Verificação do nível de complexidade nas suas relações com os objetos e as habilidades na resolução de problemas envolvendo brinquedos e objetos.\r\n</p><p align=\"justify\">3. Avaliação da capacidade simbólica na situação do brincar</p><p align=\"justify\">\r\nEstá CORRETO o que se afirma em</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>1 e 2, apenas.</p>",
+      "corpo_clean": "1 e 2, apenas.",
+      "id": 4746495,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>2 e 3, apenas.</p>",
+      "corpo_clean": "2 e 3, apenas.",
+      "id": 4746496,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>1, 2 e 3.</p>",
+      "corpo_clean": "1, 2 e 3.",
+      "id": 4746497,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>2, apenas.</p>",
+      "corpo_clean": "2, apenas.",
+      "id": 4746498,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>1, apenas.</p>",
+      "corpo_clean": "1, apenas.",
+      "id": 4746499,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4746497",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

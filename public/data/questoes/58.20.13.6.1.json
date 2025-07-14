@@ -1,0 +1,58 @@
+{
+  "id": 1542432,
+  "codigo_real": "58.20.13.6.1",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Emergências hipertensivas",
+  "bancas_nome": "Comissão Permanente de Concursos da Universidade Estadual da Paraíba",
+  "bancas_sigla": "CPCON UEPB",
+  "orgaos_nome": "Prefeitura de Boa Ventura",
+  "cargos_descricao": "Enfermeiro",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">As síndromes hipertensivas na gestação acarretam significativa morbimortalidade tanto materna quanto fetal. A pré-eclâmpsia, é então, definida pela presença de hipertensão arterial associada à proteinúria entre gestantes, a partir da: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>20ª semana de gestação. </p>",
+      "corpo_clean": "20ª semana de gestação. ",
+      "id": 5771848,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>10ª semana de gestação. </p>",
+      "corpo_clean": "10ª semana de gestação. ",
+      "id": 5771849,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>3ª semana de gestação.</p>",
+      "corpo_clean": "3ª semana de gestação.",
+      "id": 5771850,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p> 36ª semana de gestação. </p>",
+      "corpo_clean": " 36ª semana de gestação. ",
+      "id": 5771851,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p> 38ª semana de gestação.</p>",
+      "corpo_clean": " 38ª semana de gestação.",
+      "id": 5771852,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5771848",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

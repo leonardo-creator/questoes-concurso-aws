@@ -1,0 +1,37 @@
+{
+  "id": 577951,
+  "codigo_real": "129.8",
+  "disciplina_real": "Química",
+  "assunto_real": "Química Cinética - Química",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",
+  "cargos_descricao": "Especialista em Regulação de Derivados - Área Engenharia Química",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify><p align=justify>O separador horizontal usado na separação de gás natural\r\napresenta melhor eficiência na remoção de sólidos e maior\r\ncapacidade de absorver variações de fluxo (golfadas) que um\r\nseparador vertical.</p></p>",
+  "grupoQuestao_enunciado": "<p align=justify>Acerca de separação, tratamento e pré-processamento de petróleo\r\ne gás natural, julgue os próximos itens.</p>",
+  "alternativas": [
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2049402,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2049401,
+      "ordem": 1,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "2049402",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

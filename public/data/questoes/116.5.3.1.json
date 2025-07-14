@@ -1,0 +1,58 @@
+{
+  "id": 476351,
+  "codigo_real": "116.5.3.1",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Elétrica",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal de Justiça de Pernambuco",
+  "cargos_descricao": "Analista Judiciário - Área Médico Reumatologista",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<P align=justify>Investigação inicial de paciente de 68 anos de idade, previamente hígido, com história de fraqueza muscular e atrofia muscular progressivas há 5 anos, com envolvimento proximal e distal, com disfagia e sem lesões cutâneas mostrou: </P>\r\n<P align=justify>&#8722; FAN negativo. </P>\r\n<P align=justify>&#8722; Eletroneuromiografia com padrão miopático e neuropático. </P>\r\n<P align=justify>&#8722; CPK aumentada 2,5 vezes e Aldolase 2 vezes o limite superior da normalidade. </P>\r\n<P align=justify>A hipótese mais provável é</P>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Polimiosite.</p>",
+      "corpo_clean": "Polimiosite.",
+      "id": 1715200,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Miosite de corpúsculos de inclusão.</p>",
+      "corpo_clean": "Miosite de corpúsculos de inclusão.",
+      "id": 1715201,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Dermatomiosite amiopática.</p>",
+      "corpo_clean": "Dermatomiosite amiopática.",
+      "id": 1715202,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Toxoplasmose.</p>",
+      "corpo_clean": "Toxoplasmose.",
+      "id": 1715203,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>Miosite associada a neoplasia.</p>",
+      "corpo_clean": "Miosite associada a neoplasia.",
+      "id": 1715204,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1715201",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

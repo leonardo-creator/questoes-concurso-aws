@@ -1,0 +1,58 @@
+{
+  "id": 3704092,
+  "codigo_real": "116.7.3.2.3",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Hipóstases ou livores (livor mortis)",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Empresa Brasileira de Serviços Hospitalares - EBSERH",
+  "cargos_descricao": "Médico - Área Densitometria Óssea",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A atividade mais adequada, entre as citadas a seguir, de 131Iodo a ser administrada para tratamento do hipertireoidismo de paciente com Doença de Graves que tem captação aumentada de iodo em 24h é</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>100 mCi.</p>",
+      "corpo_clean": "100 mCi.",
+      "id": 15086689,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>50 mCi.</p>",
+      "corpo_clean": "50 mCi.",
+      "id": 15086690,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>15 mCi.</p>",
+      "corpo_clean": "15 mCi.",
+      "id": 15086691,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>1 mCi.</p>",
+      "corpo_clean": "1 mCi.",
+      "id": 15086692,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>0,5 mCi.</p>",
+      "corpo_clean": "0,5 mCi.",
+      "id": 15086693,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15086691",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1867487,
+  "codigo_real": "49.26.4",
+  "disciplina_real": "Direito Processual Penal Militar",
+  "assunto_real": "Fontes do Direito",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Polícia Civil do Rio Grande do Norte",
+  "cargos_descricao": "Delegado de Polícia Substituto",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No curso da instrução processual penal, verifica-se que uma das provas colhidas fora obtida de forma ilegal. Essa ilegalidade é alegada pela defesa, e o Ministério Público manifesta-se concordando com a ilegalidade apontada. O juízo reconhece a ilegalidade da prova em decisão fundamentada. </p><p style=\"text-align: justify;\">Com base no exposto, é correto afirmar que o juízo:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">deverá determinar o desentranhamento da prova ilícita, assim como aquelas direta e exclusivamente decorrentes dela e, uma vez preclusa a decisão, determinar a destruição das provas, prosseguindo nos demais atos processuais;</p>",
+      "corpo_clean": "deverá determinar o desentranhamento da prova ilícita, assim como aquelas direta e exclusivamente decorrentes dela e, uma vez preclusa a decisão, determinar a destruição das provas, prosseguindo nos demais atos processuais;",
+      "id": 7186678,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">deverá determinar o desentranhamento da prova ilícita, assim como aquelas direta e exclusivamente decorrentes dela e, uma vez preclusa a decisão, determinar seu desentranhamento dos autos principais a fim de serem autuadas em apartado;</p>",
+      "corpo_clean": "deverá determinar o desentranhamento da prova ilícita, assim como aquelas direta e exclusivamente decorrentes dela e, uma vez preclusa a decisão, determinar seu desentranhamento dos autos principais a fim de serem autuadas em apartado;",
+      "id": 7186679,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">não deverá desentranhar a prova inadmissível do processo, mas apenas indicar quais são exatamente as páginas que deverão ser desconsideradas para efeito de elaboração da posterior sentença. Deverá ainda determinar a redistribuição do processo em razão de seu impedimento, eis que a lei determina que o juiz que conhecer do conteúdo da prova declarada inadmissível não poderá proferir a sentença;</p>",
+      "corpo_clean": "não deverá desentranhar a prova inadmissível do processo, mas apenas indicar quais são exatamente as páginas que deverão ser desconsideradas para efeito de elaboração da posterior sentença. Deverá ainda determinar a redistribuição do processo em razão de seu impedimento, eis que a lei determina que o juiz que conhecer do conteúdo da prova declarada inadmissível não poderá proferir a sentença;",
+      "id": 7186680,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">não deverá desentranhar a prova inadmissível do processo, mas apenas indicar quais são exatamente as páginas que deverão ser desconsideradas para efeito de elaboração da posterior sentença e, uma vez preclusa a decisão, prosseguir nos demais atos processuais;</p>",
+      "corpo_clean": "não deverá desentranhar a prova inadmissível do processo, mas apenas indicar quais são exatamente as páginas que deverão ser desconsideradas para efeito de elaboração da posterior sentença e, uma vez preclusa a decisão, prosseguir nos demais atos processuais;",
+      "id": 7186681,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">deverá determinar o desentranhamento da prova ilícita, assim como aquelas direta e exclusivamente decorrentes dela, e, uma vez preclusa a decisão, determinar a destruição das provas e determinar a redistribuição do processo em razão de seu impedimento, eis que a lei determina que o juiz que conhecer do conteúdo da prova declarada inadmissível não poderá proferir a sentença.</p>",
+      "corpo_clean": "deverá determinar o desentranhamento da prova ilícita, assim como aquelas direta e exclusivamente decorrentes dela, e, uma vez preclusa a decisão, determinar a destruição das provas e determinar a redistribuição do processo em razão de seu impedimento, eis que a lei determina que o juiz que conhecer do conteúdo da prova declarada inadmissível não poderá proferir a sentença.",
+      "id": 7186682,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7186678",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": true,
+  "hasImage": false,
+  "hasImageItens": false
+}

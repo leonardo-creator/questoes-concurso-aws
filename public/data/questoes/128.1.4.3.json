@@ -1,0 +1,51 @@
+{
+  "id": 2834371,
+  "codigo_real": "128.1.4.3",
+  "disciplina_real": "Psicologia",
+  "assunto_real": "Técnicas de entrevista - Técnicas de entrevista",
+  "bancas_nome": "Universidade Federal de Minas Gerais",
+  "bancas_sigla": "UFMG",
+  "orgaos_nome": "Universidade Federal de Minas Gerais",
+  "cargos_descricao": "Psicólogo",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A habilidade e a técnica na realização de entrevistas são essenciais aos profissionais que atuam em Saúde Mental (DALGALARRONDO, 2019). Nessas entrevistas, algumas atitudes devem ser evitadas, <strong>EXCETO</strong>:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Entrevistas excessivamente breves.</p>",
+      "corpo_clean": "Entrevistas excessivamente breves.",
+      "id": 11406033,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Comentários valorativos ou julgamentos sobre o que o paciente relata ou apresenta.</p>",
+      "corpo_clean": "Comentários valorativos ou julgamentos sobre o que o paciente relata ou apresenta.",
+      "id": 11406034,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Reações emocionais intensas de pena ou compaixão.</p>",
+      "corpo_clean": "Reações emocionais intensas de pena ou compaixão.",
+      "id": 11406035,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Fazer muitas anotações durante a entrevista.</p>",
+      "corpo_clean": "Fazer muitas anotações durante a entrevista.",
+      "id": 11406036,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11406033",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

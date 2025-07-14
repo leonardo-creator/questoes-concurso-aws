@@ -1,0 +1,58 @@
+{
+  "id": 2048817,
+  "codigo_real": "112.1.19.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "O texto em prosa",
+  "bancas_nome": "Comissão Permanente de Concursos da Universidade Estadual da Paraíba",
+  "bancas_sigla": "CPCON UEPB",
+  "orgaos_nome": "Prefeitura de Alagoinhas",
+  "cargos_descricao": "Técnico em Enfermagem",
+  "ano": 2016,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No texto, o esquecimento é apontado como uma característica dos leitores. A ideia de persistência desse comportamento é sinalizada gramaticalmente através do emprego dos verbos auxiliares que integram as locuções verbais abaixo listadas, com exceção daquela que se apresenta na alternativa:</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">Após a leitura do texto abaixo, intitulado <strong>Menos</strong>,<strong> Menos</strong>, de autoria de J. R. Guzzo e extraído de Veja - 24/08/16, responda as três questões que o seguem:</p><p style=\"text-align: justify;\"><br></p><p>1 A falta de memória do público continua sendo um dos aliados mais fiéis dos meios de comunicação. O que</p><p>2 seria dos órgãos de imprensa em geral se os leitores, ouvintes e espectadores se lembrassem, realmente, do</p><p>3 que os comunicadores lhes dizem a cada dia, principalmente a respeito dos assuntos considerados</p><p>4 fundamentais para o entendimento do país, do mundo e da vida? Diante da quantidade de má informação,</p><p>5 análises desmentidas pelos fatos e julgamentos sem lógica que a “mídia” serve em todos os seus formatos,</p><p>6 é um espanto que alguém ainda acredite na maior parte daquilo que se pública, neste Brasil e neste planeta.</p><p>7 Mas o fato é que os consumidores de notícias e opiniões vivem esquecendo os disparates que consomem –</p><p>8 ou, caso se lembrem, não se importam em continuar consumindo mais do mesmo, e levando a sério o que</p><p>9 lhes dizem os jornalistas. A Olimpíada do Rio de Janeiro ficará marcada como um dos grandes clássicos</p><p>10 nacionais desse tipo de fenômeno. Alguém ainda se lembra da catástrofe sem paralelo que os jogos seriam</p><p style=\"text-align: justify;\">11 para o Brasil? Pois é</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>(linha 7) ... vivem esquecendo....</p>",
+      "corpo_clean": "(linha 7) ... vivem esquecendo....",
+      "id": 7992761,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>(linha 1) ... continua sendo...</p>",
+      "corpo_clean": "(linha 1) ... continua sendo...",
+      "id": 7992762,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>(linha 9) ... ficará marcada...</p>",
+      "corpo_clean": "(linha 9) ... ficará marcada...",
+      "id": 7992763,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>(linha 8) ... continuar consumindo....</p>",
+      "corpo_clean": "(linha 8) ... continuar consumindo....",
+      "id": 7992764,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>(linha 8) ... continuar consumindo....</p>",
+      "corpo_clean": "(linha 8) ... continuar consumindo....",
+      "id": 7992765,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "7992763",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

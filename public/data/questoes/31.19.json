@@ -1,0 +1,58 @@
+{
+  "id": 2214614,
+  "codigo_real": "31.19",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Legislação Administrativa",
+  "bancas_nome": "Centro de Treinamento e Desenvolvimento",
+  "bancas_sigla": "CETREDE",
+  "orgaos_nome": "Universidade Federal do Ceará",
+  "cargos_descricao": "Assistente em Administração",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A declaração de nulidade do contrato administrativo, regido pela Lei n. 8.666/1993</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">opera retroativamente, impedindo a produção dos efeitos jurídicos que o ajuste ordinariamente deveria produzir e desconstituindo os já produzidos.</p>",
+      "corpo_clean": "opera retroativamente, impedindo a produção dos efeitos jurídicos que o ajuste ordinariamente deveria produzir e desconstituindo os já produzidos.",
+      "id": 8700750,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">opera retroativamente, o que desonera a Administração de indenizar o contratado pelos serviços já executados, em razão do princípio da estrita legalidade.</p>",
+      "corpo_clean": "opera retroativamente, o que desonera a Administração de indenizar o contratado pelos serviços já executados, em razão do princípio da estrita legalidade.",
+      "id": 8700751,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">opera retroativamente, o que não desonera a Administração de indenizar o contratado pelos serviços já prestados, mas a desobriga de arcar com os prejuízos eventualmente causados ao particular.</p>",
+      "corpo_clean": "opera retroativamente, o que não desonera a Administração de indenizar o contratado pelos serviços já prestados, mas a desobriga de arcar com os prejuízos eventualmente causados ao particular.",
+      "id": 8700752,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">tem efeitos<em> ex nunc</em>, razão pela qual a Administração deve indenizar os serviços já executados e arcar com os prejuízos causados ao contratado, mesmo que a ele sejam imputados.</p>",
+      "corpo_clean": "tem efeitos ex nunc, razão pela qual a Administração deve indenizar os serviços já executados e arcar com os prejuízos causados ao contratado, mesmo que a ele sejam imputados.",
+      "id": 8700753,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">tem efeitos <em>ex nunc</em>, razão pela qual a Administração deve indenizar os serviços já executados e arcar com os prejuízos causados ao contratado, desde que a ele não sejam imputados.</p>",
+      "corpo_clean": "tem efeitos ex nunc, razão pela qual a Administração deve indenizar os serviços já executados e arcar com os prejuízos causados ao contratado, desde que a ele não sejam imputados.",
+      "id": 8700754,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8700750",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

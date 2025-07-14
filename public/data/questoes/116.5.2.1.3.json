@@ -1,0 +1,58 @@
+{
+  "id": 3526787,
+  "codigo_real": "116.5.2.1.3",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Hematoma, bossa sanguínea e linfática",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Grupo Hospitalar Conceição",
+  "cargos_descricao": "Médico - Área Cirurgia do Trauma",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Paciente, 58 anos, com estigmas de hepatopatia, dá entrada na sala de emergência apresentando hematêmese. Após estabilização hemodinâmica com transfusão, foi realizado endoscopia digestiva alta com identificação de varizes de esôfago grossas, com presença de varizes de fundo gástrico. A conduta mais apropriada é:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Fazer ligaduras elásticas das varizes esofágicas e considerar uso de cianoacrilato para tratar as varizes gástricas. </p>",
+      "corpo_clean": "Fazer ligaduras elásticas das varizes esofágicas e considerar uso de cianoacrilato para tratar as varizes gástricas. ",
+      "id": 14379403,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Fazer ligaduras elásticas das varizes esofágicas e ligadura cirúrgica dos vasos curtos do fundo gástrico através de laparoscopia. </p>",
+      "corpo_clean": "Fazer ligaduras elásticas das varizes esofágicas e ligadura cirúrgica dos vasos curtos do fundo gástrico através de laparoscopia. ",
+      "id": 14379404,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Proceder à derivação porto-sistêmica intra-hepática transjugular (TIPS) após estabilização hemodinâmica como primeira opção.</p>",
+      "corpo_clean": "Proceder à derivação porto-sistêmica intra-hepática transjugular (TIPS) após estabilização hemodinâmica como primeira opção.",
+      "id": 14379405,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Uso de betabloqueadores e de análogos de somatostatina e observação em UTI.</p>",
+      "corpo_clean": "Uso de betabloqueadores e de análogos de somatostatina e observação em UTI.",
+      "id": 14379406,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Escleroterapia das varizes esofágicas e gástricas. </p>",
+      "corpo_clean": "Escleroterapia das varizes esofágicas e gástricas. ",
+      "id": 14379407,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14379403",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

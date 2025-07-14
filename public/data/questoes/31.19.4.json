@@ -1,0 +1,58 @@
+{
+  "id": 2847354,
+  "codigo_real": "31.19.4",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Lei nº 12.527/2011 - Lei de Acesso à Informação",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Centro de Tecnologia da Informação e Comunicação do Rio Grande do Sul",
+  "cargos_descricao": "Técnico em Administração",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">De acordo com as definições da Lei de Acesso à Informação, a qualidade da informação que tenha sido produzida, expedida, recebida ou modificada por determinado indivíduo, equipamento ou sistema, se denomina:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Acessibilidade.</p>",
+      "corpo_clean": "Acessibilidade.",
+      "id": 11458034,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Integridade.</p>",
+      "corpo_clean": "Integridade.",
+      "id": 11458035,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Autenticidade.</p>",
+      "corpo_clean": "Autenticidade.",
+      "id": 11458036,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Certificação.</p>",
+      "corpo_clean": "Certificação.",
+      "id": 11458037,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Primariedade.</p>",
+      "corpo_clean": "Primariedade.",
+      "id": 11458038,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11458036",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

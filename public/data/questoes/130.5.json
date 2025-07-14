@@ -1,0 +1,51 @@
+{
+  "id": 3291710,
+  "codigo_real": "130.5",
+  "disciplina_real": "Raciocínio Lógico",
+  "assunto_real": "Raciocínio lógico quantitativo ( Problemas lógicos)",
+  "bancas_nome": "Instituto Access - Instituto de Acesso à Educação, Capacitação Profissional e Desenvolvimento Humano",
+  "bancas_sigla": "",
+  "orgaos_nome": "Serviço Autônomo de Água e Esgoto de Itaguaçu",
+  "cargos_descricao": "Laboratorista",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considerando os conhecimentos acerca de raciocínio lógico. Uma função lógica que é sempre falsa para qualquer valor de suas variáveis é denominada de:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Tautologia.</p>",
+      "corpo_clean": "Tautologia.",
+      "id": 13381555,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Contradição.</p>",
+      "corpo_clean": "Contradição.",
+      "id": 13381556,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Contingência.</p>",
+      "corpo_clean": "Contingência.",
+      "id": 13381557,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Paradoxo.</p>",
+      "corpo_clean": "Paradoxo.",
+      "id": 13381558,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "13381556",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3030386,
+  "codigo_real": "99.2.23.6.8",
+  "disciplina_real": "Legislação Estadual, Distrital e Municipal",
+  "assunto_real": "Município de Balneário de Camboriú - Lei 1.871/1999 - Estabelece a aliquota do impostosobre serviços de qualquer natureza ISSQN - Incidente sobre obras de contrução civil e condominais, E dá outras providências.",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Empresa de Água e Saneamento de Balneário Camboriú",
+  "cargos_descricao": "Analista de Compras",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considerando o disposto na Lei nº 1.069/1991, (Estatuto e Plano de Carreira dos Funcionários Públicos Civis da Administração Direta, Fundacional e Autárquica do Município de Balneário Camboriú), a volta do funcionário ao cargo anteriormente ocupado, em decorrência de inabilitação no estágio probatório, se estável no serviço público municipal, denomina-se:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Reversão.</p>",
+      "corpo_clean": "Reversão.",
+      "id": 12266259,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Recondução.</p>",
+      "corpo_clean": "Recondução.",
+      "id": 12266260,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Readaptação.</p>",
+      "corpo_clean": "Readaptação.",
+      "id": 12266261,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Reintegração.</p>",
+      "corpo_clean": "Reintegração.",
+      "id": 12266262,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Aproveitamento.</p>",
+      "corpo_clean": "Aproveitamento.",
+      "id": 12266263,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12266260",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

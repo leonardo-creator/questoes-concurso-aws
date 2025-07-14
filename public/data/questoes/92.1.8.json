@@ -1,0 +1,37 @@
+{
+  "id": 792849,
+  "codigo_real": "92.1.8",
+  "disciplina_real": "Geologia",
+  "assunto_real": "Geofísica",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Fundação Universidade de Brasília",
+  "cargos_descricao": "Geólogo",
+  "ano": 2015,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "A Falha de San Andreas, na América do Norte, é um exemplo\r\nde limite conservativo.",
+  "grupoQuestao_enunciado": "Alfred Wegener propôs a teoria da deriva continental, imaginando\r\nque os continentes poderiam, um dia, terem estado juntos e,\r\nposteriormente, teriam sido separados. A respeito desse assunto e\r\nde seus desdobramentos, julgue os próximos itens.",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2736847,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2736848,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2736847",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

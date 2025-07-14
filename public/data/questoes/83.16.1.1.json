@@ -1,0 +1,58 @@
+{
+  "id": 2745060,
+  "codigo_real": "83.16.1.1",
+  "disciplina_real": "Farmácia",
+  "assunto_real": "Controle de Estoques - Controle de Estoques",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Mogi das Cruzes",
+  "cargos_descricao": "Farmacêutico",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O gráfico a seguir se refere à variação da quantidade em estoque de um item X, em uma farmácia em que Q representa a quantidade a ser adquirida.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/89211/questao/2745060-20230224185334000000-0.png\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: right;\">(Vecina Neto, G. Gestão de Recursos Materiais e Medicamentos, 1998) </p><p>De acordo com o gráfico, é correto afirmar que</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">as quantidades adquiridas em cada pedido são iguais e o produto X tem consumo variável.</p>",
+      "corpo_clean": "as quantidades adquiridas em cada pedido são iguais e o produto X tem consumo variável.",
+      "id": 11007196,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">os pedidos são feitos quando o estoque chega ao ponto mínimo e o produto X tem consumo constante.</p>",
+      "corpo_clean": "os pedidos são feitos quando o estoque chega ao ponto mínimo e o produto X tem consumo constante.",
+      "id": 11007197,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">os pedidos são feitos quando o estoque chega ao ponto mínimo e o produto X tem consumo variável.</p>",
+      "corpo_clean": "os pedidos são feitos quando o estoque chega ao ponto mínimo e o produto X tem consumo variável.",
+      "id": 11007198,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">as quantidades adquiridas em cada pedido são iguais e que o produto X tem um consumo constante.</p>",
+      "corpo_clean": "as quantidades adquiridas em cada pedido são iguais e que o produto X tem um consumo constante.",
+      "id": 11007199,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a farmácia utiliza o modelo de estoque mínimo para controle do estoque.</p>",
+      "corpo_clean": "a farmácia utiliza o modelo de estoque mínimo para controle do estoque.",
+      "id": 11007200,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11007199",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

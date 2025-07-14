@@ -1,0 +1,58 @@
+{
+  "id": 497498,
+  "codigo_real": "35.6.4.1.8",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Precatórios ou Dos precatórios (artigo 100 da CF)",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional Federal da 2ª Região",
+  "cargos_descricao": "Analista Judiciário - Área Judiciária",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>A Fazenda Pública Federal, em virtude de sentenças\r\njudiciais transitadas em julgado, deve para Carlos, Plínio,\r\nMarcos, Flávio e Pompeu, cujos créditos são respectivamente\r\ndecorrentes de salário, de pensão, de restituição\r\nde imposto, de indenização por morte e de\r\nindenização por invalidez. Segundo a Constituição Federal\r\nbrasileira, no caso, os pagamentos desses débitos\r\nserão realizados exclusivamente na ordem cronológica de\r\napresentação dos precatórios e, em tese, NÃO terá preferência,\r\nsobre os demais, o crédito de</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Pompeu.</p>",
+      "corpo_clean": "Pompeu.",
+      "id": 1799208,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Carlos.</p>",
+      "corpo_clean": "Carlos.",
+      "id": 1799209,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Marcos.</p>",
+      "corpo_clean": "Marcos.",
+      "id": 1799210,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Plínio.</p>",
+      "corpo_clean": "Plínio.",
+      "id": 1799211,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>Flávio.</p>",
+      "corpo_clean": "Flávio.",
+      "id": 1799212,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1799210",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

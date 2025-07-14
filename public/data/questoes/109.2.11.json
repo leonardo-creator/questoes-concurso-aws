@@ -1,0 +1,58 @@
+{
+  "id": 3800858,
+  "codigo_real": "109.2.11",
+  "disciplina_real": "Língua Espanhola",
+  "assunto_real": "Conjunções",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Ministério Público do Rio de Janeiro",
+  "cargos_descricao": "Técnico do Ministério Público - Área Notificação e Atos Intimatórios",
+  "ano": 2025,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Todos os pensamentos abaixo mostram conectores sublinhados. Assinale a frase que mostra o significado textual desse conector de forma correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Um marido não deve nunca dormir primeiro <u>nem</u> se levantar por último / relação adversativa.</p>",
+      "corpo_clean": "Um marido não deve nunca dormir primeiro nem se levantar por último / relação adversativa.",
+      "id": 15488931,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Ele e eu tínhamos um escritório tão pequeno, <u>que</u> um centímetro a menos seria uma tragédia / relação de consequência.</p>",
+      "corpo_clean": "Ele e eu tínhamos um escritório tão pequeno, que um centímetro a menos seria uma tragédia / relação de consequência.",
+      "id": 15488932,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Trabalhar dia e noite é <u>como</u> habitar o inferno sem poder de lá sair.</p>",
+      "corpo_clean": "Trabalhar dia e noite é como habitar o inferno sem poder de lá sair.",
+      "id": 15488933,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"><u>Se</u> não puder abraçar as crianças, guarde-as em seu coração / relação de finalidade.</p>",
+      "corpo_clean": "Se não puder abraçar as crianças, guarde-as em seu coração / relação de finalidade.",
+      "id": 15488934,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Nunca ajude uma criança a fazer a sua tarefa <u>enquanto</u> ela sentir que pode ser bem-sucedida sozinha. / relação de comparação.</p>",
+      "corpo_clean": "Nunca ajude uma criança a fazer a sua tarefa enquanto ela sentir que pode ser bem-sucedida sozinha. / relação de comparação.",
+      "id": 15488935,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15488932",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

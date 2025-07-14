@@ -1,0 +1,58 @@
+{
+  "id": 802901,
+  "codigo_real": "4.2.4.4",
+  "disciplina_real": "Administração Pública",
+  "assunto_real": "O Novo Gerencialismo Público ou Nova Gestão Pública (NGP) ou New Public Management (NPM) - O Novo Gerencialismo Público ou Nova Gestão Pública (NGP) ou New Public Management (NPM)",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Prefeitura de Florianópolis",
+  "cargos_descricao": "Administrador",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Sobre os contornos e propostas da Nova Administração Pública\r\n(Bresser Pereira, 1998), é possível incluir:",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "a centralização do ponto de vista político, reduzindo a\r\ntransferência de recursos e atribuições para os níveis\r\nregionais e locais;",
+      "corpo_clean": "a centralização do ponto de vista político, reduzindo a transferência de recursos e atribuições para os níveis regionais e locais;",
+      "id": 2766455,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "o controle por resultados, a posteriori, em vez de um controle\r\npasso a passo dos processos administrativos;",
+      "corpo_clean": "o controle por resultados, a posteriori, em vez de um controle passo a passo dos processos administrativos;",
+      "id": 2766456,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "a progressiva substituição da competição administrada pela\r\ncolaboração como valor orientador das organizações;",
+      "corpo_clean": "a progressiva substituição da competição administrada pela colaboração como valor orientador das organizações;",
+      "id": 2766457,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "a centralização administrativa, com a ampliação da\r\nautoridade central;",
+      "corpo_clean": "a centralização administrativa, com a ampliação da autoridade central;",
+      "id": 2766458,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "o estímulo a organizações unitárias e monolíticas, nas quais a\r\nideia de multiplicidade tenha lugar.",
+      "corpo_clean": "o estímulo a organizações unitárias e monolíticas, nas quais a ideia de multiplicidade tenha lugar.",
+      "id": 2766459,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2766456",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

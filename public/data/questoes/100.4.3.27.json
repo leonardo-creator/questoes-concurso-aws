@@ -1,0 +1,58 @@
+{
+  "id": 4406,
+  "codigo_real": "100.4.3.27",
+  "disciplina_real": "Legislação Federal",
+  "assunto_real": "Lei nº 6.530/1978 - Dá nova regulamentação à profissão de Corretor de Imóveis, disciplina o funcionamento de seus órgãos de fiscalização e dá outras providências.",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal de Contas de Minas Gerais",
+  "cargos_descricao": "Auditor",
+  "ano": 2005,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>O prefeito que aliena bem imóvel sem autorização da\r\nrespectiva Câmara Municipal incorre em crime previsto no\r\nDecreto-lei 201/67, sujeitando-se à</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>pena de detenção de 3 (três) meses a 3 (três) anos.</p>",
+      "corpo_clean": "pena de detenção de 3 (três) meses a 3 (três) anos.",
+      "id": 21735,
+      "ordem": 1,
+      "rotulo": "a    "
+    },
+    {
+      "corpo": "<p align=justify>pena de reclusão de 2 (dois) a 12 (doze) anos.</p>",
+      "corpo_clean": "pena de reclusão de 2 (dois) a 12 (doze) anos.",
+      "id": 21736,
+      "ordem": 2,
+      "rotulo": "b    "
+    },
+    {
+      "corpo": "<p align=justify>inabilitação pelo prazo de 8 (oito) anos, para o\r\nexercício de cargo ou função pública, eletivo ou de\r\nnomeação, sem prejuízo da reparação civil do dano\r\ncausado ao patrimônio público ou particular, em\r\ncaso de condenação definitiva.</p>",
+      "corpo_clean": "inabilitação pelo prazo de 8 (oito) anos, para o exercício de cargo ou função pública, eletivo ou de nomeação, sem prejuízo da reparação civil do dano causado ao patrimônio público ou particular, em caso de condenação definitiva.",
+      "id": 21737,
+      "ordem": 3,
+      "rotulo": "c    "
+    },
+    {
+      "corpo": "<p align=justify>inabilitação pelo prazo de 4 (quatro) anos, para o\r\nexercício de cargo ou função pública, eletivo ou de\r\nnomeação, sem prejuízo da reparação civil do dano\r\ncausado ao patrimônio público ou particular, em\r\ncaso de condenação definitiva.</p>",
+      "corpo_clean": "inabilitação pelo prazo de 4 (quatro) anos, para o exercício de cargo ou função pública, eletivo ou de nomeação, sem prejuízo da reparação civil do dano causado ao patrimônio público ou particular, em caso de condenação definitiva.",
+      "id": 21738,
+      "ordem": 4,
+      "rotulo": "d    "
+    },
+    {
+      "corpo": "<p align=justify>pena de reclusão de 2 (dois) a 12 (doze) anos e à\r\ninabilitação pelo prazo de 5 (cinco anos), para o\r\nexercício de cargo ou função pública, eletivo ou de\r\nnomeação, sem prejuízo da reparação civil do dano\r\ncausado ao patrimônio público ou particular, em\r\ncaso de condenação definitiva.</p>",
+      "corpo_clean": "pena de reclusão de 2 (dois) a 12 (doze) anos e à inabilitação pelo prazo de 5 (cinco anos), para o exercício de cargo ou função pública, eletivo ou de nomeação, sem prejuízo da reparação civil do dano causado ao patrimônio público ou particular, em caso de condenação definitiva.",
+      "id": 21739,
+      "ordem": 5,
+      "rotulo": "e    "
+    }
+  ],
+  "resposta_correta": "21735",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

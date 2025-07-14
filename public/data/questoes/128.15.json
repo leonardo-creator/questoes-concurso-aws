@@ -1,0 +1,58 @@
+{
+  "id": 2778629,
+  "codigo_real": "128.15",
+  "disciplina_real": "Psicologia",
+  "assunto_real": "Teorias e Técnicas Psicoterápicas - Teorias e Técnicas Psicoterápicas",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Companhia Prudentina de Desenvolvimento de Presidente Prudente",
+  "cargos_descricao": "Psicólogo",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">As psicoterapias breves são caracterizadas por apresentarem objetivos limitados e por suas metas serem mais reduzidas e mais modestas que as psicoterapias convencionais, auxiliando os pacientes em seus problemas atuais. Porém, nem todos os pacientes podem ser beneficiados por esse modelo de atendimento. Assinale a alternativa que apresenta uma contraindicação ao atendimento em Psicoterapia Breve.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Pacientes com pelo menos uma relação significativa com outra pessoa em sua vida.</p>",
+      "corpo_clean": "Pacientes com pelo menos uma relação significativa com outra pessoa em sua vida.",
+      "id": 11160038,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os pacientes estarem no momento da psicoterapia por uma crise emocional.</p>",
+      "corpo_clean": "Os pacientes estarem no momento da psicoterapia por uma crise emocional.",
+      "id": 11160039,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os pacientes terem disposição para mudanças e trabalho duro durante o tratamento.</p>",
+      "corpo_clean": "Os pacientes terem disposição para mudanças e trabalho duro durante o tratamento.",
+      "id": 11160040,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Os pacientes apresentarem uma queixa emocional específica.</p>",
+      "corpo_clean": "Os pacientes apresentarem uma queixa emocional específica.",
+      "id": 11160041,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os pacientes apresentarem postura passiva para compreender suas perturbações emocionais.</p>",
+      "corpo_clean": "Os pacientes apresentarem postura passiva para compreender suas perturbações emocionais.",
+      "id": 11160042,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11160042",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

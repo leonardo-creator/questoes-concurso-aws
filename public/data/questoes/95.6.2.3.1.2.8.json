@@ -1,0 +1,58 @@
+{
+  "id": 497966,
+  "codigo_real": "95.6.2.3.1.2.8",
+  "disciplina_real": "Informática",
+  "assunto_real": "Dados - Banco de Dados",
+  "bancas_nome": "COPEVE/UFAL - FUNDEPES",
+  "bancas_sigla": "",
+  "orgaos_nome": "Ministério Público de Alagoas",
+  "cargos_descricao": "Analista - Área: Administração de Banco de Dados",
+  "ano": 2012,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Um modelo de banco de dados multidimensional está mais\r\nfortemente relacionado com</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>data warehouse.</p>",
+      "corpo_clean": "data warehouse.",
+      "id": 1801081,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>modelo relacional.</p>",
+      "corpo_clean": "modelo relacional.",
+      "id": 1801082,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>bancos hierárquicos.</p>",
+      "corpo_clean": "bancos hierárquicos.",
+      "id": 1801083,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>modelo em 3 camadas.</p>",
+      "corpo_clean": "modelo em 3 camadas.",
+      "id": 1801084,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>banco de dados distribuídos.</p>",
+      "corpo_clean": "banco de dados distribuídos.",
+      "id": 1801085,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1801081",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

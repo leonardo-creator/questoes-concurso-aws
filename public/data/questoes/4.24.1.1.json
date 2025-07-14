@@ -1,0 +1,51 @@
+{
+  "id": 2758974,
+  "codigo_real": "4.24.1.1",
+  "disciplina_real": "Administração Pública",
+  "assunto_real": "Plano Plurianual - Plano Plurianual - PPA",
+  "bancas_nome": "SELECON Instituto Nacional de Seleções e Concursos",
+  "bancas_sigla": "SELECON",
+  "orgaos_nome": "Câmara de Lucas do Rio Verde",
+  "cargos_descricao": "Analista Administrativo",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No processo orçamentário, o plano de médio prazo no qual se ordenam as ações do governo que devem levar ao atingimento dos objetivos e metas fixados para um período de quatro anos é denominado:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Plano plurianual</p>",
+      "corpo_clean": "Plano plurianual",
+      "id": 11071852,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Orçamento de investimentos</p>",
+      "corpo_clean": "Orçamento de investimentos",
+      "id": 11071853,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Lei de Orçamento Quadrienal</p>",
+      "corpo_clean": "Lei de Orçamento Quadrienal",
+      "id": 11071854,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Lei de Diretrizes Orçamentárias</p>",
+      "corpo_clean": "Lei de Diretrizes Orçamentárias",
+      "id": 11071855,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11071852",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

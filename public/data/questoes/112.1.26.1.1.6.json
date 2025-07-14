@@ -1,0 +1,51 @@
+{
+  "id": 2823844,
+  "codigo_real": "112.1.26.1.1.6",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Sinestesia - Sinestesia",
+  "bancas_nome": "MS Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Turvelândia",
+  "cargos_descricao": "Padeiro",
+  "ano": 2023,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Sobre figuras de linguagem, assinale a alternativa incorreta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Confessou ao sacerdote seu negro pecado. (Metáfora).</p>",
+      "corpo_clean": "Confessou ao sacerdote seu negro pecado. (Metáfora).",
+      "id": 11361749,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>“Trabalha, e teima, e lima, e sofre, e sua!” (Assíndeto).</p>",
+      "corpo_clean": "“Trabalha, e teima, e lima, e sofre, e sua!” (Assíndeto).",
+      "id": 11361750,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Morro de fome assim! (Hipérbole).</p>",
+      "corpo_clean": "Morro de fome assim! (Hipérbole).",
+      "id": 11361751,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>“A cor cantava-me nos olhos...” (Sinestesia).</p>",
+      "corpo_clean": "“A cor cantava-me nos olhos...” (Sinestesia).",
+      "id": 11361752,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "11361750",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

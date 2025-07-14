@@ -1,0 +1,58 @@
+{
+  "id": 600644,
+  "codigo_real": "128.14.2",
+  "disciplina_real": "Psicologia",
+  "assunto_real": "Avaliação Psicológica - Avaliação Psicológica",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Defensoria Pública do Rio Grande do Sul",
+  "cargos_descricao": "Analista - Área Psicologia",
+  "ano": 2013,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>O protocolo básico de avaliação neuropsicológica deve\r\npermitir ao examinador vislumbrar o funcionamento cognitivo\r\nglobal do paciente, sendo que se pode identificar 3\r\ntipos de avaliação: diagnóstica, prognóstica e longitudinal\r\n(Andrade, 2002). A avaliação diagnóstica é utilizada para</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>o acompanhamento evolutivo e para determinar as\r\nconsequências de um procedimento cirúrgico, nos\r\nestágios de doença não degenerativa e no seguimento\r\nde um programa de reabilitação e treinamento\r\ncognitivo.</p>",
+      "corpo_clean": "o acompanhamento evolutivo e para determinar as consequências de um procedimento cirúrgico, nos estágios de doença não degenerativa e no seguimento de um programa de reabilitação e treinamento cognitivo.",
+      "id": 2109481,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>delinear o impacto de determinado fenômeno (tumor,\r\ntrauma cranioencefálico, acidente vascular cerebral,\r\ninfecção, intoxicação, abuso de substâncias, por\r\nexemplo) sobre o funcionamento comportamental do\r\nindivíduo.</p>",
+      "corpo_clean": "delinear o impacto de determinado fenômeno (tumor, trauma cranioencefálico, acidente vascular cerebral, infecção, intoxicação, abuso de substâncias, por exemplo) sobre o funcionamento comportamental do indivíduo.",
+      "id": 2109482,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>o acompanhamento evolutivo e para determinar as\r\nconsequências de um procedimento cirúrgico, nos\r\nestágios de doença degenerativa, no acompanhamento\r\nde tratamento medicamentoso.</p>",
+      "corpo_clean": "o acompanhamento evolutivo e para determinar as consequências de um procedimento cirúrgico, nos estágios de doença degenerativa, no acompanhamento de tratamento medicamentoso.",
+      "id": 2109483,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>determinar a natureza, a extensão e as implicações\r\ndo déficit neuropsicológico, estabelecendo relações\r\nentre os comprometimentos e os recursos preservados.</p>",
+      "corpo_clean": "determinar a natureza, a extensão e as implicações do déficit neuropsicológico, estabelecendo relações entre os comprometimentos e os recursos preservados.",
+      "id": 2109484,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>impedir a evolução de um prognóstico ruim, garantindo\r\no retorno do indivíduo ao emprego ou para\r\ndirigir um veículo.</p>",
+      "corpo_clean": "impedir a evolução de um prognóstico ruim, garantindo o retorno do indivíduo ao emprego ou para dirigir um veículo.",
+      "id": 2109485,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2109484",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 91906,
+  "codigo_real": "31.14",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Processo Administrativo - Lei 9.784/99",
+  "bancas_nome": "Escola de Administração Fazendária",
+  "bancas_sigla": "ESAF",
+  "orgaos_nome": "Ministério do Trabalho e Emprego",
+  "cargos_descricao": "Auditor Fiscal do Trabalho",
+  "ano": 2003,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify><p align=justify>Concluída a instrução do processo administrativo,\r\na Administração, nos termos da Lei Federal\r\nnº 9.784/99, tem o seguinte prazo para decidir,\r\nadmitida a prorrogação por igual período:</p></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>10 dias</p>",
+      "corpo_clean": "10 dias",
+      "id": 433869,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>10 dias úteis</p>",
+      "corpo_clean": "10 dias úteis",
+      "id": 433870,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>30 dias</p>",
+      "corpo_clean": "30 dias",
+      "id": 433871,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>30 dias úteis</p>",
+      "corpo_clean": "30 dias úteis",
+      "id": 433872,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>15 dias</p>",
+      "corpo_clean": "15 dias",
+      "id": 433873,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "433871",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

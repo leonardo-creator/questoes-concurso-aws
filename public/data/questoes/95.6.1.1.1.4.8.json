@@ -1,0 +1,51 @@
+{
+  "id": 2332872,
+  "codigo_real": "95.6.1.1.1.4.8",
+  "disciplina_real": "Informática",
+  "assunto_real": "Guia Exibir",
+  "bancas_nome": "Coordenadoria de Apoio a Instituições Públicas IMES",
+  "bancas_sigla": "CAIPIMES",
+  "orgaos_nome": "Serviço Municipal de Saneamento Ambiental de Santo André",
+  "cargos_descricao": "Engenheiro - Área: Segurança do Trabalho",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um funcionário de uma empresa pública municipal precisa localizar a função “Macros” no aplicativo Microsoft Excel 2013 em português. Ele deverá pressionar a guia: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Layout da Página. </p>",
+      "corpo_clean": "Layout da Página. ",
+      "id": 9217329,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Revisão.</p>",
+      "corpo_clean": "Revisão.",
+      "id": 9217330,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Inserir.</p>",
+      "corpo_clean": "Inserir.",
+      "id": 9217331,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Exibir.</p>",
+      "corpo_clean": "Exibir.",
+      "id": 9217332,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9217332",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

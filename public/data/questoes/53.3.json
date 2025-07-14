@@ -1,0 +1,58 @@
+{
+  "id": 1083425,
+  "codigo_real": "53.3",
+  "disciplina_real": "Direito Urbanístico",
+  "assunto_real": "Parcelamento do solo urbano - Parcelamento do solo urbano - Lei 6.766/1979",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Arujá",
+  "cargos_descricao": "Advogado",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>A respeito do parcelamento do solo urbano, é correto afirmar\r\nque</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>cabe à lei municipal disciplinar a aprovação de loteamentos\r\nlocalizados em área de interesse especial,\r\ntais como as de proteção de mananciais e do patrimônio\r\ncultural, histórico, paisagístico e arqueológico,\r\ndefinidas pela legislação estadual ou federal.</p>",
+      "corpo_clean": "cabe à lei municipal disciplinar a aprovação de loteamentos localizados em área de interesse especial, tais como as de proteção de mananciais e do patrimônio cultural, histórico, paisagístico e arqueológico, definidas pela legislação estadual ou federal.",
+      "id": 3818475,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>em nenhuma hipótese será permitido o parcelamento\r\ndo solo em terrenos sujeitos a inundações, que\r\ntenham sido objeto de aterro com material nocivo à\r\nsaúde ou com declividade igual ou superior a 30%\r\n(trinta por cento).</p>",
+      "corpo_clean": "em nenhuma hipótese será permitido o parcelamento do solo em terrenos sujeitos a inundações, que tenham sido objeto de aterro com material nocivo à saúde ou com declividade igual ou superior a 30% (trinta por cento).",
+      "id": 3818476,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>cabe à lei municipal definir os prazos para aprovação\r\nou rejeição de projeto de parcelamento e sobre aceitação\r\nou recusa das obras de urbanização. Transcorridos\r\nos prazos sem manifestação do poder público,\r\nconsidera-se aprovado o projeto de parcelamento e\r\naceitas as obras de urbanização executadas.</p>",
+      "corpo_clean": "cabe à lei municipal definir os prazos para aprovação ou rejeição de projeto de parcelamento e sobre aceitação ou recusa das obras de urbanização. Transcorridos os prazos sem manifestação do poder público, considera-se aprovado o projeto de parcelamento e aceitas as obras de urbanização executadas.",
+      "id": 3818477,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>depois da aprovação do loteamento, os espaços livres\r\nde uso comum, as vias e praças, as áreas destinadas\r\na edifícios públicos e outros equipamentos\r\nurbanos, constantes do projeto e do memorial descritivo,\r\npoderão ter sua destinação alterada pelo loteador\r\nmediante requerimento formulado à Prefeitura.</p>",
+      "corpo_clean": "depois da aprovação do loteamento, os espaços livres de uso comum, as vias e praças, as áreas destinadas a edifícios públicos e outros equipamentos urbanos, constantes do projeto e do memorial descritivo, poderão ter sua destinação alterada pelo loteador mediante requerimento formulado à Prefeitura.",
+      "id": 3818478,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>enquanto não houver alienação de lotes, o registro\r\ndo loteamento pode ser cancelado a requerimento\r\ndo loteador e com anuência da Prefeitura; se houve\r\nalienação de lotes, o requerimento deve ser formulado\r\nem conjunto pelo loteador e todos os adquirentes\r\ne com anuência da Prefeitura e do Estado.</p>",
+      "corpo_clean": "enquanto não houver alienação de lotes, o registro do loteamento pode ser cancelado a requerimento do loteador e com anuência da Prefeitura; se houve alienação de lotes, o requerimento deve ser formulado em conjunto pelo loteador e todos os adquirentes e com anuência da Prefeitura e do Estado.",
+      "id": 3818479,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3818479",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

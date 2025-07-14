@@ -1,0 +1,51 @@
+{
+  "id": 1259843,
+  "codigo_real": "58.20.13.13",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Coma",
+  "bancas_nome": "Instituto Machado de Assis",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Tuntum",
+  "cargos_descricao": "Enfermeiro Intervencionista",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Assinale a alternativa na qual o produto para tratamento de lesões e uma de suas possíveis indicações encontra-se incorretamente associado:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Bandagem elástica auto- aderente: Úlceras arteriais ou mistas.</p>",
+      "corpo_clean": "Bandagem elástica auto- aderente: Úlceras arteriais ou mistas.",
+      "id": 4566600,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Espuma de poliuretano: Feridas com perda tecidual profunda parcial ou total.</p>",
+      "corpo_clean": "Espuma de poliuretano: Feridas com perda tecidual profunda parcial ou total.",
+      "id": 4566601,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Filme transparente estéril: Coberturas de incisões cirúrgicas limpas sem presença de exsudato.</p>",
+      "corpo_clean": "Filme transparente estéril: Coberturas de incisões cirúrgicas limpas sem presença de exsudato.",
+      "id": 4566602,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Placa de Hidrocoloide: Prevenção e tratamento de feridas abertas não infectadas, com pouco a moderado exsudato.</p>",
+      "corpo_clean": "Placa de Hidrocoloide: Prevenção e tratamento de feridas abertas não infectadas, com pouco a moderado exsudato.",
+      "id": 4566603,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4566600",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

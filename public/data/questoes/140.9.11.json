@@ -1,0 +1,51 @@
+{
+  "id": 1198596,
+  "codigo_real": "140.9.11",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Ataques e Golpes - Denial of Service (DoS)",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de São Bento do Sul",
+  "cargos_descricao": "Fiscal de Tributos",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>É uma técnica pela qual um atacante\r\nutiliza um computador para tirar de\r\noperação um serviço, um servidor, um\r\ncomputador ou uma rede conectada à\r\nInternet. O objetivo desses ataques não\r\né invadir e nem coletar informações,\r\nmas sobrecarregar o alvo com a\r\nfinalidade de torná-lo indisponível. A que\r\no enunciado se refere?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Defacement.</p>",
+      "corpo_clean": "Defacement.",
+      "id": 4312650,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Spoofing.</p>",
+      "corpo_clean": "Spoofing.",
+      "id": 4312651,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Sniffing.</p>",
+      "corpo_clean": "Sniffing.",
+      "id": 4312652,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<div style=\"text-align: justify;\">DoS (<i>Denial of Service</i>).</div>",
+      "corpo_clean": "DoS (Denial of Service).",
+      "id": 4312653,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4312653",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

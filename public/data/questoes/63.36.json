@@ -1,0 +1,58 @@
+{
+  "id": 891027,
+  "codigo_real": "63.36",
+  "disciplina_real": "Engenharia Civil",
+  "assunto_real": "Avaliação Imobiliária em Engenharia Civil",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Instituto Brasileiro de Geografia e Estatística",
+  "cargos_descricao": "Analista Censitário - Área Gestão",
+  "ano": 2017,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Um administrador contratou a pintura de quatro salas da sede da empresa em que trabalha, ao custo de R$1.500,00 por sala e com o prazo de uma semana por sala.\r\n</p><p>Ao fim da segunda semana, a situação do projeto é a retratada na tabela abaixo. </p><p><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/26554/14.gif\"></p><p>O administrador quer analisar o andamento do projeto usando a técnica da EVA (Earned Value Analysis) e calcular dois índices de desempenho para o projeto.\r\n</p><p>A partir dos dados acima, seriam dois índices de desempenho e seus respectivos valores:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "PV = 6.000,00; SPI = 0,8;",
+      "corpo_clean": "PV = 6.000,00; SPI = 0,8;",
+      "id": 3119602,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "CPI = 0,67; SPI = 0,8;",
+      "corpo_clean": "CPI = 0,67; SPI = 0,8;",
+      "id": 3119603,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "AC = 3.600,00; SV = -600,00;",
+      "corpo_clean": "AC = 3.600,00; SV = -600,00;",
+      "id": 3119604,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": " EV = 2.400,00; CV = -1.200,00;",
+      "corpo_clean": " EV = 2.400,00; CV = -1.200,00;",
+      "id": 3119605,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "PV = 3.000,00; AC = 0,8.",
+      "corpo_clean": "PV = 3.000,00; AC = 0,8.",
+      "id": 3119606,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3119603",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

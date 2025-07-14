@@ -1,0 +1,58 @@
+{
+  "id": 1409092,
+  "codigo_real": "112.2.1.3.2.1.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Oxítonas",
+  "bancas_nome": "Assessoria em Organização de Concursos Públicos",
+  "bancas_sigla": "AOCP",
+  "orgaos_nome": "Secretaria de Estado da Justiça e da Cidadania de Roraima",
+  "cargos_descricao": "Agente Penitenciário (polícia penal)",
+  "ano": 2020,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a opção que completa corretamente as lacunas abaixo:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">___ duas semanas, Franco explicou que 1,8 ____ de doses são referentes ___ adesão para fornecimento da vacina de Oxford.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify; text-indent: 2em;\">Com mais de cinco milhões de infectados pelo novo coronavírus, o Ministério da Saúde promete estar próximo de garantir uma vacina contra a doença. Mais do que isso, ontem, a pasta estimou que terá 140 milhões de doses do imunizante disponíveis no primeiro semestre de 2021. O governo anunciou, em coletiva, que pagou a primeira parcela da iniciativa Covax Facility, no valor de R$ 830 milhões, de um total de R$ 2,5 bilhões.</p><p style=\"text-align: justify; text-indent: 2em;\">“Foi feito um pagamento antecipado de R$ 830 milhões. Depois, de acordo com as condições contratuais será feito o restante do pagamento quando se definir um dos laboratórios (com uma vacina que se mostrar efetiva)”, disse o secretário executivo da pasta, Élcio Franco.</p><p style=\"text-align: justify; text-indent: 2em;\">As doses têm duas fontes de fornecimento: o acordo fechado com a iniciativa Covax Facility, uma aliança global que visa acelerar o desenvolvimento de vacinas contra a Covid-19 e fazer uma distribuição equitativa, e o contrato com a AstraZeneca em parceria com a Universidade de Oxford. Além disso, o governo espera produzir vacinas em território nacional, até o fim do ano que vem, com a transferência de tecnologia prevista no contrato da vacina de Oxford.</p><p style=\"text-align: justify; text-indent: 2em;\">“Somando as duas iniciativas, nós já temos garantido para o primeiro semestre de 2021 o acesso a 140 milhões de doses de vacina para aderir ao nosso Programa Nacional de Imunização (PNI)”, declarou o secretário- executivo da Saúde, Élcio Franco, em coletiva de imprensa. Franco explicou que 100 milhões de doses são referentes ao acordo para fornecimento da vacina de Oxford; as outras 40 milhões vêm da parceria com a Covax Facility. Com elas, o governo pretende imunizar 10% da população, ou seja, 20 milhões de pessoas. As vacinas candidatas do portfólio da Covax preveem que cada cidadão precisa de duas doses. No Brasil, portanto, seriam necessários 40 milhões de doses.</p><p style=\"text-align: justify; text-indent: 2em;\">Segundo o Ministério, contudo, os 10% são baseados em estudos científicos que apontam grupos de risco principais para o desenvolvimento de formas graves da doença. O secretário-executivo explicou que a pasta chegou ao número somando idosos com 80 anos ou mais, pessoas com morbidades e trabalhadores de saúde. Ainda não se sabe, porém, qual vacina será oferecida pela iniciativa da Covax, já que até o momento nove integram seu portfólio.</p><p style=\"text-align: justify; text-indent: 2em;\">A vacina desenvolvida pela Universidade de Oxford e pelo laboratório AstraZeneca, por exemplo, que está inclusa no leque da Covax, também prevê aplicação de duas doses. Com isso, os 140 milhões de imunizantes previstos pelo governo seriam suficientes para imunizar 70 milhões de pessoas. Para aumentar a oferta, o secretário de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde, Hélio Angotti Neto, afirmou que o Brasil mantém tratativas com laboratórios e centros de pesquisas que atuam no desenvolvimento de vacinas contra a Covid-19.</p><p style=\"text-align: justify; text-indent: 2em;\">Segundo ele, nove desenvolvedores manifestaram interesse em negociar com o governo brasileiro. São eles: Oxford/Astrazeneca (Reino Unido), Sinovac/ Butantan (China), Pfizer (Estados Unidos e Alemanha), Sinopharm (China), Sputinik5 (Rússia), Covaxx e Novavax (Estados Unidos), Janssen (Bélgica) e Merck (Estados Unidos, França e Áustria).</p><p><br></p><h6>Maria Eduarda Cardim, Correio Braziliense, 9/10/2020 (com adaptações).</h6>",
+  "alternativas": [
+    {
+      "corpo": "<p>Há – milhão – à</p>",
+      "corpo_clean": "Há – milhão – à",
+      "id": 5190377,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Há – milhões – a</p>",
+      "corpo_clean": "Há – milhões – a",
+      "id": 5190378,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>A – milhão – à</p>",
+      "corpo_clean": "A – milhão – à",
+      "id": 5190379,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>A – milhões – a</p>",
+      "corpo_clean": "A – milhões – a",
+      "id": 5190380,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Há – milhões – à</p>",
+      "corpo_clean": "Há – milhões – à",
+      "id": 5190381,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "5190377",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

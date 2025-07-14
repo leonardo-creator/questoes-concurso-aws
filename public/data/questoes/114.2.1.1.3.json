@@ -1,0 +1,51 @@
+{
+  "id": 45105,
+  "codigo_real": "114.2.1.1.3",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Juros Simples Ordinários (comerciais) e Exatos - Juros Simples Ordinários (comerciais) e Exatos",
+  "bancas_nome": "MULT-SAI",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Tenente Laurentino Cruz",
+  "cargos_descricao": "Professor - Área: Ensino Fundamental",
+  "ano": 2007,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>O diretor de uma escola emprestou ao seu funcionário\r\nR$ 700,00 para pagar em 4 meses com juros simples.\r\nSabendo que o diretor recebeu um montante de R$ 770,00, a\r\ntaxa de juro mensal equivalente a:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>1,2%;</p>",
+      "corpo_clean": "1,2%;",
+      "id": 214409,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>1,8%;</p>",
+      "corpo_clean": "1,8%;",
+      "id": 214410,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>2,0%;</p>",
+      "corpo_clean": "2,0%;",
+      "id": 214411,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>2,5%.</p>",
+      "corpo_clean": "2,5%.",
+      "id": 214412,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "214412",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

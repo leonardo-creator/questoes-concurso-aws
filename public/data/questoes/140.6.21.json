@@ -1,0 +1,37 @@
+{
+  "id": 3200516,
+  "codigo_real": "140.6.21",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Sistemas de Informação",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Banco Central do Brasil",
+  "cargos_descricao": "Analista - Área: Tecnologia da Informação",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">O processamento em tempo real é uma capacidade crítica em muitas aplicações de Big Data, permitindo que organizações detectem e respondam a eventos e tendências emergentes de forma quase instantânea, o que é essencial para casos de uso como detecção de fraude e monitoramento de redes sociais.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 13001220,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 13001221,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13001220",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

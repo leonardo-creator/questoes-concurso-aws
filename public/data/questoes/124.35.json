@@ -1,0 +1,37 @@
+{
+  "id": 676295,
+  "codigo_real": "124.35",
+  "disciplina_real": "Odontologia",
+  "assunto_real": "Legislação Profissional de Odontologia",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Polícia Federal",
+  "cargos_descricao": "Perito Criminal Federal",
+  "ano": 2013,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p align=justify>Iniciado o processo de revalidação de seu diploma, o\r\nprofissional portador de diploma expedido por escolas\r\nestrangeiras de países signatários de tratado específico poderá\r\nobter autorização administrativa provisória, válida por um\r\nperíodo máximo de noventa dias, para exercer a odontologia\r\nna modalidade de clínica geral no território brasileiro.</p>",
+  "grupoQuestao_enunciado": "<p align=justify>Acerca dos aspectos históricos da odontologia legal e da\r\nregulamentação de seu exercício no Brasil, julgue os itens que se\r\nseguem.</p>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 2316312,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 2316313,
+      "ordem": 1,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2316313",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

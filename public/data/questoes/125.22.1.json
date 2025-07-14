@@ -1,0 +1,58 @@
+{
+  "id": 3630587,
+  "codigo_real": "125.22.1",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Tecnologias da Informação e Comunicação (TIC) nas práticas educativas",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Aparecida",
+  "cargos_descricao": "Supervisor de Ensino",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Os supervisores de ensino de um sistema de educação municipal paulista desenvolveram uma assessoria aos diretores e coordenadores pedagógicos das escolas para o processo de “incorporação das tecnologias da informação e da comunicação (TICs) na educação”, apoiando-se, principlmente, em dois textos: o capítulo 3, de Coll, Mauri e Onrubia, da obra “Psicologia da Educação Virtual” (2010), e o capítulo VII: “Tecnologias e Gestão do Conhecimento na Escola”, de M . Elizabeth B. De Almeida, da obra “Gestão Educacional e Tecnologia (2003).</p><p style=\"text-align: justify;\">Coll, Mauri e Onrubia apontam três niveis dessa incorporação: o do projeto tecnológico, o do projeto técnico-pedagógico e o das práticas de uso, e analisam disparidades entre eles, quanto a essa incorporação e, também, fatores e condições que a facilitam ou que a dificultam, nos diferentes contextos considerados. Almeida apresenta argumentação que articula as TICs com a Gestão educacional e analisa resultados de projeto ligado ao ProInfo (Programa da Secretaria de Educação a Distância, do MEC) e desenvolvido pela Pontifícia Universidade Católica de São Paulo (PUC-SP). Levando em conta as contribuições dos textos de referência e as demandas formativas da Sociedade da Informação (SI), a assessoria dos supervisores buscou desenvolver uma concepção das TICs e de sua incorporação na educação escolar que as compreende como</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">recurso poderoso de informação para que cada um desenvolva seus talentos e suas capacidades ao máximo.</p>",
+      "corpo_clean": "recurso poderoso de informação para que cada um desenvolva seus talentos e suas capacidades ao máximo.",
+      "id": 14793123,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">instrumento de comunicação e comando administrativos nas escolas para disciplinar e padronizar o ensino e as aprendizagens.</p>",
+      "corpo_clean": "instrumento de comunicação e comando administrativos nas escolas para disciplinar e padronizar o ensino e as aprendizagens.",
+      "id": 14793124,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">recurso para executar as mesmas tarefas que já eram feitas sem elas, de diferentes naturezas, porém em maior volume e/ou em menor período de tempo.</p>",
+      "corpo_clean": "recurso para executar as mesmas tarefas que já eram feitas sem elas, de diferentes naturezas, porém em maior volume e/ou em menor período de tempo.",
+      "id": 14793125,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">instrumento de informação e de comunicação com possibilidades revolucionárias de interação nas áreas administrativa, de formação, de ensino e de aprendizagem.</p>",
+      "corpo_clean": "instrumento de informação e de comunicação com possibilidades revolucionárias de interação nas áreas administrativa, de formação, de ensino e de aprendizagem.",
+      "id": 14793126,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">instrumento tecnológico de informação individual que dá autonomia para aprender por meio de pesquisa <em>on line</em>, desde que se troquem salas de aula por laboratórios de informática.</p>",
+      "corpo_clean": "instrumento tecnológico de informação individual que dá autonomia para aprender por meio de pesquisa on line, desde que se troquem salas de aula por laboratórios de informática.",
+      "id": 14793127,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14793126",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

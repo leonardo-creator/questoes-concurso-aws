@@ -1,0 +1,51 @@
+{
+  "id": 3691388,
+  "codigo_real": "3.3.12",
+  "disciplina_real": "Administração Geral",
+  "assunto_real": "Balanced Scorecard (BSC)",
+  "bancas_nome": "Instituto Brasileiro de Administração Municipal",
+  "bancas_sigla": "IBAM",
+  "orgaos_nome": "Progresso e Desenvolvimento de Santos",
+  "cargos_descricao": "Administrador",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O Balanced Scorecard (BSC) trata-se de uma ferramenta de gestão estratégica que auxilia as organizações a traduzirem sua visão e estratégia em um conjunto de objetivos e indicadores mensuráveis. Assinale a alternativa correspondente a uma das características importantes do BSC quando busca garantir que os esforços da organização estejam alinhados com a missão e a visão de longo prazo.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Foco na estratégia.</p>",
+      "corpo_clean": "Foco na estratégia.",
+      "id": 15033631,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Perspectivas balanceadas.</p>",
+      "corpo_clean": "Perspectivas balanceadas.",
+      "id": 15033632,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Monitorar indicadores.</p>",
+      "corpo_clean": "Monitorar indicadores.",
+      "id": 15033633,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Integração de resultados financeiros.</p>",
+      "corpo_clean": "Integração de resultados financeiros.",
+      "id": 15033634,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "15033631",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

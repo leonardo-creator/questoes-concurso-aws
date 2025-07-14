@@ -1,0 +1,37 @@
+{
+  "id": 2471178,
+  "codigo_real": "98.3.8.17",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Conselho Regional de Enfermagem do Amazonas - COREN AM",
+  "bancas_nome": "Instituto Quadrix",
+  "bancas_sigla": "Quadrix",
+  "orgaos_nome": "Conselho Regional de Medicina de Rondônia",
+  "cargos_descricao": "Controle Interno",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">O Conselho Regional de Medicina do Estado de Rondônia é o órgão supervisor da ética profissional em todo o estado de Rondônia e, ao mesmo tempo, julgador e disciplinador da atividade médica, cabendo-lhe zelar e trabalhar, por todos os meios ao seu alcance, pelo perfeito desempenho ético da medicina e pelo prestígio e bom conceito da profissão e dos que a exerçam legalmente.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\">De acordo com as disposições do Regimento Interno do Conselho Regional de Medicina de Rondônia, julgue os itens de <strong>101 </strong>a <strong>110</strong>.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 9811029,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 9811030,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9811029",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

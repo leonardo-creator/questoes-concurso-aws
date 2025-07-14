@@ -1,0 +1,58 @@
+{
+  "id": 2416237,
+  "codigo_real": "95.7.3",
+  "disciplina_real": "Informática",
+  "assunto_real": "Linux - Linux",
+  "bancas_nome": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+  "bancas_sigla": "IFES",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+  "cargos_descricao": "Analista de Tecnologia da Informação",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considere o sistema operacional Linux com as pastas organizadas no padrão <em>Filesystem Hierarchy Standard </em>(FHS). Nesse contexto, qual é o diretório que armazena arquivos gerados para dispositivos de <em>hardware</em>, como placa de vídeo e processador? </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>/bin</p>",
+      "corpo_clean": "/bin",
+      "id": 9574035,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>/root</p>",
+      "corpo_clean": "/root",
+      "id": 9574036,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>/boot </p>",
+      "corpo_clean": "/boot ",
+      "id": 9574037,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>/etc</p>",
+      "corpo_clean": "/etc",
+      "id": 9574038,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>/dev</p>",
+      "corpo_clean": "/dev",
+      "id": 9574039,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9574039",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

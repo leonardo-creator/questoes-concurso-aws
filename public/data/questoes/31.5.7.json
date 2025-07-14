@@ -1,0 +1,51 @@
+{
+  "id": 2233523,
+  "codigo_real": "31.5.7",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Acesso aos Cargos e Empregos Públicos",
+  "bancas_nome": "Universidade Estadual do Oeste do Paraná",
+  "bancas_sigla": "Unioeste",
+  "orgaos_nome": "Prefeitura de Céu Azul",
+  "cargos_descricao": "Médico ESF",
+  "ano": 2020,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Pode ser considerado provimento em cargo público, <strong><u>exceto</u></strong>:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Nomeação. </p>",
+      "corpo_clean": "Nomeação. ",
+      "id": 8784236,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Aposentadoria ou morte do servidor.</p>",
+      "corpo_clean": "Aposentadoria ou morte do servidor.",
+      "id": 8784237,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Reintegração.</p>",
+      "corpo_clean": "Reintegração.",
+      "id": 8784238,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Ascensão ou promoção.</p>",
+      "corpo_clean": "Ascensão ou promoção.",
+      "id": 8784239,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "8784237",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

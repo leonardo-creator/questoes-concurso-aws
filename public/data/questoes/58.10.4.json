@@ -1,0 +1,51 @@
+{
+  "id": 1424329,
+  "codigo_real": "58.10.4",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Cálculo de Medicamentos",
+  "bancas_nome": "Associação dos Municípios do Extremo Oeste de Santa Catarina",
+  "bancas_sigla": "AMEOSC",
+  "orgaos_nome": "Prefeitura de Princesa",
+  "cargos_descricao": "Técnico em Enfermagem",
+  "ano": 2019,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A ampola de Diazepam tem apresentação comercial de 10 mg/2 mL. 5 ampolas foram diluídas em 110 mL de soro glicosado a 5%. Se o paciente receber 90 mL dessa solução, a dosagem de diazepam infundida será de:</p><p><br></p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>25,5 mg.</p>",
+      "corpo_clean": "25,5 mg.",
+      "id": 5254843,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>30,2 mg.</p>",
+      "corpo_clean": "30,2 mg.",
+      "id": 5254844,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>37,5 mg.</p>",
+      "corpo_clean": "37,5 mg.",
+      "id": 5254845,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>42,4 mg.</p>",
+      "corpo_clean": "42,4 mg.",
+      "id": 5254846,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5254845",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

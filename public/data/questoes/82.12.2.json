@@ -1,0 +1,37 @@
+{
+  "id": 3742019,
+  "codigo_real": "82.12.2",
+  "disciplina_real": "Estatística",
+  "assunto_real": "Estudos Experimentais",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Instituto Nacional do Semiárido",
+  "cargos_descricao": "Pesquisador Adjunto - Área: Biodiversidade",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">O delineamento experimental retratado na situação hipotética pode ser caracterizado como medidas repetidas, havendo cinco observações para cada região. </p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify; text-indent: 4em;\">\tPara avaliar a eficiência de um novo método de coleta de água da chuva no semiárido, um grupo de pesquisadores instalou sistemas de coleta em 4 regiões com diferentes níveis de degradação ambiental (neutra, leve, moderada e severa), totalizando 20 diferentes sistemas, 5 por região. A instalação dos sistemas de coleta foi feita de forma a reduzir a influência de fatores específicos de cada região, permitindo que as comparações entre os tratamentos (ou condições) fossem precisas e confiáveis. Durante alguns dias de monitoramento, esses 20 sistemas registraram os volumes de água coletados (em litros), conforme os dados da tabela a seguir. Os pesquisadores calcularam a média, o desvio padrão e o coeficiente de variação para cada região; em seguida, realizaram uma análise de variância (ANOVA) para identificar diferenças significativas entre os volumes coletados nas diferentes regiões.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: center;\">\t<img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/182886/grupo-questao/716274-20250404144927000000-0.png\"></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Considerando essa situação hipotética, julgue os itens que se seguem.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 15232680,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 15232681,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15232681",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

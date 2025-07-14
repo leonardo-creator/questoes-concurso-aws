@@ -1,0 +1,58 @@
+{
+  "id": 2370292,
+  "codigo_real": "91.9",
+  "disciplina_real": "Geografia",
+  "assunto_real": "Meteorologia - Meteorologia",
+  "bancas_nome": "Ministério da Defesa - Marinha",
+  "bancas_sigla": "ComDN",
+  "orgaos_nome": "Ministério da Defesa - Marinha do Brasil",
+  "cargos_descricao": "Quadro Técnico do Corpo Auxiliar da Marinha - Área: Meteorologia",
+  "ano": 2017,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Com relação à frequência temporal, assinale a opção que apresenta o período de máxima ocorrência de ciclogênese sobre a América do Sul, segundo Cavalcanti I.F.A. (2009).</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Janeiro.</p>",
+      "corpo_clean": "Janeiro.",
+      "id": 9380152,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Maio.</p>",
+      "corpo_clean": "Maio.",
+      "id": 9380153,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Julho.</p>",
+      "corpo_clean": "Julho.",
+      "id": 9380154,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Outubro.</p>",
+      "corpo_clean": "Outubro.",
+      "id": 9380155,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>Dezembro.</p>",
+      "corpo_clean": "Dezembro.",
+      "id": 9380156,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "9380153",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

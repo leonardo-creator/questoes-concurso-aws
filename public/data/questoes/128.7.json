@@ -1,0 +1,58 @@
+{
+  "id": 2611784,
+  "codigo_real": "128.7",
+  "disciplina_real": "Psicologia",
+  "assunto_real": "Psicologia da Saúde",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Empresa Brasileira de Serviços Hospitalares - EBSERH",
+  "cargos_descricao": "Residência em Psicologia",
+  "ano": 2021,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Na organização e realização de uma oficina de intervenção em saúde, o profissional deve considerar suas especificidades. Diante do exposto, é correto afirmar que</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\"> para que o trabalho tenha alcance terapêutico deve garantir, inicialmente, a homogeneidade entre os membros.</p>",
+      "corpo_clean": " para que o trabalho tenha alcance terapêutico deve garantir, inicialmente, a homogeneidade entre os membros.",
+      "id": 10418346,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o papel do coordenador no grupo é central, pois ele deve mediar as tarefas do grupo conforme suas demandas.</p>",
+      "corpo_clean": "o papel do coordenador no grupo é central, pois ele deve mediar as tarefas do grupo conforme suas demandas.",
+      "id": 10418347,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o coordenador deve manter planejamento flexível e assumir papel ativo, porém auxiliar e não central.</p>",
+      "corpo_clean": "o coordenador deve manter planejamento flexível e assumir papel ativo, porém auxiliar e não central.",
+      "id": 10418348,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">nesse contexto apresenta finalidades pedagógicas e, portanto, é aplicada em contextos de orientação e informação.</p>",
+      "corpo_clean": "nesse contexto apresenta finalidades pedagógicas e, portanto, é aplicada em contextos de orientação e informação.",
+      "id": 10418349,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">apresenta grande potencial enquanto intervenção de psicoeducação, todavia não abrange sentimentos e emoções.</p>",
+      "corpo_clean": "apresenta grande potencial enquanto intervenção de psicoeducação, todavia não abrange sentimentos e emoções.",
+      "id": 10418350,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10418348",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

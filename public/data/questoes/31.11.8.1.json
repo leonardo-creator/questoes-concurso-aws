@@ -1,0 +1,37 @@
+{
+  "id": 3652958,
+  "codigo_real": "31.11.8.1",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Teoria da irresponsabilidade do Estado",
+  "bancas_nome": "Instituto de Apoio à Gestão e Educação",
+  "bancas_sigla": "IGEDUC",
+  "orgaos_nome": "Câmara de Verdejante",
+  "cargos_descricao": "Assistente - Área: Comissão Parlamentar",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">A responsabilidade civil do Estado no Brasil segue a teoria da culpa, pela qual o Estado só responde pelos danos causados por seus agentes se houver prova de dolo ou culpa. Isso significa que a reparação do dano depende da demonstração de que o agente público agiu com intenção ou negligência, não bastando o nexo causal entre a ação e o dano.</p>",
+  "grupoQuestao_enunciado": "<p><strong>Julgue os itens subsequentes.</strong></p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 14878974,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 14878975,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14878975",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1452059,
+  "codigo_real": "34.12",
+  "disciplina_real": "Direito Civil",
+  "assunto_real": "Direito de Família (Art. 1.511 ao 1.783)",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Tribunal de Justiça de São Paulo ",
+  "cargos_descricao": "Titular de Serviços Notariais e Registrais - Provimento",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Apresentado requerimento de habilitação para o casamento, constatou-se que o nubente contava com dezessete anos de idade, mas tinha sido emancipado, enquanto que a nubente possuía dezessete anos, porém estava sob tutela. Nesse caso hipotético, no que concerne à autorização para contrair matrimônio, deve o Oficial do Cartório de Registro Civil exigir autorização</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">dos genitores da nubente sob tutela ou ato judicial que a supra.</p>",
+      "corpo_clean": "dos genitores da nubente sob tutela ou ato judicial que a supra.",
+      "id": 5381530,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">do tutor da nubente ou ato judicial que a supra.</p>",
+      "corpo_clean": "do tutor da nubente ou ato judicial que a supra.",
+      "id": 5381531,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">dos genitores de ambos os nubentes ou ato judicial que a supra.</p>",
+      "corpo_clean": "dos genitores de ambos os nubentes ou ato judicial que a supra.",
+      "id": 5381532,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">dos genitores do nubente emancipado, bem como de um curador especial nomeado para a nubente sob tutela ou ato judicial que a supra.</p>",
+      "corpo_clean": "dos genitores do nubente emancipado, bem como de um curador especial nomeado para a nubente sob tutela ou ato judicial que a supra.",
+      "id": 5381533,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5381531",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

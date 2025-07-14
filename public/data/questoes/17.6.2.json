@@ -1,0 +1,37 @@
+{
+  "id": 984193,
+  "codigo_real": "17.6.2",
+  "disciplina_real": "Biologia",
+  "assunto_real": "Protozoários",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Empresa Brasileira de Serviços Hospitalares - EBSERH",
+  "cargos_descricao": "Biólogo",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Os protozoários possuem, comumente, como sistema locomotor, os cílios, flagelos ou pseudópodes, que podem ser distintos sob diferentes condições ambientais.</p>",
+  "grupoQuestao_enunciado": "Acerca dos invertebrados que podem ser parasitas humanos, julgue\r\nos itens subsequentes.",
+  "alternativas": [
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 3439190,
+      "ordem": 1,
+      "rotulo": "E    "
+    },
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 3439189,
+      "ordem": 2,
+      "rotulo": "C    "
+    }
+  ],
+  "resposta_correta": "3439189",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3060345,
+  "codigo_real": "58.30.3",
+  "disciplina_real": "Enfermagem",
+  "assunto_real": "Higiene das mãos",
+  "bancas_nome": "Instituto Avança São Paulo",
+  "bancas_sigla": "Avanca SP",
+  "orgaos_nome": "Prefeitura de Ubatuba",
+  "cargos_descricao": "Enfermeiro",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A higienização das mãos é a medida individual mais simples e menos dispendiosa para prevenir a propagação das infecções relacionadas à assistência à saúde (<em>Centers for Disease Control and Prevention</em> – CDC, 2002). Recentemente, o termo “lavagem das mãos” foi substituído por “higienização das mãos”, englobando:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A higienização simples, a higienização anti-séptica, a fricção anti-séptica e a anti-sepsia cirúrgica das mãos.</p>",
+      "corpo_clean": "A higienização simples, a higienização anti-séptica, a fricção anti-séptica e a anti-sepsia cirúrgica das mãos.",
+      "id": 12395040,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>A higienização simples e a higienização anti-séptica.</p>",
+      "corpo_clean": "A higienização simples e a higienização anti-séptica.",
+      "id": 12395041,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A higienização simples, a higienização anti-séptica e a anti-sepsia cirúrgica das mãos.</p>",
+      "corpo_clean": "A higienização simples, a higienização anti-séptica e a anti-sepsia cirúrgica das mãos.",
+      "id": 12395042,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Somente a higienização simples.</p>",
+      "corpo_clean": "Somente a higienização simples.",
+      "id": 12395043,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>A fricção anti-séptica e a anti-sepsia cirúrgica das mãos.</p>",
+      "corpo_clean": "A fricção anti-séptica e a anti-sepsia cirúrgica das mãos.",
+      "id": 12395044,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12395040",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

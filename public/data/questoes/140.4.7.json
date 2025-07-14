@@ -1,0 +1,58 @@
+{
+  "id": 2628582,
+  "codigo_real": "140.4.7",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "Desenvolvimento Web",
+  "bancas_nome": "Fundação de Apoio à Educação e Desenvolvimento Tecnológico de Minas Gerais",
+  "bancas_sigla": "Fundacao CEFETMINAS",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+  "cargos_descricao": "Técnico de Laboratório - Área: Informática",
+  "ano": 2022,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O desenvolvimento de aplicativos móveis depende da instalação de algumas plataformas, editores de código e <em>frameworks</em>, além de pacotes e módulos. Há diversas ferramentas gratuitas que podem ser utilizadas pelos programadores durante o desenvolvimento de suas aplicações. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Entre elas existe um <em>framework </em>para desenvolvimento de aplicações para dispositivos móveis híbridos. Ele é responsável pela parte mais visual da aplicação, tratando o código para que ele fique com a aparência do dispositivo no qual está rodando (iOS, Android etc.). </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Esta ferramenta é o </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p><em>Ionic.</em></p>",
+      "corpo_clean": "Ionic.",
+      "id": 10491545,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p><em>Angular.</em></p>",
+      "corpo_clean": "Angular.",
+      "id": 10491546,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p><em>Node.js.</em></p>",
+      "corpo_clean": "Node.js.",
+      "id": 10491547,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p><em>Node Package Manager</em> (Npm).</p>",
+      "corpo_clean": "Node Package Manager (Npm).",
+      "id": 10491548,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p><em>Apache Cordova.</em></p>",
+      "corpo_clean": "Apache Cordova.",
+      "id": 10491549,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10491545",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

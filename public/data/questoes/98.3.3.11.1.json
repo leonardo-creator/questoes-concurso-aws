@@ -1,0 +1,58 @@
+{
+  "id": 2852405,
+  "codigo_real": "98.3.3.11.1",
+  "disciplina_real": "Legislação dos Órgãos",
+  "assunto_real": "Legislação Aplicada - TCE SP",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Câmara de Sertãozinho",
+  "cargos_descricao": "Analista - Área: Licitações e Contratos",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No que diz respeito à fiscalização exercida pelo Tribunal de Contas do Estado de São Paulo (TCE-SP), é correto afirmar que</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">a legalidade e regularidade do procedimento licitatório e da execução contratual são presumidas, não havendo necessidade de comprovação ao TCE-SP.</p>",
+      "corpo_clean": "a legalidade e regularidade do procedimento licitatório e da execução contratual são presumidas, não havendo necessidade de comprovação ao TCE-SP.",
+      "id": 11481108,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o órgão da administração remeterá ao TCE-SP, em até 48 horas, contadas do recebimento do ofício, as peças da licitação que lhe forem solicitadas.</p>",
+      "corpo_clean": "o órgão da administração remeterá ao TCE-SP, em até 48 horas, contadas do recebimento do ofício, as peças da licitação que lhe forem solicitadas.",
+      "id": 11481109,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">é uma das atribuições do Pleno no TCE-SP solicitar para exame editais de licitação, fugindo de sua alçada sustar o procedimento licitatório.</p>",
+      "corpo_clean": "é uma das atribuições do Pleno no TCE-SP solicitar para exame editais de licitação, fugindo de sua alçada sustar o procedimento licitatório.",
+      "id": 11481110,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">inexiste previsão normativa para o TCE-SP convocar o responsável pela licitação para prestar esclarecimentos a respeito do edital objeto do exame prévio.</p>",
+      "corpo_clean": "inexiste previsão normativa para o TCE-SP convocar o responsável pela licitação para prestar esclarecimentos a respeito do edital objeto do exame prévio.",
+      "id": 11481111,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o licitante que fraudar licitação ou contratação administrativa pode ser declarado inidôneo para contratar com a Administração pelo agente de fiscalização do TCE-SP.</p>",
+      "corpo_clean": "o licitante que fraudar licitação ou contratação administrativa pode ser declarado inidôneo para contratar com a Administração pelo agente de fiscalização do TCE-SP.",
+      "id": 11481112,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11481109",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

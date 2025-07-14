@@ -1,0 +1,58 @@
+{
+  "id": 912433,
+  "codigo_real": "43.8.4",
+  "disciplina_real": "Direito Penal Militar",
+  "assunto_real": "Livramento Condicional",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Polícia Civil do Amapá",
+  "cargos_descricao": "Delegado de Polícia",
+  "ano": 2017,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "Segundo o regime do livramento condicional,",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "a notícia da prática de infração penal implica imediata revogação do livramento condicional.",
+      "corpo_clean": "a notícia da prática de infração penal implica imediata revogação do livramento condicional.",
+      "id": 3198090,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "será julgada extinta a pena privativa de liberdade, se expirar o prazo do livramento sem revogação.",
+      "corpo_clean": "será julgada extinta a pena privativa de liberdade, se expirar o prazo do livramento sem revogação.",
+      "id": 3198091,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "é vedada a concessão do livramento condicional para o preso que não gozou de 5 saídas temporárias ao longo da\r\nexecução da pena.",
+      "corpo_clean": "é vedada a concessão do livramento condicional para o preso que não gozou de 5 saídas temporárias ao longo da execução da pena.",
+      "id": 3198092,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "é incabível para pessoas condenadas por crime hediondo ou cometidos com violência ou grave ameaça contra a\r\npessoa.",
+      "corpo_clean": "é incabível para pessoas condenadas por crime hediondo ou cometidos com violência ou grave ameaça contra a pessoa.",
+      "id": 3198093,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "o livramento condicional é direito subjetivo do sentenciado que cumprir um sexto da pena e apresentar bom comportamento\r\ncarcerário.",
+      "corpo_clean": "o livramento condicional é direito subjetivo do sentenciado que cumprir um sexto da pena e apresentar bom comportamento carcerário.",
+      "id": 3198094,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3198091",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 640776,
+  "codigo_real": "115.1.4.1",
+  "disciplina_real": "Matemática",
+  "assunto_real": "Percentual de um valor",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Fundação Alexandre de Gusmão",
+  "cargos_descricao": "Agente Administrativo",
+  "ano": 2005,
+  "nivel": "Médio",
+  "tipo": "certo e errado",
+  "enunciado": "<p style=\"text-align: justify;\">Em termos percentuais, o volume do comércio entre Brasil e Argentina em 1996 correspondia a mais de 380% do que era em 1991.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify; text-indent: 3em;\">Brasil e Argentina vêm mantendo uma aliança que tornou possível à região transformar-se e ser percebida como um espaço econômico único e integrado. O caráter estratégico desse relacionamento vem incorporando, a cada dia, novos objetivos e projetos comuns. A rápida liberalização comercial que caracterizou a implementação do MERCOSUL acarretou expressivo incremento das trocas na sub-região, notadamente, entre Brasil e Argentina. O volume de comércio entre os dois países, que, em 1991, era de 3 bilhões de dólares, alcançou, em 1996, a cifra de 11,9 bilhões de dólares — 5,2 bilhões de dólares de exportações brasileiras e 6,7 bilhões de dólares de importações brasileiras —, valor que correspondeu a 75% do comércio do Brasil com o MERCOSUL. Atualmente, as exportações da Argentina ao Brasil respondem por 30% das exportações totais daquele país. Por outro lado, em 1996, as exportações brasileiras para a Argentina representaram 11% das exportações totais do Brasil.</p><p style=\"text-align: justify; text-indent: 3em;\"><br></p><p style=\"text-align: right; text-indent: 3em;\">Internet: &lt;www.mre.funag.gov.br&gt; (com adaptações).</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Com relação ao texto acima, julgue os itens que se seguem.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p>Certo</p>",
+      "corpo_clean": "Certo",
+      "id": 2217788,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Errado</p>",
+      "corpo_clean": "Errado",
+      "id": 2217789,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2217788",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

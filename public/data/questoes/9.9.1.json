@@ -1,0 +1,51 @@
+{
+  "id": 2320964,
+  "codigo_real": "9.9.1",
+  "disciplina_real": "Arquitetura",
+  "assunto_real": "Iluminação - Iluminação",
+  "bancas_nome": "Fundação de Apoio ao Desenvolvimento da UEL",
+  "bancas_sigla": "FAUEL",
+  "orgaos_nome": "Prefeitura de Marechal Cândido Rondon",
+  "cargos_descricao": "Arquiteto",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A iluminação zenital é definida pela NBR 15215-1 como porção de luz natural produzida pela luz que entra através dos fechamentos superiores dos espaços internos. A sua principal vantagem é que permite uma iluminação muito mais uniforme do que a obtida com janelas, porém a principal desvantagem é a dificuldade de proteger essas aberturas da radiação solar indesejável. Assinale a alternativa que NÃO se refere à iluminação zenital:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Mansarda.</p>",
+      "corpo_clean": "Mansarda.",
+      "id": 9164448,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Shed.</p>",
+      "corpo_clean": "Shed.",
+      "id": 9164449,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Claraboia.</p>",
+      "corpo_clean": "Claraboia.",
+      "id": 9164450,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Prateleira de luz.</p>",
+      "corpo_clean": "Prateleira de luz.",
+      "id": 9164451,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "9164451",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

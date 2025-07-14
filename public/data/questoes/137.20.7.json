@@ -1,0 +1,51 @@
+{
+  "id": 3822311,
+  "codigo_real": "137.20.7",
+  "disciplina_real": "Serviço Social",
+  "assunto_real": "Proteção Social ao Idoso",
+  "bancas_nome": "Prefeitura de Terra Boa - PR",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Terra Boa",
+  "cargos_descricao": "Assistente Social",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um idoso procura um serviço público e percebe que não há nenhuma sinalização de prioridade no atendimento. Ao questionar, ele menciona um direito garantido por qual legislação?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Estatuto da Criança e do Adolescente (ECA)</p>",
+      "corpo_clean": "Estatuto da Criança e do Adolescente (ECA)",
+      "id": 15585194,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Lei Orgânica da Assistência Social (LOAS)</p>",
+      "corpo_clean": "Lei Orgânica da Assistência Social (LOAS)",
+      "id": 15585195,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Estatuto do Idoso</p>",
+      "corpo_clean": "Estatuto do Idoso",
+      "id": 15585196,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Lei Maria da Penha</p>",
+      "corpo_clean": "Lei Maria da Penha",
+      "id": 15585197,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "15585196",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

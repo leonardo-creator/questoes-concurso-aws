@@ -1,0 +1,58 @@
+{
+  "id": 3684758,
+  "codigo_real": "112.4.8.1.4",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Advérbio de afirmação",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Prefeitura de Panambi",
+  "cargos_descricao": "Fiscal de Trânsito",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considere as assertivas abaixo:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. A palavra “bem-vindo” leva hífen pelo mesmo motivo de “tele-entrega”. </p><p style=\"text-align: justify;\">II. A palavra “lógica” é acentuada pelo mesmo motivo de “básico”.</p><p style=\"text-align: justify;\">III. A palavra “progrescivo” está escrita corretamente. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Quais estão corretas?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Apenas II.</p>",
+      "corpo_clean": "Apenas II.",
+      "id": 15003692,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Apenas III.</p>",
+      "corpo_clean": "Apenas III.",
+      "id": 15003693,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Apenas I e II.</p>",
+      "corpo_clean": "Apenas I e II.",
+      "id": 15003694,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Apenas II e III.</p>",
+      "corpo_clean": "Apenas II e III.",
+      "id": 15003695,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>I, II e III.</p>",
+      "corpo_clean": "I, II e III.",
+      "id": 15003696,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15003692",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

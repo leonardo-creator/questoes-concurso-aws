@@ -1,0 +1,58 @@
+{
+  "id": 3738924,
+  "codigo_real": "42.8",
+  "disciplina_real": "Direito Notarial e Registral",
+  "assunto_real": "Leis de Direito Notarial e Registral",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Exame Nacional dos Cartórios",
+  "cargos_descricao": "Cargo não definido",
+  "ano": 2025,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Épsilon, ao assumir a delegação de um cartório de registro de imóveis situado em uma cidade de médio porte, verifica uma inconsistência na numeração sequencial das matrículas (Livro 2). A serventia, que opera há mais de 30 anos e possui um total de 9.000 (nove mil) matrículas, apresenta um salto na sequência: após a matrícula de número 7.000 (sete mil), a seguinte registrada é a de número 7.011 (sete mil e onze), sem qualquer referência aos números intermediários. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Considerando o disposto no Provimento n. 149 do Conselho Nacional de Justiça, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O Oficial deverá, na hipótese, incluir 10 (dez) fichas, sendo que cada uma deverá conter uma averbação informando que não foi aberta matrícula com o número constante no cabeçalho.</p>",
+      "corpo_clean": "O Oficial deverá, na hipótese, incluir 10 (dez) fichas, sendo que cada uma deverá conter uma averbação informando que não foi aberta matrícula com o número constante no cabeçalho.",
+      "id": 15218600,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O Oficial terá de incluir uma única ficha de matrícula, contendo uma averbação que indicará todos os números omitidos, consignando, ainda, que não há imóveis matriculados sob tais numerações.</p>",
+      "corpo_clean": "O Oficial terá de incluir uma única ficha de matrícula, contendo uma averbação que indicará todos os números omitidos, consignando, ainda, que não há imóveis matriculados sob tais numerações.",
+      "id": 15218601,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O oficial não precisa adotar qualquer providência, pois a numeração irregular não afeta a validade das matrículas existentes.</p>",
+      "corpo_clean": "O oficial não precisa adotar qualquer providência, pois a numeração irregular não afeta a validade das matrículas existentes.",
+      "id": 15218602,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O oficinal não poderá permitir a existência de lacunas na numeração sequencial e contínua das matrículas. Assim, utilizará os números ausentes nas novas matrículas a serem abertas, em razão dos novos atos que realizar, indicando no topo da ficha a data da abertura da matrícula.</p>",
+      "corpo_clean": "O oficinal não poderá permitir a existência de lacunas na numeração sequencial e contínua das matrículas. Assim, utilizará os números ausentes nas novas matrículas a serem abertas, em razão dos novos atos que realizar, indicando no topo da ficha a data da abertura da matrícula.",
+      "id": 15218603,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O Oficial não poderá permitir lacunas na numeração sequencial e contínua das matrículas. Dessa forma, utilizará os números faltantes nas matrículas subsequentes, em razão dos novos atos que realizar, registrando no topo da ficha a data de abertura da matrícula, desde que o Juiz Corregedor Permanente seja comunicado previamente.</p>",
+      "corpo_clean": "O Oficial não poderá permitir lacunas na numeração sequencial e contínua das matrículas. Dessa forma, utilizará os números faltantes nas matrículas subsequentes, em razão dos novos atos que realizar, registrando no topo da ficha a data de abertura da matrícula, desde que o Juiz Corregedor Permanente seja comunicado previamente.",
+      "id": 15218604,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "15218601",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

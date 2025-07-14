@@ -1,0 +1,58 @@
+{
+  "id": 377079,
+  "codigo_real": "77.1",
+  "disciplina_real": "Engenharia Mecânica",
+  "assunto_real": "Termodinâmica",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Ministério Público da União",
+  "cargos_descricao": "Analista - Área Engenharia Mecânica",
+  "ano": 2007,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<P align=justify>Uma unidade motora simples a vapor opera segundo o diagrama temperatura-entropia representado abaixo. </P>\r\n<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/454/25.gif></P>\r\n<P align=justify>Como se trata de um ciclo ideal, no processo</P>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>1 &#8211; 2 há um bombeamento adiabático.</p>",
+      "corpo_clean": "1 &#8211; 2 há um bombeamento adiabático.",
+      "id": 1347924,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>3 &#8211; 4 há uma troca de calor à pressão consta nte.</p>",
+      "corpo_clean": "3 &#8211; 4 há uma troca de calor à pressão consta nte.",
+      "id": 1347925,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>4 &#8211; 1 o fluído de trabalho passa por um evaporador.</p>",
+      "corpo_clean": "4 &#8211; 1 o fluído de trabalho passa por um evaporador.",
+      "id": 1347926,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>2 &#8211; 3 há uma mudança de estado de vapor para\r\nlíquido.</p>",
+      "corpo_clean": "2 &#8211; 3 há uma mudança de estado de vapor para líquido.",
+      "id": 1347927,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>1 &#8211; 2 o gás sofre uma compressão adiabática.</p>",
+      "corpo_clean": "1 &#8211; 2 o gás sofre uma compressão adiabática.",
+      "id": 1347928,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1347924",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

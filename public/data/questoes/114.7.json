@@ -1,0 +1,51 @@
+{
+  "id": 3562943,
+  "codigo_real": "114.7",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Análise de Investimento",
+  "bancas_nome": "Instituto de Administração e Tecnologia",
+  "bancas_sigla": "ADM TEC",
+  "orgaos_nome": "Prefeitura de Iguaracy",
+  "cargos_descricao": "Professor II - Área Matemática",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Ana aplicou uma quantia de dinheiro em uma conta bancária que paga juros simples de 4% ao bimestre. Após 6 meses, o saldo de sua conta foi de R$ 3.255,84. Qual foi o valor inicial investido por Ana?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>R$4.030,00</p>",
+      "corpo_clean": "R$4.030,00",
+      "id": 14518448,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>R$2.474,44</p>",
+      "corpo_clean": "R$2.474,44",
+      "id": 14518449,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>R$2.812,15</p>",
+      "corpo_clean": "R$2.812,15",
+      "id": 14518450,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>R$2.907,00</p>",
+      "corpo_clean": "R$2.907,00",
+      "id": 14518451,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "14518451",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

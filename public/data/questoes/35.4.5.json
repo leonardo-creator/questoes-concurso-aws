@@ -1,0 +1,58 @@
+{
+  "id": 1009064,
+  "codigo_real": "35.4.5",
+  "disciplina_real": "Direito Constitucional",
+  "assunto_real": "Direitos de nacionalidade ou da nacionalidade (artigos 12 e 13 da CF)",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Assembléia Legislativa de Rondônia",
+  "cargos_descricao": "Consultor Legislativo - Área Assessoramento Legislativo",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "\r\nPeter nasceu na Áustria no período em que sua mãe, Maria,\r\nbrasileira nata, servidora da União, fora designada para trabalhar\r\nna embaixada brasileira naquele país. Como Maria era casada\r\ncom Hans, de nacionalidade austríaca, Peter também tinha a\r\nnacionalidade do pai, jamais tendo residido no território\r\nbrasileiro.\r\nAo completar trinta anos de idade, Peter consultou um advogado\r\nsobre a possibilidade de se candidatar a um mandato eletivo no\r\nBrasil, na eleição a ser realizada no ano seguinte, tendo sido\r\ninformado, corretamente, que",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "os estrangeiros, como Peter, não podem concorrer a um\r\nmandato eletivo.",
+      "corpo_clean": "os estrangeiros, como Peter, não podem concorrer a um mandato eletivo.",
+      "id": 3527791,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "sendo brasileiro nato, pode concorrer aos cargos eletivos\r\nprivativos de brasileiro nato.",
+      "corpo_clean": "sendo brasileiro nato, pode concorrer aos cargos eletivos privativos de brasileiro nato.",
+      "id": 3527792,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "somente teria nacionalidade brasileira se a lei da Áustria não\r\nreconhecesse a sua nacionalidade austríaca originária.",
+      "corpo_clean": "somente teria nacionalidade brasileira se a lei da Áustria não reconhecesse a sua nacionalidade austríaca originária.",
+      "id": 3527793,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "pode optar pela nacionalidade brasileira caso venha a residir\r\nno país, podendo concorrer a todos os cargos eletivos.",
+      "corpo_clean": "pode optar pela nacionalidade brasileira caso venha a residir no país, podendo concorrer a todos os cargos eletivos.",
+      "id": 3527794,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "caso venha a se naturalizar brasileiro, poderá concorrer a\r\ntodos os cargos eletivos não privativos de brasileiro nato.",
+      "corpo_clean": "caso venha a se naturalizar brasileiro, poderá concorrer a todos os cargos eletivos não privativos de brasileiro nato.",
+      "id": 3527795,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "3527792",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 769912,
+  "codigo_real": "25.13",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Reservas",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de São José do Rio Preto",
+  "cargos_descricao": "Auditor Fiscal Tributário Municipal",
+  "ano": 2014,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "É uma reserva de capital:",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "Reserva para pagamento de dividendo obrigatório.",
+      "corpo_clean": "Reserva para pagamento de dividendo obrigatório.",
+      "id": 2670273,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "Reserva legal.",
+      "corpo_clean": "Reserva legal.",
+      "id": 2670274,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "Reserva de contingências.",
+      "corpo_clean": "Reserva de contingências.",
+      "id": 2670275,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Reserva de ágio na emissão de ações.",
+      "corpo_clean": "Reserva de ágio na emissão de ações.",
+      "id": 2670276,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "Reserva de reavaliação.",
+      "corpo_clean": "Reserva de reavaliação.",
+      "id": 2670277,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "2670276",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

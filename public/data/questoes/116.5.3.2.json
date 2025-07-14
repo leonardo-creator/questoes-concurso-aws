@@ -1,0 +1,58 @@
+{
+  "id": 3162348,
+  "codigo_real": "116.5.3.2",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Térmica",
+  "bancas_nome": "Fundação Getúlio Vargas",
+  "bancas_sigla": "FGV",
+  "orgaos_nome": "Prefeitura de Caraguatatuba",
+  "cargos_descricao": "Médico Pediatra",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Menino de 5 anos, foi trazido à emergência após um acidente doméstico com água quente, resultando em queimaduras em sua face e membros superiores. Ele está agitado, choroso e com sialorréia. Como pediatra, você precisa tomar decisões rápidas para iniciar o manejo adequado das queimaduras.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Nesse contexto, de acordo com as diretrizes da Sociedade Brasileira de Pediatria (SBP), a prioridade inicial no manejo do paciente é</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">avaliação da extensão total das queimaduras.</p>",
+      "corpo_clean": "avaliação da extensão total das queimaduras.",
+      "id": 12837723,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">início imediato de analgesia. </p>",
+      "corpo_clean": "início imediato de analgesia. ",
+      "id": 12837724,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">resfriamento da área queimada com água gelada.</p>",
+      "corpo_clean": "resfriamento da área queimada com água gelada.",
+      "id": 12837725,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">administração de antibióticos sistêmicos.</p>",
+      "corpo_clean": "administração de antibióticos sistêmicos.",
+      "id": 12837726,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">proteção das vias aéreas.</p>",
+      "corpo_clean": "proteção das vias aéreas.",
+      "id": 12837727,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12837727",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

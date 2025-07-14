@@ -1,0 +1,58 @@
+{
+  "id": 2127360,
+  "codigo_real": "31.6.6.9.4",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Atos Válidos",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Câmara de Rio Branco",
+  "cargos_descricao": "Analista Legislativo - Área Taquígrafo",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Ato administrativo é toda manifestação unilateral de vontade da Administração Pública que, agindo nessa qualidade, tenha por fim imediato adquirir, resguardar, transferir, modificar, extinguir e declarar direitos, ou impor obrigações aos administrados ou a si própria. Assinale a alternativa que apresenta os requisitos do ato administrativo.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Competência, Objeto, Finalidade, Imperatividade e Autoexecutoriedade.</p>",
+      "corpo_clean": "Competência, Objeto, Finalidade, Imperatividade e Autoexecutoriedade.",
+      "id": 8321024,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Forma, Motivo, Competência, Finalidade e Presunção de Legitimidade.</p>",
+      "corpo_clean": "Forma, Motivo, Competência, Finalidade e Presunção de Legitimidade.",
+      "id": 8321025,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Presunção de legitimidade, Imperatividade e Autoexecutoriedade.</p>",
+      "corpo_clean": "Presunção de legitimidade, Imperatividade e Autoexecutoriedade.",
+      "id": 8321026,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Finalidade, Forma, Competência, Objeto e Motivo.</p>",
+      "corpo_clean": "Finalidade, Forma, Competência, Objeto e Motivo.",
+      "id": 8321027,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Imperatividade, Finalidade, Competência, Forma e Motivo.</p>",
+      "corpo_clean": "Imperatividade, Finalidade, Competência, Forma e Motivo.",
+      "id": 8321028,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8321027",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

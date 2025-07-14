@@ -1,0 +1,58 @@
+{
+  "id": 3381357,
+  "codigo_real": "2.4.3",
+  "disciplina_real": "Administração Financeira e Orçamentária - AFO",
+  "assunto_real": "Lei Orçamentária Anual - LOA",
+  "bancas_nome": "Instituto de Desenvolvimento Educacional, Cultural e Assistencial Nacional",
+  "bancas_sigla": "IDECAN",
+  "orgaos_nome": "Ministério da Pesca e Aquicultura",
+  "cargos_descricao": "ATCI - DIreito",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A Lei Orçamentária Anual (LOA) é a legislação responsável por determinar as regras relacionadas às receitas e despesas. Sobre a temática da LOA, é possível afirmar que </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">é vedado o início de projeto que não está incluído na lei orçamentária anual. </p>",
+      "corpo_clean": "é vedado o início de projeto que não está incluído na lei orçamentária anual. ",
+      "id": 13770812,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o próprio Poder Legislativo pode aprovar a sua proposta orçamentária, pois decorre de uma função típica.</p>",
+      "corpo_clean": "o próprio Poder Legislativo pode aprovar a sua proposta orçamentária, pois decorre de uma função típica.",
+      "id": 13770813,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">é possível a concessão e utilização de créditos ilimitados ao Poder Executivo.</p>",
+      "corpo_clean": "é possível a concessão e utilização de créditos ilimitados ao Poder Executivo.",
+      "id": 13770814,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">cada Poder e o Ministério Público tem a iniciativa de propor a sua proposta orçamentária, por isso, existem quatro projetos de lei orçamentária anual de modo simultâneo.</p>",
+      "corpo_clean": "cada Poder e o Ministério Público tem a iniciativa de propor a sua proposta orçamentária, por isso, existem quatro projetos de lei orçamentária anual de modo simultâneo.",
+      "id": 13770815,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a LOA deve versar sobre a previsão de receitas e sobre a fixação de despesas, mas pode discutir, também sobre outros assuntos.</p>",
+      "corpo_clean": "a LOA deve versar sobre a previsão de receitas e sobre a fixação de despesas, mas pode discutir, também sobre outros assuntos.",
+      "id": 13770816,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13770812",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

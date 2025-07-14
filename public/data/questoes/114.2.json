@@ -1,0 +1,58 @@
+{
+  "id": 3219700,
+  "codigo_real": "114.2",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Regimes de Capitalização",
+  "bancas_nome": "Fundação Universidade Empresa de Tecnologia e Ciências",
+  "bancas_sigla": "FUNDATEC",
+  "orgaos_nome": "Prefeitura de Coronel Pilar",
+  "cargos_descricao": "Motorista",
+  "ano": 2023,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Qual o número corresponde a XII em romanos?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>8.</p>",
+      "corpo_clean": "8.",
+      "id": 13077857,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>12.</p>",
+      "corpo_clean": "12.",
+      "id": 13077858,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>18.</p>",
+      "corpo_clean": "18.",
+      "id": 13077859,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>32.</p>",
+      "corpo_clean": "32.",
+      "id": 13077860,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>52.</p>",
+      "corpo_clean": "52.",
+      "id": 13077861,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13077858",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

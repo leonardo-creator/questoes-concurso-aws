@@ -1,0 +1,51 @@
+{
+  "id": 1285298,
+  "codigo_real": "57.15.11",
+  "disciplina_real": "Educação Física",
+  "assunto_real": "Basquete - Modalidades Esportivas",
+  "bancas_nome": "Instituto Excelência",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Taubaté",
+  "cargos_descricao": "Instrutor de Esportes - Área: Basquetebol",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=\"justify\">Com relação ao armador, no Basquetebol, leia os\r\nitens abaixo:\r\n</p><p align=\"justify\">I. Conhecido como jogador da posição 2 ou armador\r\n(nos Estados Unidos como point guard), a\r\ncompetência deste jogador é ser o iniciador das\r\njogadas dentro do time, geralmente, carregando a bola\r\ndesde o fundo e fazendo a transição ofensiva da\r\nequipe. </p><p align=\"justify\">II. Caracteristicamente, os armadores são jogadores\r\nmais baixos e menos fortes do que os das demais\r\nposições, porém são mais habilidosos para controlar a\r\nbola, uma vez que lidam com marcação no jogo\r\ncorrido ao longo de toda partida.\r\n</p><p align=\"justify\">Dos Itens acima:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Apenas o item I está incorreto.</p>",
+      "corpo_clean": "Apenas o item I está incorreto.",
+      "id": 4672363,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Apenas o item II está incorreto.</p>",
+      "corpo_clean": "Apenas o item II está incorreto.",
+      "id": 4672364,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Os itens I e II estão corretos.</p>",
+      "corpo_clean": "Os itens I e II estão corretos.",
+      "id": 4672365,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Nenhuma das alternativas.</p>",
+      "corpo_clean": "Nenhuma das alternativas.",
+      "id": 4672366,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4672363",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

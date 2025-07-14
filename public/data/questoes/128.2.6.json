@@ -1,0 +1,58 @@
+{
+  "id": 68251,
+  "codigo_real": "128.2.6",
+  "disciplina_real": "Psicologia",
+  "assunto_real": "Avaliação de desempenho",
+  "bancas_nome": "Instituto de Planejamento e Apoio ao Desenvolvimento Tecnológico e Científico",
+  "bancas_sigla": "IPAD",
+  "orgaos_nome": "Secretaria de Estado de Educação de Pernambuco",
+  "cargos_descricao": "Técnico Educacional - Área Psicologia",
+  "ano": 2006,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<P align=justify>A avaliação de desempenho possui influência em vários processos organizacionais. Marque a alternativa que <U>não</U> corresponde a uma dessas influências:</P>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>Proporciona  informação  sobre  como  as  pessoas  estão \r\nintegradas e identificadas com seus cargos e tarefas</p>",
+      "corpo_clean": "Proporciona informação sobre como as pessoas estão integradas e identificadas com seus cargos e tarefas",
+      "id": 322093,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>Ajuda  a  organização  a  decidir  sobre  quem  deve  receber \r\naumentos  salariais  ou  promoções,  ou  quem  deve  ser \r\ndesligado da organização. </p>",
+      "corpo_clean": "Ajuda a organização a decidir sobre quem deve receber aumentos salariais ou promoções, ou quem deve ser desligado da organização. ",
+      "id": 322094,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>Indica quais funcionários necessitam de treinamento</p>",
+      "corpo_clean": "Indica quais funcionários necessitam de treinamento",
+      "id": 322095,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Diminui o grau de autoconhecimento do funcionário. </p>",
+      "corpo_clean": "Diminui o grau de autoconhecimento do funcionário. ",
+      "id": 322096,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>Fornece subsídios para a seleção de pessoal.  </p>",
+      "corpo_clean": "Fornece subsídios para a seleção de pessoal. ",
+      "id": 322097,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "322095",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

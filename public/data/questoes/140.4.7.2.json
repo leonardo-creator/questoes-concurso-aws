@@ -1,0 +1,58 @@
+{
+  "id": 1610906,
+  "codigo_real": "140.4.7.2",
+  "disciplina_real": "Tecnologia da Informação",
+  "assunto_real": "HTML",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional Federal da 4ª Região",
+  "cargos_descricao": "Cargo não definido",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considere o fragmento de uma página web desenvolvida usando HTML e jQuery. Considere que todas as bibliotecas necessárias foram referenciadas no cabeçalho da página.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: rgb(161, 0, 0);\">&lt;body&gt;</span></p><p style=\"text-align: justify;\"><span style=\"color: rgb(161, 0, 0);\">&lt;div </span><span style=\"color: rgb(230, 0, 0);\">class</span>=<span style=\"color: rgb(0, 71, 178);\">\"mensagem\"</span><span style=\"color: rgb(161, 0, 0);\">&gt;</span>Processo em tramitação<span style=\"color: rgb(161, 0, 0);\">&lt;/div&gt;</span></p><p style=\"text-align: justify;\"><span style=\"color: rgb(161, 0, 0);\">&lt;button </span><span style=\"color: rgb(230, 0, 0);\">id</span>=<span style=\"color: rgb(0, 71, 178);\">\"ocultar\"</span><span style=\"color: rgb(161, 0, 0);\">&gt;</span>0cultar<span style=\"color: rgb(161, 0, 0);\">&lt;/button&gt;</span></p><p style=\"text-align: justify;\"><span style=\"color: rgb(161, 0, 0);\">&lt;script&gt;</span></p><p style=\"text-align: justify;\">$(<span style=\"color: rgb(161, 0, 0);\">\"#ocultar\"</span>).I(<span style=\"color: rgb(0, 71, 178);\">function</span>() {</p><p style=\"text-align: justify;\">$(<span style=\"color: rgb(161, 0, 0);\">\".mensagem\"</span>).II();</p><p style=\"text-align: justify;\">});</p><p style=\"text-align: justify;\"><span style=\"color: rgb(161, 0, 0);\">&lt;/script&gt;</span></p><p style=\"text-align: justify;\"><span style=\"color: rgb(161, 0, 0);\">&lt;/body&gt;</span></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Para que a div que possui a classe “mensagem” seja oculta ao se clicar no botão de id “ocultar”:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">I deve ser substituído por “click” e II deve ser substituído por “hide”.</p>",
+      "corpo_clean": "I deve ser substituído por “click” e II deve ser substituído por “hide”.",
+      "id": 6051004,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I deve ser substituído por “onClick” e II deve ser substituído por “close”.</p>",
+      "corpo_clean": "I deve ser substituído por “onClick” e II deve ser substituído por “close”.",
+      "id": 6051005,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I deve ser substituído por “onPress” e II deve ser substituído por “dismiss”.</p>",
+      "corpo_clean": "I deve ser substituído por “onPress” e II deve ser substituído por “dismiss”.",
+      "id": 6051006,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I deve ser substituído por “setAction” e II deve ser substituído por “remove”.</p>",
+      "corpo_clean": "I deve ser substituído por “setAction” e II deve ser substituído por “remove”.",
+      "id": 6051007,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O script apresenta um erro de sintaxe, pois a tag script deveria estar na área de cabeçalho da página.</p>",
+      "corpo_clean": "O script apresenta um erro de sintaxe, pois a tag script deveria estar na área de cabeçalho da página.",
+      "id": 6051008,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6051004",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

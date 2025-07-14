@@ -1,0 +1,58 @@
+{
+  "id": 1193754,
+  "codigo_real": "25.1.1.7",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Atos Administrativos",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Tribunal Regional Federal da 5ª Região",
+  "cargos_descricao": "Juiz Federal Substituto",
+  "ano": 2013,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>À luz da jurisprudência dos tribunais superiores, assinale a opção\r\ncorreta acerca de bens públicos, processo administrativo, serviços\r\npúblicos, controle dos atos da administração e PPPs.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify><p align=\"justify\">Conforme a jurisprudência do STJ, é plausível a exigência de\r\navaliação psicológica por meio de instrumento normativo-regulamentar\r\nde caráter abstrato e geral, se for revestida de\r\ncaráter objetivo e recorrível.</p></p>",
+      "corpo_clean": "Conforme a jurisprudência do STJ, é plausível a exigência de avaliação psicológica por meio de instrumento normativo-regulamentar de caráter abstrato e geral, se for revestida de caráter objetivo e recorrível.",
+      "id": 4293386,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify><p align=justify>Tratando-se de PPPs, a norma que regula as competências do\r\nórgão gestor é de caráter geral, aplicando-se, portanto, à União,\r\naos estados, aos municípios e ao DF.</p></p>",
+      "corpo_clean": "Tratando-se de PPPs, a norma que regula as competências do órgão gestor é de caráter geral, aplicando-se, portanto, à União, aos estados, aos municípios e ao DF.",
+      "id": 4293387,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify><p align=justify>De acordo com a jurisprudência do STF, não são bens da\r\nUnião as terras onde se localizavam os aldeamentos indígenas\r\nextintos antes da Constituição de 1891, de domínio dos\r\nestados-membros.</p></p>",
+      "corpo_clean": "De acordo com a jurisprudência do STF, não são bens da União as terras onde se localizavam os aldeamentos indígenas extintos antes da Constituição de 1891, de domínio dos estados-membros.",
+      "id": 4293388,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>Como o STF entende ser de cinco anos o prazo decadencial\r\npara que a administração reveja seus atos, consubstancia\r\nilegalidade rebatível por meio de mandado de segurança a\r\nedição de portaria para a instauração de procedimento\r\npreliminar de revisão, considerando-se a coisa julgada\r\nadministrativa.</p>",
+      "corpo_clean": "Como o STF entende ser de cinco anos o prazo decadencial para que a administração reveja seus atos, consubstancia ilegalidade rebatível por meio de mandado de segurança a edição de portaria para a instauração de procedimento preliminar de revisão, considerando-se a coisa julgada administrativa.",
+      "id": 4293389,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify><p align=\"justify\">Segundo a jurisprudência do STJ, quando há corte de energia\r\nelétrica por parte da concessionária de serviço público, o dano\r\nmoral é presumido, ou seja, <i>in ren ipsa</i>, sendo prescindível,\r\nportanto, a comprovação de prejuízo à sua honra objetiva.</p></p>",
+      "corpo_clean": "Segundo a jurisprudência do STJ, quando há corte de energia elétrica por parte da concessionária de serviço público, o dano moral é presumido, ou seja, in ren ipsa, sendo prescindível, portanto, a comprovação de prejuízo à sua honra objetiva.",
+      "id": 4293390,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "4293388",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

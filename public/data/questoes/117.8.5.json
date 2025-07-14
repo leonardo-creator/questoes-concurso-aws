@@ -1,0 +1,51 @@
+{
+  "id": 1379538,
+  "codigo_real": "117.8.5",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Biomedicina",
+  "bancas_nome": "Instituto Municipal de Desenvolvimento de Recursos Humanos",
+  "bancas_sigla": "IMPARH",
+  "orgaos_nome": "Prefeitura de Fortaleza",
+  "cargos_descricao": "Bioquímico",
+  "ano": 2016,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p align=justify>Quantos tubos serão utilizados para a coleta?</p>",
+  "grupoQuestao_enunciado": "<p align=\"justify\"><strong>TEXTO PARA AS QUESTÕES 18, 19 e 20.</strong>\r\n</p><p align=\"justify\">Um médico solicita os exames hemograma, VHS, TGO, TGP, bilirrubinas, PCR, TAP e TTPA. Devido ao atraso na entrega de insumos por parte dos fornecedores, o laboratório não dispõe de tubos de coleta com citrato de sódio.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>8.</p>",
+      "corpo_clean": "8.",
+      "id": 5071984,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>5.</p>",
+      "corpo_clean": "5.",
+      "id": 5071985,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>3.</p>",
+      "corpo_clean": "3.",
+      "id": 5071986,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>2.</p>",
+      "corpo_clean": "2.",
+      "id": 5071987,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "5071986",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

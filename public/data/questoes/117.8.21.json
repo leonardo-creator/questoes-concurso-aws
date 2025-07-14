@@ -1,0 +1,58 @@
+{
+  "id": 2860447,
+  "codigo_real": "117.8.21",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Ginecologia - Ginecologia",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Sorocaba",
+  "cargos_descricao": "Médico - Área: Ginecologista",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em relação aos critérios de elegibilidade da OMS para o uso de contraceptivos hormonais, assinale a alternativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Pílulas de progestínicos podem ser indicadas para pacientes com doenças cardíacas.</p>",
+      "corpo_clean": "Pílulas de progestínicos podem ser indicadas para pacientes com doenças cardíacas.",
+      "id": 11518249,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Os contraceptivos hormonais orais combinados são classificados como categoria 1 nas primeiras 6 semanas pós-parto.</p>",
+      "corpo_clean": "Os contraceptivos hormonais orais combinados são classificados como categoria 1 nas primeiras 6 semanas pós-parto.",
+      "id": 11518250,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Está contraindicado o uso de anticoncepcionais orais combinados em pacientes usuárias de antirretrovirais.</p>",
+      "corpo_clean": "Está contraindicado o uso de anticoncepcionais orais combinados em pacientes usuárias de antirretrovirais.",
+      "id": 11518251,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A implantação do DIU levonorgestrel é classificado com categoria 3 se introduzido após a quarta semana de pós-parto.</p>",
+      "corpo_clean": "A implantação do DIU levonorgestrel é classificado com categoria 3 se introduzido após a quarta semana de pós-parto.",
+      "id": 11518252,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A implantação de DIU de cobre é classificada como categoria 3, se introduzido nas primeiras 48 horas pós parto.</p>",
+      "corpo_clean": "A implantação de DIU de cobre é classificada como categoria 3, se introduzido nas primeiras 48 horas pós parto.",
+      "id": 11518253,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11518249",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

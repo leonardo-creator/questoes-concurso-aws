@@ -1,0 +1,58 @@
+{
+  "id": 3423889,
+  "codigo_real": "95.3.1.5",
+  "disciplina_real": "Informática",
+  "assunto_real": "Uniform Resource Locator (URL)",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Tribunal de Justiça de São Paulo ",
+  "cargos_descricao": "Escrevente Técnico Judiciário",
+  "ano": 2024,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O URL (<em>Uniform Resource Locator</em>) é o formato para designar um endereço na Internet. Sobre o URL, é correto afirmar que</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">protocolos como o HTTP e o FTP podem ser utilizados no URL. Já o Telnet e Mailto não são aceitos.</p>",
+      "corpo_clean": "protocolos como o HTTP e o FTP podem ser utilizados no URL. Já o Telnet e Mailto não são aceitos.",
+      "id": 13944742,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">o nome de um arquivo no URL pode ser seguido por um ponto de interrogação e dados no formato ASCII.</p>",
+      "corpo_clean": "o nome de um arquivo no URL pode ser seguido por um ponto de interrogação e dados no formato ASCII.",
+      "id": 13944743,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">a porta associada por padrão ao protocolo é a porta número 800.</p>",
+      "corpo_clean": "a porta associada por padrão ao protocolo é a porta número 800.",
+      "id": 13944744,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">um dos campos do URL é o domínio, que é o lugar onde o recurso está situado (o diretório e o nome do arquivo solicitado).</p>",
+      "corpo_clean": "um dos campos do URL é o domínio, que é o lugar onde o recurso está situado (o diretório e o nome do arquivo solicitado).",
+      "id": 13944745,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">um dos campos do URL é o caminho, que é o endereço da máquina que designa o servidor que disponibiliza o documento ou o recurso solicitado.</p>",
+      "corpo_clean": "um dos campos do URL é o caminho, que é o endereço da máquina que designa o servidor que disponibiliza o documento ou o recurso solicitado.",
+      "id": 13944746,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13944743",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

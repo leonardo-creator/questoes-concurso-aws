@@ -1,0 +1,58 @@
+{
+  "id": 2189932,
+  "codigo_real": "112.1.24.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Equivalência, substituição, reorganização e transformação de palavras ou trechos do texto",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Feira de Santana",
+  "cargos_descricao": "Professor - Área: Matemática",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em “[…] os professores brasileiros são os que mais perdem tempo tentando <u>combater</u> a indisciplina escolar.”, ocorreria acento grave após o termo em destaque no caso dele ser substituído por</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: center;\"><strong>O que está por trás da indisciplina escolar? </strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong>Estudo busca as razões da indisciplina e tenta entender como os professores brasileiros gastam tempo para manter a ordem em sala de aula </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: right;\"><strong style=\"font-size: 12px;\">Cinthia Rodrigues</strong><strong> </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-indent: 4em; text-align: justify;\">\tO Brasil ocupa o primeiro lugar no quesito “tempo gasto para manter a ordem na classe”. É o que indica a Pesquisa Internacional sobre Ensino e Aprendizado (Talis, na sigla em inglês), respondida por professores de 32 países em 2013. Trocando em miúdos, os professores brasileiros são os que mais perdem tempo tentando combater a indisciplina escolar.</p><p style=\"text-indent: 4em; text-align: justify;\">\tNa média, os profissionais brasileiros disseram que perdem 20% do período de aula com indisciplina, enquanto o padrão foi de 13%. É a segunda vez que a Organização para a Cooperação e o Desenvolvimento Econômico (OCDE) faz essa pesquisa com profissionais que atuam nos últimos anos do Ensino Fundamental.</p><p style=\"text-indent: 4em; text-align: justify;\">\tNa primeira, em 2008, os educadores brasileiros também foram os que mais disseram perder aula com o assunto. O dado isolado não traz novidade para quem está em sala de aula, mas um estudo feito com cruzamento de outras respostas ao mesmo questionário ajuda a explicar por que ostentamos tal recorde.</p><p style=\"text-indent: 4em; text-align: justify;\">\t“A partir de um conjunto de respostas, como qual a frequência com que o educador dá e recebe retorno sobre seu trabalho, observa colegas, atua em conjunto, participa de atividades com turmas diferentes, percebemos, por exemplo, quem está em ambientes colaborativos. Da mesma maneira, chegamos às escolas que têm mais espaço para participação de pais e alunos. Para cada fator, há um conjunto de respostas”, explica a pesquisadora em políticas públicas Gabriela Moriconi, da Fundação Carlos Chagas, que ganhou uma bolsa para realizar análises sobre os dados na sede da OCDE e investigar soluções adotadas por outros países.</p><p style=\"text-indent: 4em; text-align: justify;\">\tO estudo leva para além do senso comum de que os estudantes seriam indisciplinados e parte para as razões que geram a desordem. A escolha do foco veio pela constatação, em outras investigações, de que a indisciplina é um dos principais obstáculos para o trabalho docente.</p><p style=\"text-indent: 4em; text-align: justify;\">\tPara a análise, ela cruzou respostas a outras perguntas do questionário para entender quais fatores estão associados a professores que gastam tempo para manter a ordem no Brasil e em duas realidades consideradas próximas: Chile e México.</p><p style=\"text-indent: 4em; text-align: justify;\">\tOutro dado importante, na análise do resultado da pesquisa de Gabriela, é a formação específica. Quando o conteúdo ensinado faz parte da área de conhecimento do professor, ele perde menos tempo com indisciplina. Os educadores que afirmam terem aprendido a ensinar determinado conteúdo, perdem menos tempo ainda.</p><p style=\"text-indent: 4em; text-align: justify;\">\t“A literatura especializada sobre engajamento mostra que a primeira coisa para manter o envolvimento é o domínio do conteúdo e saber ensinar. Então, esses achados fizeram muito sentido para mim”, diz.</p><p style=\"text-indent: 4em; text-align: justify;\">\tPara ela, a questão da colaboração profissional também cai na formação tanto de conteúdo como de gestão da sala de aula em termos de organização do tempo, divisão das atividades, espaço e estabelecimento de regras.</p><p style=\"text-indent: 4em; text-align: justify;\">\t“Diante da realidade que temos, muito se aprende com outros colegas, tanto a prevenir maus comportamentos como a agir diante de casos de indisciplina.”</p><p style=\"text-indent: 4em; text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\"><strong>Adaptado de: &lt;http://www.cartaeducacao.com.br/reportagens/o-que-esta-por-tras-da-indisciplina-escolar/&gt;. Acesso em: 27 jul. 2018.</strong></p>",
+  "alternativas": [
+    {
+      "corpo": "<p>extinguir.</p>",
+      "corpo_clean": "extinguir.",
+      "id": 8595733,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>opor-se.</p>",
+      "corpo_clean": "opor-se.",
+      "id": 8595734,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>vencer.</p>",
+      "corpo_clean": "vencer.",
+      "id": 8595735,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>derrotar.</p>",
+      "corpo_clean": "derrotar.",
+      "id": 8595736,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>eliminar.</p>",
+      "corpo_clean": "eliminar.",
+      "id": 8595737,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "8595734",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

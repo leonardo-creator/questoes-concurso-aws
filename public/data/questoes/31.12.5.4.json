@@ -1,0 +1,58 @@
+{
+  "id": 3634145,
+  "codigo_real": "31.12.5.4",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Ação Civil Pública",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Tribunal de Justiça de Rondônia",
+  "cargos_descricao": "Técnico Judiciário",
+  "ano": 2025,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Os agentes públicos de uma autarquia estadual de fiscalização ambiental realizaram operação em fazendas localizadas em determinado município. Ao verificarem infrações administrativas ambientais lavraram os respectivos autos de infração, cominando, posteriormente, na aplicação de multas. No que tange ao caso narrado e aos poderes da Administração Pública, assinale a afirmativa correta.</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\"> O custeio dessa atividade de fiscalização, atinente ao poder de polícia, necessariamente será por meio da cobrança de impostos.</p>",
+      "corpo_clean": " O custeio dessa atividade de fiscalização, atinente ao poder de polícia, necessariamente será por meio da cobrança de impostos.",
+      "id": 14807633,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O exercício do poder de polícia pela autarquia é denominado pela doutrina de originário, por ser uma pessoa jurídica de direito público.</p>",
+      "corpo_clean": "O exercício do poder de polícia pela autarquia é denominado pela doutrina de originário, por ser uma pessoa jurídica de direito público.",
+      "id": 14807634,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O poder de polícia, por representar uma atividade de império, não pode ser objeto de nenhuma delegação a pessoas de direito privado. </p>",
+      "corpo_clean": "O poder de polícia, por representar uma atividade de império, não pode ser objeto de nenhuma delegação a pessoas de direito privado. ",
+      "id": 14807635,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O chamado ciclo de polícia administrativa é composto por quatro atividades, quais sejam: ordem (as vezes substituído pela fase de legislação), consentimento, fiscalização e sanção.</p>",
+      "corpo_clean": "O chamado ciclo de polícia administrativa é composto por quatro atividades, quais sejam: ordem (as vezes substituído pela fase de legislação), consentimento, fiscalização e sanção.",
+      "id": 14807636,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">No caso narrado, apesar de a autarquia possuir poder de polícia, está-se diante do exercício do poder disciplinar da Administração, que permite a apuração de infrações e a aplicação de eventuais penalidades. </p>",
+      "corpo_clean": "No caso narrado, apesar de a autarquia possuir poder de polícia, está-se diante do exercício do poder disciplinar da Administração, que permite a apuração de infrações e a aplicação de eventuais penalidades. ",
+      "id": 14807637,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "14807636",
+  "dificuldade": "Média",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

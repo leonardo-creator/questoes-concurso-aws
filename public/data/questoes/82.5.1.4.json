@@ -1,0 +1,58 @@
+{
+  "id": 3426138,
+  "codigo_real": "82.5.1.4",
+  "disciplina_real": "Estatística",
+  "assunto_real": "Estimador de Máxima Verossimilhança - Estimador de Máxima Verossimilhança",
+  "bancas_nome": "Núcleo de Concursos e Promoção de Eventos",
+  "bancas_sigla": "NUCEPE UESPI",
+  "orgaos_nome": "Universidade Estadual do Piauí",
+  "cargos_descricao": "Estatístico",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Considere a seguinte distribuição de probabilidade:</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><img src=\"https://arquivos.infra-questoes.grancursosonline.com.br/imagem/prova/116735/questao/3426138-20240916135442000000-0.png\" style=\"\" width=\"197\"></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Em uma amostra de tamanho n desta distribuição, qual é o estimador de máxima verossimilhança de λ ?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>A variância amostral.</p>",
+      "corpo_clean": "A variância amostral.",
+      "id": 13954578,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>A média amostral ao quadrado.</p>",
+      "corpo_clean": "A média amostral ao quadrado.",
+      "id": 13954579,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>O segundo momento amostral.</p>",
+      "corpo_clean": "O segundo momento amostral.",
+      "id": 13954580,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>O inverso da média amostral.</p>",
+      "corpo_clean": "O inverso da média amostral.",
+      "id": 13954581,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>O inverso do segundo momento amostral.</p>",
+      "corpo_clean": "O inverso do segundo momento amostral.",
+      "id": 13954582,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "13954582",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

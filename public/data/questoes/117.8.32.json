@@ -1,0 +1,58 @@
+{
+  "id": 2575198,
+  "codigo_real": "117.8.32",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Nefrologia - Nefrologia",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Escola de Formação Complementar do Exército - EsFCEx",
+  "cargos_descricao": "Oficial Médico - Área: Nefrologia",
+  "ano": 2022,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Nas recomendações do KDIGO para estadiamento da lesão renal aguda em relação à creatinina sérica (sCr), o estágio 2 é definido por</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>aumento de 1,5 a 1,9 vezes do valor basal sCr.</p>",
+      "corpo_clean": "aumento de 1,5 a 1,9 vezes do valor basal sCr.",
+      "id": 10266162,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>aumento de 2,0 a 2,9 vezes da sCr em relação ao valor basal. </p>",
+      "corpo_clean": "aumento de 2,0 a 2,9 vezes da sCr em relação ao valor basal. ",
+      "id": 10266163,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>aumento absoluto igual ou maior que 0,3 mg/dL da sCr.</p>",
+      "corpo_clean": "aumento absoluto igual ou maior que 0,3 mg/dL da sCr.",
+      "id": 10266164,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>aumento 3 vezes da sCr em relação ao valor basal.</p>",
+      "corpo_clean": "aumento 3 vezes da sCr em relação ao valor basal.",
+      "id": 10266165,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p>valores da sCr igual ou acima de 4,0 mg/dL.</p>",
+      "corpo_clean": "valores da sCr igual ou acima de 4,0 mg/dL.",
+      "id": 10266166,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10266163",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

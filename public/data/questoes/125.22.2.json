@@ -1,0 +1,58 @@
+{
+  "id": 3096625,
+  "codigo_real": "125.22.2",
+  "disciplina_real": "Pedagogia",
+  "assunto_real": "Mídias, comunicação e tecnologias da educação",
+  "bancas_nome": "Fundação de Estudos e Pesquisas Socioeconômicos",
+  "bancas_sigla": "FEPESE",
+  "orgaos_nome": "Fundação Catarinense de Educação Especial",
+  "cargos_descricao": "Professor de Informática Educativa",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O uso de tecnologias da informação e comunicação é uma das competências propostas pela Base Nacional Comum Curricular (BNCC) para a educação básica.</p><p style=\"text-align: justify;\"><span class=\"ql-formula\" data-value=\"\\quad\"><span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0em; vertical-align: 0em;\"></span><span class=\"mspace\" style=\"margin-right: 1em;\"></span></span></span></span></span></span> </p><p style=\"text-align: justify;\">Entre as razões pelas quais as tecnologias, os recursos e a cultura digital devem, cada vez mais, estar presentes no cotidiano das escolas estão:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">usar as tecnologias digitais exclusivamente como meio ou suporte.</p>",
+      "corpo_clean": "usar as tecnologias digitais exclusivamente como meio ou suporte.",
+      "id": 12557353,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">realizar provas objetivas precisas para avaliação da aprendizagem.</p>",
+      "corpo_clean": "realizar provas objetivas precisas para avaliação da aprendizagem.",
+      "id": 12557354,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">receber ordens e realizar tarefas com mais eficiência.</p>",
+      "corpo_clean": "receber ordens e realizar tarefas com mais eficiência.",
+      "id": 12557355,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">escolher entre respostas prontas para as questões apresentadas.</p>",
+      "corpo_clean": "escolher entre respostas prontas para as questões apresentadas.",
+      "id": 12557356,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">trabalhar conceitos relacionados à segurança na rede, cyberbullying, checagem de fatos e informações.</p>",
+      "corpo_clean": "trabalhar conceitos relacionados à segurança na rede, cyberbullying, checagem de fatos e informações.",
+      "id": 12557357,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12557357",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

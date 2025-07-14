@@ -1,0 +1,58 @@
+{
+  "id": 2613884,
+  "codigo_real": "116.9",
+  "disciplina_real": "Medicina Legal",
+  "assunto_real": "Embriaguez e toxicomanias",
+  "bancas_nome": "Universidade Federal de São Paulo",
+  "bancas_sigla": "UNIFESP UFSP",
+  "orgaos_nome": "Universidade Federal de São Paulo",
+  "cargos_descricao": "Médico - Área Psiquiatria / Psiquiatra",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Um rapaz de 22 anos relata que desde os 10 anos de idade tem algumas “manias”. Precisa conferir as janelas e portas de sua casa antes de sair, com medo que alguém entre e roube a casa. Também precisa conferir as torneiras para ter certeza de que não estão pingando e o fogão para verificar se há algum vazamento de gás. Conta que no início gastava alguns minutos com estas checagens, mas ao longo dos anos foi demorando cada vez mais. Aos 15 anos chegava atrasado na escola quase todos os dias. Sua mãe o levou ao médico pediatra que fez o diagnóstico de transtorno obsessivo compulsivo (TOC) e o encaminhou ao psiquiatra. Usou sertralina por 8 meses, chegando a tomar 200mg ao dia por 5 meses. Acha que nos primeiros meses houve alguma melhora nos atrasos, mas depois pioraram novamente. O médico trocou por clomipramina, que foi utilizada na dose máxima de 150mg ao dia por 2 meses, mas o rapaz conta que tinha uma sonolência muito grande e não houve melhora dos sintomas. Depois usou escitalopram na dose de 30mg ao dia por 4 meses, sem uma resposta satisfatória. Atualmente está em uso de fluoxetina 80 mg ao dia. Refere que houve alguma diminuição no tempo das checagens e não tem efeitos colaterais com a medicação, mas ainda tem muitos problemas com os atrasos porque não consegue diminuir o tempo gue fica verificando a casa antes de sair. À conduta adequada é: </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">Encaminhar o paciente para tratamento psicoterápico de orientação psicodinâmica. </p>",
+      "corpo_clean": "Encaminhar o paciente para tratamento psicoterápico de orientação psicodinâmica. ",
+      "id": 10427683,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Acrescentar topiramato para potencializar a ação antiobsessiva da fluoxetina. </p>",
+      "corpo_clean": "Acrescentar topiramato para potencializar a ação antiobsessiva da fluoxetina. ",
+      "id": 10427684,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Trocara fluoxetina por mirtazapina. </p>",
+      "corpo_clean": "Trocara fluoxetina por mirtazapina. ",
+      "id": 10427685,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Encaminhar o paciente para terapia comportamental em grupo. </p>",
+      "corpo_clean": "Encaminhar o paciente para terapia comportamental em grupo. ",
+      "id": 10427686,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> Encaminhar o paciente para tratamento de estimulação encefálica profunda. </p>",
+      "corpo_clean": " Encaminhar o paciente para tratamento de estimulação encefálica profunda. ",
+      "id": 10427687,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10427686",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

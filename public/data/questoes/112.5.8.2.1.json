@@ -1,0 +1,37 @@
+{
+  "id": 137427,
+  "codigo_real": "112.5.8.2.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Casos obrigatórios de crase - Morfossintaxe do período",
+  "bancas_nome": "Centro de Seleção e de Promoção de Eventos UnB",
+  "bancas_sigla": "CESPE CEBRASPE",
+  "orgaos_nome": "Polícia Federal",
+  "cargos_descricao": "Policial Federal / Perito",
+  "ano": 2002,
+  "nivel": "Superior",
+  "tipo": "certo e errado",
+  "enunciado": "<P align=justify>A reescritura de \"Necessitamos com urgência quebrar alguns espelhos\" (<EM>L</EM>.23) como <STRONG>Necessitamos, com  urgência, de quebrar alguns espelhos</STRONG> não fere a correção gramatical nem altera as funções sintáticas originais.</P>",
+  "grupoQuestao_enunciado": "<P align=justify><IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/1608/9.gif></P>\r\n<P align=justify>A partir da análise da estrutura sintática dos períodos do último parágrafo do texto III, julgue os seguintes itens.</P>",
+  "alternativas": [
+    {
+      "corpo": "Certo",
+      "corpo_clean": "Certo",
+      "id": 623751,
+      "ordem": 1,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "Errado",
+      "corpo_clean": "Errado",
+      "id": 623752,
+      "ordem": 2,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "623751",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

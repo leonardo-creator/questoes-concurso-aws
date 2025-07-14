@@ -1,0 +1,58 @@
+{
+  "id": 2697532,
+  "codigo_real": "72.16.1",
+  "disciplina_real": "Engenharia Elétrica e Engenharia Eletrônica",
+  "assunto_real": "NBR 5410 – Instalações elétricas de baixa tensão - NBR 5410 – Instalações elétricas de baixa tensão",
+  "bancas_nome": "COPEVE/UFAL - FUNDEPES",
+  "bancas_sigla": "",
+  "orgaos_nome": "Instituto Federal de Educação, Ciência e Tecnologia de Alagoas",
+  "cargos_descricao": "Engenheiro Eletricista",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">A norma ABNT:NBR-5410 define três principais tipos de esquemas de aterramento divergentes entre si, em função da situação da alimentação e das massas com relação à terra: TN, TT e IT. Em relação às características desses esquemas, assinale a alternativa correta. </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O esquema TN possui um ponto de alimentação diretamente aterrado, sendo as massas ligadas a esse ponto por condutores de proteção. Devido a esse fato, a corrente de falta fase-massa é uma corrente de curto-circuito. </p>",
+      "corpo_clean": "O esquema TN possui um ponto de alimentação diretamente aterrado, sendo as massas ligadas a esse ponto por condutores de proteção. Devido a esse fato, a corrente de falta fase-massa é uma corrente de curto-circuito. ",
+      "id": 10796702,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O TT possui um ponto de alimentação diretamente aterrado, estando as massas da instalação ligadas a pontos de aterramento distintos do ponto de aterramento da instalação. Esse é o esquema de aterramento usado no novo padrão de tomadas com três pinos.</p>",
+      "corpo_clean": "O TT possui um ponto de alimentação diretamente aterrado, estando as massas da instalação ligadas a pontos de aterramento distintos do ponto de aterramento da instalação. Esse é o esquema de aterramento usado no novo padrão de tomadas com três pinos.",
+      "id": 10796703,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O esquema de aterramento IT é bem semelhante ao tipo de aterramento TT, porém o aterramento da fonte não existe ou é feito através de uma impedância com um valor reduzido. Nele, a corrente de falta é limitada, não permitindo que a primeira falta desligue o sistema. </p>",
+      "corpo_clean": "O esquema de aterramento IT é bem semelhante ao tipo de aterramento TT, porém o aterramento da fonte não existe ou é feito através de uma impedância com um valor reduzido. Nele, a corrente de falta é limitada, não permitindo que a primeira falta desligue o sistema. ",
+      "id": 10796704,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Uma das variações do sistema TN é o TN-C, que é caracterizado por ter as funções de neutro e de proteção combinadas em um único condutor (PEN) ao longo de toda a instalação. Esse esquema é compatível tanto com disjuntores convencionais quanto com os diferenciais residuais. </p>",
+      "corpo_clean": "Uma das variações do sistema TN é o TN-C, que é caracterizado por ter as funções de neutro e de proteção combinadas em um único condutor (PEN) ao longo de toda a instalação. Esse esquema é compatível tanto com disjuntores convencionais quanto com os diferenciais residuais. ",
+      "id": 10796705,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">No esquema TN-S, as funções de neutro e de proteção são dispostas em condutores separados ao longo de toda a instalação. Nele, a proteção apenas pode ser realizada por dispositivo a sobrecorrente (disjuntor convencional), uma vez que esse esquema é incompatível com o disjuntor DR (diferencial-residual). </p>",
+      "corpo_clean": "No esquema TN-S, as funções de neutro e de proteção são dispostas em condutores separados ao longo de toda a instalação. Nele, a proteção apenas pode ser realizada por dispositivo a sobrecorrente (disjuntor convencional), uma vez que esse esquema é incompatível com o disjuntor DR (diferencial-residual). ",
+      "id": 10796706,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10796702",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

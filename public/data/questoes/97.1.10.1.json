@@ -1,0 +1,58 @@
+{
+  "id": 2730169,
+  "codigo_real": "97.1.10.1",
+  "disciplina_real": "Legislação de Trânsito e CTB",
+  "assunto_real": "Disposições Gerais - Disposições Gerais",
+  "bancas_nome": "Consultoria Técnica e Planejamento LTDA",
+  "bancas_sigla": "Contemax",
+  "orgaos_nome": "Câmara de Iguaracy",
+  "cargos_descricao": "Motorista",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Os veículos classificam-se em, quanto à espécie, de carga:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">motoneta; ciclomotor; motoneta; quadriciclo; caminhonete; caminhão; reboque ou semi-reboque; carroça; carro-de-mão</p>",
+      "corpo_clean": "motoneta; ciclomotor; motoneta; quadriciclo; caminhonete; caminhão; reboque ou semi-reboque; carroça; carro-de-mão",
+      "id": 10941921,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">motoneta; motocicleta; triciclo; quadriciclo; caminhão; reboque ou semi-reboque; carroça; carro-de-mão</p>",
+      "corpo_clean": "motoneta; motocicleta; triciclo; quadriciclo; caminhão; reboque ou semi-reboque; carroça; carro-de-mão",
+      "id": 10941922,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">motoneta; motocicleta; triciclo; quadriciclo; caminhonete; automóvel; reboque ou semi-reboque; carroça; carro-de-mão</p>",
+      "corpo_clean": "motoneta; motocicleta; triciclo; quadriciclo; caminhonete; automóvel; reboque ou semi-reboque; carroça; carro-de-mão",
+      "id": 10941923,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">motoneta; motocicleta; triciclo; quadriciclo; caminhonete; caminhão; reboque ou semi-reboque; bonde; carro-de-mão</p>",
+      "corpo_clean": "motoneta; motocicleta; triciclo; quadriciclo; caminhonete; caminhão; reboque ou semi-reboque; bonde; carro-de-mão",
+      "id": 10941924,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">motoneta; motocicleta; triciclo; quadriciclo; caminhonete; caminhão; reboque ou semi-reboque; carroça; carro-de-mão</p>",
+      "corpo_clean": "motoneta; motocicleta; triciclo; quadriciclo; caminhonete; caminhão; reboque ou semi-reboque; carroça; carro-de-mão",
+      "id": 10941925,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "10941925",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

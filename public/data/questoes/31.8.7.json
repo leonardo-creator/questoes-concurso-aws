@@ -1,0 +1,58 @@
+{
+  "id": 418169,
+  "codigo_real": "31.8.7",
+  "disciplina_real": "Direito Administrativo",
+  "assunto_real": "Procedimento de Licitação",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional Federal da 2ª Região",
+  "cargos_descricao": "Técnico Judiciário - Área: Administrativa",
+  "ano": 2007,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<P align=justify>A respeito de licitações, considere: </P>\r\n<P align=justify>I. Quanto à competição no processo licitatório, pode-se afirmar que é relativa, na medida em que, no interesse público, impõe-se regras, dentre outras, que afastam o licitante não constituído regularmente. </P>\r\n<P align=justify>II. O julgamento das propostas deve ser objetivo e pautado por critérios claros contidos no edital. </P>\r\n<P align=justify>III. Segundo o princípio da adjudicação compulsória, a Administração Pública é obrigada a contratar imediatamente o licitante vencedor. E</P>\r\n<P align=justify>stá correto o que consta APENAS em</P>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>I e II.</p>",
+      "corpo_clean": "I e II.",
+      "id": 1497637,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>I e III.</p>",
+      "corpo_clean": "I e III.",
+      "id": 1497638,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>II.</p>",
+      "corpo_clean": "II.",
+      "id": 1497639,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>III.</p>",
+      "corpo_clean": "III.",
+      "id": 1497640,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>II e III.</p>",
+      "corpo_clean": "II e III.",
+      "id": 1497641,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": null,
+  "dificuldade": "Difícil",
+  "anulada": true,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

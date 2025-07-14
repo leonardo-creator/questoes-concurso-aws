@@ -1,0 +1,58 @@
+{
+  "id": 3007268,
+  "codigo_real": "72.5.2.2",
+  "disciplina_real": "Engenharia Elétrica e Engenharia Eletrônica",
+  "assunto_real": "Portas lógicas, Flip-flops, circuitos integrado, dispositivos optrônicos e dispositivos correlatos",
+  "bancas_nome": "Universidade Federal do Espírito Santo",
+  "bancas_sigla": "UFES",
+  "orgaos_nome": "Universidade Federal do Espírito Santo",
+  "cargos_descricao": "Técnico de Laboratório - Área Indústria Elétrica",
+  "ano": 2023,
+  "nivel": "Médio",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em relação às portas lógicas, é INCORRETO o que se afirma em:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A saída de um inversor é o complemento da entrada.</p>",
+      "corpo_clean": "A saída de um inversor é o complemento da entrada.",
+      "id": 12162752,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A saída será nível ALTO, caso uma das entradas de uma porta AND seja alta.</p>",
+      "corpo_clean": "A saída será nível ALTO, caso uma das entradas de uma porta AND seja alta.",
+      "id": 12162753,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A saída de uma porta EX-OR é nível ALTO quando as entradas estão em níveis diferentes.</p>",
+      "corpo_clean": "A saída de uma porta EX-OR é nível ALTO quando as entradas estão em níveis diferentes.",
+      "id": 12162754,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A saída de uma porta NAND é nível BAIXO apenas quando todas as entradas estiverem em nível ALTO.</p>",
+      "corpo_clean": "A saída de uma porta NAND é nível BAIXO apenas quando todas as entradas estiverem em nível ALTO.",
+      "id": 12162755,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A saída de uma porta NOR é nível BAIXO quando qualquer uma das entradas for nível ALTO.</p>",
+      "corpo_clean": "A saída de uma porta NOR é nível BAIXO quando qualquer uma das entradas for nível ALTO.",
+      "id": 12162756,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12162753",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

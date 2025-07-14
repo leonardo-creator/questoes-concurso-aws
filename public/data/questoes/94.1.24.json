@@ -1,0 +1,51 @@
+{
+  "id": 3403202,
+  "codigo_real": "94.1.24",
+  "disciplina_real": "História",
+  "assunto_real": "Imperialismo e Colonialismo do século XIX",
+  "bancas_nome": "Instituto de Administração e Tecnologia",
+  "bancas_sigla": "ADM TEC",
+  "orgaos_nome": "Prefeitura de Brejo da Madre de Deus",
+  "cargos_descricao": "Professor - Área: História",
+  "ano": 2024,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">No século XIX, o Imperialismo e o Neocolonialismo marcaram uma era de expansão territorial e econômica pelas potências europeias, principalmente na África e na Ásia. Este período foi caracterizado pela busca de matérias-primas, novos mercados para produtos industrializados e o desejo de poder e prestígio internacional. Qual evento simboliza de forma mais marcante a divisão e a competição imperialista entre as potências europeias na África durante o final do século XIX?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">A Guerra dos Bôeres, que envolveu conflitos diretos entre os colonizadores holandeses e o Império Britânico pelo controle da África do Sul.</p>",
+      "corpo_clean": "A Guerra dos Bôeres, que envolveu conflitos diretos entre os colonizadores holandeses e o Império Britânico pelo controle da África do Sul.",
+      "id": 13862368,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A construção do Canal de Suez em 1869, facilitando o acesso europeu às suas colônias na Ásia e fortalecendo o controle imperial na região.</p>",
+      "corpo_clean": "A construção do Canal de Suez em 1869, facilitando o acesso europeu às suas colônias na Ásia e fortalecendo o controle imperial na região.",
+      "id": 13862369,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A expedição de David Livingstone ao interior da África, que abriu caminho para a exploração e colonização europeia.</p>",
+      "corpo_clean": "A expedição de David Livingstone ao interior da África, que abriu caminho para a exploração e colonização europeia.",
+      "id": 13862370,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">A Conferência de Berlim de 1884-1885, que regulamentou a partilha da África entre as nações europeias sem considerar as estruturas políticas e culturais existentes no continente.</p>",
+      "corpo_clean": "A Conferência de Berlim de 1884-1885, que regulamentou a partilha da África entre as nações europeias sem considerar as estruturas políticas e culturais existentes no continente.",
+      "id": 13862371,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "13862371",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

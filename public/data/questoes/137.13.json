@@ -1,0 +1,58 @@
+{
+  "id": 2900818,
+  "codigo_real": "137.13",
+  "disciplina_real": "Serviço Social",
+  "assunto_real": "Serviço Social e a Família",
+  "bancas_nome": "Fundação para o Vestibular da Universidade Estadual Paulista",
+  "bancas_sigla": "VUNESP",
+  "orgaos_nome": "Prefeitura de Pindamonhangaba",
+  "cargos_descricao": "Assistente Social",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Conforme apontam estudiosos do tema, o risco pode ser entendido como uma variedade de situações que englobam: os eventos naturais, ligados ao ciclo de vida, de saúde, sociais, econômicos, entre outros; já a vulnerabilidade social guarda relação com a exposição ao risco. A abordagem dessas categorias também diz respeito ao acesso às estruturas de oportunidades e às iniciativas individuais e grupais que contribuam para a redução do grau de vulnerabilidade e façam frente ao choque do risco pessoal ou social. Tal enfoque permite estabelecer diferentes estratégias de articulação no campo das políticas públicas e de fortalecimento da capacidade de </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">resposta das famílias.</p>",
+      "corpo_clean": "resposta das famílias.",
+      "id": 11696464,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">transformação da sociedade.</p>",
+      "corpo_clean": "transformação da sociedade.",
+      "id": 11696465,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">resiliência dos indivíduos.</p>",
+      "corpo_clean": "resiliência dos indivíduos.",
+      "id": 11696466,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">resiliência dos indivíduos.</p>",
+      "corpo_clean": "resiliência dos indivíduos.",
+      "id": 11696467,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">compreensão do coletivo.</p>",
+      "corpo_clean": "compreensão do coletivo.",
+      "id": 11696468,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "11696464",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

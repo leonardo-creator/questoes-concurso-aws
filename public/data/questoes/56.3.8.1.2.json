@@ -1,0 +1,58 @@
+{
+  "id": 386065,
+  "codigo_real": "56.3.8.1.2",
+  "disciplina_real": "Economia e Finanças",
+  "assunto_real": "Receita - Razões e proporções",
+  "bancas_nome": "Fundação Carlos Chagas",
+  "bancas_sigla": "FCC",
+  "orgaos_nome": "Tribunal Regional Eleitoral do Piauí",
+  "cargos_descricao": "Analista Judiciário - Área Analista de Sistemas",
+  "ano": 2009,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<P align=justify>A prefeitura de um pequeno município estabeleceu que <IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/7013/01.gif> da sua receita anual seja aplicada em educação. Daquilo que sobra, <IMG src=https://arquivos.infra-questoes.grancursosonline.com.br/imagens_provas/7013/0202.gif> deve ser destinado à saúde. Descontando tudo que foi gasto em educação e saúde, o restante é dividido igualmente entre as despesas com funcionários e gastos com transporte e habitação. Sabendo que no ano de 2008 foram gastos R$ 300.000,00 com transporte e habitação, pode-se concluir que a receita daquele ano, em milhares de reais, foi</P>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p align=justify>600</p>",
+      "corpo_clean": "600",
+      "id": 1380747,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p align=justify>1.200</p>",
+      "corpo_clean": "1.200",
+      "id": 1380748,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p align=justify>1.500</p>",
+      "corpo_clean": "1.500",
+      "id": 1380749,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p align=justify>2.100</p>",
+      "corpo_clean": "2.100",
+      "id": 1380750,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p align=justify>3.000</p>",
+      "corpo_clean": "3.000",
+      "id": 1380751,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "1380750",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": true,
+  "hasImageItens": false
+}

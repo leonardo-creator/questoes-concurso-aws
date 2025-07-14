@@ -1,0 +1,51 @@
+{
+  "id": 3158186,
+  "codigo_real": "114.2.2.1.1",
+  "disciplina_real": "Matemática Financeira",
+  "assunto_real": "Montante",
+  "bancas_nome": "Instituto Consulplan",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Astolfo Dutra",
+  "cargos_descricao": "Pedagogo (CAPS)",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">O prédio de uma repartição pública possui três andares, onde 44 funcionários exercem suas atividades. Sabe-se que 26 funcionários trabalham no primeiro andar; 20 funcionários trabalham no segundo andar; e, 24 funcionários trabalham no terceiro andar. Alguns funcionários trabalham em mais de um andar, como é o caso de 8 funcionários que trabalham no primeiro e segundo andares; 10 funcionários que trabalham no segundo e terceiro andares; e, 6 funcionários que trabalham nos três andares. Considerando tais condições, quantos funcionários trabalham, exclusivamente, no primeiro e terceiro andares? </p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>5.</p>",
+      "corpo_clean": "5.",
+      "id": 12821281,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>8.</p>",
+      "corpo_clean": "8.",
+      "id": 12821282,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>12.</p>",
+      "corpo_clean": "12.",
+      "id": 12821283,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>14. </p>",
+      "corpo_clean": "14. ",
+      "id": 12821284,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "12821282",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

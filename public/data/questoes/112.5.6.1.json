@@ -1,0 +1,51 @@
+{
+  "id": 1222428,
+  "codigo_real": "112.5.6.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Concordância verbal",
+  "bancas_nome": "Instituto AOCP",
+  "bancas_sigla": "",
+  "orgaos_nome": "Universidade Federal do Recôncavo da Bahia",
+  "cargos_descricao": "Tecnólogo - Área Gestão em Recursos Humanos",
+  "ano": 2019,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Analise o seguinte período: </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">“A informalidade é a regra: 42% das barragens cadastradas nos órgãos de fiscalização não têm nenhum tipo de documento como outorga, autorização ou licença.”. Considerando as normas gramaticais de concordância verbal e as seguintes frases adaptadas desse período, assinale a alternativa que apresenta a concordância adequada.</p>",
+  "grupoQuestao_enunciado": "<p style=\"text-align: justify;\"><strong>TEXTO 1 </strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><strong>Brumadinho, Mariana, impunidade e descaso</strong></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>Nenhum dos envolvidos no desastre de 2015 foi responsabilizado, e a fiscalização continuou precária mesmo depois da primeira tragédia: ingredientes para mais uma catástrofe</em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify; text-indent: 1em;\">Pouco mais de três anos depois do desastre de Mariana, do qual Minas Gerais ainda luta para se recuperar, mais um rompimento de barragem da mineradora Vale assombra o país. Desta vez, como afirmou o presidente da empresa, Fabio Schvartsman, o custo ambiental pode até ter sido menor que o de Mariana, mas o custo humano foi muito maior. (...) Como é possível que dois desastres dessas dimensões tenham ocorrido em um espaço que, para este tipo de situação, pode ser considerado curto?</p><p style=\"text-align: justify; text-indent: 1em;\">Mariana – cuja barragem pertencia à Samarco, joint-venture entre a Vale e a britânica BHP Billiton – deveria ter servido de aprendizado, mas todas as informações que surgiram após o desastre de Brumadinho mostram que os esforços nem das empresas responsáveis, nem do Estado brasileiro foram suficientes para evitar que outro episódio catastrófico ocorresse. A empresa certamente sabe que a preservação e a prevenção compensam; os danos de imagem podem ser diferentes daqueles que atingem outros tipos de negócios – o público não pode simplesmente “boicotar” uma mineradora, por exemplo –, mas também existem, e a Vale sentiu, nesta segunda-feira, a perda de seu valor de mercado. Schvartsman chegou a dizer que a empresa fez todo o possível para garantir a segurança de suas barragens depois de Mariana, mas agora se sabe que “todo o possível” não bastou.</p><p style=\"text-align: justify; text-indent: 1em;\">A palavra ausente neste período entre Mariana e Brumadinho é “responsabilização”. O Ministério Público Federal denunciou 21 pessoas e as três empresas (Samarco, Vale e BHP Billiton) pelo desastre de Mariana, mas ainda não houve julgamento. A Gazeta do Povo apurou que, das 68 multas aplicadas após a tragédia de 2015, apenas uma está sendo paga, em 59 parcelas. A demora para que os responsáveis paguem pela sucessão de irresponsabilidades que levou ao desastre certamente não incentiva as mineradoras a manter boas práticas de prevenção de desastres que possam ir além do estritamente necessário.</p><p style=\"text-align: justify; text-indent: 1em;\">Os dados mais estarrecedores, no entanto, vieram dos relatórios governamentais que mostram uma inação quase completa do poder público na fiscalização do estado das barragens no país. O Relatório de Segurança de Barragens de 2017, da Agência Nacional de Águas, mostra que apenas 27% das barragens de rejeitos (caso tanto de Mariana quanto de Brumadinho) foram vistoriadas em 2017 pela Agência Nacional de Mineração. Há 45 barragens com “algum comprometimento importante que impacte a sua segurança”. A informalidade é a regra: 42% das barragens cadastradas nos órgãos de fiscalização não têm nenhum tipo de documento como outorga, autorização ou licença. E, nos poucos casos em que há vistoria, ela é feita por amostragem de algumas áreas da barragem, o que pode ignorar pontos críticos. É assim que tanto a barragem de Fundão, em Mariana, como a da Mina Córrego do Feijão, em Brumadinho, foram consideradas seguras. Ainda mais revoltante é a informação de que a Câmara de Atividades Minerárias da Secretaria de Meio Ambiente de Minas Gerais aprovou uma ampliação de 70% no complexo Paraopeba (onde se encontrava a barragem que estourou em Brumadinho) de forma apressada, rebaixando o potencial poluidor da operação para que o licenciamento ambiental pudesse pular fases.</p><p style=\"text-align: justify; text-indent: 1em;\">A atividade mineradora é atribuição da iniciativa privada, mas a fiscalização é uma obrigação do Estado. E os relatórios demonstram que o governo não deu importância a esse trabalho nem mesmo depois de Mariana. Como resultado desta omissão coletiva, dezenas, possivelmente centenas, de vidas perderam-se em Brumadinho. Mortes que poderiam ter sido evitadas se o caso de 2015 tivesse levado a uma responsabilização rápida por parte da Justiça, um trabalho mais cuidadoso por parte das empresas de mineração e uma fiscalização abrangente feita pelo governo.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Adaptado de: &lt; https://www.gazetadopovo.com.br/opiniao/editoriais/brumadinho-mariana-impunidade-e-descaso-6621e4i8qg00dhyqctji1wdh2/ &gt;. Acesso em: 04 abr. 2019.</p>",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">“(...) 42% das barragens cadastradas nos órgãos de fiscalização não <strong><u>tem</u></strong> nenhum tipo de documento (...)”.</p>",
+      "corpo_clean": "“(...) 42% das barragens cadastradas nos órgãos de fiscalização não tem nenhum tipo de documento (...)”.",
+      "id": 4407745,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">“(...) 42% (...) não <strong><u>têm</u></strong> nenhum tipo de documento (...)”.</p>",
+      "corpo_clean": "“(...) 42% (...) não têm nenhum tipo de documento (...)”.",
+      "id": 4407746,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">“(...) 1% das barragens cadastradas nos órgãos de fiscalização não <strong><u>tem</u></strong> nenhum tipo de documento (...)”.</p>",
+      "corpo_clean": "“(...) 1% das barragens cadastradas nos órgãos de fiscalização não tem nenhum tipo de documento (...)”.",
+      "id": 4407747,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">“(...) 1% (...) não <strong><u>têm</u></strong> nenhum tipo de documento (...)”.</p>",
+      "corpo_clean": "“(...) 1% (...) não têm nenhum tipo de documento (...)”.",
+      "id": 4407748,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "4407746",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

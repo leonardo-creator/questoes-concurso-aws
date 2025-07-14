@@ -1,0 +1,51 @@
+{
+  "id": 3311393,
+  "codigo_real": "112.1.22.1",
+  "disciplina_real": "Língua Portuguesa",
+  "assunto_real": "Mecanismos de coesão textual",
+  "bancas_nome": "Objetiva Concursos",
+  "bancas_sigla": "",
+  "orgaos_nome": "Prefeitura de Turuçu",
+  "cargos_descricao": "Assistente Administrativo I",
+  "ano": 2024,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: center;\">Brasil visto pelos estrangeiros </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify; text-indent: 3em;\">“Um país onde só há florestas” ou “um país onde todos jogam futebol e pulam Carnaval”. Essas são ideias que muitos estrangeiros têm do Brasil e que, no entanto, não correspondem à realidade. Embora o Brasil tenha florestas, elas ocupam apenas uma parcela do território. Também não são todas as pessoas que jogam futebol e pulam Carnaval. Ideias como essas são chamadas de estereótipos e trazem generalizações sobre fatos ou aspectos nem sempre verdadeiros, além de julgamentos sobre um grupo social, uma nacionalidade ou um assunto qualquer.</p><p style=\"text-align: justify; text-indent: 3em;\"> A partir do século XVI, artistas, cientistas e viajantes europeus passaram a elaborar imagens sobre o território que formaria o Brasil, por meio de pinturas e relatos. Essas terras eram descritas e representadas com florestas ____________, frutos e águas abundantes, indígenas de pele escura e nus, pássaros ____________ e animais considerados estranhos.  </p><p style=\"text-align: justify; text-indent: 3em;\">A associação do Brasil a paisagens consideradas belas e exóticas pelos estrangeiros foi predominante até o século XIX. A partir do século XX, com a expansão dos meios de comunicação de massa, sobretudo o rádio e a televisão, outras imagens e ideias estereotipadas do Brasil começaram a ser difundidas de modo significativo no exterior. </p><p style=\"text-align: justify; text-indent: 3em;\">Além de país ____________, com natureza abundante, o Brasil passou a ser associado às ideias de:  </p><p style=\"text-align: justify; text-indent: 3em;\">• povo gentil e dócil: inclui características relacionadas ao povo brasileiro, como hospitalidade, capacidade de se adaptar a diferentes situações, alegria e cordialidade;  </p><p style=\"text-align: justify; text-indent: 3em;\">• país do Carnaval e do futebol: é a síntese do imaginário que associa o Brasil a grandes eventos populares, como Carnaval, futebol, samba e festas populares;</p><p style=\"text-align: justify; text-indent: 3em;\"> • país do exotismo e do misticismo: relaciona-se às manifestações religiosas, das culturas africana e indígena, dos ritos e rituais em geral.  </p><p style=\"text-align: justify; text-indent: 3em;\">No século XXI, pesquisas realizadas com base na opinião pública em todo o mundo indicaram que o Brasil está entre os países mais conhecidos. No entanto, passados mais de 500 anos desde o “descobrimento”, muitas ideias e imagens estereotipadas sobre nosso país ainda se perpetuam. FTD. Geografia: espaço e interação. P. 108. Com adaptações. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">O termo sublinhado no 1º parágrafo do texto faz referência a:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p>Ideias.</p>",
+      "corpo_clean": "Ideias.",
+      "id": 13467243,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p>Pessoas.</p>",
+      "corpo_clean": "Pessoas.",
+      "id": 13467244,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p>Florestas.</p>",
+      "corpo_clean": "Florestas.",
+      "id": 13467245,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p>Generalizações.</p>",
+      "corpo_clean": "Generalizações.",
+      "id": 13467246,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "13467245",
+  "dificuldade": "Fácil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

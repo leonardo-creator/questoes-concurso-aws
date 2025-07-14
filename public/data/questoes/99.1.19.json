@@ -1,0 +1,58 @@
+{
+  "id": 1731454,
+  "codigo_real": "99.1.19",
+  "disciplina_real": "Legislação Estadual, Distrital e Municipal",
+  "assunto_real": "Rio de Janeiro RJ",
+  "bancas_nome": "Instituto de Avaliação, Seleção e Pesquisa LTDA",
+  "bancas_sigla": "IASP",
+  "orgaos_nome": "Câmara de Mesquita",
+  "cargos_descricao": "Auxiliar Legislativo",
+  "ano": 2020,
+  "nivel": "Fundamental",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Assinale a única alternativa que não corresponde a um dos direitos dos servidores do Município de Mesquita – RJ de acordo com a Lei Orgânica do Município:</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">O livre acesso à associação sindical.</p>",
+      "corpo_clean": "O livre acesso à associação sindical.",
+      "id": 6575511,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Licença-maternidade.</p>",
+      "corpo_clean": "Licença-maternidade.",
+      "id": 6575512,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">O livre acesso à associação sindical.</p>",
+      "corpo_clean": "O livre acesso à associação sindical.",
+      "id": 6575513,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Participação em reuniões no local de trabalho, na forma da lei.</p>",
+      "corpo_clean": "Participação em reuniões no local de trabalho, na forma da lei.",
+      "id": 6575514,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">Redutibilidade de vencimentos e salários.</p>",
+      "corpo_clean": "Redutibilidade de vencimentos e salários.",
+      "id": 6575515,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "6575515",
+  "dificuldade": "Média",
+  "anulada": true,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 949336,
+  "codigo_real": "25.12.3.5.2.4",
+  "disciplina_real": "Contabilidade Geral",
+  "assunto_real": "Investimento",
+  "bancas_nome": "Fundação de desenvolvimento da pesquisa",
+  "bancas_sigla": "FUNDEP UFMG",
+  "orgaos_nome": "Companhia de Desenvolvimento Econômico de Minas Gerais",
+  "cargos_descricao": "Contador",
+  "ano": 2018,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p>Um investimento de R$ 55.000,00 gera três entradas de caixa anuais (a primeira após um ano do investimento realizado) de R$ 23.000,00 cada.\r\n</p><p>Considerando uma taxa de desconto de 8% a.a., qual é o valor presente líquido (VPL), aproximadamente, desse investimento?</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "R$ 14.000,00.",
+      "corpo_clean": "R$ 14.000,00.",
+      "id": 3324070,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "R$ 62.555,61.",
+      "corpo_clean": "R$ 62.555,61.",
+      "id": 3324071,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "R$ 4.273,23.",
+      "corpo_clean": "R$ 4.273,23.",
+      "id": 3324072,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "\r\nR$ 7.555,61.",
+      "corpo_clean": " R$ 7.555,61.",
+      "id": 3324073,
+      "ordem": 4,
+      "rotulo": "D    "
+    }
+  ],
+  "resposta_correta": "3324072",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

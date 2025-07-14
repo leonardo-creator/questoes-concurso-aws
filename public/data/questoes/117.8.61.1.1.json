@@ -1,0 +1,58 @@
+{
+  "id": 3086572,
+  "codigo_real": "117.8.61.1.1",
+  "disciplina_real": "Medicina",
+  "assunto_real": "Ecocardiografia - Ecocardiografia",
+  "bancas_nome": "Instituto Brasileiro de Formação e Capacitação",
+  "bancas_sigla": "IBFC",
+  "orgaos_nome": "Empresa Brasileira de Serviços Hospitalares - EBSERH",
+  "cargos_descricao": "Médico - Área Ecocardiografia",
+  "ano": 2023,
+  "nivel": "Superior",
+  "tipo": "multipla escolha",
+  "enunciado": "<p style=\"text-align: justify;\">Em relação à realização do ecocardiograma doppler transtorácico na miocardiopatia hipertrófica (MCH), analise as afirmativas abaixo. </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">I. Confirmar a suspeita clínica de MCH, determinando o espessamento parietal e a presença de gradiente dinâmico. </p><p style=\"text-align: justify;\">II. Investigar a presença de MCH em familiares de primeiro grau. </p><p style=\"text-align: justify;\">III. Reavaliação da evolução clínica, assim como de intervenções terapêuticas. </p><p style=\"text-align: justify;\">IV. Eco de contraste miocárdico pós-ablação septal para avaliar tamanho da área infartada . </p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\">Assinale a alternativa correta .</p>",
+  "grupoQuestao_enunciado": "",
+  "alternativas": [
+    {
+      "corpo": "<p style=\"text-align: justify;\">I e IV apenas</p>",
+      "corpo_clean": "I e IV apenas",
+      "id": 12508899,
+      "ordem": 1,
+      "rotulo": "A    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> I, II, III e IV</p>",
+      "corpo_clean": " I, II, III e IV",
+      "id": 12508900,
+      "ordem": 2,
+      "rotulo": "B    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">I e II apenas</p>",
+      "corpo_clean": "I e II apenas",
+      "id": 12508901,
+      "ordem": 3,
+      "rotulo": "C    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\"> I, II, III e IV estão incorretas</p>",
+      "corpo_clean": " I, II, III e IV estão incorretas",
+      "id": 12508902,
+      "ordem": 4,
+      "rotulo": "D    "
+    },
+    {
+      "corpo": "<p style=\"text-align: justify;\">II apenas</p>",
+      "corpo_clean": "II apenas",
+      "id": 12508903,
+      "ordem": 5,
+      "rotulo": "E    "
+    }
+  ],
+  "resposta_correta": "12508900",
+  "dificuldade": "Difícil",
+  "anulada": false,
+  "desatualizada": false,
+  "hasImage": false,
+  "hasImageItens": false
+}

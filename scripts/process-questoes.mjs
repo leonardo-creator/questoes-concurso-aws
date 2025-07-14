@@ -8,6 +8,11 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 console.log('🚀 Iniciando processamento das questões...');
+console.log('[DEBUG] __dirname:', __dirname);
+console.log('[DEBUG] chunksDir:', chunksDir);
+console.log('[DEBUG] publicDataDir:', publicDataDir);
+console.log('[DEBUG] questoesDir:', questoesDir);
+console.log('[DEBUG] indicesDir:', indicesDir);
 
 // Diretórios
 const chunksDir = path.join(__dirname, '../chunks');
@@ -18,7 +23,10 @@ const indicesDir = path.join(publicDataDir, 'indices');
 // Criar diretórios se não existirem
 [publicDataDir, questoesDir, indicesDir].forEach(dir => {
   if (!fs.existsSync(dir)) {
+    console.log(`[DEBUG] Criando diretório: ${dir}`);
     fs.mkdirSync(dir, { recursive: true });
+  } else {
+    console.log(`[DEBUG] Diretório já existe: ${dir}`);
   }
 });
 

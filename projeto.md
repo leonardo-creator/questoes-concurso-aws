@@ -37,6 +37,29 @@ Sistema web desenvolvido em Next.js 15 para gerenciamento e estudo de questões 
 - `NEXTAUTH_SECRET`: Chave secreta para criptografia JWT (32 bytes)
 - `NEXTAUTH_URL`: URL base da aplicação
 
+## Funcionalidades Principais
+
+### Sistema de Filtros Avançado 🎯
+- **Filtros Salvos**: Sistema completo de CRUD para salvar combinações de filtros favoritas
+- **Filtros Dinâmicos**: Dropdowns com busca em tempo real (disciplinas, bancas, anos)
+- **Códigos Personalizados**: Input flexível para assuntos tipo "1.2","5.4" com parsing automático
+- **Performance**: Consultas PostgreSQL otimizadas, sem contagem automática para evitar slowdown
+
+### Estudo Offline 📱
+- **Download de Questões**: Pacotes de até 1000 questões por filtro
+- **Sincronização**: Sistema preparado para sincronizar respostas quando online
+- **LocalStorage**: Gerenciamento inteligente com limite de 50MB
+- **Histórico**: Controle de downloads e versões dos pacotes
+
+### Analytics e Performance 📊
+- **Página de Estatísticas**: Análise completa de pontos fracos e fortes
+- **Progresso Diário**: Tracking de performance com visualizações
+- **Recomendações**: Sistema que sugere onde focar para "ser top da galáxia"
+- **Métricas**: Taxa de acerto, sequências, tempo de estudo, evolução por matéria
+
+### Sistema de Questões
+- **Base de Dados**: 8.504 questões migradas do formato JSON para PostgreSQL
+
 ## 🧠 Modo Estudo Inteligente (Janeiro 2025)
 
 ### Problema Original: Filtros em sidebar lateral e sem visualização de filtros aplicados
@@ -137,4 +160,3 @@ Sistema web desenvolvido em Next.js 15 para gerenciamento e estudo de questões 
 - `prisma/schema.prisma` - Modelo SavedFilter e OfflineAction
 - `types/index.ts` - Tipo codigosPersonalizados já existente
 - `api.md` - Documentação das novas APIs
-````

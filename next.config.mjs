@@ -17,6 +17,12 @@ const nextConfig = {
   // Otimizações para performance
   poweredByHeader: false,
   generateEtags: false,
+  // Configurações experimentais
+  experimental: {
+    optimizePackageImports: ['lucide-react'],
+  },
+  // Evitar problemas com Prisma durante build
+  serverExternalPackages: ['prisma', '@prisma/client'],
   // Configurações para lidar com arquivos grandes durante build
   webpack: (config, { dev, isServer }) => {
     if (!dev && !isServer) {
@@ -55,10 +61,6 @@ const nextConfig = {
     }
     
     return config;
-  },
-  // Excluir chunks do build para economizar espaço
-  experimental: {
-    optimizePackageImports: ['lucide-react'],
   },
 };
 

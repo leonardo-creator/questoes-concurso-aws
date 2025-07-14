@@ -32,6 +32,7 @@
 | `/api/user/saved-filters/[id]` | `GET`, `PATCH`, `DELETE` | `/estudar`, Edição de filtros | JSON: `{ "nome": "string", "descricao": "string", "filtros": "object", "favorito": "boolean" }` | CRUD de filtro específico | Parâmetros como Promise<{ id: string }> (Next.js 15) |
 | `/api/questoes/validate-codes` | `POST` | `/estudar`, Validação de códigos | JSON: `{ "codes": "string[]" }` | Valida códigos de questões específicas | Retorna códigos válidos e inválidos |
 | `/api/questoes/download-offline` | `POST` | `/components/estudar/FiltrosHorizontal.tsx`, `/hooks/useDownloadOffline.ts` | JSON: `{ "filtros": "FiltroQuestoes", "limite": "number?" }` | Download de questões para estudo offline | Máximo 1000 questões, salva histórico, retorna questões processadas em JSON |
+| `/api/estatisticas` | `GET` | `/app/estudar/estatisticas/page.tsx` | Query params: periodo (7d|30d|90d|all) | Análise completa de performance do usuário | Retorna pontos fracos/fortes, sequências, progresso diário e recomendações de estudo para "ser top da galáxia" |
 
 ## Detalhes das APIs
 
@@ -211,4 +212,15 @@ const response = await fetch('/api/questoes/download-offline', {
   })
 });
 const questoesOffline = await response.json();
+```
+
+### Obter Estatísticas de Desempenho
+```javascript
+const response = await fetch('/api/estatisticas?periodo=30d', {
+  method: 'GET',
+  headers: {
+    'Authorization': `Bearer ${token}`
+  }
+});
+const estatisticas = await response.json();
 ```

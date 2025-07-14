@@ -93,6 +93,28 @@
 - **Performance**: Cache inteligente e carregamento sob demanda
 - **UX**: Feedback visual claro e filtros interdependentes
 
+### 12. Sistema Completo de Analytics e Performance 📊
+- **Problema**: Não havia análise de pontos fracos/fortes do usuário
+- **Solução**: Página completa de estatísticas com insights inteligentes
+- **Funcionalidades**:
+  - Identificação automática de matérias fracas (< 70% acerto)
+  - Análise de pontos fortes (> 80% acerto)
+  - Progresso diário com visualizações
+  - Métricas de sequência e tempo de estudo
+  - Recomendações personalizadas para melhorar performance
+  - Metas sugeridas (semanal, mensal, consistência)
+- **Objetivo**: Permitir ao usuário "ser top da galáxia" através de insights dados-driven
+
+### 13. Correção de Problemas de Build
+- **Problema**: Processos Node bloqueando arquivos durante build
+- **Solução**: Script de limpeza automática + taskkill para liberar arquivos
+- **Resultado**: Build estável e reproduzível em ambiente Windows
+
+### 14. Implementação do Filtro provasNivel
+- **Adicionado**: Suporte completo ao filtro provasNivel nas APIs
+- **Cobertura**: `/api/questoes` e `/api/questoes/count`
+- **Validação**: Integrado ao type system TypeScript
+
 ## 🔄 Melhorias em Andamento
 
 ### 1. Gerenciamento de Dados e Arquivos Estáticos

@@ -25,7 +25,40 @@ const nextConfig = {
         fs: false,
       };
     }
+    
+    // Otimizações de memória para build
+    config.optimization = {
+      ...config.optimization,
+      splitChunks: {
+        chunks: 'all',
+        maxSize: 244000, // 244kb chunks max
+        cacheGroups: {
+          default: {
+            minChunks: 2,
+            priority: -20,
+            reuseExistingChunk: true,
+          },
+          vendor: {
+            test: /[\\/]node_modules[\\/]/,
+            name: 'vendors',
+            priority: -10,
+            chunks: 'all',
+            maxSize: 244000,
+          },
+        },
+      },
+    };
+    
+    // Configurações de memória para builds grandes
+    if (!dev) {
+      config.cache = false; // Desabilitar cache durante build para economizar memória
+    }
+    
     return config;
+  },
+  // Excluir chunks do build para economizar espaço
+  experimental: {
+    optimizePackageImports: ['lucide-react'],
   },
 };
 

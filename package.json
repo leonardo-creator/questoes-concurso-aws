@@ -4,12 +4,15 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node scripts/process-questoes.mjs && next build",
+    "build": "node --max-old-space-size=512 scripts/build-optimized.mjs && next build",
+    "build:full": "node scripts/process-questoes.mjs && next build",
+    "build:light": "node scripts/generate-indices-only.mjs && next build",
     "start": "next start",
     "lint": "next lint",
     "db:generate": "prisma generate",
     "db:push": "prisma db push",
-    "db:migrate": "prisma migrate dev"
+    "db:migrate": "prisma migrate dev",
+    "process:indices": "node scripts/generate-indices-only.mjs"
   },
   "dependencies": {
     "@next-auth/prisma-adapter": "^1.0.7",

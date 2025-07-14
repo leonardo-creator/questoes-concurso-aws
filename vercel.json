@@ -12,13 +12,13 @@
   "env": {
     "NEXT_TELEMETRY_DISABLED": "1",
     "NODE_ENV": "production",
-    "DATABASE_URL": "@DATABASE_URL"
+    "DATABASE_URL": "DATABASE_URL"
   },
   "build": {
     "env": {
       "NEXT_TELEMETRY_DISABLED": "1",
       "NODE_ENV": "production",
-      "DATABASE_URL": "@DATABASE_URL"
+      "DATABASE_URL": "DATABASE_URL"
     }
   }
 }

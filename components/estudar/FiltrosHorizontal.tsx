@@ -861,7 +861,7 @@ export function FiltrosHorizontal({
                   if (codigosAssuntos.trim()) {
                     const codigos = codigosAssuntos
                       .split(',')
-                      .map(c => c.trim())
+                      .map(c => c.trim().replace(/^["']|["']$/g, '')) // Remove aspas do início e fim
                       .filter(c => c.length > 0);
                     atualizarFiltro('codigosPersonalizados', codigos.length > 0 ? codigos : undefined);
                   } else {

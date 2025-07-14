@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import type { QuestaoComponentProps } from '@/types';
 
-export function QuestaoComponent({ questao, onResposta, respostaUsuario, showResult = false }: QuestaoComponentProps) {
+export function QuestaoComponent({ questao, onResposta, respostaUsuario, showResult = false }: Readonly<QuestaoComponentProps>) {
   const [alternativaSelecionada, setAlternativaSelecionada] = useState<string>('');
   const [mostrarResposta, setMostrarResposta] = useState(showResult);
 
@@ -41,6 +41,13 @@ export function QuestaoComponent({ questao, onResposta, respostaUsuario, showRes
     return classes;
   };
 
+  const dificuldadeColor =
+    questao.dificuldade === 'Fácil'
+      ? 'bg-green-100 text-green-800'
+      : questao.dificuldade === 'Média'
+      ? 'bg-yellow-100 text-yellow-800'
+      : 'bg-red-100 text-red-800';
+
   return (
     <div className="questao-container fade-in">
       {/* Cabeçalho da questão */}
@@ -51,11 +58,7 @@ export function QuestaoComponent({ questao, onResposta, respostaUsuario, showRes
           </span>
           <span>{questao.bancas_sigla} • {questao.ano}</span>
           <span>{questao.disciplina_real}</span>
-          <span className={`px-2 py-1 rounded-full text-xs ${
-            questao.dificuldade === 'Fácil' ? 'bg-green-100 text-green-800' :
-            questao.dificuldade === 'Média' ? 'bg-yellow-100 text-yellow-800' :
-            'bg-red-100 text-red-800'
-          }`}>
+          <span className={`px-2 py-1 rounded-full text-xs ${dificuldadeColor}`}>
             {questao.dificuldade}
           </span>
           
@@ -85,23 +88,40 @@ export function QuestaoComponent({ questao, onResposta, respostaUsuario, showRes
 
       {/* Alternativas */}
       <div className="space-y-3 mb-6">
-        {questao.itens.map((item) => (
-          <div
-            key={item.id_alternativa}
-            className={getClasseAlternativa(String(item.id_alternativa))}
-            onClick={() => handleSelecionarAlternativa(String(item.id_alternativa))}
-          >
-            <div className="flex items-start">
-              <span className="font-semibold mr-3 mt-1 min-w-[20px]">
-                {item.letra})
-              </span>
-              <div 
-                className="flex-1"
-                dangerouslySetInnerHTML={{ __html: item.texto }}
-              />
-            </div>
-          </div>
-        ))}
+        {Array.isArray(questao.itens) && questao.itens.length > 0 ? (
+          questao.itens.map((item) => {
+            const idStr = String(item.id_alternativa);
+            return (
+              <div
+                key={item.id_alternativa}
+                className={getClasseAlternativa(idStr)}
+                role="button"
+                tabIndex={0}
+                aria-pressed={alternativaSelecionada === idStr}
+                onClick={() => handleSelecionarAlternativa(idStr)}
+                onKeyDown={e => {
+                  if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    handleSelecionarAlternativa(idStr);
+                  }
+                }}
+                style={{ outline: 'none' }}
+              >
+                <div className="flex items-start">
+                  <span className="font-semibold mr-3 mt-1 min-w-[20px]">
+                    {item.letra})
+                  </span>
+                  <div
+                    className="flex-1"
+                    dangerouslySetInnerHTML={{ __html: item.texto }}
+                  />
+                </div>
+              </div>
+            );
+          })
+        ) : (
+          <div className="text-red-600 text-sm">Esta questão não possui alternativas cadastradas.</div>
+        )}
       </div>
 
       {/* Ações */}

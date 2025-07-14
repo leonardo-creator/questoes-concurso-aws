@@ -1,25 +1,20 @@
 'use client';
 
 import { useState } from 'react';
-import { AssuntosHierarquicos } from './AssuntosHierarquicos';
 import type { FiltrosComponentProps, FiltroQuestoes } from '@/types';
 
 export function FiltrosComponent({ 
   filtros, 
   onFiltrosChange, 
   indices, 
-  cadernos,
-  buscaHierarquica
-}: Readonly<FiltrosComponentProps>) {
+  cadernos 
+}: FiltrosComponentProps) {
   const [filtrosAbertos, setFiltrosAbertos] = useState({
     disciplinas: false,
-    assuntos: false,
     bancas: false,
     anos: false,
     opcoes: false,
   });
-
-  const [buscaBanca, setBuscaBanca] = useState('');
 
   const atualizarFiltro = (campo: keyof FiltroQuestoes, valor: any) => {
     const novosFiltros = { ...filtros, [campo]: valor };
@@ -63,49 +58,27 @@ export function FiltrosComponent({
           {filtrosAbertos.disciplinas && (
             <div className="mt-2 max-h-48 overflow-y-auto">
               {indices.disciplinas.map((disciplina) => (
-                <label key={disciplina} className="flex items-center p-2 hover:bg-gray-50">
+                <label key={disciplina.nome} className="flex items-center p-2 hover:bg-gray-50">
                   <input
                     type="checkbox"
-                    checked={filtros.disciplinas?.includes(disciplina) || false}
+                    checked={filtros.disciplinas?.includes(disciplina.nome) || false}
                     onChange={(e) => {
                       const current = filtros.disciplinas || [];
                       if (e.target.checked) {
-                        atualizarFiltro('disciplinas', [...current, disciplina]);
+                        atualizarFiltro('disciplinas', [...current, disciplina.nome]);
                       } else {
-                        atualizarFiltro('disciplinas', current.filter(d => d !== disciplina));
+                        atualizarFiltro('disciplinas', current.filter(d => d !== disciplina.nome));
                       }
                     }}
                     className="mr-2"
                   />
-                  <span className="text-sm flex-1">{disciplina}</span>
+                  <span className="text-sm flex-1">{disciplina.nome}</span>
+                  <span className="text-xs text-gray-500">({disciplina.count})</span>
                 </label>
               ))}
             </div>
           )}
         </div>
-
-        {/* Assuntos Hierárquicos */}
-        {buscaHierarquica && (
-          <div className="mb-4">
-            <button
-              onClick={() => toggleFiltro('assuntos')}
-              className="flex justify-between items-center w-full text-left p-2 bg-gray-50 rounded"
-            >
-              <span className="font-medium">Assuntos</span>
-              <span>{filtrosAbertos.assuntos ? '−' : '+'}</span>
-            </button>
-            
-            {filtrosAbertos.assuntos && (
-              <div className="mt-2 max-h-80 overflow-y-auto">
-                <AssuntosHierarquicos
-                  disciplinas={buscaHierarquica.disciplinas}
-                  assuntosSelecionados={filtros.assuntos || []}
-                  onAssuntosChange={(assuntos) => atualizarFiltro('assuntos', assuntos)}
-                />
-              </div>
-            )}
-          </div>
-        )}
 
         {/* Bancas */}
         <div className="mb-4">
@@ -119,23 +92,7 @@ export function FiltrosComponent({
           
           {filtrosAbertos.bancas && (
             <div className="mt-2 max-h-48 overflow-y-auto">
-              <div className="mb-2">
-                <input
-                  type="text"
-                  placeholder="Buscar banca..."
-                  value={buscaBanca}
-                  className="w-full p-2 border border-gray-300 rounded text-sm"
-                  onChange={(e) => setBuscaBanca(e.target.value)}
-                />
-              </div>
-              {indices.bancas
-                .filter(banca => 
-                  buscaBanca === '' || 
-                  banca.sigla.toLowerCase().includes(buscaBanca.toLowerCase()) ||
-                  banca.nome.toLowerCase().includes(buscaBanca.toLowerCase())
-                )
-                .sort((a, b) => a.sigla.localeCompare(b.sigla))
-                .map((banca) => (
+              {indices.bancas.map((banca) => (
                 <label key={banca.sigla} className="flex items-center p-2 hover:bg-gray-50">
                   <input
                     type="checkbox"
@@ -151,9 +108,7 @@ export function FiltrosComponent({
                     className="mr-2"
                   />
                   <span className="text-sm flex-1">{banca.sigla}</span>
-                  <span className="text-xs text-gray-500" title={banca.nome}>
-                    {banca.nome.length > 30 ? banca.nome.substring(0, 30) + '...' : banca.nome}
-                  </span>
+                  <span className="text-xs text-gray-500">({banca.count})</span>
                 </label>
               ))}
             </div>
@@ -172,24 +127,23 @@ export function FiltrosComponent({
           
           {filtrosAbertos.anos && (
             <div className="mt-2 max-h-48 overflow-y-auto">
-              {[...indices.anos]
-                .sort((a, b) => b - a) // Anos em ordem decrescente
-                .map((ano) => (
-                <label key={ano} className="flex items-center p-2 hover:bg-gray-50">
+              {indices.anos.map((ano) => (
+                <label key={ano.ano} className="flex items-center p-2 hover:bg-gray-50">
                   <input
                     type="checkbox"
-                    checked={filtros.anos?.includes(ano) || false}
+                    checked={filtros.anos?.includes(ano.ano) || false}
                     onChange={(e) => {
                       const current = filtros.anos || [];
                       if (e.target.checked) {
-                        atualizarFiltro('anos', [...current, ano]);
+                        atualizarFiltro('anos', [...current, ano.ano]);
                       } else {
-                        atualizarFiltro('anos', current.filter(a => a !== ano));
+                        atualizarFiltro('anos', current.filter(a => a !== ano.ano));
                       }
                     }}
                     className="mr-2"
                   />
-                  <span className="text-sm flex-1">{ano}</span>
+                  <span className="text-sm flex-1">{ano.ano}</span>
+                  <span className="text-xs text-gray-500">({ano.count})</span>
                 </label>
               ))}
             </div>
@@ -199,7 +153,7 @@ export function FiltrosComponent({
         {/* Cadernos */}
         {cadernos.length > 0 && (
           <div className="mb-4">
-            <label htmlFor="caderno-select" className="block text-sm font-medium mb-2">Caderno</label>
+            <label className="block text-sm font-medium mb-2">Caderno</label>
             <select
               value={filtros.cadernoId || ''}
               onChange={(e) => atualizarFiltro('cadernoId', e.target.value || undefined)}
@@ -258,7 +212,7 @@ export function FiltrosComponent({
               </label>
 
               <div>
-                <label htmlFor="status-resposta" className="block text-sm font-medium mb-1">Status das respostas</label>
+                <label className="block text-sm font-medium mb-1">Status das respostas</label>
                 <select
                   value={filtros.statusResposta || 'todas'}
                   onChange={(e) => atualizarFiltro('statusResposta', e.target.value as any)}
@@ -275,7 +229,7 @@ export function FiltrosComponent({
 
         {/* Códigos personalizados */}
         <div className="mb-4">
-          <label htmlFor="codigos-personalizados" className="block text-sm font-medium mb-2">
+          <label className="block text-sm font-medium mb-2">
             Códigos específicos
           </label>
           <textarea

@@ -1,0 +1,6 @@
+# Ignora arquivos e pastas grandes do deploy Vercel
+chunks/
+*.json
+*.csv
+*.md
+*.log

@@ -14,6 +14,9 @@
 | `/data/indices/cargos.json` | `GET` | `/cadernos`, Filtros | - | Lista todos os cargos disponíveis | Arquivo estático ordenado alfabeticamente |
 | `/data/indices/assuntos.json` | `GET` | `/cadernos`, Filtros | - | Lista todos os assuntos disponíveis | Arquivo estático com 70k+ assuntos únicos |
 | `/data/indices/stats.json` | `GET` | `/cadernos`, Dashboard | - | Estatísticas gerais do sistema | Total de questões, bancas, anos, etc. |
+| `/api/user/lists` | `GET`, `POST` | `/cadernos`, Componentes de cadernos | JSON: `{ "nome": "string", "descricao": "string", "questionCodes": "string[]" }` | Gerencia listas personalizadas do usuário | Requer autenticação de usuário |
+| `/api/user/lists/[id]` | `GET`, `PUT`, `DELETE` | `/cadernos/[id]`, Componentes de edição | JSON: `{ "nome": "string", "descricao": "string", "questionCodes": "string[]" }` | CRUD de lista específica do usuário | Parâmetros como Promise<{ id: string }> (Next.js 15) |
+| `/api/user/answers` | `GET`, `POST` | `/estudar`, Componentes de questões | JSON: `{ "questionCode": "string", "userAnswer": "string", "isCorrect": "boolean" }` | Gerencia respostas do usuário | Requer autenticação, histórico de estudo |
 
 ## Detalhes das APIs
 
@@ -43,6 +46,25 @@
 - **Estrutura Órgãos**: `[{ nome, sigla, uf }]`
 - **Estrutura Stats**: `{ totalQuestoes, totalBancas, ..., atualizadoEm }`
 
+### Listas do Usuário (`/api/user/lists`)
+- **Autenticação**: Requerida via getServerSession
+- **GET**: Retorna todas as listas do usuário autenticado
+- **POST**: Cria nova lista com nome, descrição e códigos de questões
+- **Validação**: Verifica propriedade do usuário
+
+### Lista Específica (`/api/user/lists/[id]`)
+- **Parâmetros**: `{ params: Promise<{ id: string }> }` (Next.js 15 compatível)
+- **GET**: Retorna lista específica se pertencer ao usuário
+- **PUT**: Atualiza lista existente (nome, descrição, questões)
+- **DELETE**: Remove lista do usuário
+- **Segurança**: Valida propriedade antes de qualquer operação
+
+### Respostas do Usuário (`/api/user/answers`)
+- **Funcionalidade**: Armazena histórico de respostas para estatísticas
+- **POST**: Registra resposta do usuário (correta/incorreta)
+- **GET**: Retorna histórico de respostas para análise de progresso
+- **Análise**: Utilizado para gerar estatísticas de desempenho
+
 ## Estados de Resposta
 - **200**: Sucesso
 - **401**: Não autorizado (sem sessão)
@@ -67,4 +89,56 @@ const session = await getSession();
 ```javascript
 const response = await fetch('/api/questoes?page=1&limit=50&disciplinas=informatica&ordenacao=relevancia');
 const data = await response.json();
+```
+
+### Gerenciar Listas de Usuário
+```javascript
+// Criar lista
+const response = await fetch('/api/user/lists', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    'Authorization': `Bearer ${token}`
+  },
+  body: JSON.stringify({
+    nome: 'Minha Lista',
+    descricao: 'Descrição da lista',
+    questionCodes: ['questao1', 'questao2']
+  })
+});
+
+// Obter listas
+const response = await fetch('/api/user/lists', {
+  method: 'GET',
+  headers: {
+    'Authorization': `Bearer ${token}`
+  }
+});
+const listas = await response.json();
+```
+
+### Gerenciar Respostas do Usuário
+```javascript
+// Enviar resposta
+const response = await fetch('/api/user/answers', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    'Authorization': `Bearer ${token}`
+  },
+  body: JSON.stringify({
+    questionCode: 'questao1',
+    userAnswer: 'resposta do usuário',
+    isCorrect: true
+  })
+});
+
+// Obter histórico de respostas
+const response = await fetch('/api/user/answers', {
+  method: 'GET',
+  headers: {
+    'Authorization': `Bearer ${token}`
+  }
+});
+const historico = await response.json();
 ```

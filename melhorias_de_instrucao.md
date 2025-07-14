@@ -68,6 +68,57 @@ Durante o desenvolvimento desta correção, identifiquei algumas oportunidades d
 
 **Justificativa**: Deploy seguro é crucial para aplicações em produção.
 
+### 8. Melhoria Contínua e Feedback
+**Sugestão**: Estabelecer um processo para:
+- Coleta de feedback pós-deploy
+- Análise de performance e identificação de gargalos
+- Reuniões regulares para discutir melhorias
+- Atualização das instruções com base em novas descobertas
+
+**Justificativa**: O aprendizado contínuo é vital para a evolução do projeto.
+
+### 9. Otimização para Deploy e Build (NOVA - Baseada na Experiência Atual)
+**Sugestão**: Adicionar instruções específicas sobre:
+- **Gestão de Memória em Produção**: Como implementar builds otimizados para ambientes com restrições de memória
+- **Processamento de Large Datasets**: Estratégias para processar grandes volumes de dados (3M+ registros) sem OOM
+- **Compatibility Layers para Framework Updates**: Como atualizar código para novas versões (ex: Next.js 15 params como Promise)
+- **Build Verification Scripts**: Scripts automatizados para verificar integridade do build antes do deploy
+- **Environment Cleanup**: Procedimentos para limpar ambiente de build (processos Node.js, diretórios .next)
+
+**Justificativa**: Durante a correção do deployment, descobri que builds com grandes datasets precisam de:
+1. Processamento em lotes para evitar OOM (Out of Memory)
+2. Garbage collection explícito entre operações
+3. Verificação de compatibilidade com versões mais recentes de frameworks
+4. Scripts de limpeza automática para problemas de permissão
+
+**Exemplo de Implementação**:
+```javascript
+// Processamento otimizado com gestão de memória
+const BATCH_SIZE = 10; // Processar 10 chunks por vez
+const MEMORY_LIMIT_MB = 400;
+
+function forceGC() {
+  if (global.gc) global.gc();
+}
+
+// Build com limpeza automática
+await cleanBuildEnvironment();
+await runOptimizedBuild();
+await verifyBuildIntegrity();
+```
+
+### 10. Debugging para Deployment Issues
+**Sugestão**: Protocolo estruturado para debugging de problemas de deploy:
+- **Error 137 (SIGKILL)**: Sempre verificar uso de memória primeiro
+- **TypeScript Compatibility**: Checklist para verificar compatibilidade com versões mais recentes
+- **Suspense Boundaries**: Verificar componentes que usam hooks assíncronos
+- **Build Verification**: Scripts automáticos para validar artifacts gerados
+
+**Implementação Sugerida**: 
+- Script `debug-build.mjs` que verifica common issues
+- Logs estruturados durante builds para facilitar debugging
+- Checklist automático de verificação pós-build
+
 ## Prioridade de Implementação
 1. **Alta**: Gerenciamento de Dados e Performance
 2. **Média**: Tratamento de Erros e Validação

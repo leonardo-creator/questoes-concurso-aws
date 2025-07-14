@@ -26,27 +26,34 @@ export function QuestaoComponent({ questao, onResposta, respostaUsuario, showRes
   };
 
   const getClasseAlternativa = (idAlternativa: string) => {
-    let classes = 'alternativa-item';
+    const baseClasses = 'p-4 border rounded-lg cursor-pointer transition-all duration-200 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2';
     
     if (mostrarResposta) {
       if (idAlternativa === questao.resposta) {
-        classes += ' correct';
+        return `${baseClasses} bg-green-50 border-green-300 text-green-800`;
       } else if (idAlternativa === alternativaSelecionada && idAlternativa !== questao.resposta) {
-        classes += ' incorrect';
+        return `${baseClasses} bg-red-50 border-red-300 text-red-800`;
       }
+      return `${baseClasses} border-gray-200 opacity-60`;
     } else if (idAlternativa === alternativaSelecionada) {
-      classes += ' selected';
+      return `${baseClasses} bg-blue-50 border-blue-300 ring-2 ring-blue-200`;
     }
     
-    return classes;
+    return `${baseClasses} border-gray-200 hover:border-gray-300`;
   };
 
-  const dificuldadeColor =
-    questao.dificuldade === 'Fácil'
-      ? 'bg-green-100 text-green-800'
-      : questao.dificuldade === 'Média'
-      ? 'bg-yellow-100 text-yellow-800'
-      : 'bg-red-100 text-red-800';
+  const dificuldadeColor = (() => {
+    switch (questao.dificuldade) {
+      case 'Fácil':
+        return 'bg-green-100 text-green-800';
+      case 'Média':
+        return 'bg-yellow-100 text-yellow-800';
+      case 'Difícil':
+        return 'bg-red-100 text-red-800';
+      default:
+        return 'bg-gray-100 text-gray-800';
+    }
+  })();
 
   return (
     <div className="questao-container fade-in">
@@ -90,37 +97,44 @@ export function QuestaoComponent({ questao, onResposta, respostaUsuario, showRes
       <div className="space-y-3 mb-6">
         {Array.isArray(questao.itens) && questao.itens.length > 0 ? (
           questao.itens.map((item) => {
-            const idStr = String(item.id_alternativa);
+            // Validação adicional dos dados do item
+            if (!item || typeof item !== 'object') {
+              console.warn('Item de alternativa inválido:', item);
+              return null;
+            }
+
+            const idStr = String(item.id_alternativa || '');
+            const letra = item.letra || '?';
+            const texto = item.texto || 'Alternativa sem texto';
+
             return (
-              <div
-                key={item.id_alternativa}
+              <button
+                key={`${questao.codigo_real}-${item.id_alternativa}`}
                 className={getClasseAlternativa(idStr)}
-                role="button"
-                tabIndex={0}
-                aria-pressed={alternativaSelecionada === idStr}
                 onClick={() => handleSelecionarAlternativa(idStr)}
-                onKeyDown={e => {
-                  if (e.key === 'Enter' || e.key === ' ') {
-                    e.preventDefault();
-                    handleSelecionarAlternativa(idStr);
-                  }
-                }}
-                style={{ outline: 'none' }}
+                disabled={mostrarResposta}
+                aria-pressed={alternativaSelecionada === idStr}
+                aria-label={`Alternativa ${letra}`}
               >
                 <div className="flex items-start">
-                  <span className="font-semibold mr-3 mt-1 min-w-[20px]">
-                    {item.letra})
+                  <span className="font-semibold mr-3 mt-1 min-w-[20px] text-gray-600">
+                    {letra})
                   </span>
-                  <div
-                    className="flex-1"
-                    dangerouslySetInnerHTML={{ __html: item.texto }}
-                  />
+                  <div className="flex-1 text-left">
+                    {texto.includes('<') ? (
+                      <div dangerouslySetInnerHTML={{ __html: texto }} />
+                    ) : (
+                      <span>{texto}</span>
+                    )}
+                  </div>
                 </div>
-              </div>
+              </button>
             );
-          })
+          }).filter(Boolean)
         ) : (
-          <div className="text-red-600 text-sm">Esta questão não possui alternativas cadastradas.</div>
+          <div className="text-red-600 text-sm">
+            Esta questão não possui alternativas cadastradas ou os dados estão corrompidos.
+          </div>
         )}
       </div>
 

@@ -224,7 +224,7 @@ function aplicarFiltros(
   }
 
   // Filtro por anos
-  if (filtros.anos?.length && !filtros.anos.includes(questao.ano)) {
+  if (filtros.anos?.length && !filtros.anos.includes(questao.anos)) {
     return false;
   }
 
@@ -261,7 +261,7 @@ function normalizarQuestao(questao: any): Questao {
     cargos_descricao: questao.cargos_descricao,
     orgaos_nome: questao.orgaos_nome,
     orgaos_sigla: questao.orgaos_sigla,
-    ano: questao.ano,
+    ano: questao.anos || questao.ano, // Mapear anos -> ano
     enunciado: questao.enunciado,
     itens: questao.itens || [],
     resposta: String(questao.resposta),

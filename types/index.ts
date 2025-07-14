@@ -37,12 +37,18 @@ export type QuestaoManifesto = Pick<Questao,
 >;
 
 // Tipos para filtros
+export type TipoQuestao = 'multipla_escolha' | 'certo_errado' | 'todas';
+
 export type FiltroQuestoes = {
   disciplinas?: string[];
   assuntos?: string[];
   bancas?: string[];
   anos?: number[];
+  // Suporte a range de anos
+  anoInicio?: number;
+  anoFim?: number;
   dificuldades?: string[];
+  tipoQuestao?: TipoQuestao;
   incluirAnuladas?: boolean;
   incluirDesatualizadas?: boolean;
   naoRepetirRespondidas?: boolean;
@@ -51,7 +57,24 @@ export type FiltroQuestoes = {
   cadernoId?: string;
 };
 
-export type OrdenacaoQuestoes = 'relevancia' | 'data_asc' | 'data_desc' | 'dificuldade_asc' | 'dificuldade_desc';
+export type OrdenacaoQuestoes = 'relevancia' | 'data_asc' | 'data_desc' | 'dificuldade_asc' | 'dificuldade_desc' | 'estudo_inteligente';
+
+// Tipos para modo estudo inteligente
+export type AssuntoProgresso = {
+  assunto: string;
+  disciplina: string;
+  totalQuestoes: number;
+  questoesRespondidas: number;
+  questoesCorretas: number;
+  percentualConcluido: number;
+  prioridade: number; // Menor = mais prioritário
+};
+
+export type ModoEstudoInteligente = {
+  progressoAssuntos: AssuntoProgresso[];
+  proximoAssunto?: string;
+  explicacao?: string;
+};
 
 // Tipos para paginação
 export type PaginacaoParams = {
@@ -116,6 +139,18 @@ export type CadernoPersonalizado = {
   nome: string;
   descricao?: string;
   questionCodes: string[]; // Array de codigo_real
+  createdAt: Date;
+  updatedAt: Date;
+};
+
+// Tipos para filtros salvos
+export type FiltroSalvo = {
+  id: string;
+  userId: string;
+  nome: string;
+  descricao?: string;
+  filtros: FiltroQuestoes;
+  favorito: boolean;
   createdAt: Date;
   updatedAt: Date;
 };
@@ -200,4 +235,19 @@ export type FiltrosComponentProps = {
     anos: IndiceAnos;
   };
   cadernos: CadernoPersonalizado[];
+  disciplinas?: DisciplinaComAssuntos[];
+  assuntosDisponiveis?: AssuntoItem[];
+  onDisciplinasChange?: (disciplinas: string[]) => void;
+  carregandoDisciplinas?: boolean;
+};
+
+export type DisciplinaComAssuntos = {
+  nome: string;
+  assuntos: AssuntoItem[];
+};
+
+export type AssuntoItem = {
+  codigo: string;
+  titulo: string;
+  nivel: number;
 };

@@ -107,6 +107,75 @@ body {
   }
 }
 
+/* Estilos para componentes modernos */
+.kbd {
+  @apply px-1.5 py-0.5 bg-gray-100 text-gray-700 text-xs font-mono rounded border border-gray-300;
+}
+
+/* Melhorias nos cards */
+.card-hover {
+  @apply hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200;
+}
+
+/* Gradientes para seções */
+.gradient-bg {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.gradient-bg-light {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+}
+
+/* Animações aprimoradas */
+@keyframes slideInUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    transform: translateX(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.slide-in-up {
+  animation: slideInUp 0.3s ease-out forwards;
+}
+
+.slide-in-left {
+  animation: slideInLeft 0.3s ease-out;
+}
+
+/* Melhorias nas tabs */
+.tab-active {
+  @apply bg-white text-blue-600 shadow-sm border-blue-200;
+}
+
+.tab-inactive {
+  @apply text-gray-600 hover:text-gray-900 hover:bg-gray-50;
+}
+
+/* Estados de hover aprimorados */
+.hover-lift {
+  @apply hover:-translate-y-1 hover:shadow-lg transition-all duration-200;
+}
+
+/* Focus states melhorados */
+.focus-ring {
+  @apply focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 focus:outline-none;
+}
+
 /* Estilos para PWA */
 @media (display-mode: standalone) {
   body {
@@ -142,4 +211,74 @@ body {
 
 .slide-up {
   animation: slideUp 0.3s ease-out;
+}
+
+/* Melhorias de responsividade */
+.mobile-scroll {
+  @apply max-h-60 overflow-y-auto;
+}
+
+.mobile-grid {
+  @apply grid grid-cols-1 sm:grid-cols-2 gap-2;
+}
+
+.mobile-compact {
+  @apply text-sm p-2;
+}
+
+/* Containers responsivos aprimorados */
+.responsive-container {
+  @apply w-full max-w-none sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl;
+}
+
+.responsive-grid {
+  @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-4;
+}
+
+/* Melhorias para filtros */
+.filter-section {
+  @apply mb-4 border border-gray-200 rounded-lg overflow-hidden;
+}
+
+.filter-header {
+  @apply flex justify-between items-center w-full text-left p-3 sm:p-4 bg-gray-50 hover:bg-gray-100 transition-colors cursor-pointer;
+}
+
+.filter-content {
+  @apply p-3 sm:p-4 border-t border-gray-200 bg-white;
+}
+
+.filter-item {
+  @apply flex items-center p-2 hover:bg-gray-50 cursor-pointer rounded text-sm;
+}
+
+/* Melhorias para áreas de questões */
+.question-area {
+  @apply bg-white rounded-lg shadow-sm border p-4 sm:p-6;
+}
+
+.navigation-bar {
+  @apply bg-white rounded-lg shadow-sm p-4 sm:p-6 sticky bottom-4 z-10;
+}
+
+/* Estilos para elementos truncados */
+.truncate-responsive {
+  @apply truncate sm:whitespace-normal;
+}
+
+/* Estados de loading responsivos */
+.loading-container {
+  @apply flex justify-center items-center h-32 sm:h-48 md:h-64;
+}
+
+/* Ajustes para checkboxes e inputs em mobile */
+@media (max-width: 640px) {
+  input[type="checkbox"] {
+    min-width: 16px;
+    min-height: 16px;
+  }
+  
+  .filter-item {
+    min-height: 44px; /* Mínimo para touch targets */
+  }
 }

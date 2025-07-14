@@ -1,286 +1,516 @@
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
-import { useAuth } from '@/contexts/AuthContext';
-import { useOffline } from '@/contexts/OfflineContext';
-import { FiltrosComponent } from '@/components/estudar/FiltrosComponent';
+import { useState, useEffect } from 'react';
+import { useSession } from 'next-auth/react';
+import { redirect } from 'next/navigation';
+import { FiltrosHorizontal } from '@/components/estudar/FiltrosHorizontal';
 import { QuestaoComponent } from '@/components/estudar/QuestaoComponent';
-import { Header } from '@/components/layout/Header';
-import { LoadingSpinner } from '@/components/ui/LoadingSpinner';
-import type { 
-  Questao, 
-  FiltroQuestoes, 
-  OrdenacaoQuestoes, 
-  CadernoPersonalizado,
-  IndiceDisciplinas,
-  IndiceBancas,
-  IndiceAnos
-} from '@/types';
+import type { Questao, FiltroQuestoes, TipoQuestao, OrdenacaoQuestoes } from '@/types';
 
-export function EstudarClient() {
-  const { user, loading: authLoading } = useAuth();
-  const { isOnline, adicionarAcao } = useOffline();
-  
+interface QuestoesResponse {
+  success: boolean;
+  data: Questao[];
+  total: number;
+  page: number;
+  limit: number;
+  totalPages: number;
+  filtrosAplicados: FiltroQuestoes;
+  ordenacao: string;
+}
+
+interface DisciplinaComAssuntos {
+  nome: string;
+  assuntos: AssuntoItem[];
+}
+
+interface AssuntoItem {
+  codigo: string;
+  titulo: string;
+  nivel: number;
+}
+
+export default function EstudarClient() {
+  const { data: session, status } = useSession();
   const [questoes, setQuestoes] = useState<Questao[]>([]);
-  const [questaoAtual, setQuestaoAtual] = useState<Questao | null>(null);
-  const [indiceAtual, setIndiceAtual] = useState(0);
-  const [loading, setLoading] = useState(false);
-  const [filtros, setFiltros] = useState<FiltroQuestoes>({});
-  const [ordenacao, setOrdenacao] = useState<OrdenacaoQuestoes>('relevancia');
+  const [carregando, setCarregando] = useState(false);
+  const [erro, setErro] = useState<string | null>(null);
+  const [totalQuestoes, setTotalQuestoes] = useState(0);
+  const [paginaAtual, setPaginaAtual] = useState(1);
+  const [totalPaginas, setTotalPaginas] = useState(0);
   
-  // Dados para os filtros
-  const [indices, setIndices] = useState<{
-    disciplinas: IndiceDisciplinas;
-    bancas: IndiceBancas;
-    anos: IndiceAnos;
-  }>({
+  // Estados para disciplinas e assuntos
+  const [disciplinas, setDisciplinas] = useState<DisciplinaComAssuntos[]>([]);
+  const [assuntosDisponiveis, setAssuntosDisponiveis] = useState<AssuntoItem[]>([]);
+  const [carregandoDisciplinas, setCarregandoDisciplinas] = useState(false);
+
+  // Estados para índices dos filtros
+  const [indices, setIndices] = useState({
+    disciplinas: [] as Array<{ nome: string; count: number; assuntos: Array<{ nome: string; count: number }> }>,
+    bancas: [] as Array<{ sigla: string; nome: string; count: number }>,
+    anos: [] as Array<{ ano: number; count: number }>
+  });
+  const [carregandoIndices, setCarregandoIndices] = useState(true);
+
+  // Estados separados: filtros pendentes vs aplicados
+  const [filtros, setFiltros] = useState<FiltroQuestoes>({
     disciplinas: [],
+    assuntos: [],
     bancas: [],
     anos: [],
+    anoInicio: undefined,
+    anoFim: undefined,
+    dificuldades: [],
+    tipoQuestao: 'todas' as TipoQuestao,
+    incluirAnuladas: false,
+    incluirDesatualizadas: false,
+    naoRepetirRespondidas: false,
+    statusResposta: 'todas',
+    codigosPersonalizados: [],
+    cadernoId: undefined,
   });
-  
-  const [cadernos, setCadernos] = useState<CadernoPersonalizado[]>([]);
-  const [totalQuestoes, setTotalQuestoes] = useState(0);
 
-  // Carregar índices na inicialização
-  useEffect(() => {
-    carregarIndices();
-  }, []);
+  const [filtrosAplicados, setFiltrosAplicados] = useState<FiltroQuestoes>(filtros);
+  const [contandoQuestoes, setContandoQuestoes] = useState(false);
+  const [contadorQuestoes, setContadorQuestoes] = useState(0);
 
-  // Carregar cadernos do usuário
-  useEffect(() => {
-    if (user) {
-      carregarCadernos();
-    }
-  }, [user]);
+  // Estado para ordenação
+  const [ordenacao, setOrdenacao] = useState<OrdenacaoQuestoes>('relevancia');
 
-  // Carregar questões quando filtros ou ordenação mudarem
-  useEffect(() => {
-    carregarQuestoes();
-  }, [filtros, ordenacao]);
-
-  const carregarIndices = async () => {
+  // Carregar disciplinas ao montar o componente
+  const carregarDisciplinas = async () => {
+    setCarregandoDisciplinas(true);
     try {
-      const [disciplinasRes, bancasRes, anosRes] = await Promise.all([
-        fetch('/data/indices/disciplinas.json'),
-        fetch('/data/indices/bancas.json'),
-        fetch('/data/indices/anos.json'),
-      ]);
-
-      const [disciplinas, bancas, anos] = await Promise.all([
-        disciplinasRes.json(),
-        bancasRes.json(),
-        anosRes.json(),
-      ]);
-
-      setIndices({ disciplinas, bancas, anos });
-    } catch (error) {
-      console.error('Erro ao carregar índices:', error);
-    }
-  };
-
-  const carregarCadernos = async () => {
-    if (!user) return;
-
-    try {
-      const response = await fetch('/api/user/lists');
+      const response = await fetch('/api/materias');
       if (response.ok) {
         const data = await response.json();
-        setCadernos(data.data || []);
+        if (data.success) {
+          setDisciplinas(data.data);
+        }
       }
     } catch (error) {
-      console.error('Erro ao carregar cadernos:', error);
-    }
-  };
-
-  const carregarQuestoes = async () => {
-    setLoading(true);
-    try {
-      const params = new URLSearchParams({
-        page: '1',
-        limit: '50',
-        ordenacao,
-        ...Object.entries(filtros).reduce((acc, [key, value]) => {
-          if (value !== undefined && value !== null) {
-            if (Array.isArray(value)) {
-              acc[key] = value.join(',');
-            } else {
-              acc[key] = String(value);
-            }
-          }
-          return acc;
-        }, {} as Record<string, string>),
-      });
-
-      const response = await fetch(`/api/questoes?${params}`);
-      if (response.ok) {
-        const data = await response.json();
-        setQuestoes(data.data || []);
-        setTotalQuestoes(data.total || 0);
-        setIndiceAtual(0);
-        setQuestaoAtual(data.data?.[0] || null);
-      }
-    } catch (error) {
-      console.error('Erro ao carregar questões:', error);
+      console.error('Erro ao carregar disciplinas:', error);
     } finally {
-      setLoading(false);
+      setCarregandoDisciplinas(false);
     }
   };
 
-  const navegarQuestao = (direcao: 'anterior' | 'proxima') => {
-    let novoIndice = indiceAtual;
+  // Carregar assuntos quando disciplinas mudarem
+  const carregarAssuntos = async (disciplinasSelecionadas: string[]) => {
+    if (disciplinasSelecionadas.length === 0) {
+      setAssuntosDisponiveis([]);
+      return;
+    }
+
+    const todosAssuntos: AssuntoItem[] = [];
     
-    if (direcao === 'anterior' && indiceAtual > 0) {
-      novoIndice = indiceAtual - 1;
-    } else if (direcao === 'proxima' && indiceAtual < questoes.length - 1) {
-      novoIndice = indiceAtual + 1;
+    for (const disciplinaNome of disciplinasSelecionadas) {
+      const disciplina = disciplinas.find(d => d.nome === disciplinaNome);
+      if (disciplina) {
+        todosAssuntos.push(...disciplina.assuntos);
+      }
     }
 
-    setIndiceAtual(novoIndice);
-    setQuestaoAtual(questoes[novoIndice]);
+    setAssuntosDisponiveis(todosAssuntos);
   };
 
-  const handleResposta = async (alternativa: string) => {
-    if (!questaoAtual || !user) return;
+  // Função para lidar com mudanças nas disciplinas
+  const handleDisciplinasChange = (novasDisciplinas: string[]) => {
+    // Atualizar filtros
+    const novosFiltros = {
+      ...filtros,
+      disciplinas: novasDisciplinas.length > 0 ? novasDisciplinas : undefined,
+      // Limpar assuntos se não há disciplinas selecionadas
+      assuntos: novasDisciplinas.length === 0 ? undefined : filtros.assuntos
+    };
+    setFiltros(novosFiltros);
 
-    const respostaCorreta = questaoAtual.resposta;
-    const acertou = alternativa === respostaCorreta;
+    // Carregar assuntos para as disciplinas selecionadas
+    carregarAssuntos(novasDisciplinas);
+  };
 
-    const dadosResposta = {
-      questaoCodigoReal: questaoAtual.codigo_real,
-      alternativaSelecionada: alternativa,
-      acertou,
-      tempoResposta: 0, // Implementar cronômetro se necessário
+  // Carregamento das disciplinas e índices
+  useEffect(() => {
+    const carregarDados = async () => {
+      try {
+        const [bancasRes, anosRes] = await Promise.all([
+          fetch('/api/indices/bancas'),
+          fetch('/api/indices/anos')
+        ]);
+
+        if (!bancasRes.ok || !anosRes.ok) {
+          throw new Error('Erro ao carregar índices');
+        }
+
+        const [bancasData, anosData] = await Promise.all([
+          bancasRes.json(),
+          anosRes.json()
+        ]);
+
+        setIndices({
+          disciplinas: [], // Agora usamos o estado disciplinas
+          bancas: bancasData.success ? bancasData.data : [],
+          anos: anosData.success ? anosData.data : []
+        });
+
+        // Carregar disciplinas após os outros dados
+        await carregarDisciplinas();
+      } catch (error) {
+        console.error('Erro ao carregar dados:', error);
+        setErro('Erro ao carregar filtros. Tente atualizar a página.');
+      } finally {
+        setCarregandoIndices(false);
+      }
     };
 
-    if (isOnline) {
-      try {
-        await fetch('/api/user/answers', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify(dadosResposta),
-        });
-      } catch (error) {
-        console.error('Erro ao salvar resposta:', error);
-        // Adicionar à fila offline
-        adicionarAcao({
-          tipo: 'resposta',
-          dados: dadosResposta,
-        });
+    carregarDados();
+  }, []);
+
+  // Carregar questões iniciais
+  useEffect(() => {
+    if (!carregandoIndices && session) {
+      aplicarFiltros();
+    }
+  }, [carregandoIndices, session]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Atualizar contador quando filtros mudarem
+  useEffect(() => {
+    if (!carregandoIndices && session) {
+      // Só contar se há diferenças entre filtros pendentes e aplicados
+      const filtrosMudaram = JSON.stringify(filtros) !== JSON.stringify(filtrosAplicados);
+      if (filtrosMudaram) {
+        contarQuestoes();
       }
+    }
+  }, [filtros, filtrosAplicados, carregandoIndices, session]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Carregar assuntos quando disciplinas selecionadas mudarem
+  useEffect(() => {
+    if (filtros.disciplinas && filtros.disciplinas.length > 0) {
+      carregarAssuntos(filtros.disciplinas);
     } else {
-      // Adicionar à fila offline
-      adicionarAcao({
-        tipo: 'resposta',
-        dados: dadosResposta,
-      });
+      setAssuntosDisponiveis([]);
+    }
+  }, [filtros.disciplinas, disciplinas]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  if (status === 'loading' || carregandoIndices) {
+    return <div className="min-h-screen flex items-center justify-center">
+      <div className="text-lg">Carregando...</div>
+    </div>;
+  }
+
+  if (!session) {
+    redirect('/auth/login');
+  }
+
+  // Função para contar questões com filtros pendentes
+  const contarQuestoes = async () => {
+    if (contandoQuestoes) return;
+    
+    setContandoQuestoes(true);
+    try {
+      const params = new URLSearchParams();
+      
+      // Aplicar filtros aos parâmetros
+      if (filtros.disciplinas?.length) {
+        params.append('disciplinas', filtros.disciplinas.join(','));
+      }
+      if (filtros.assuntos?.length) {
+        params.append('assuntos', filtros.assuntos.join(','));
+      }
+      if (filtros.bancas?.length) {
+        params.append('bancas', filtros.bancas.join(','));
+      }
+      if (filtros.anos?.length) {
+        params.append('anos', filtros.anos.join(','));
+      }
+      if (filtros.anoInicio) {
+        params.append('anoInicio', filtros.anoInicio.toString());
+      }
+      if (filtros.anoFim) {
+        params.append('anoFim', filtros.anoFim.toString());
+      }
+      if (filtros.dificuldades?.length) {
+        params.append('dificuldades', filtros.dificuldades.join(','));
+      }
+      if (filtros.tipoQuestao && filtros.tipoQuestao !== 'todas') {
+        params.append('tipoQuestao', filtros.tipoQuestao);
+      }
+      if (filtros.incluirAnuladas) {
+        params.append('incluirAnuladas', 'true');
+      }
+      if (filtros.incluirDesatualizadas) {
+        params.append('incluirDesatualizadas', 'true');
+      }
+      if (filtros.naoRepetirRespondidas) {
+        params.append('naoRepetirRespondidas', 'true');
+      }
+      if (filtros.statusResposta && filtros.statusResposta !== 'todas') {
+        params.append('statusResposta', filtros.statusResposta);
+      }
+      if (filtros.codigosPersonalizados?.length) {
+        params.append('codigosPersonalizados', filtros.codigosPersonalizados.join(','));
+      }
+      if (filtros.cadernoId) {
+        params.append('cadernoId', filtros.cadernoId);
+      }
+
+      const response = await fetch(`/api/questoes/count?${params.toString()}`);
+      
+      if (!response.ok) {
+        throw new Error('Erro ao contar questões');
+      }
+
+      const data = await response.json();
+      setContadorQuestoes(data.count);
+    } catch (error) {
+      console.error('Erro ao contar questões:', error);
+      setContadorQuestoes(0);
+    } finally {
+      setContandoQuestoes(false);
     }
   };
 
-  if (authLoading) {
-    return <LoadingSpinner />;
-  }
+  // Função para aplicar filtros
+  const aplicarFiltros = async () => {
+    setCarregando(true);
+    setErro(null);
+    setPaginaAtual(1);
 
-  if (!user) {
-    return (
-      <div className="min-h-screen flex items-center justify-center">
-        <div className="text-center">
-          <h1 className="text-2xl font-bold mb-4">Acesso Restrito</h1>
-          <p className="text-gray-600 mb-4">
-            Você precisa estar logado para acessar as questões.
-          </p>
-          <a 
-            href="/auth/signin" 
-            className="btn-primary"
-          >
-            Fazer Login
-          </a>
-        </div>
-      </div>
-    );
-  }
+    try {
+      const params = new URLSearchParams();
+      params.append('page', '1');
+      params.append('limit', '120');
+      
+      // Aplicar filtros aos parâmetros
+      if (filtros.disciplinas?.length) {
+        params.append('disciplinas', filtros.disciplinas.join(','));
+      }
+      if (filtros.assuntos?.length) {
+        params.append('assuntos', filtros.assuntos.join(','));
+      }
+      if (filtros.bancas?.length) {
+        params.append('bancas', filtros.bancas.join(','));
+      }
+      if (filtros.anos?.length) {
+        params.append('anos', filtros.anos.join(','));
+      }
+      if (filtros.anoInicio) {
+        params.append('anoInicio', filtros.anoInicio.toString());
+      }
+      if (filtros.anoFim) {
+        params.append('anoFim', filtros.anoFim.toString());
+      }
+      if (filtros.dificuldades?.length) {
+        params.append('dificuldades', filtros.dificuldades.join(','));
+      }
+      if (filtros.tipoQuestao && filtros.tipoQuestao !== 'todas') {
+        params.append('tipoQuestao', filtros.tipoQuestao);
+      }
+      if (filtros.incluirAnuladas) {
+        params.append('incluirAnuladas', 'true');
+      }
+      if (filtros.incluirDesatualizadas) {
+        params.append('incluirDesatualizadas', 'true');
+      }
+      if (filtros.naoRepetirRespondidas) {
+        params.append('naoRepetirRespondidas', 'true');
+      }
+      if (filtros.statusResposta && filtros.statusResposta !== 'todas') {
+        params.append('statusResposta', filtros.statusResposta);
+      }
+      if (filtros.codigosPersonalizados?.length) {
+        params.append('codigosPersonalizados', filtros.codigosPersonalizados.join(','));
+      }
+      if (filtros.cadernoId) {
+        params.append('cadernoId', filtros.cadernoId);
+      }
+      
+      // Adicionar ordenação
+      params.append('ordenacao', ordenacao);
+
+      const response = await fetch(`/api/questoes?${params.toString()}`);
+      
+      if (!response.ok) {
+        throw new Error('Erro ao buscar questões');
+      }
+
+      const data: QuestoesResponse = await response.json();
+      
+      if (data.success) {
+        setQuestoes(data.data);
+        setTotalQuestoes(data.total);
+        setTotalPaginas(data.totalPages);
+        setFiltrosAplicados({ ...filtros }); // Salvar filtros aplicados
+      } else {
+        throw new Error('Erro no servidor');
+      }
+    } catch (error) {
+      console.error('Erro ao buscar questões:', error);
+      setErro('Erro ao carregar questões. Tente novamente.');
+    } finally {
+      setCarregando(false);
+    }
+  };
+
+  const carregarMaisPaginas = async (pagina: number) => {
+    if (carregando) return;
+
+    setCarregando(true);
+    try {
+      const params = new URLSearchParams();
+      params.append('page', pagina.toString());
+      params.append('limit', '120');
+      
+      // Usar filtros aplicados para paginação
+      if (filtrosAplicados.disciplinas?.length) {
+        params.append('disciplinas', filtrosAplicados.disciplinas.join(','));
+      }
+      if (filtrosAplicados.assuntos?.length) {
+        params.append('assuntos', filtrosAplicados.assuntos.join(','));
+      }
+      if (filtrosAplicados.bancas?.length) {
+        params.append('bancas', filtrosAplicados.bancas.join(','));
+      }
+      if (filtrosAplicados.anos?.length) {
+        params.append('anos', filtrosAplicados.anos.join(','));
+      }
+      if (filtrosAplicados.anoInicio) {
+        params.append('anoInicio', filtrosAplicados.anoInicio.toString());
+      }
+      if (filtrosAplicados.anoFim) {
+        params.append('anoFim', filtrosAplicados.anoFim.toString());
+      }
+      if (filtrosAplicados.dificuldades?.length) {
+        params.append('dificuldades', filtrosAplicados.dificuldades.join(','));
+      }
+      if (filtrosAplicados.tipoQuestao && filtrosAplicados.tipoQuestao !== 'todas') {
+        params.append('tipoQuestao', filtrosAplicados.tipoQuestao);
+      }
+      
+      // Adicionar ordenação
+      params.append('ordenacao', ordenacao);
+
+      const response = await fetch(`/api/questoes?${params.toString()}`);
+      const data: QuestoesResponse = await response.json();
+      
+      if (data.success) {
+        setQuestoes(data.data);
+        setPaginaAtual(pagina);
+      }
+    } catch (error) {
+      console.error('Erro ao carregar página:', error);
+    } finally {
+      setCarregando(false);
+    }
+  };
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <Header />
-      
-      <div className="container mx-auto px-4 py-8">
-        <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
-          {/* Sidebar com filtros */}
-          <div className="lg:col-span-1">
-            <FiltrosComponent
-              filtros={filtros}
-              onFiltrosChange={setFiltros}
-              indices={indices}
-              cadernos={cadernos}
-            />
-            
-            {/* Estatísticas */}
-            <div className="filtro-container mt-4">
-              <h3 className="font-semibold mb-2">Estatísticas</h3>
-              <div className="space-y-2 text-sm">
-                <div className="flex justify-between">
-                  <span>Total encontrado:</span>
-                  <span className="font-medium">{totalQuestoes}</span>
+      <div className="container mx-auto px-4 py-6">
+        <div className="mb-6">
+          <h1 className="text-3xl font-bold text-gray-800 mb-2">
+            Estudar Questões
+          </h1>
+          <p className="text-gray-600">
+            Use os filtros para encontrar questões específicas
+          </p>
+        </div>
+
+        {/* Filtros Horizontais */}
+        <FiltrosHorizontal
+          filtros={filtros}
+          onFiltrosChange={setFiltros}
+          onFiltrar={aplicarFiltros}
+          contandoQuestoes={contandoQuestoes}
+          totalQuestoes={contadorQuestoes}
+          indices={indices}
+          cadernos={[]}
+          disciplinas={disciplinas}
+          assuntosDisponiveis={assuntosDisponiveis}
+          onDisciplinasChange={handleDisciplinasChange}
+          carregandoDisciplinas={carregandoDisciplinas}
+          ordenacao={ordenacao}
+          onOrdenacaoChange={setOrdenacao}
+        />
+
+        {/* Resultados */}
+        {erro && (
+          <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-6">
+            {erro}
+          </div>
+        )}
+
+        {carregando && questoes.length === 0 ? (
+          <div className="flex justify-center items-center py-12">
+            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>
+          </div>
+        ) : (
+          <>
+            {/* Informações dos resultados */}
+            <div className="mb-6 p-4 bg-white rounded-lg shadow-sm border">
+              <div className="flex justify-between items-center">
+                <div className="text-sm text-gray-600">
+                  <span className="font-medium">{totalQuestoes}</span> questões encontradas
+                  {totalPaginas > 1 && (
+                    <span className="ml-2">
+                      (Página {paginaAtual} de {totalPaginas})
+                    </span>
+                  )}
                 </div>
-                <div className="flex justify-between">
-                  <span>Questão atual:</span>
-                  <span className="font-medium">
-                    {questoes.length > 0 ? indiceAtual + 1 : 0} de {questoes.length}
-                  </span>
-                </div>
+                {carregando && (
+                  <div className="text-sm text-blue-600">
+                    Carregando...
+                  </div>
+                )}
               </div>
             </div>
-          </div>
 
-          {/* Área principal da questão */}
-          <div className="lg:col-span-3">
-            {loading ? (
-              <div className="flex justify-center items-center h-64">
-                <LoadingSpinner />
-              </div>
-            ) : questaoAtual ? (
-              <div>
+            {/* Lista de questões */}
+            <div className="space-y-6">
+              {questoes.map((questao, index) => (
                 <QuestaoComponent
-                  questao={questaoAtual}
-                  onResposta={handleResposta}
+                  key={`${questao.codigo_real}-${index}`}
+                  questao={questao}
+                  onResposta={() => {}}
                 />
-                
-                {/* Navegação */}
-                <div className="flex justify-between items-center mt-6">
-                  <button
-                    onClick={() => navegarQuestao('anterior')}
-                    disabled={indiceAtual === 0}
-                    className="btn-secondary disabled:opacity-50 disabled:cursor-not-allowed"
-                  >
-                    ← Anterior
-                  </button>
-                  
-                  <div className="text-sm text-gray-600">
-                    Questão {indiceAtual + 1} de {questoes.length}
-                  </div>
-                  
-                  <button
-                    onClick={() => navegarQuestao('proxima')}
-                    disabled={indiceAtual >= questoes.length - 1}
-                    className="btn-secondary disabled:opacity-50 disabled:cursor-not-allowed"
-                  >
-                    Próxima →
-                  </button>
-                </div>
-              </div>
-            ) : (
-              <div className="questao-container text-center">
-                <h2 className="text-xl font-semibold mb-4">Nenhuma questão encontrada</h2>
-                <p className="text-gray-600">
-                  Tente ajustar os filtros para encontrar questões.
-                </p>
+              ))}
+            </div>
+
+            {/* Paginação */}
+            {totalPaginas > 1 && (
+              <div className="mt-8 flex justify-center space-x-2">
+                {Array.from({ length: Math.min(totalPaginas, 10) }, (_, i) => {
+                  const pagina = i + 1;
+                  return (
+                    <button
+                      key={pagina}
+                      onClick={() => carregarMaisPaginas(pagina)}
+                      disabled={carregando}
+                      className={`px-4 py-2 rounded-lg border transition-colors ${
+                        pagina === paginaAtual
+                          ? 'bg-blue-600 text-white border-blue-600'
+                          : 'bg-white text-gray-700 border-gray-300 hover:bg-gray-50'
+                      } ${carregando ? 'opacity-50 cursor-not-allowed' : ''}`}
+                    >
+                      {pagina}
+                    </button>
+                  );
+                })}
               </div>
             )}
-          </div>
-        </div>
+
+            {questoes.length === 0 && !carregando && (
+              <div className="text-center py-12">
+                <div className="text-gray-500 text-lg">
+                  Nenhuma questão encontrada com os filtros selecionados.
+                </div>
+                <div className="text-gray-400 text-sm mt-2">
+                  Tente ajustar os filtros para encontrar questões.
+                </div>
+              </div>
+            )}
+          </>
+        )}
       </div>
     </div>
   );

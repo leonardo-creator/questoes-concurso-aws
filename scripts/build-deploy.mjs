@@ -69,6 +69,24 @@ async function cleanBuildEnvironment() {
   }
 }
 
+// Função para converter chunks em arquivos individuais
+async function convertToIndividualFiles() {
+  console.log('📁 Convertendo chunks para arquivos individuais...');
+  
+  try {
+    await execCommand('node', [
+      '--max-old-space-size=512',
+      '--expose-gc',
+      'scripts/convert-to-individual-files.mjs'
+    ]);
+    
+    console.log('✅ Conversão para arquivos individuais concluída');
+  } catch (error) {
+    console.error('❌ Erro na conversão para arquivos individuais:', error.message);
+    throw error;
+  }
+}
+
 // Função para gerar o Prisma Client
 async function generatePrismaClient() {
   console.log('🔧 Gerando Prisma Client...');
@@ -172,8 +190,8 @@ async function main() {
     // Etapa 2: Gerar Prisma Client
     await generatePrismaClient();
     
-    // Etapa 3: Processamento otimizado
-    await runOptimizedBuild();
+    // Etapa 3: Converter para arquivos individuais
+    await convertToIndividualFiles();
     
     // Etapa 4: Build do Next.js
     await runNextBuild();

@@ -6,7 +6,7 @@ Sistema web desenvolvido em Next.js 15 para gerenciamento e estudo de questões 
 ## Tecnologias Principais
 - **Framework**: Next.js 15 (App Router)
 - **ORM**: Prisma
-- **Banco de Dados**: PostgreSQL (Neon)
+- **Banco de Dados**: PostgreSQL (AWS RDS)
 - **Autenticação**: NextAuth.js
 - **Estilização**: Tailwind CSS
 - **Linguagem**: TypeScript
@@ -37,118 +37,104 @@ Sistema web desenvolvido em Next.js 15 para gerenciamento e estudo de questões 
 - `NEXTAUTH_SECRET`: Chave secreta para criptografia JWT (32 bytes)
 - `NEXTAUTH_URL`: URL base da aplicação
 
-## Funcionalidades Implementadas
-- [x] Autenticação com credenciais
-- [x] Sistema de sessão JWT
-- [x] API de questões com paginação
-- [x] Filtros avançados de questões
-- [x] Interface de estudo
-- [x] **Página de Cadernos** (/cadernos) com navegação por categorias
-- [x] **Índices de Dados**: Geração automatizada de arquivos JSON com:
-  - 491 bancas organizadoras
-  - 28 anos (1998-2025)
-  - 627 disciplinas
-  - 4.910 órgãos
-  - 20.457 cargos
-  - 70.350 assuntos únicos
-- [x] **Processamento de Dados**: Script para extrair dados únicos de 3.2M+ questões
-- [x] **Interface Responsiva**: Design otimizado para mobile e desktop
+## 🧠 Modo Estudo Inteligente (Janeiro 2025)
 
-## Problemas Resolvidos Recentemente
-- **JWT Decryption Error**: Configurado NEXTAUTH_SECRET para resolver erro de descriptografia
-- **Git Lock Issue**: Removido arquivo .git/index.lock que bloqueava operações Git
-- **Security**: Atualizado .gitignore para proteger arquivos sensíveis
-- **404 Errors**: 
-  - Criada página `/cadernos` que estava gerando 404
-  - Gerados arquivos JSON de índices em `/data/indices/` que estavam ausentes
-  - Processados 168 arquivos de chunks para extrair 3.218.880 questões
-- **Data Processing**: Implementado script de geração de índices automatizada
-- **Performance**: Arquivos estáticos para rápido carregamento de dados de filtros
+### Problema Original: Filtros em sidebar lateral e sem visualização de filtros aplicados
+**Solução**: Refatoração completa para layout horizontal com shopping cart de filtros OTIMIZADO
 
-## ✅ Correções Recentes Implementadas (Build & Deployment Fix)
+### ⚠️ CORREÇÃO CRÍTICA - Modo Estudo Inteligente (Jan 15, 2025)
+**Problema Identificado**: Modo estudo inteligente estava retornando apenas poucas questões ao invés das 120 esperadas.
 
-### Problema: Erro PrismaClientInitializationError na Vercel
-**Solução**: Implementado sistema robusto de geração do Prisma Client
-- ✅ **Script postinstall**: Criado `scripts/postinstall.mjs` para auto-geração
-- ✅ **Build Process**: Adicionada etapa de geração do Prisma Client antes do Next.js build
-- ✅ **Prisma Update**: Atualizados `@prisma/client` e `prisma` para v6.11.1 (latest)
-- ✅ **Vercel Config**: Criado `vercel.json` com configurações específicas Next.js
-- ✅ **Binary Targets**: Configurado para compatibilidade com Vercel (`rhel-openssl-1.0.x`)
-- ✅ **Package.json**: Adicionado comando `postinstall` para execução automática
+**Causa Raiz**: Lógica incorreta que aplicava filtros adicionais (por assuntos específicos) além dos filtros escolhidos pelo usuário.
 
-### Problema: Erro OOM (Out of Memory) 137 durante deploy
-**Solução**: Criado sistema de build otimizado para processar todos os 168 chunks
-- ✅ Script `scripts/build-optimized.mjs` com processamento em lotes
-- ✅ Gestão de memória com limite de 512MB 
-- ✅ Garbage Collection forçado entre lotes
-- ✅ Processamento de 3.2M+ questões sem falha de memória
+**Solução Implementada**:
+- ✅ **Modo de ordenação corrigido**: Estudo inteligente agora funciona como **ordenação**, não como **filtro**
+- ✅ **Lógica ajustada**: Busca TODAS as questões que atendem aos filtros do usuário primeiro
+- ✅ **Priorização inteligente**: Agrupa questões por assunto e prioriza assuntos menos estudados
+- ✅ **Ordenação por dificuldade**: Dentro de cada assunto, questões mais difíceis aparecem primeiro
+- ✅ **Quantidade preservada**: Mantém o limite de 120 questões independente do modo
 
-### Problema: Erro TypeScript Next.js 15 - Rotas dinâmicas
-**Solução**: Atualizado parâmetros de rotas para compatibilidade Next.js 15
-- ✅ `/api/user/lists/[id]/route.ts`: Parâmetros como `Promise<{ id: string }>`
-- ✅ Todas as funções GET, PUT, DELETE corrigidas
-- ✅ `lib/auth.ts`: Tipos NextAuth compatíveis
+**Arquivos modificados**:
+- `app/api/questoes/route.ts` - Função `buscarQuestoesEstudoInteligente` completamente reescrita
+- `components/estudar/FiltrosHorizontal.tsx` - Interface para seleção do modo
+- `app/estudar/EstudarClient.tsx` - Integração com controle de ordenação
 
-### Problema: useSearchParams() sem Suspense boundary
-**Solução**: Envolvido componente em Suspense
-- ✅ `/auth/signin/page.tsx`: Criado SignInForm envolvido em Suspense
-- ✅ Fallback de carregamento implementado
+## ✅ Rework Completo da Página Estudar (Janeiro 2025)
 
-### Problema: Erro de permissão EPERM no Windows
-**Solução**: Script de build robusto com limpeza de ambiente
-- ✅ `scripts/build-deploy.mjs`: Finaliza processos Node.js antes do build
-- ✅ Limpeza automática do diretório `.next`
-- ✅ Verificação pós-build automatizada
+### Problema: Interface de filtros desatualizada e códigos específicos inadequados
+**Solução**: Implementado sistema moderno de filtros com design system baseado em shadcn/ui
 
-## 🚀 Status do Build
-- **Build Status**: ✅ SUCESSO (últimos: 12-13s de compilação)
-- **Memória**: Otimizada para uso com limite de 1024MB
-- **Chunks Processados**: 168/168 (todos os chunks incluídos)
-- **Questões Totais**: 3.2M+ processadas com sucesso
-- **Deploy Ready**: ✅ Pronto para Vercel deployment
+#### 🎨 Sistema de Componentes UI Modernos
+- ✅ **Button Component** (`/components/ui/Button.tsx`): Sistema de variants com cva
+- ✅ **Input Component** (`/components/ui/Input.tsx`): Inputs padronizados com forwardRef
+- ✅ **Badge Component** (`/components/ui/Badge.tsx`): 6 variants (default, secondary, destructive, outline, success, warning)
+- ✅ **Card Component** (`/components/ui/Card.tsx`): Sistema de cards estruturados
+- ✅ **Tabs Component** (`/components/ui/Tabs.tsx`): Navegação por abas
 
-## 📊 Estatísticas do Sistema
-- **Total de Questões**: 3.2M+ questões únicas
-- **Bancas**: 491 organizadoras
-- **Anos**: 28 anos de histórico (1998-2025)
-- **Disciplinas**: 627 únicas
-- **Assuntos**: 70k+ tópicos específicos
-- **Órgãos**: Centenas de instituições
-- **Cargos**: Milhares de posições
+#### 📊 Sistema de Filtros Avançados
+- ✅ **Interface Tabbed** (`/components/estudar/FiltrosAvancados.tsx`):
+  - **Básicos**: Disciplinas, bancas, anos com contadores
+  - **Avançados**: Dificuldade, tipo, assuntos com busca
+  - **Códigos**: Parser inteligente para códigos específicos
+  - **Salvos**: Gerenciamento de filtros favoritos
+- ✅ **Filtro Inteligente de Assuntos**: Auto-filtragem baseada em disciplinas selecionadas
+- ✅ **Auto-limpeza**: Remove assuntos inválidos quando disciplinas mudam
 
-## 🔧 Scripts de Build Otimizados
-- `npm run build`: Build principal com otimizações
-- `npm run build:optimized`: Build com processamento limitado
-- `scripts/build-deploy.mjs`: Build completo com limpeza automática
-- `scripts/build-optimized.mjs`: Processamento otimizado de chunks
+#### 🔍 Códigos Específicos Aprimorados
+- ✅ **Parser Multi-formato** (`/components/estudar/CodigosEspecificos.tsx`):
+  - Suporte a `"45.4564","574.45"` (com aspas)
+  - Suporte a `45.4564,574.45` (separado por vírgula)
+  - Suporte a uma linha por código
+  - Validação em tempo real contra o banco
+  - Helper visual com exemplos de formato
 
-## Próximos Passos
-- Implementar sistema de favoritos e listas pessoais
-- Adicionar estatísticas de desempenho do usuário
-- Criar sistema de simulados personalizados
-- Implementar busca full-text nas questões
-- Adicionar testes automatizados
-- Melhorar SEO e performance (Core Web Vitals)
-- Implementar cache Redis para otimização
+#### 💾 Sistema de Filtros Salvos
+- ✅ **Schema Atualizado** (`prisma/schema.prisma`): Modelo FiltrosSalvos
+- ✅ **API CRUD** (`/app/api/filtros-salvos/`): Gerenciamento completo
+- ✅ **Interface Salvar/Carregar**: UX intuitiva para favoritos
 
-## Comandos Úteis
-```bash
-# Desenvolvimento
-npm run dev
+#### 🚀 APIs Dinâmicas de Dados
+**Problema Crítico Resolvido**: Disciplinas mostravam "questões questões questões..."
+- ✅ **API Disciplinas** (`/api/indices/disciplinas`): Carregamento dinâmico do PostgreSQL
+- ✅ **API Bancas** (`/api/indices/bancas`): Estrutura nome/count padronizada  
+- ✅ **API Anos** (`/api/indices/anos`): Dados consistentes com banco
 
-# Build
-npm run build
+#### 🔧 Melhorias UX Critícas (Janeiro 2025)
+**Problema**: Dropdowns fechavam ao digitar, contagens lentas, falta de filtros salvos e offline
+**Solução Implementada**:
+- ✅ **Dropdown Search Fix**: Implementado `stopPropagation` em eventos de input
+- ✅ **Performance Otimizada**: Removidas contagens de questões para melhor velocidade
+- ✅ **Filtros Salvos Completos**:
+  - Hook personalizado `useFiltrosSalvos` para CRUD
+  - Interface com favoritos (estrelas)
+  - Salvar/carregar/excluir filtros
+  - API completa `/api/filtros-salvos` (GET/POST/PUT/DELETE)
+- ✅ **Download Offline**:
+  - Hook `useDownloadOffline` para localStorage
+  - API `/api/questoes/download-offline` (máximo 1000 questões)
+  - Gerenciamento de pacotes offline
+  - Interface para sincronização de respostas
+- ✅ **Códigos de Assuntos**: Campo de input para códigos tipo "1.2, 5.4" infinitos
+- ✅ **Paginação Variável**: Preparação para sistema de paginação adaptativa
 
-# Prisma
-npx prisma generate
-npx prisma db push
+#### 🎯 Funcionalidades Implementadas
+- ✅ **Salvar Filtros**: Nome personalizado, descrição opcional, sistema de favoritos
+- ✅ **Carregar Filtros**: Um clique para aplicar filtros salvos anteriormente
+- ✅ **Download Offline**: Baixar questões com filtros aplicados para estudo sem internet
+- ✅ **Códigos Personalizados**: Input flexível para códigos específicos de assuntos
+- ✅ **Search Behaviour**: Dropdowns não fecham mais durante digitação
+- ✅ **Performance**: Remoção de queries de contagem para velocidade
 
-# Testes
-npm test
-```
+#### 📁 Arquivos Adicionados/Modificados
+**Novos Arquivos**:
+- `hooks/useFiltrosSalvos.ts` - Gerenciamento completo de filtros salvos
+- `hooks/useDownloadOffline.ts` - Sistema de download offline com localStorage
+- `app/api/filtros-salvos/route.ts` - API CRUD para filtros salvos
+- `app/api/questoes/download-offline/route.ts` - API para download offline
 
-## Notas de Segurança
-- Todas as variáveis de ambiente estão protegidas no .gitignore
-- Senhas são criptografadas com bcrypt
-- Autenticação baseada em JWT com secret seguro
-- Validação de entrada em todas as APIs
+**Arquivos Modificados**:
+- `components/estudar/FiltrosHorizontal.tsx` - Integração com filtros salvos e offline
+- `prisma/schema.prisma` - Modelo SavedFilter e OfflineAction
+- `types/index.ts` - Tipo codigosPersonalizados já existente
+- `api.md` - Documentação das novas APIs
+````

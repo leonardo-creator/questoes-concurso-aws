@@ -52,6 +52,7 @@ model User {
   sessions    Session[]
   answers     Answer[]
   customLists CustomList[]
+  savedFilters SavedFilter[]
 
   @@map("users")
 }
@@ -97,6 +98,24 @@ model CustomList {
   @@map("custom_lists")
 }
 
+// Modelo para filtros salvos pelo usuário
+model SavedFilter {
+  id          String   @id @default(cuid())
+  userId      String
+  nome        String
+  descricao   String?
+  filtros     Json     // Filtros serializados em JSON
+  favorito    Boolean  @default(false)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([userId, favorito])
+  @@map("saved_filters")
+}
+
 // Modelo para armazenar ações offline que precisam ser sincronizadas
 model OfflineAction {
   id           String   @id @default(cuid())
@@ -110,4 +129,63 @@ model OfflineAction {
   @@index([userId, sincronizado])
   @@index([timestamp])
   @@map("offline_actions")
+}
+
+// Modelo principal para armazenar todas as questões migradas dos chunks JSON
+model Question {
+  id                      Int      @id @default(autoincrement())
+  questaoId               Int      @unique // ID original da questão
+  dificuldade             Int
+  bancasNome              String
+  bancasDescricao         String
+  bancasSigla             String
+  bancasOab               Boolean
+  cargosDescricao         String
+  orgaosNome              String
+  orgaosSigla             String
+  orgaosUf                String
+  anos                    Int
+  tipo                    String
+  grupoQuestaoEnunciado   String
+  enunciado               String
+  hasImage                Boolean
+  hasImageItens           Boolean
+  provasNivel             String
+  areasDescricao          String?
+  itens                   Json     // Array de alternativas em JSON
+  resposta                String   // ID da resposta correta
+  assuntosPalavrasChave   String[] // Array de palavras-chave
+  codigoReal              String   @unique
+  disciplinaReal          String
+  assuntoReal             String
+  anulada                 Boolean
+  desatualizada           Boolean
+  createdAt               DateTime @default(now())
+  updatedAt               DateTime @updatedAt
+
+  // Índices para otimização de queries
+  @@index([disciplinaReal], map: "idx_questions_disciplina")
+  @@index([bancasSigla], map: "idx_questions_banca")
+  @@index([anos], map: "idx_questions_ano")
+  @@index([dificuldade], map: "idx_questions_dificuldade")
+  @@index([orgaosUf], map: "idx_questions_uf")
+  @@index([tipo], map: "idx_questions_tipo")
+  @@index([provasNivel], map: "idx_questions_nivel")
+  @@index([anulada], map: "idx_questions_anulada")
+  @@index([desatualizada], map: "idx_questions_desatualizada")
+  @@index([disciplinaReal, anos], map: "idx_questions_disciplina_ano")
+  @@index([bancasSigla, anos], map: "idx_questions_banca_ano")
+  @@map("questions")
+}
+
+// Modelo para estatísticas e cache de dados agregados
+model QuestionStats {
+  id            String   @id @default(cuid())
+  totalQuestoes Int
+  totalBancas   Int
+  totalAnos     Int
+  totalOrgaos   Int
+  atualizadoEm  DateTime @default(now())
+
+  @@map("question_stats")
 }

@@ -77,47 +77,33 @@ Durante o desenvolvimento desta correção, identifiquei algumas oportunidades d
 
 **Justificativa**: O aprendizado contínuo é vital para a evolução do projeto.
 
-### 9. Otimização para Deploy e Build (NOVA - Baseada na Experiência Atual)
-**Sugestão**: Adicionar instruções específicas sobre:
-- **Gestão de Memória em Produção**: Como implementar builds otimizados para ambientes com restrições de memória
-- **Processamento de Large Datasets**: Estratégias para processar grandes volumes de dados (3M+ registros) sem OOM
-- **Compatibility Layers para Framework Updates**: Como atualizar código para novas versões (ex: Next.js 15 params como Promise)
-- **Build Verification Scripts**: Scripts automatizados para verificar integridade do build antes do deploy
-- **Environment Cleanup**: Procedimentos para limpar ambiente de build (processos Node.js, diretórios .next)
+### 9. Build e Deploy para Prisma/ORM
+**Sugestão**: Adicionar protocolo específico para:
+- Configuração de ORM para diferentes ambientes (desenvolvimento, produção)
+- Scripts de postinstall para geração automática de clientes ORM
+- Configuração de binary targets para compatibilidade de deploy
+- Tratamento de erros de inicialização de ORM em produção
+- Atualizações de versão de ORM de forma segura
 
-**Justificativa**: Durante a correção do deployment, descobri que builds com grandes datasets precisam de:
-1. Processamento em lotes para evitar OOM (Out of Memory)
-2. Garbage collection explícito entre operações
-3. Verificação de compatibilidade com versões mais recentes de frameworks
-4. Scripts de limpeza automática para problemas de permissão
+**Justificativa**: ORMs como Prisma têm requisitos específicos para build e deploy que precisam ser tratados proativamente.
 
-**Exemplo de Implementação**:
-```javascript
-// Processamento otimizado com gestão de memória
-const BATCH_SIZE = 10; // Processar 10 chunks por vez
-const MEMORY_LIMIT_MB = 400;
+### 10. Gestão de Chunks e Processamento Assíncrono
+**Sugestão**: Incluir diretrizes para:
+- Processamento eficiente de grandes volumes de dados divididos em chunks
+- Estratégias de otimização de memória em builds
+- Scripts de backup e recovery de dados processados
+- Monitoramento de performance durante processamento de dados
 
-function forceGC() {
-  if (global.gc) global.gc();
-}
+**Justificativa**: Projetos com grandes volumes de dados requerem estratégias específicas de processamento.
 
-// Build com limpeza automática
-await cleanBuildEnvironment();
-await runOptimizedBuild();
-await verifyBuildIntegrity();
-```
+### 11. Configuração de Deploy Específica por Plataforma
+**Sugestão**: Adicionar seções para:
+- Configurações específicas para Vercel (vercel.json)
+- Configurações para outras plataformas (Railway, Heroku, etc.)
+- Variáveis de ambiente por ambiente
+- Scripts de build customizados por plataforma
 
-### 10. Debugging para Deployment Issues
-**Sugestão**: Protocolo estruturado para debugging de problemas de deploy:
-- **Error 137 (SIGKILL)**: Sempre verificar uso de memória primeiro
-- **TypeScript Compatibility**: Checklist para verificar compatibilidade com versões mais recentes
-- **Suspense Boundaries**: Verificar componentes que usam hooks assíncronos
-- **Build Verification**: Scripts automáticos para validar artifacts gerados
-
-**Implementação Sugerida**: 
-- Script `debug-build.mjs` que verifica common issues
-- Logs estruturados durante builds para facilitar debugging
-- Checklist automático de verificação pós-build
+**Justificativa**: Diferentes plataformas de deploy têm requisitos específicos que devem ser considerados.
 
 ## Prioridade de Implementação
 1. **Alta**: Gerenciamento de Dados e Performance

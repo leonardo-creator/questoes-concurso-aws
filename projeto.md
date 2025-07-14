@@ -65,7 +65,16 @@ Sistema web desenvolvido em Next.js 15 para gerenciamento e estudo de questões 
 - **Data Processing**: Implementado script de geração de índices automatizada
 - **Performance**: Arquivos estáticos para rápido carregamento de dados de filtros
 
-## ✅ Correções Recentes Implementadas (Deployment Fix)
+## ✅ Correções Recentes Implementadas (Build & Deployment Fix)
+
+### Problema: Erro PrismaClientInitializationError na Vercel
+**Solução**: Implementado sistema robusto de geração do Prisma Client
+- ✅ **Script postinstall**: Criado `scripts/postinstall.mjs` para auto-geração
+- ✅ **Build Process**: Adicionada etapa de geração do Prisma Client antes do Next.js build
+- ✅ **Prisma Update**: Atualizados `@prisma/client` e `prisma` para v6.11.1 (latest)
+- ✅ **Vercel Config**: Criado `vercel.json` com configurações específicas Next.js
+- ✅ **Binary Targets**: Configurado para compatibilidade com Vercel (`rhel-openssl-1.0.x`)
+- ✅ **Package.json**: Adicionado comando `postinstall` para execução automática
 
 ### Problema: Erro OOM (Out of Memory) 137 durante deploy
 **Solução**: Criado sistema de build otimizado para processar todos os 168 chunks

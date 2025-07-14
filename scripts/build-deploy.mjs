@@ -69,6 +69,19 @@ async function cleanBuildEnvironment() {
   }
 }
 
+// Função para gerar o Prisma Client
+async function generatePrismaClient() {
+  console.log('🔧 Gerando Prisma Client...');
+  
+  try {
+    await execCommand('npx', ['prisma', 'generate']);
+    console.log('✅ Prisma Client gerado com sucesso');
+  } catch (error) {
+    console.error('❌ Erro na geração do Prisma Client:', error.message);
+    throw error;
+  }
+}
+
 // Função para executar o build otimizado
 async function runOptimizedBuild() {
   console.log('📦 Executando processamento otimizado de chunks...');
@@ -156,13 +169,16 @@ async function main() {
     // Etapa 1: Limpar ambiente
     await cleanBuildEnvironment();
     
-    // Etapa 2: Processamento otimizado
+    // Etapa 2: Gerar Prisma Client
+    await generatePrismaClient();
+    
+    // Etapa 3: Processamento otimizado
     await runOptimizedBuild();
     
-    // Etapa 3: Build do Next.js
+    // Etapa 4: Build do Next.js
     await runNextBuild();
     
-    // Etapa 4: Verificação
+    // Etapa 5: Verificação
     const buildValid = verifyBuild();
     
     const endTime = Date.now();

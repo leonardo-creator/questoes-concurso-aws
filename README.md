@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Sistema de Questões de Concurso - Alta Performance
 
 Uma aplicação web de alta performance para resolução de questões de concurso, construída com Next.js 15, projetada para ser extremamente rápida, funcionar offline e contornar limitações de tempo de execução.
@@ -274,3 +275,6 @@ Para dúvidas e suporte:
 ---
 
 **Desenvolvido com ❤️ para otimizar seus estudos para concursos!**
+=======
+# questoes-concurso-aws
+>>>>>>> 7c3461a415b077e0d6fa0eedd4c22600d6398e27

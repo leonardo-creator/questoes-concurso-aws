@@ -69,7 +69,13 @@ function processChunk(chunkPath, globalStats) {
     // Ler e processar chunk
     let chunkData = JSON.parse(fs.readFileSync(chunkPath, 'utf8'));
     
-    if (chunkData.questoes && Array.isArray(chunkData.questoes)) {
+    // Os chunks são arrays diretos de questões
+    if (Array.isArray(chunkData)) {
+      for (const questao of chunkData) {
+        processQuestao(questao, globalStats);
+      }
+    } else if (chunkData.questoes && Array.isArray(chunkData.questoes)) {
+      // Fallback para estrutura com .questoes
       for (const questao of chunkData.questoes) {
         processQuestao(questao, globalStats);
       }

@@ -74,7 +74,7 @@ Uma aplicação web de alta performance para resolução de questões de concurs
 ### 1. Clone e Instale Dependências
 ```bash
 git clone <repositorio>
-cd questoes-concurso
+ cd concurso-otimizado
 npm install
 ```
 

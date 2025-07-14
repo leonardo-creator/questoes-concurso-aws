@@ -4,8 +4,15 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+
+// Diretórios
+const chunksDir = path.join(__dirname, '../chunks');
+const publicDataDir = path.join(__dirname, '../public/data');
+const questoesDir = path.join(publicDataDir, 'questoes');
+const indicesDir = path.join(publicDataDir, 'indices');
 
 console.log('🚀 Iniciando processamento das questões...');
 console.log('[DEBUG] __dirname:', __dirname);
@@ -13,12 +20,6 @@ console.log('[DEBUG] chunksDir:', chunksDir);
 console.log('[DEBUG] publicDataDir:', publicDataDir);
 console.log('[DEBUG] questoesDir:', questoesDir);
 console.log('[DEBUG] indicesDir:', indicesDir);
-
-// Diretórios
-const chunksDir = path.join(__dirname, '../chunks');
-const publicDataDir = path.join(__dirname, '../public/data');
-const questoesDir = path.join(publicDataDir, 'questoes');
-const indicesDir = path.join(publicDataDir, 'indices');
 
 // Criar diretórios se não existirem
 [publicDataDir, questoesDir, indicesDir].forEach(dir => {
@@ -303,6 +304,9 @@ async function main() {
 
   } catch (error) {
     console.error('❌ Erro durante o processamento:', error.message);
+    if (error && error.stack) {
+      console.error('Stack trace:', error.stack);
+    }
     process.exit(1);
   }
 }

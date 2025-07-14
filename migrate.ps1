@@ -38,12 +38,12 @@ Write-Host "✅ MIGRAÇÃO CONCLUÍDA!" -ForegroundColor Green
 Write-Host "🔗 Seu novo repositório: https://github.com/$GITHUB_USER/$REPO_NAME" -ForegroundColor Cyan
 
 # Opcional: Configurar novo remote como origin principal
-Write-Host "🔄 Deseja configurar o novo repositório como origin principal? (s/n)" -ForegroundColor Yellow
+Write-Host "Deseja configurar o novo repositorio como origin principal? (s/n)" -ForegroundColor Yellow
 $response = Read-Host
 if ($response -eq "s" -or $response -eq "S") {
     git remote remove origin
     git remote rename new-origin origin
-    Write-Host "✅ Novo repositório configurado como origin principal!" -ForegroundColor Green
+    Write-Host "Novo repositorio configurado como origin principal!" -ForegroundColor Green
 }
 
 Write-Host "📋 Próximos passos:" -ForegroundColor Cyan

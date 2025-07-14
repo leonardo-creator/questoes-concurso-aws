@@ -46,6 +46,7 @@ export async function GET(request: NextRequest) {
         .filter(Boolean)
         .map(codigo => codigo.trim().replace(/^["']|["']$/g, '')), // Remove aspas do início e fim
       cadernoId: searchParams.get('cadernoId') || undefined,
+      provasNivel: searchParams.get('provasNivel')?.split(',').filter(Boolean),
     };
 
     const ordenacao = (searchParams.get('ordenacao') || 'relevancia') as OrdenacaoQuestoes;
@@ -223,6 +224,11 @@ async function buscarQuestoesPostgreSQL(
     // Filtro por códigos personalizados
     if (filtros.codigosPersonalizados?.length) {
       whereConditions.codigoReal = { in: filtros.codigosPersonalizados };
+    }
+
+    // Filtro por nível da prova
+    if (filtros.provasNivel?.length) {
+      whereConditions.provasNivel = { in: filtros.provasNivel };
     }
 
     // Filtro por caderno

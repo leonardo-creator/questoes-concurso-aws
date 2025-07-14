@@ -130,7 +130,7 @@ export function FiltrosComponent({
           >
             <span className="font-medium text-gray-700">
               Disciplinas 
-              {filtros.disciplinas?.length > 0 && (
+              {filtros.disciplinas && filtros.disciplinas.length > 0 && (
                 <span className="ml-2 text-sm text-blue-600">
                   ({filtros.disciplinas.length} selecionada{filtros.disciplinas.length > 1 ? 's' : ''})
                 </span>
@@ -204,7 +204,7 @@ export function FiltrosComponent({
           >
             <span className="font-medium text-gray-700">
               Bancas
-              {filtros.bancas?.length > 0 && (
+              {filtros.bancas && filtros.bancas.length > 0 && (
                 <span className="ml-2 text-sm text-blue-600">
                   ({filtros.bancas.length} selecionada{filtros.bancas.length > 1 ? 's' : ''})
                 </span>
@@ -256,7 +256,7 @@ export function FiltrosComponent({
           >
             <span className="font-medium text-gray-700">
               Anos
-              {filtros.anos?.length > 0 && (
+              {filtros.anos && filtros.anos.length > 0 && (
                 <span className="ml-2 text-sm text-blue-600">
                   ({filtros.anos.length} selecionado{filtros.anos.length > 1 ? 's' : ''})
                 </span>

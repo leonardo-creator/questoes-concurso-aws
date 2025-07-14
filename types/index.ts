@@ -55,6 +55,7 @@ export type FiltroQuestoes = {
   statusResposta?: 'acertadas' | 'erradas' | 'todas';
   codigosPersonalizados?: string[];
   cadernoId?: string;
+  provasNivel?: string[];
 };
 
 export type OrdenacaoQuestoes = 'relevancia' | 'data_asc' | 'data_desc' | 'dificuldade_asc' | 'dificuldade_desc' | 'estudo_inteligente';

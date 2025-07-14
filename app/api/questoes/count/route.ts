@@ -33,6 +33,7 @@ export async function GET(request: NextRequest) {
       codigosPersonalizados: searchParams.get('codigosPersonalizados')?.split(',')
         .filter(Boolean)
         .map(codigo => codigo.trim().replace(/^["']|["']$/g, '')), // Remove aspas do início e fim
+      provasNivel: searchParams.get('provasNivel')?.split(',').filter(Boolean),
       cadernoId: searchParams.get('cadernoId') || undefined,
     };
 

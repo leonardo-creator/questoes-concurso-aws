@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node scripts/build-deploy.mjs",
+    "build": "node scripts/build-simple.mjs",
+    "build:full": "node scripts/build-deploy.mjs",
     "build:optimized": "node --max-old-space-size=512 scripts/build-optimized.mjs && next build",
-    "build:full": "node scripts/process-questoes.mjs && next build",
     "build:light": "node scripts/generate-indices-only.mjs && next build",
     "build:individual": "node scripts/convert-to-individual-files.mjs && next build",
     "start": "next start",

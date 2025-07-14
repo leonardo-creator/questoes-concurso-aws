@@ -7,6 +7,13 @@
 | `/api/auth/[...nextauth]` | `GET`, `POST` | NextAuth.js, Páginas de auth | JSON (credentials) | Gerencia autenticação e sessões via NextAuth | Configurado com estratégia JWT, requer NEXTAUTH_SECRET |
 | `/api/auth/signup` | `POST` | `/auth/signup` | JSON: `{ "name": "string", "email": "string", "password": "string" }` | Registra novos usuários no sistema | Valida email único, criptografa senha com bcrypt |
 | `/api/questoes` | `GET` | Componentes de listagem | Query params: page, limit, filtros | Retorna questões paginadas com filtros | Requer autenticação, suporta filtros avançados |
+| `/data/indices/bancas.json` | `GET` | `/cadernos`, Filtros | - | Lista todas as bancas disponíveis | Arquivo estático gerado a partir dos chunks |
+| `/data/indices/anos.json` | `GET` | `/cadernos`, Filtros | - | Lista todos os anos disponíveis | Arquivo estático ordenado decrescente |
+| `/data/indices/disciplinas.json` | `GET` | `/cadernos`, Filtros | - | Lista todas as disciplinas disponíveis | Arquivo estático ordenado alfabeticamente |
+| `/data/indices/orgaos.json` | `GET` | `/cadernos`, Filtros | - | Lista todos os órgãos disponíveis | Arquivo estático com nome, sigla e UF |
+| `/data/indices/cargos.json` | `GET` | `/cadernos`, Filtros | - | Lista todos os cargos disponíveis | Arquivo estático ordenado alfabeticamente |
+| `/data/indices/assuntos.json` | `GET` | `/cadernos`, Filtros | - | Lista todos os assuntos disponíveis | Arquivo estático com 70k+ assuntos únicos |
+| `/data/indices/stats.json` | `GET` | `/cadernos`, Dashboard | - | Estatísticas gerais do sistema | Total de questões, bancas, anos, etc. |
 
 ## Detalhes das APIs
 
@@ -26,6 +33,15 @@
 - **Paginação**: Máximo 100 itens por página
 - **Filtros**: disciplinas, assuntos, bancas, anos, dificuldades
 - **Ordenação**: relevancia, data, dificuldade
+
+### Índices de Dados (`/data/indices/*`)
+- **Geração**: Automatizada via script `scripts/generate-indices.js`
+- **Fonte**: Processamento de 168 chunks com 3.2M+ questões
+- **Atualizações**: Dados atualizados com timestamp no `stats.json`
+- **Performance**: Arquivos estáticos servidos pelo Next.js
+- **Estrutura Bancas**: `[{ nome, sigla, descricao }]`
+- **Estrutura Órgãos**: `[{ nome, sigla, uf }]`
+- **Estrutura Stats**: `{ totalQuestoes, totalBancas, ..., atualizadoEm }`
 
 ## Estados de Resposta
 - **200**: Sucesso

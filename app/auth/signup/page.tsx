@@ -1,3 +1,4 @@
+
 'use client';
 
 // Força rendering dinâmico para evitar problemas de build

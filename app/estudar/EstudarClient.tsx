@@ -199,7 +199,7 @@ export default function EstudarClient() {
   }
 
   if (!session) {
-    redirect('/auth/login');
+    redirect('/auth/signin');
   }
 
   // Função para contar questões com filtros pendentes

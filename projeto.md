@@ -251,3 +251,16 @@ Sistema web desenvolvido em Next.js 15 para gerenciamento e estudo de questões 
 - `prisma/schema.prisma` - Modelo SavedFilter e OfflineAction
 - `types/index.ts` - Tipo codigosPersonalizados já existente
 - `api.md` - Documentação das novas APIs
+
+### Correção de Autenticação NextAuth - Resolução de Redirecionamentos (15/07/2025) ✅
+- **Problema Identificado**: 
+  - Página `/estudar` redirecionando constantemente (loop infinito)
+  - Erro 404 nas rotas NextAuth (`/api/auth/session`, `/api/auth/_log`)
+  - Rota incorreta `/auth/login` sendo chamada (não existe)
+- **Solução Implementada**:
+  - ✅ **API NextAuth Criada**: `/app/api/auth/[...nextauth]/route.ts` configurada
+  - ✅ **Redirecionamento Corrigido**: `/auth/login` → `/auth/signin` no EstudarClient.tsx
+  - ✅ **Manifest PWA**: Adicionado `/public/manifest.json` para resolver 404s
+  - ✅ **Variáveis de Ambiente**: Verificação e validação do `.env.local` com NEXTAUTH_SECRET
+- **Resultado**: Sistema de autenticação funcional, redirecionamentos corretos
+- **Status**: ✅ CONCLUÍDO - Página `/estudar` acessível sem loops

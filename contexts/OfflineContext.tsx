@@ -166,6 +166,16 @@ export function OfflineProvider({ children }: { children: React.ReactNode }) {
 
 export function useOffline() {
   const context = useContext(OfflineContext);
+  if (typeof window === 'undefined') {
+    // Durante SSR/SSG, retorna valores padrão
+    return {
+      isOnline: true,
+      acoesPendentes: [],
+      adicionarAcao: async () => {},
+      sincronizar: async () => {},
+    };
+  }
+  
   if (context === undefined) {
     throw new Error('useOffline deve ser usado dentro de um OfflineProvider');
   }

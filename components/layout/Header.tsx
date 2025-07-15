@@ -1,11 +1,11 @@
 'use client';
 
 import { useAuth } from '@/contexts/AuthContext';
-import { useOffline } from '@/contexts/OfflineContext';
 
 export function Header() {
   const { user, signOut } = useAuth();
-  const { isOnline, acoesPendentes } = useOffline();
+  const isOnline = true; // Temporário - remover funcionalidade offline
+  const acoesPendentes: any[] = []; // Temporário - remover funcionalidade offline
 
   return (
     <header className="bg-white shadow-sm border-b">

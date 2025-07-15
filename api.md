@@ -28,7 +28,7 @@
 
 | Caminho da API | Método(s) HTTP | Locais de Uso | Payload Esperado (Formato) | Funcionalidade | Observações Adicionais |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `/api/auth/[...nextauth]` | `GET`, `POST` | NextAuth.js, Páginas de auth | JSON (credentials) | Gerencia autenticação e sessões via NextAuth | Configurado com estratégia JWT, requer NEXTAUTH_SECRET |
+| `/api/auth/[...nextauth]` | `GET`, `POST` | NextAuth.js, Páginas de auth, useSession hooks | JSON (credentials) para signin | Gerencia autenticação e sessões via NextAuth | Configurado com Prisma adapter, estratégia JWT, requer NEXTAUTH_SECRET |
 | `/api/auth/signup` | `POST` | `/auth/signup` | JSON: `{ "name": "string", "email": "string", "password": "string" }` | Registra novos usuários no sistema | Valida email único, criptografa senha com bcrypt |
 | `/api/materias` | `GET` | `/estudar/EstudarClient.tsx`, `/components/estudar/FiltrosHorizontal.tsx` | Query params opcionais: disciplina (string) | Lista disciplinas e assuntos do arquivo materias_globais.txt | Nova API que lê estrutura hierárquica disciplina-assunto do arquivo texto |
 | `/api/questoes` | `GET` | `/estudar/EstudarClient.tsx`, `/components/estudar/FiltrosHorizontal.tsx` | Query params: disciplinas[], assuntos[], bancas[], anos[], anoInicio, anoFim, dificuldades[], tipoQuestao, ordenacao, etc. | Busca questões usando PostgreSQL para alta performance | **ATUALIZADO**: Modo `estudo_inteligente` corrigido - agora ordena todas as questões que atendem aos filtros do usuário (não filtra por assuntos específicos). Prioriza assuntos menos estudados e ordena por dificuldade (difícil→fácil). |
@@ -38,6 +38,7 @@
 | `/api/indices/disciplinas` | `GET` | `/estudar/EstudarClient.tsx`, `/components/estudar/FiltrosHorizontal.tsx` | - | Lista disciplinas com assuntos e contadores do PostgreSQL | Substituiu JSON estático, estrutura: {nome, count, assuntos[]} |
 | `/api/indices/bancas` | `GET` | `/estudar/EstudarClient.tsx`, `/components/estudar/FiltrosHorizontal.tsx` | - | Lista bancas com contadores do PostgreSQL | Substituiu JSON estático, estrutura: {nome, count} |
 | `/api/indices/anos` | `GET` | `/estudar/EstudarClient.tsx`, `/components/estudar/FiltrosHorizontal.tsx` | - | Lista anos com contadores do PostgreSQL | Substituiu JSON estático, estrutura: {nome, count} |
+| `/api/auth/signup` | `POST` | `/app/auth/signup/page.tsx` | JSON: `{ "email": "string", "password": "string", "name": "string" }` | Cadastro de novos usuários | Validação de senha (min 6 chars), hash bcrypt, verifica email único |
 | `/api/filtros-salvos` | `GET`, `POST`, `DELETE`, `PUT` | `/components/estudar/FiltrosHorizontal.tsx`, `/hooks/useFiltrosSalvos.ts` | JSON: `{ "nome": "string", "filtros": "object", "descricao": "string?", "favorito": "boolean?" }` | CRUD completo de filtros salvos do usuário | Requer autenticação, suporte a favoritos, GET retorna array, POST/PUT/DELETE modificam |
 | `/api/questoes/search` | `GET` | Componentes de busca | Query params: q (termo), limit | Busca textual avançada em questões | Nova API para busca com destaque de termos |
 | `/api/questoes/stats` | `GET` | Dashboard, páginas de estatísticas | - | Retorna estatísticas agregadas do banco | Cache automático, estatísticas completas do PostgreSQL |

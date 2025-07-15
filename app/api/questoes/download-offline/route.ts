@@ -4,9 +4,8 @@ import { authOptions } from '@/lib/auth';
 import { prisma } from '@/lib/prisma';
 import type { FiltroQuestoes } from '@/types';
 
-// ConfiguraÃ§Ãµes para static export
-export const dynamic = 'force-static';
-export const revalidate = false;
+// Configurações para runtime dinâmico
+export const dynamic = 'force-dynamic';
 
 export async function POST(request: NextRequest) {
   try {
@@ -66,8 +65,8 @@ export async function POST(request: NextRequest) {
       whereConditions.dificuldade = { in: dificuldadeNums };
     }
 
-    // Buscar questÃµes do PostgreSQL
-    const questoes = await prisma.question.findMany({
+    // Buscar questões do PostgreSQL
+    const questoes = await prisma!.question.findMany({
       where: whereConditions,
       take: Math.min(limite, 1000), // Limitar a 1000 questÃµes mÃ¡ximo
       orderBy: { id: 'asc' }
@@ -92,7 +91,7 @@ export async function POST(request: NextRequest) {
     }));
 
     // Criar registro de download usando OfflineAction
-    await prisma.offlineAction.create({
+    await prisma!.offlineAction.create({
       data: {
         userId: session.user.id,
         tipo: 'download_offline',

@@ -12,7 +12,8 @@ const nextConfig = {
   
   // Configurações para resolver problemas de deploy
   experimental: {
-    serverComponentsExternalPackages: ['@prisma/client', 'prisma']
+    serverComponentsExternalPackages: ['@prisma/client', 'prisma'],
+    missingSuspenseWithCSRBailout: false,
   },
   
   // Configurar para evitar problemas com APIs durante build
@@ -24,6 +25,10 @@ const nextConfig = {
   env: {
     NEXT_TELEMETRY_DISABLED: '1'
   },
+  
+  // Exportar apenas as páginas que funcionam corretamente
+  trailingSlash: true,
+  skipTrailingSlashRedirect: true,
   
   // Configurar para evitar problemas de prerendering em páginas específicas
   onDemandEntries: {

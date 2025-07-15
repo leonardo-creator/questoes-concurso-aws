@@ -1,21 +1,26 @@
 # Documentação da API
 
-## ⚠️ IMPORTANTE: Correções de Deploy Aplicadas
+## ⚠️ IMPORTANTE: Configuração Vercel Otimizada
 
 **Data**: 14/07/2025
-**Status**: ✅ **Problemas de deploy resolvidos**
+**Status**: ✅ **Deploy configuration otimizada**
 
-### Problemas Corrigidos:
-1. **NextAuth NO_SECRET Error** → Fallback configurado para build
-2. **DATABASE_URL não definida** → Sistema Prisma com verificação segura
-3. **APIs falhando durante build** → Mudado para `force-dynamic` com verificações de null
-4. **Redirects 404** → Middleware e configurações corrigidas
+### Correções Aplicadas:
+1. **DATABASE_URL Secret Error** → Removidas referências a secrets inexistentes
+2. **Vercel.json Otimizado** → Configuração para melhor performance e estabilidade
+3. **Build Environment** → Variáveis configuradas para evitar erros
+4. **Performance Settings** → Memória, timeout e cache otimizados
 
 ### Configurações Atualizadas:
-- Todas as APIs agora usam `force-dynamic` e `runtime: 'nodejs'`
-- Verificação de `prisma` antes de usar em todas as APIs
-- Fallback gracioso para quando banco não está disponível
-- NextAuth configurado com secret fallback para build
+- Região configurada para `iad1` (mesma região do RDS AWS)
+- Funções API com 1024MB de memória e 30s timeout
+- Headers de cache otimizados para APIs
+- Environment variables configuradas para build estável
+
+### Deploy Instructions:
+1. Configure as variáveis de ambiente no dashboard da Vercel (ver DEPLOY_VERCEL.md)
+2. Use `main` ou `HEAD` como commit reference
+3. As configurações do vercel.json são aplicadas automaticamente
 
 ---
 

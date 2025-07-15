@@ -8,7 +8,7 @@ async function checkDatabase() {
     console.log('🔍 Verificando estado do banco de dados...\n');
     
     // Verificar questões
-    const questoesCount = await prisma.questao.count();
+    const questoesCount = await prisma.question.count();
     console.log(`📝 Questões no banco: ${questoesCount.toLocaleString()}`);
     
     // Verificar usuários
@@ -16,7 +16,7 @@ async function checkDatabase() {
     console.log(`👥 Usuários registrados: ${usersCount}`);
     
     // Verificar filtros salvos
-    const filtrosCount = await prisma.filtrosSalvos.count();
+    const filtrosCount = await prisma.savedFilter.count();
     console.log(`💾 Filtros salvos: ${filtrosCount}`);
     
     if (questoesCount === 0) {
@@ -27,7 +27,7 @@ async function checkDatabase() {
       console.log('\n✅ Banco de dados populado e funcionando!');
       
       // Mostrar algumas estatísticas
-      const disciplinas = await prisma.questao.groupBy({
+      const disciplinas = await prisma.question.groupBy({
         by: ['disciplina'],
         _count: { disciplina: true },
         orderBy: { _count: { disciplina: 'desc' } },

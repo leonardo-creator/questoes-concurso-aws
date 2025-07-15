@@ -1,13 +1,11 @@
 ﻿import { NextRequest, NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth';
 import { authOptions } from '@/lib/auth';
-import { PrismaClient } from '@prisma/client';
+import { prisma } from '@/lib/prisma';
 
-// ConfiguraÃ§Ãµes para static export
-export const dynamic = 'force-static';
-export const revalidate = false;
-
-const prisma = new PrismaClient();
+// Configurações para permitir runtime dinâmico
+export const dynamic = 'force-dynamic';
+export const runtime = 'nodejs';
 
 export async function GET(request: NextRequest) {
   try {

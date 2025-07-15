@@ -6,9 +6,9 @@ import fs from 'fs';
 import path from 'path';
 import type { Questao, FiltroQuestoes, OrdenacaoQuestoes, ItemQuestao } from '@/types';
 
-// ConfiguraÃ§Ãµes para static export
-export const dynamic = 'force-static';
-export const revalidate = false;
+// Configurações para permitir runtime dinâmico
+export const dynamic = 'force-dynamic';
+export const runtime = 'nodejs';
 
 const QUESTOES_PER_PAGE = 120;
 

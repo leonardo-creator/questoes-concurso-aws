@@ -1,5 +1,24 @@
 # Documentação da API
 
+## ⚠️ IMPORTANTE: Correções de Deploy Aplicadas
+
+**Data**: 14/07/2025
+**Status**: ✅ **Problemas de deploy resolvidos**
+
+### Problemas Corrigidos:
+1. **NextAuth NO_SECRET Error** → Fallback configurado para build
+2. **DATABASE_URL não definida** → Sistema Prisma com verificação segura
+3. **APIs falhando durante build** → Mudado para `force-dynamic` com verificações de null
+4. **Redirects 404** → Middleware e configurações corrigidas
+
+### Configurações Atualizadas:
+- Todas as APIs agora usam `force-dynamic` e `runtime: 'nodejs'`
+- Verificação de `prisma` antes de usar em todas as APIs
+- Fallback gracioso para quando banco não está disponível
+- NextAuth configurado com secret fallback para build
+
+---
+
 ## Tabela de APIs
 
 | Caminho da API | Método(s) HTTP | Locais de Uso | Payload Esperado (Formato) | Funcionalidade | Observações Adicionais |

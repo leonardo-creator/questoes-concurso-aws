@@ -1,12 +1,21 @@
 ﻿import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
 
-// ConfiguraÃ§Ãµes para static export
-export const dynamic = 'force-static';
-export const revalidate = false;
+// Configurações para permitir runtime dinâmico
+export const dynamic = 'force-dynamic';
+export const runtime = 'nodejs';
 
 export async function GET() {
   try {
+    // Verificar se o prisma está disponível
+    if (!prisma) {
+      return NextResponse.json({
+        success: false,
+        error: 'Database connection not available',
+        data: []
+      }, { status: 503 });
+    }
+
     // Buscar bancas com contagem
     const bancasRaw = await prisma.question.groupBy({
       by: ['bancasSigla', 'bancasNome'],
@@ -18,11 +27,13 @@ export async function GET() {
       },
     });
 
-    const bancas = bancasRaw.map(banca => ({
-      sigla: banca.bancasSigla,
-      nome: banca.bancasNome,
-      count: banca._count.bancasSigla,
-    }));
+    const bancas = bancasRaw
+      .filter(banca => banca.bancasSigla && banca.bancasNome) // Filtrar valores nulos
+      .map(banca => ({
+        sigla: banca.bancasSigla,
+        nome: banca.bancasNome,
+        count: banca._count.bancasSigla,
+      }));
 
     return NextResponse.json({
       success: true,

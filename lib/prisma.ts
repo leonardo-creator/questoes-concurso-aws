@@ -14,15 +14,20 @@ const isDatabaseUrlAvailable = (): boolean => {
 const createPrismaClient = () => {
   // Verificar se estamos em um ambiente que requer conexão de banco
   if (!isDatabaseUrlAvailable()) {
-    // Durante o build, retornar um client mock para evitar erros
+    // Durante o build ou em ambiente sem DATABASE_URL, retornar null
     if (process.env.NODE_ENV === 'production' && !process.env.VERCEL_ENV) {
       console.warn('DATABASE_URL não encontrada. Retornando cliente mock para build.');
-      return null as any;
+      return null;
     }
     
-    throw new Error(
-      'DATABASE_URL não está definida. Verifique suas variáveis de ambiente.'
-    );
+    // Em desenvolvimento ou quando VERCEL_ENV está presente, exigir DATABASE_URL
+    if (process.env.NODE_ENV === 'development' || process.env.VERCEL_ENV) {
+      throw new Error(
+        'DATABASE_URL não está definida. Verifique suas variáveis de ambiente.'
+      );
+    }
+    
+    return null;
   }
 
   return new PrismaClient({
@@ -45,7 +50,7 @@ try {
   prismaInstance = null;
 }
 
-export const prisma = prismaInstance as PrismaClient;
+export const prisma = prismaInstance;
 
 if (process.env.NODE_ENV !== 'production') {
   globalForPrisma.prisma = prismaInstance;

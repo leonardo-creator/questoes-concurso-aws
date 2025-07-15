@@ -4,9 +4,9 @@ import { authOptions } from '@/lib/auth';
 import { prisma, ensurePrismaConnection } from '@/lib/prisma';
 import type { FiltroQuestoes } from '@/types';
 
-// ConfiguraÃ§Ãµes para static export
-export const dynamic = 'force-static';
-export const revalidate = false;
+// Configurações para permitir runtime dinâmico
+export const dynamic = 'force-dynamic';
+export const runtime = 'nodejs';
 
 export async function GET(request: NextRequest) {
   try {

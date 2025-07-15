@@ -1,7 +1,8 @@
-import Link from 'next/link'
-
-// Força renderização dinâmica
+// Força rendering dinâmico para evitar problemas de build
 export const dynamic = 'force-dynamic';
+export const runtime = 'nodejs';
+
+import Link from 'next/link'
 
 export default function NotFound() {
   return (

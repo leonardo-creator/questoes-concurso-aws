@@ -1,12 +1,21 @@
 ﻿import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
 
-// ConfiguraÃ§Ãµes para static export
-export const dynamic = 'force-static';
-export const revalidate = false;
+// Configurações para permitir runtime dinâmico
+export const dynamic = 'force-dynamic';
+export const runtime = 'nodejs';
 
 export async function GET() {
   try {
+    // Verificar se o prisma está disponível
+    if (!prisma) {
+      return NextResponse.json({
+        success: false,
+        error: 'Database connection not available',
+        data: []
+      }, { status: 503 });
+    }
+
     // Buscar disciplinas com contagem
     const disciplinasRaw = await prisma.question.groupBy({
       by: ['disciplinaReal'],
@@ -20,14 +29,16 @@ export async function GET() {
 
     // Para cada disciplina, buscar os assuntos
     const disciplinasComAssuntos = await Promise.all(
-      disciplinasRaw.map(async (disciplina) => {
-        const assuntosRaw = await prisma.question.groupBy({
-          by: ['assuntoReal'],
-          where: {
-            disciplinaReal: disciplina.disciplinaReal,
-          },
-          _count: {
-            assuntoReal: true,
+      disciplinasRaw
+        .filter(disciplina => disciplina.disciplinaReal) // Filtrar valores nulos
+        .map(async (disciplina) => {
+          const assuntosRaw = await prisma.question.groupBy({
+            by: ['assuntoReal'],
+            where: {
+              disciplinaReal: disciplina.disciplinaReal,
+            },
+            _count: {
+              assuntoReal: true,
           },
           orderBy: {
             assuntoReal: 'asc',

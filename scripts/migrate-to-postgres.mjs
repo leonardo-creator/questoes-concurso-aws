@@ -47,7 +47,8 @@ function normalizeQuestion(questao) {
     itens: questao.itens || [],
     resposta: questao.resposta || '',
     assuntosPalavrasChave: questao.assuntos_palavrasChave || [],
-    codigoReal: questao.codigo_real || '',
+    // 🔧 CORREÇÃO: Usar null em vez de string vazia para campos únicos
+    codigoReal: questao.codigo_real && questao.codigo_real.trim() !== '' ? questao.codigo_real.trim() : null,
     disciplinaReal: questao.disciplina_real || '',
     assuntoReal: questao.assunto_real || '',
     anulada: questao.anulada === 'True',
@@ -56,46 +57,112 @@ function normalizeQuestion(questao) {
 }
 
 /**
- * Processa um lote de questões
+ * Remove duplicatas dentro do lote baseado em questaoId
  */
-async function processBatch(questions, batchNumber) {
-  try {
-    const normalizedQuestions = questions.map(normalizeQuestion);
-    
-    // Usar createMany para inserção em lote eficiente
-    await prisma.question.createMany({
-      data: normalizedQuestions,
-      skipDuplicates: true // Evita erro se já existir
-    });
-    
-    console.log(`✅ Lote ${batchNumber}: ${questions.length} questões processadas`);
-    return questions.length;
-  } catch (error) {
-    console.error(`❌ Erro no lote ${batchNumber}:`, error.message);
-    
-    // Tentar inserir uma por vez para identificar problemas específicos
-    let inserted = 0;
-    for (const question of questions) {
-      try {
-        await prisma.question.create({
-          data: normalizeQuestion(question)
-        });
-        inserted++;
-      } catch (singleError) {
-        console.warn(`⚠️  Questão ${question.id} ignorada:`, singleError.message);
+function removeDuplicatesFromBatch(questions) {
+  const seen = new Set();
+  const unique = [];
+  
+  for (const question of questions) {
+    const id = question.id;
+    if (!seen.has(id)) {
+      seen.add(id);
+      unique.push(question);
+    }
+  }
+  
+  if (unique.length < questions.length) {
+    console.log(`🔍 Removidas ${questions.length - unique.length} duplicatas dentro do lote`);
+  }
+  
+  return unique;
+}
+
+/**
+ * Verifica quais questões já existem no banco
+ */
+async function getExistingQuestions(questaoIds) {
+  const existing = await prisma.question.findMany({
+    where: {
+      questaoId: {
+        in: questaoIds
       }
+    },
+    select: { questaoId: true }
+  });
+  
+  return new Set(existing.map(q => q.questaoId));
+}
+
+/**
+ * Processa um lote de questões com verificação de duplicatas
+ */
+async function processBatch(questions, batchNumber, chunkFile) {
+  try {
+    // 1. Remover duplicatas dentro do próprio lote
+    const uniqueQuestions = removeDuplicatesFromBatch(questions);
+    
+    // 2. Normalizar as questões
+    const normalizedQuestions = uniqueQuestions.map(normalizeQuestion);
+    
+    // 3. Verificar quais já existem no banco
+    const questaoIds = normalizedQuestions.map(q => q.questaoId);
+    const existingIds = await getExistingQuestions(questaoIds);
+    
+    // 4. Filtrar apenas questões novas
+    const newQuestions = normalizedQuestions.filter(q => !existingIds.has(q.questaoId));
+    
+    let inserted = 0;
+    let skipped = questions.length - newQuestions.length;
+    
+    if (newQuestions.length === 0) {
+      console.log(`⏭️  ${chunkFile} - Lote ${batchNumber}: Todas as ${questions.length} questões já existem`);
+      return { inserted: 0, skipped };
     }
     
-    console.log(`🔄 Lote ${batchNumber}: ${inserted}/${questions.length} questões salvas individualmente`);
-    return inserted;
+    // 5. Tentar inserção em lote primeiro
+    try {
+      await prisma.question.createMany({
+        data: newQuestions,
+        skipDuplicates: true
+      });
+      inserted = newQuestions.length;
+      console.log(`✅ ${chunkFile} - Lote ${batchNumber}: ${inserted} inseridas, ${skipped} já existiam`);
+    } catch (batchError) {
+      console.warn(`⚠️  Erro na inserção em lote: ${batchError.message}`);
+      console.log(`🔄 Tentando inserção individual...`);
+      
+      // 6. Se falhar, inserir uma por vez
+      for (const question of newQuestions) {
+        try {
+          await prisma.question.upsert({
+            where: { questaoId: question.questaoId },
+            update: {}, // Não atualizar se já existir
+            create: question
+          });
+          inserted++;
+        } catch (singleError) {
+          console.warn(`⚠️  Questão ${question.questaoId} ignorada: ${singleError.message}`);
+          skipped++;
+        }
+      }
+      
+      console.log(`🔄 ${chunkFile} - Lote ${batchNumber}: ${inserted} inseridas individualmente, ${skipped} problemas`);
+    }
+    
+    return { inserted, skipped };
+    
+  } catch (error) {
+    console.error(`❌ Erro grave no lote ${batchNumber}:`, error.message);
+    return { inserted: 0, skipped: questions.length };
   }
 }
 
 /**
  * Migra todas as questões de um arquivo chunk
  */
-async function migrateChunk(chunkFile) {
-  console.log(`📂 Processando arquivo: ${chunkFile}`);
+async function migrateChunk(chunkFile, chunkIndex, totalChunks) {
+  console.log(`📂 [${chunkIndex}/${totalChunks}] Processando: ${chunkFile}`);
   
   try {
     const filePath = path.join(CHUNKS_DIR, chunkFile);
@@ -103,31 +170,92 @@ async function migrateChunk(chunkFile) {
     const questions = JSON.parse(content);
     
     if (!Array.isArray(questions)) {
-      console.warn(`⚠️  Arquivo ${chunkFile} não contém array válido`);
-      return 0;
+      console.warn(`⚠️  ${chunkFile} não contém array válido`);
+      return { inserted: 0, skipped: 0 };
     }
     
-    console.log(`📊 ${questions.length} questões encontradas em ${chunkFile}`);
+    console.log(`📊 ${chunkFile}: ${questions.length} questões encontradas`);
     
-    let totalProcessed = 0;
+    let totalInserted = 0;
+    let totalSkipped = 0;
     
     // Processar em lotes
     for (let i = 0; i < questions.length; i += BATCH_SIZE) {
       const batch = questions.slice(i, i + BATCH_SIZE);
       const batchNumber = Math.floor(i / BATCH_SIZE) + 1;
+      const totalBatches = Math.ceil(questions.length / BATCH_SIZE);
       
-      const processed = await processBatch(batch, `${chunkFile}-${batchNumber}`);
-      totalProcessed += processed;
+      console.log(`🔄 ${chunkFile}: Processando lote ${batchNumber}/${totalBatches} (${batch.length} questões)`);
+      
+      const result = await processBatch(batch, batchNumber, chunkFile);
+      totalInserted += result.inserted;
+      totalSkipped += result.skipped;
       
       // Pequena pausa para não sobrecarregar o banco
-      await new Promise(resolve => setTimeout(resolve, 100));
+      await new Promise(resolve => setTimeout(resolve, 200));
     }
     
-    console.log(`✅ ${chunkFile}: ${totalProcessed} questões migradas\n`);
-    return totalProcessed;
+    console.log(`✅ ${chunkFile}: ${totalInserted} inseridas, ${totalSkipped} já existiam/problemas\n`);
+    return { inserted: totalInserted, skipped: totalSkipped };
     
   } catch (error) {
     console.error(`❌ Erro ao processar ${chunkFile}:`, error.message);
+    return { inserted: 0, skipped: 0 };
+  }
+}
+
+/**
+ * Remove duplicatas do banco baseado em questaoId
+ */
+async function cleanDuplicates() {
+  console.log('🧹 Verificando e removendo duplicatas...');
+  
+  try {
+    // Encontrar duplicatas
+    const duplicates = await prisma.$queryRaw`
+      SELECT "questaoId", COUNT(*) as count 
+      FROM questions 
+      GROUP BY "questaoId" 
+      HAVING COUNT(*) > 1
+      ORDER BY count DESC
+    `;
+    
+    if (duplicates.length === 0) {
+      console.log('✅ Nenhuma duplicata encontrada');
+      return 0;
+    }
+    
+    console.log(`📊 Encontradas ${duplicates.length} questões com duplicatas`);
+    
+    let totalRemoved = 0;
+    
+    for (const duplicate of duplicates) {
+      const questaoId = Number(duplicate.questaoId);
+      
+      // Buscar todos os registros duplicados ordenados por data de criação
+      const records = await prisma.question.findMany({
+        where: { questaoId },
+        orderBy: { createdAt: 'desc' } // Manter o mais recente
+      });
+      
+      // Remover todos exceto o primeiro (mais recente)
+      const toDelete = records.slice(1);
+      
+      for (const record of toDelete) {
+        await prisma.question.delete({
+          where: { id: record.id }
+        });
+        totalRemoved++;
+      }
+      
+      console.log(`🗑️  questaoId ${questaoId}: removidas ${toDelete.length} duplicatas`);
+    }
+    
+    console.log(`✅ Total de registros duplicados removidos: ${totalRemoved}\n`);
+    return totalRemoved;
+    
+  } catch (error) {
+    console.error('❌ Erro ao limpar duplicatas:', error.message);
     return 0;
   }
 }
@@ -192,17 +320,26 @@ async function main() {
   console.log('=' .repeat(60));
   
   const startTime = Date.now();
+  const shouldClean = process.argv.includes('--clean');
   
   try {
     // Verificar conexão com banco
     await prisma.$connect();
     console.log('✅ Conectado ao PostgreSQL AWS RDS\n');
     
-    // Limpar dados existentes (opcional)
+    // Verificar estado atual do banco
     const existingCount = await prisma.question.count();
-    if (existingCount > 0) {
-      console.log(`⚠️  Encontradas ${existingCount} questões existentes`);
-      console.log('⏭️  Pulando limpeza. Use --clean para limpar antes da migração\n');
+    console.log(`📊 Estado atual: ${existingCount.toLocaleString()} questões no banco`);
+    
+    // Limpar duplicatas se solicitado
+    if (shouldClean) {
+      console.log('🧹 Flag --clean detectada. Limpando duplicatas...');
+      await cleanDuplicates();
+      
+      const newCount = await prisma.question.count();
+      console.log(`📊 Após limpeza: ${newCount.toLocaleString()} questões no banco\n`);
+    } else if (existingCount > 0) {
+      console.log('ℹ️  Use --clean para remover duplicatas antes da migração\n');
     }
     
     // Listar arquivos de chunks
@@ -215,26 +352,49 @@ async function main() {
         return numA - numB;
       });
     
-    console.log(`📁 Encontrados ${chunkFiles.length} arquivos chunk`);
+    console.log(`📁 Encontrados ${chunkFiles.length} arquivos chunk para processar`);
     
     if (chunkFiles.length === 0) {
       console.log('❌ Nenhum arquivo chunk encontrado em ./chunks/');
+      console.log('📁 Verifique se os arquivos estão no formato batch_XXX.json');
       return;
     }
     
-    // Processar cada chunk
-    let totalMigrated = 0;
-    let processedFiles = 0;
+    // Verificar alguns arquivos como exemplo
+    console.log('📋 Primeiros arquivos a serem processados:');
+    chunkFiles.slice(0, 5).forEach((file, index) => {
+      console.log(`   ${index + 1}. ${file}`);
+    });
+    if (chunkFiles.length > 5) {
+      console.log(`   ... e mais ${chunkFiles.length - 5} arquivos`);
+    }
+    console.log('');
     
-    for (const chunkFile of chunkFiles) {
-      const migrated = await migrateChunk(chunkFile);
-      totalMigrated += migrated;
-      processedFiles++;
+    // Processar cada chunk
+    let totalInserted = 0;
+    let totalSkipped = 0;
+    let processedFiles = 0;
+    let failedFiles = 0;
+    
+    for (let i = 0; i < chunkFiles.length; i++) {
+      const chunkFile = chunkFiles[i];
+      console.log(`🔄 Progresso geral: ${i + 1}/${chunkFiles.length} arquivos`);
       
-      if (totalMigrated > 0 && totalMigrated % LOG_INTERVAL === 0) {
+      const result = await migrateChunk(chunkFile, i + 1, chunkFiles.length);
+      
+      if (result.inserted > 0 || result.skipped > 0) {
+        processedFiles++;
+        totalInserted += result.inserted;
+        totalSkipped += result.skipped;
+      } else {
+        failedFiles++;
+      }
+      
+      // Log de progresso a cada 10 arquivos ou quando atingir marcos
+      if ((i + 1) % 10 === 0 || totalInserted % LOG_INTERVAL === 0) {
         const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
-        const rate = (totalMigrated / parseFloat(elapsed)).toFixed(1);
-        console.log(`⏱️  Progresso: ${totalMigrated.toLocaleString()} questões em ${elapsed}s (${rate} q/s)`);
+        const rate = totalInserted > 0 ? (totalInserted / parseFloat(elapsed)).toFixed(1) : '0';
+        console.log(`📈 Progresso intermediário: ${totalInserted.toLocaleString()} questões inseridas em ${elapsed}s (${rate} q/s)\n`);
       }
     }
     
@@ -242,15 +402,21 @@ async function main() {
     await updateStats();
     
     const totalTime = ((Date.now() - startTime) / 1000).toFixed(1);
-    const avgRate = (totalMigrated / parseFloat(totalTime)).toFixed(1);
+    const avgRate = totalInserted > 0 ? (totalInserted / parseFloat(totalTime)).toFixed(1) : '0';
     
     console.log('\n' + '=' .repeat(60));
-    console.log('🎉 Migração concluída com sucesso!');
-    console.log(`📊 Resultados:
-    - Arquivos processados: ${processedFiles}/${chunkFiles.length}
-    - Questões migradas: ${totalMigrated.toLocaleString()}
+    console.log('🎉 Migração concluída!');
+    console.log(`📊 Resultados finais:
+    - Arquivos processados: ${processedFiles}/${chunkFiles.length} (${failedFiles} falharam)
+    - Questões novas inseridas: ${totalInserted.toLocaleString()}
+    - Questões já existiam/problemas: ${totalSkipped.toLocaleString()}
+    - Total processado: ${(totalInserted + totalSkipped).toLocaleString()}
     - Tempo total: ${totalTime}s
     - Taxa média: ${avgRate} questões/segundo`);
+    
+    if (failedFiles > 0) {
+      console.log(`\n⚠️  Atenção: ${failedFiles} arquivos falharam no processamento`);
+    }
     
   } catch (error) {
     console.error('❌ Erro durante a migração:', error);

@@ -1,8 +1,5 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
 generator client {
-  provider = "prisma-client-js"
+  provider      = "prisma-client-js"
   binaryTargets = ["native", "rhel-openssl-1.0.x"]
 }
 
@@ -17,15 +14,14 @@ model Account {
   type              String
   provider          String
   providerAccountId String
-  refresh_token     String? @db.Text
-  access_token      String? @db.Text
+  refresh_token     String?
+  access_token      String?
   expires_at        Int?
   token_type        String?
   scope             String?
-  id_token          String? @db.Text
+  id_token          String?
   session_state     String?
-
-  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  user              User    @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@unique([provider, providerAccountId])
 }
@@ -39,20 +35,19 @@ model Session {
 }
 
 model User {
-  id            String    @id @default(cuid())
+  id            String        @id @default(cuid())
   name          String?
-  email         String    @unique
+  email         String        @unique
   emailVerified DateTime?
   image         String?
   password      String?
-  createdAt     DateTime  @default(now())
-  updatedAt     DateTime  @updatedAt
-
-  accounts    Account[]
-  sessions    Session[]
-  answers     Answer[]
-  customLists CustomList[]
-  savedFilters SavedFilter[]
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+  accounts      Account[]
+  sessions      Session[]
+  answers       Answer[]
+  customLists   CustomList[]
+  savedFilters  SavedFilter[]
 
   @@map("users")
 }
@@ -71,10 +66,9 @@ model Answer {
   questaoCodigoReal      String
   alternativaSelecionada String
   acertou                Boolean
-  tempoResposta          Int?     // em segundos
+  tempoResposta          Int?
   createdAt              DateTime @default(now())
-
-  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  user                   User     @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@unique([userId, questaoCodigoReal])
   @@index([userId])
@@ -88,39 +82,35 @@ model CustomList {
   userId        String
   nome          String
   descricao     String?
-  questionCodes String[] // Array de codigo_real
+  questionCodes String[]
   createdAt     DateTime @default(now())
   updatedAt     DateTime @updatedAt
-
-  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@index([userId])
   @@map("custom_lists")
 }
 
-// Modelo para filtros salvos pelo usuário
 model SavedFilter {
-  id          String   @id @default(cuid())
-  userId      String
-  nome        String
-  descricao   String?
-  filtros     Json     // Filtros serializados em JSON
-  favorito    Boolean  @default(false)
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
-
-  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  id        String   @id @default(cuid())
+  userId    String
+  nome      String
+  descricao String?
+  filtros   Json
+  favorito  Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@index([userId])
   @@index([userId, favorito])
   @@map("saved_filters")
 }
 
-// Modelo para armazenar ações offline que precisam ser sincronizadas
 model OfflineAction {
   id           String   @id @default(cuid())
   userId       String
-  tipo         String   // 'resposta', 'criar_caderno', 'editar_caderno', 'excluir_caderno'
+  tipo         String
   dados        Json
   timestamp    BigInt
   sincronizado Boolean  @default(false)
@@ -131,39 +121,37 @@ model OfflineAction {
   @@map("offline_actions")
 }
 
-// Modelo principal para armazenar todas as questões migradas dos chunks JSON
 model Question {
-  id                      Int      @id @default(autoincrement())
-  questaoId               Int      @unique // ID original da questão
-  dificuldade             Int
-  bancasNome              String
-  bancasDescricao         String
-  bancasSigla             String
-  bancasOab               Boolean
-  cargosDescricao         String
-  orgaosNome              String
-  orgaosSigla             String
-  orgaosUf                String
-  anos                    Int
-  tipo                    String
-  grupoQuestaoEnunciado   String
-  enunciado               String
-  hasImage                Boolean
-  hasImageItens           Boolean
-  provasNivel             String
-  areasDescricao          String?
-  itens                   Json     // Array de alternativas em JSON
-  resposta                String   // ID da resposta correta
-  assuntosPalavrasChave   String[] // Array de palavras-chave
-  codigoReal              String   @unique
-  disciplinaReal          String
-  assuntoReal             String
-  anulada                 Boolean
-  desatualizada           Boolean
-  createdAt               DateTime @default(now())
-  updatedAt               DateTime @updatedAt
+  id                    Int      @id @default(autoincrement())
+  questaoId             Int      @unique
+  dificuldade           Int
+  bancasNome            String
+  bancasDescricao       String
+  bancasSigla           String
+  bancasOab             Boolean
+  cargosDescricao       String
+  orgaosNome            String
+  orgaosSigla           String
+  orgaosUf              String
+  anos                  Int
+  tipo                  String
+  grupoQuestaoEnunciado String
+  enunciado             String
+  hasImage              Boolean
+  hasImageItens         Boolean
+  provasNivel           String
+  areasDescricao        String?
+  itens                 Json
+  resposta              String
+  assuntosPalavrasChave String[]
+  codigoReal            String?
+  disciplinaReal        String
+  assuntoReal           String
+  anulada               Boolean
+  desatualizada         Boolean
+  createdAt             DateTime @default(now())
+  updatedAt             DateTime @updatedAt
 
-  // Índices para otimização de queries
   @@index([disciplinaReal], map: "idx_questions_disciplina")
   @@index([bancasSigla], map: "idx_questions_banca")
   @@index([anos], map: "idx_questions_ano")
@@ -178,7 +166,6 @@ model Question {
   @@map("questions")
 }
 
-// Modelo para estatísticas e cache de dados agregados
 model QuestionStats {
   id            String   @id @default(cuid())
   totalQuestoes Int

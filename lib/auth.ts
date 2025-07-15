@@ -5,7 +5,7 @@ import { prisma, isPrismaAvailable } from '@/lib/prisma';
 import bcrypt from 'bcryptjs';
 
 export const authOptions: NextAuthOptions = {
-  adapter: isPrismaAvailable() ? PrismaAdapter(prisma) : undefined,
+  adapter: isPrismaAvailable() && prisma ? PrismaAdapter(prisma) : undefined,
   providers: [
     CredentialsProvider({
       name: 'credentials',
@@ -19,7 +19,7 @@ export const authOptions: NextAuthOptions = {
         }
 
         // Verificar se o Prisma está disponível
-        if (!isPrismaAvailable()) {
+        if (!isPrismaAvailable() || !prisma) {
           console.error('Prisma não está disponível para autenticação');
           return null;
         }

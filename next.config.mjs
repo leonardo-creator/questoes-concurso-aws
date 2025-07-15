@@ -6,10 +6,9 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true
   },
-  experimental: {
-    optimizePackageImports: ['lucide-react']
-  },
-  serverExternalPackages: ['prisma', '@prisma/client']
+  // Configure for Vercel deployment
+  poweredByHeader: false,
+  compress: true
 }
 
 export default nextConfig

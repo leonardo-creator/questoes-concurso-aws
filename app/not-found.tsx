@@ -1,35 +1,24 @@
+import Link from 'next/link'
+
+// Força renderização dinâmica
+export const dynamic = 'force-dynamic';
+
 export default function NotFound() {
   return (
-    <div style={{
-      minHeight: '100vh',
-      display: 'flex',
-      alignItems: 'center',
-      justifyContent: 'center',
-      flexDirection: 'column',
-      fontFamily: 'system-ui, sans-serif',
-      textAlign: 'center',
-      padding: '20px'
-    }}>
-      <h1 style={{ fontSize: '4rem', margin: '0', color: '#666' }}>404</h1>
-      <h2 style={{ fontSize: '1.5rem', margin: '16px 0', color: '#333' }}>
+    <div className="min-h-screen flex items-center justify-center flex-col font-sans text-center p-5">
+      <h1 className="text-6xl m-0 text-gray-600">404</h1>
+      <h2 className="text-2xl my-4 text-gray-800">
         Página não encontrada
       </h2>
-      <p style={{ color: '#666', marginBottom: '24px' }}>
+      <p className="text-gray-600 mb-6">
         A página que você procura não existe.
       </p>
-      <a 
+      <Link 
         href="/"
-        style={{
-          color: '#0070f3',
-          textDecoration: 'none',
-          padding: '12px 24px',
-          border: '1px solid #0070f3',
-          borderRadius: '6px',
-          transition: 'all 0.2s'
-        }}
+        className="text-blue-600 no-underline px-6 py-3 border border-blue-600 rounded-md transition-all duration-200 hover:bg-blue-50"
       >
         Voltar ao início
-      </a>
+      </Link>
     </div>
   )
 }

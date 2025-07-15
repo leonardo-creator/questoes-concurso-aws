@@ -17,7 +17,7 @@ const __dirname = path.dirname(__filename);
 const prisma = new PrismaClient();
 
 // Configurações
-const BATCH_SIZE = 1000; // Processar 1000 questões por vez
+const BATCH_SIZE = parseInt(process.env.BATCH_SIZE) || parseInt(process.argv.find(arg => arg.startsWith('--batch-size='))?.split('=')[1]) || 1000; // Padrão: 1000, configurável via env ou parâmetro
 const CHUNKS_DIR = path.join(__dirname, '../chunks');
 const LOG_INTERVAL = 5000; // Log a cada 5000 questões
 

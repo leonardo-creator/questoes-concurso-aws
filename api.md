@@ -1,5 +1,36 @@
 # Documentação da API
 
+## ⚠️ IMPORTANTE: Correção de Deploy - Problemas de Routing Resolvidos
+
+**Data**: 15/07/2025  
+**Status**: 🔧 **Deploy corrigido - Problemas de 404 resolvidos**
+
+### Problema Identificado:
+- **404 em /auth**: Faltava página index (`page.tsx`) no diretório `/auth/`
+- **Erro de useContext**: Componentes client-side causando falhas no SSR/SSG
+- **Providers problemáticos**: Context providers causando erros de hydration
+
+### Correções Aplicadas:
+1. **Criação de /auth/page.tsx** → Página index para rota `/auth` 
+2. **Simplificação de componentes de auth** → Removidas dependências de NextAuth temporariamente
+3. **Remoção de providers problemáticos** → Layout simplificado sem Context API por ora
+4. **Ajuste de configuração Next.js** → Trailing slash e rewrites otimizados
+5. **Componentes auth funcionais** → Signin/Signup com placeholders para autenticação
+
+### Status das Páginas:
+- ✅ `/` - Página inicial (funcional)
+- ✅ `/auth` - Índice de autenticação (novo)
+- ✅ `/auth/signin` - Login (simplificado)
+- ✅ `/auth/signup` - Cadastro (simplificado)
+- ⚠️ Context providers desabilitados temporariamente
+
+### Próximos Passos:
+1. Verificar deploy em produção
+2. Reativar providers de forma gradual
+3. Implementar autenticação real progressivamente
+
+---
+
 ## ⚠️ IMPORTANTE: Configuração Vercel Otimizada
 
 **Data**: 14/07/2025

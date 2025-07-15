@@ -1,5 +1,49 @@
 # Melhorias de Instruções Identificadas
 
+## 🚨 CRÍTICO: Protocolos de Deploy e Routing (15/07/2025)
+
+### 1. Protocolo de Análise de Routing
+**OBRIGATÓRIO antes de qualquer deploy:**
+- Verificar se todas as rotas têm arquivo `page.tsx` na estrutura de diretórios
+- Validar que diretórios com subpáginas tenham página index se necessário
+- Mapear todas as rotas acessíveis e confirmar existência física dos arquivos
+- **Exemplo**: `/auth/` necessita `/auth/page.tsx` além de `/auth/signin/page.tsx`
+
+### 2. Protocolo de Context e Providers
+**CRITICAL para SSR/SSG compatibility:**
+- NUNCA implementar Context providers sem validação de SSR compatibility
+- Sempre usar `dynamic = 'force-dynamic'` em páginas que dependem de client-side Context
+- Implementar fallbacks para componentes que usam useContext durante SSR
+- **Estratégia**: Providers implementados gradualmente após validação de build
+
+### 3. Protocolo de Simplificação de Deploy
+**Para resolução de problemas críticos:**
+- Simplificar ao máximo componentes problemáticos primeiro
+- Implementar placeholders funcionais antes de features complexas
+- **Prioridade**: Deploy funcional > Features completas
+- Reativar funcionalidades complexas progressivamente após deploy estável
+
+### 4. Protocolo de Debugging de Build
+**Ferramentas e processo estruturado:**
+- Testar `npm run build` localmente ANTES de commit
+- Analisar logs de erro com foco em problemas de SSR/SSG
+- Identificar componentes client-side causando problemas de pre-rendering
+- **Log Analysis**: "Cannot read properties of null (reading 'useContext')" = Context problem
+
+### 5. Protocolo de Verificação de Dependências
+**Validação de imports e dependencies:**
+- Mapear dependências críticas que podem quebrar em build (NextAuth, Providers)
+- Verificar imports de HTML tags que devem estar apenas em layout/document
+- **Anti-Pattern**: Importar `<Html>` fora de `pages/_document.tsx`
+- Validar que client-side hooks não quebrem SSR
+
+### 6. Protocolo de Layout Simplificado para Deploy
+**Emergency deploy strategy:**
+- Layout root sem providers complexos como fallback
+- Context providers como feature opcional, não crítica
+- **Emergency Pattern**: Children direto sem wrappers durante problemas
+- Re-adicionar providers após confirmar deploy base funcional
+
 ## ✅ Melhorias Implementadas (Janeiro 2025)
 
 ### 1. Migração Completa para PostgreSQL

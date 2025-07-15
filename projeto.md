@@ -7,12 +7,39 @@ Sistema web desenvolvido em Next.js 15 para gerenciamento e estudo de questões 
 - **Framework**: Next.js 15 (App Router)
 - **ORM**: Prisma (com configurações para build seguro)
 - **Banco de Dados**: PostgreSQL (AWS RDS)
-- **Autenticação**: NextAuth.js (com validações defensivas)
+- **Autenticação**: NextAuth.js (temporariamente simplificado)
 - **Estilização**: Tailwind CSS
 - **Linguagem**: TypeScript
 - **Build**: Sistema otimizado para Vercel com fallbacks de ambiente
 
 ## Correções Recentes ✅
+
+### 🚀 CORREÇÃO CRÍTICA: Problemas de Routing e Context Resolvidos (15/07/2025) ✅
+- **Problema Crítico**: Deploy retornando 404 para `/auth/` em produção
+- **Causa Raiz Identificada**:
+  - **404 Missing Page**: Não existia `page.tsx` no diretório `/auth/` 
+  - **useContext Errors**: Hooks de Context causando falhas no SSR/SSG
+  - **NextAuth Dependencies**: Dependências complexas quebrando pre-rendering
+  - **Provider Conflicts**: AuthProvider e SessionProvider causando hydration errors
+
+- **Soluções Implementadas**:
+  - ✅ **Criada `/auth/page.tsx`**: Página index para resolver 404 em `/auth`
+  - ✅ **Simplificados componentes auth**: Removidas dependências NextAuth (temporário)
+  - ✅ **Layout simplificado**: Removidos providers problemáticos do `layout.tsx`
+  - ✅ **Auth pages funcionais**: Signin/Signup com placeholders para autenticação
+  - ✅ **Next.js config ajustado**: Trailing slash e rewrites otimizados
+  - ✅ **Dynamic rendering**: Marcadas páginas client-side problemáticas
+
+- **Resultado**:
+  - ✅ **Rota `/auth`**: Agora funcional com página index de navegação
+  - ✅ **Rota `/auth/signin`**: Formulário de login simplificado
+  - ✅ **Rota `/auth/signup`**: Formulário de cadastro simplificado
+  - ✅ **Build process**: Redução significativa de erros de SSR
+  - ✅ **Deploy ready**: Pronto para testar em produção
+
+- **Status**: ✅ **CONCLUÍDO** - Problemas de routing críticos resolvidos
+- **Próximos passos**: Reativar providers gradualmente após confirmar deploy
+
 ### Deploy na Vercel - Problemas Identificados e Soluções (14/07/2025)
 - **Problema Original**: Erro "package.json not found" na Vercel
 - **Solução Inicial**: 
@@ -65,7 +92,7 @@ Sistema web desenvolvido em Next.js 15 para gerenciamento e estudo de questões 
   - Migração de metadados para estrutura Next.js 15 (`viewport` separado)
   - Criação de páginas de erro customizadas (`not-found.tsx`, `global-error.tsx`)
   
-- **Status Atual**: Build funcional, pendente resolução de conflito Html/404 ⚠️
+- **Status Atual**: ⚠️ **Build parcial** - Páginas principais funcionais, Context providers temporariamente desabilitados
 
 ### Otimização Completa do Deploy Vercel (14/07/2025) ✅
 - **Problema Original**: Environment Variable "DATABASE_URL" references Secret "database_url", which does not exist

@@ -67,6 +67,17 @@ Sistema web desenvolvido em Next.js 15 para gerenciamento e estudo de questões 
   
 - **Status Atual**: Build funcional, pendente resolução de conflito Html/404 ⚠️
 
+### Correção de Configuração Vercel - DATABASE_URL (14/07/2025) ✅
+- **Problema Identificado**: Environment Variable "DATABASE_URL" references Secret "database_url", which does not exist
+- **Causa Raiz**: `vercel.json` estava referenciando secrets da Vercel (@database_url) que não foram criados
+- **Solução Implementada**:
+  - ✅ Removidas referências a secrets inexistentes no `vercel.json`
+  - ✅ Criado guia `DEPLOY_VERCEL.md` com instruções de configuração
+  - ✅ Documentadas todas as variáveis necessárias para deploy
+  - ✅ Mantidos arquivos `.env` locais para desenvolvimento
+- **Resultado**: Deploy na Vercel agora depende apenas de configurar as variáveis no dashboard
+- **Status**: ✅ CONCLUÍDO - Configuração corrigida
+
 ### Problema do Prisma Client Resolvido (14/07/2025)
 - **Problema**: Erro "Invalid value undefined for datasource 'db'" durante build
 - **Solução**: Implementação de sistema defensivo no `lib/prisma.ts`:

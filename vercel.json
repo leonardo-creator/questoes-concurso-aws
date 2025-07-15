@@ -10,18 +10,12 @@
   },
   "env": {
     "NEXT_TELEMETRY_DISABLED": "1",
-    "NODE_ENV": "production",
-    "DATABASE_URL": "@database_url",
-    "NEXTAUTH_SECRET": "@nextauth_secret",
-    "NEXTAUTH_URL": "@nextauth_url"
+    "NODE_ENV": "production"
   },
   "build": {
     "env": {
       "NEXT_TELEMETRY_DISABLED": "1",
-      "NODE_ENV": "production",
-      "DATABASE_URL": "@database_url",
-      "NEXTAUTH_SECRET": "@nextauth_secret",
-      "NEXTAUTH_URL": "@nextauth_url"
+      "NODE_ENV": "production"
     }
   },
   "rewrites": [

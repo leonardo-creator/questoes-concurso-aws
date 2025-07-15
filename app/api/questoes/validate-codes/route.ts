@@ -1,7 +1,11 @@
-import { NextRequest, NextResponse } from 'next/server';
+﻿import { NextRequest, NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth';
 import { authOptions } from '@/lib/auth';
 import { prisma } from '@/lib/prisma';
+
+// ConfiguraÃ§Ãµes para static export
+export const dynamic = 'force-static';
+export const revalidate = false;
 
 export async function POST(request: NextRequest) {
   try {
@@ -9,7 +13,7 @@ export async function POST(request: NextRequest) {
     
     if (!session?.user?.id) {
       return NextResponse.json(
-        { success: false, error: 'Não autorizado' },
+        { success: false, error: 'NÃ£o autorizado' },
         { status: 401 }
       );
     }
@@ -18,12 +22,12 @@ export async function POST(request: NextRequest) {
 
     if (!Array.isArray(codes)) {
       return NextResponse.json(
-        { success: false, error: 'Códigos devem ser um array' },
+        { success: false, error: 'CÃ³digos devem ser um array' },
         { status: 400 }
       );
     }
 
-    // Buscar questões existentes no banco
+    // Buscar questÃµes existentes no banco
     const questoesExistentes = await prisma.question.findMany({
       where: {
         codigoReal: {
@@ -49,10 +53,11 @@ export async function POST(request: NextRequest) {
       },
     });
   } catch (error) {
-    console.error('Erro ao validar códigos:', error);
+    console.error('Erro ao validar cÃ³digos:', error);
     return NextResponse.json(
       { success: false, error: 'Erro interno do servidor' },
       { status: 500 }
     );
   }
 }
+

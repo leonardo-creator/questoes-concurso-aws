@@ -1,8 +1,12 @@
-import { NextRequest, NextResponse } from 'next/server';
+﻿import { NextRequest, NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth';
 import { authOptions } from '@/lib/auth';
 import { readFileSync } from 'fs';
 import { join } from 'path';
+
+// ConfiguraÃ§Ãµes para static export
+export const dynamic = 'force-static';
+export const revalidate = false;
 
 interface AssuntoProgresso {
   assunto: string;
@@ -11,14 +15,14 @@ interface AssuntoProgresso {
   questoesRespondidas: number;
   questoesCorretas: number;
   percentualConcluido: number;
-  prioridade: number; // Menor = mais prioritário
+  prioridade: number; // Menor = mais prioritÃ¡rio
 }
 
 interface QuestaoSimplificada {
   codigo_real: string;
   disciplina_real: string;
   assunto_real: string;
-  dificuldade: 'Fácil' | 'Média' | 'Difícil';
+  dificuldade: 'FÃ¡cil' | 'MÃ©dia' | 'DifÃ­cil';
 }
 
 interface RespostaUsuario {
@@ -31,7 +35,7 @@ export async function GET(request: NextRequest) {
     const session = await getServerSession(authOptions);
     if (!session?.user?.id) {
       return NextResponse.json(
-        { success: false, error: 'Não autorizado' },
+        { success: false, error: 'NÃ£o autorizado' },
         { status: 401 }
       );
     }
@@ -40,13 +44,13 @@ export async function GET(request: NextRequest) {
     const disciplinasFiltradas = searchParams.get('disciplinas')?.split(',') || [];
     const assuntosFiltrados = searchParams.get('assuntos')?.split(',') || [];
 
-    // Buscar respostas do usuário (simulação - você pode conectar ao Prisma)
+    // Buscar respostas do usuÃ¡rio (simulaÃ§Ã£o - vocÃª pode conectar ao Prisma)
     const respostasUsuario = await buscarRespostasUsuario(session.user.id);
 
-    // Carregar todas as questões dos chunks para análise
+    // Carregar todas as questÃµes dos chunks para anÃ¡lise
     const todasQuestoes = await carregarQuestoesDosChunks();
 
-    // Filtrar questões por disciplinas/assuntos se especificado
+    // Filtrar questÃµes por disciplinas/assuntos se especificado
     let questoesFiltradas = todasQuestoes;
     
     if (disciplinasFiltradas.length > 0) {
@@ -61,7 +65,7 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // Agrupar questões por assunto
+    // Agrupar questÃµes por assunto
     const questoesPorAssunto = new Map<string, QuestaoSimplificada[]>();
     
     for (const questao of questoesFiltradas) {
@@ -88,8 +92,8 @@ export async function GET(request: NextRequest) {
       const totalQuestoes = questoes.length;
       const percentualConcluido = totalQuestoes > 0 ? (questoesRespondidas / totalQuestoes) * 100 : 0;
 
-      // Calcular prioridade (menor = mais prioritário)
-      // Fórmula: questões não respondidas + peso da dificuldade média
+      // Calcular prioridade (menor = mais prioritÃ¡rio)
+      // FÃ³rmula: questÃµes nÃ£o respondidas + peso da dificuldade mÃ©dia
       const questoesNaoRespondidas = totalQuestoes - questoesRespondidas;
       const pesoMediaDificuldade = calcularPesoMediaDificuldade(questoes);
       const prioridade = questoesNaoRespondidas * 10 + pesoMediaDificuldade;
@@ -131,13 +135,13 @@ export async function GET(request: NextRequest) {
 }
 
 async function buscarRespostasUsuario(userId: string): Promise<RespostaUsuario[]> {
-  // Simulação de busca de respostas - implementar com Prisma quando necessário
+  // SimulaÃ§Ã£o de busca de respostas - implementar com Prisma quando necessÃ¡rio
   try {
-    // Aqui você pode implementar a busca real no banco de dados
-    console.log('Buscando respostas para usuário:', userId);
+    // Aqui vocÃª pode implementar a busca real no banco de dados
+    console.log('Buscando respostas para usuÃ¡rio:', userId);
     return [];
   } catch (error) {
-    console.error('Erro ao buscar respostas do usuário:', error);
+    console.error('Erro ao buscar respostas do usuÃ¡rio:', error);
     return [];
   }
 }
@@ -146,7 +150,7 @@ async function carregarQuestoesDosChunks(): Promise<QuestaoSimplificada[]> {
   const questoes: QuestaoSimplificada[] = [];
   
   try {
-    // Carregar apenas alguns chunks para análise (otimização)
+    // Carregar apenas alguns chunks para anÃ¡lise (otimizaÃ§Ã£o)
     const chunksPrincipais = [1, 10, 20, 30, 40, 50]; // Amostra representativa
     
     for (const chunkNum of chunksPrincipais) {
@@ -179,8 +183,9 @@ async function carregarQuestoesDosChunks(): Promise<QuestaoSimplificada[]> {
 function calcularPesoMediaDificuldade(questoes: QuestaoSimplificada[]): number {
   if (questoes.length === 0) return 0;
 
-  const pesos = { 'Fácil': 1, 'Média': 2, 'Difícil': 3 };
+  const pesos = { 'FÃ¡cil': 1, 'MÃ©dia': 2, 'DifÃ­cil': 3 };
   const somasPesos = questoes.reduce((soma, q) => soma + (pesos[q.dificuldade] || 2), 0);
   
   return somasPesos / questoes.length;
 }
+

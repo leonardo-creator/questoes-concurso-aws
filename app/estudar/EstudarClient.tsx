@@ -3,8 +3,8 @@
 import { useState, useEffect } from 'react';
 import { useSession } from 'next-auth/react';
 import { redirect } from 'next/navigation';
-import { FiltrosHorizontal } from '@/components/estudar/FiltrosHorizontal';
-import { QuestaoComponent } from '@/components/estudar/QuestaoComponent';
+import { FiltrosHorizontal } from './_components/FiltrosHorizontal';
+import { QuestaoComponent } from './_components/QuestaoComponent';
 import type { Questao, FiltroQuestoes, TipoQuestao, OrdenacaoQuestoes } from '@/types';
 
 interface QuestoesResponse {

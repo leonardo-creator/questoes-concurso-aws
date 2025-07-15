@@ -1,6 +1,32 @@
-# Ignora arquivos e pastas grandes do deploy Vercel
+# Ignora apenas arquivos específicos grandes do deploy Vercel
 chunks/
-*.json
+chunks/*.json
 *.csv
-*.md
+DADOS.md
+GUIA_FILTROS_OFFLINE.md
+README.md
+projeto.md
 *.log
+*.tmp
+*.temp
+
+# Scripts de desenvolvimento que não são necessários no deploy
+scripts/migrate-to-postgres.mjs
+scripts/test-*.mjs
+test-parse-codes.js
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

@@ -1,5 +1,9 @@
-import { NextResponse } from 'next/server';
+﻿import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
+
+// ConfiguraÃ§Ãµes para static export
+export const dynamic = 'force-static';
+export const revalidate = false;
 
 export async function GET() {
   try {
@@ -55,3 +59,4 @@ export async function GET() {
     );
   }
 }
+

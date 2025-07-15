@@ -1,17 +1,21 @@
-import { NextRequest, NextResponse } from 'next/server';
+﻿import { NextRequest, NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth';
 import { authOptions } from '@/lib/auth';
 import { PrismaClient } from '@prisma/client';
+
+// ConfiguraÃ§Ãµes para static export
+export const dynamic = 'force-static';
+export const revalidate = false;
 
 const prisma = new PrismaClient();
 
 export async function GET(request: NextRequest) {
   try {
-    // Verificar autenticação
+    // Verificar autenticaÃ§Ã£o
     const session = await getServerSession(authOptions);
     if (!session) {
       return NextResponse.json(
-        { error: 'Acesso não autorizado' },
+        { error: 'Acesso nÃ£o autorizado' },
         { status: 401 }
       );
     }
@@ -27,7 +31,7 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // Busca avançada com PostgreSQL
+    // Busca avanÃ§ada com PostgreSQL
     const questoes = await prisma.question.findMany({
       where: {
         AND: [
@@ -91,7 +95,7 @@ export async function GET(request: NextRequest) {
     });
 
   } catch (error) {
-    console.error('Erro na busca avançada:', error);
+    console.error('Erro na busca avanÃ§ada:', error);
     return NextResponse.json(
       { error: 'Erro interno do servidor' },
       { status: 500 }
@@ -100,3 +104,4 @@ export async function GET(request: NextRequest) {
     await prisma.$disconnect();
   }
 }
+

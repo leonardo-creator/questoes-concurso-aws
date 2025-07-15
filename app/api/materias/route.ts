@@ -2,6 +2,10 @@ import { NextRequest, NextResponse } from 'next/server';
 import { readFileSync } from 'fs';
 import { join } from 'path';
 
+// Configurações para static export
+export const dynamic = 'force-static';
+export const revalidate = false;
+
 interface Materia {
   indice: number;
   disciplina: string;
@@ -80,7 +84,7 @@ export async function GET(request: NextRequest) {
 
     // Obter lista única de disciplinas
     const disciplinasUnicas = [...new Set(materias.map(m => m.disciplina))]
-      .sort()
+      .sort((a, b) => a.localeCompare(b))
       .map(disciplina => {
         const assuntosDaDisciplina = materias
           .filter(m => m.disciplina === disciplina)

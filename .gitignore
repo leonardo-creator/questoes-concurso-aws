@@ -48,9 +48,9 @@ Thumbs.db
 *~
 
 # Dados grandes (não subir para o deploy nem para o repositório)
-
 chunks/
 *.csv
+DADOS.md
 
 # Temporary files
 *.tmp

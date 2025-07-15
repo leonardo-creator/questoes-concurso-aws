@@ -1,4 +1,4 @@
-import { NextRequest, NextResponse } from 'next/server';
+﻿import { NextRequest, NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth/next';
 import { authOptions } from '@/lib/auth';
 import { prisma, ensurePrismaConnection } from '@/lib/prisma';
@@ -6,9 +6,13 @@ import fs from 'fs';
 import path from 'path';
 import type { Questao, FiltroQuestoes, OrdenacaoQuestoes, ItemQuestao } from '@/types';
 
+// ConfiguraÃ§Ãµes para static export
+export const dynamic = 'force-static';
+export const revalidate = false;
+
 const QUESTOES_PER_PAGE = 120;
 
-// Cache em memória para contagens de filtros
+// Cache em memÃ³ria para contagens de filtros
 const filterCountCache = new Map<string, number>();
 
 export async function GET(request: NextRequest) {
@@ -16,18 +20,18 @@ export async function GET(request: NextRequest) {
     const session = await getServerSession(authOptions);
     if (!session?.user?.id) {
       return NextResponse.json(
-        { success: false, error: 'Não autorizado' },
+        { success: false, error: 'NÃ£o autorizado' },
         { status: 401 }
       );
     }
 
     const { searchParams } = new URL(request.url);
     
-    // Parâmetros de paginação
+    // ParÃ¢metros de paginaÃ§Ã£o
     const page = parseInt(searchParams.get('page') || '1');
     const limit = Math.min(parseInt(searchParams.get('limit') || String(QUESTOES_PER_PAGE)), 120);
     
-    // Parâmetros de filtro - Suporte a ranges e filtros flexíveis
+    // ParÃ¢metros de filtro - Suporte a ranges e filtros flexÃ­veis
     const filtros: FiltroQuestoes = {
       disciplinas: searchParams.get('disciplinas')?.split(',').filter(Boolean),
       assuntos: searchParams.get('assuntos')?.split(',').filter(Boolean),
@@ -44,14 +48,14 @@ export async function GET(request: NextRequest) {
       statusResposta: searchParams.get('statusResposta') as any,
       codigosPersonalizados: searchParams.get('codigosPersonalizados')?.split(',')
         .filter(Boolean)
-        .map(codigo => codigo.trim().replace(/^["']|["']$/g, '')), // Remove aspas do início e fim
+        .map(codigo => codigo.trim().replace(/^["']|["']$/g, '')), // Remove aspas do inÃ­cio e fim
       cadernoId: searchParams.get('cadernoId') || undefined,
       provasNivel: searchParams.get('provasNivel')?.split(',').filter(Boolean),
     };
 
     const ordenacao = (searchParams.get('ordenacao') || 'relevancia') as OrdenacaoQuestoes;
 
-    // Se for modo estudo inteligente, usar lógica especial
+    // Se for modo estudo inteligente, usar lÃ³gica especial
     if (ordenacao === 'estudo_inteligente') {
       const questoesInteligentes = await buscarQuestoesEstudoInteligente(
         filtros, 
@@ -85,13 +89,13 @@ export async function GET(request: NextRequest) {
     // Busca otimizada no PostgreSQL
     const questoesEncontradas = await buscarQuestoesPostgreSQL(filtros, limit, session.user.id, page);
 
-    console.log(`📊 Resultado da busca: ${questoesEncontradas.total} questões encontradas`);
+    console.log(`ðŸ“Š Resultado da busca: ${questoesEncontradas.total} questÃµes encontradas`);
     
     if (questoesEncontradas.data.length === 0) {
-      console.log('⚠️ Nenhuma questão encontrada - verificando filtros...');
+      console.log('âš ï¸ Nenhuma questÃ£o encontrada - verificando filtros...');
     }
 
-    // Aplicar ordenação (já aplicada no PostgreSQL, mas mantemos para compatibilidade)
+    // Aplicar ordenaÃ§Ã£o (jÃ¡ aplicada no PostgreSQL, mas mantemos para compatibilidade)
     questoesEncontradas.data.sort((a, b) => {
       switch (ordenacao) {
         case 'data_desc':
@@ -107,7 +111,7 @@ export async function GET(request: NextRequest) {
       }
     });
 
-    // Dados já paginados pelo PostgreSQL
+    // Dados jÃ¡ paginados pelo PostgreSQL
     return NextResponse.json({
       success: true,
       data: questoesEncontradas.data,
@@ -120,7 +124,7 @@ export async function GET(request: NextRequest) {
     });
 
   } catch (error) {
-    console.error('Erro na API de questões:', error);
+    console.error('Erro na API de questÃµes:', error);
     return NextResponse.json(
       { success: false, error: 'Erro interno do servidor' },
       { status: 500 }
@@ -128,31 +132,31 @@ export async function GET(request: NextRequest) {
   }
 }
 
-// Função auxiliar para converter número de dificuldade em texto
-function getDificuldadeTexto(dificuldade: number): 'Fácil' | 'Média' | 'Difícil' {
-  if (dificuldade === 1) return 'Fácil';
-  if (dificuldade === 2) return 'Média';
-  return 'Difícil';
+// FunÃ§Ã£o auxiliar para converter nÃºmero de dificuldade em texto
+function getDificuldadeTexto(dificuldade: number): 'FÃ¡cil' | 'MÃ©dia' | 'DifÃ­cil' {
+  if (dificuldade === 1) return 'FÃ¡cil';
+  if (dificuldade === 2) return 'MÃ©dia';
+  return 'DifÃ­cil';
 }
 
-// Função auxiliar para converter dificuldade em número para ordenação
+// FunÃ§Ã£o auxiliar para converter dificuldade em nÃºmero para ordenaÃ§Ã£o
 function getDificuldadeNumero(dificuldade: string): number {
   switch (dificuldade?.toLowerCase()) {
-    case 'fácil':
+    case 'fÃ¡cil':
     case 'facil': 
       return 1;
-    case 'média':
+    case 'mÃ©dia':
     case 'media':
       return 2;
-    case 'difícil':
+    case 'difÃ­cil':
     case 'dificil':
       return 3;
     default:
-      return 2; // Padrão média
+      return 2; // PadrÃ£o mÃ©dia
   }
 }
 
-// Função principal de busca no PostgreSQL
+// FunÃ§Ã£o principal de busca no PostgreSQL
 async function buscarQuestoesPostgreSQL(
   filtros: FiltroQuestoes, 
   limit: number, 
@@ -160,17 +164,17 @@ async function buscarQuestoesPostgreSQL(
   page: number
 ): Promise<{ data: Questao[], total: number }> {
   try {
-    // Garantir conexão com PostgreSQL
+    // Garantir conexÃ£o com PostgreSQL
     const isConnected = await ensurePrismaConnection();
     if (!isConnected) {
-      console.error('PostgreSQL não disponível');
+      console.error('PostgreSQL nÃ£o disponÃ­vel');
       return { data: [], total: 0 };
     }
 
     // Construir filtros WHERE do Prisma
     const whereConditions: any = {};
 
-    // Filtros básicos de qualidade
+    // Filtros bÃ¡sicos de qualidade
     if (!filtros.incluirAnuladas) {
       whereConditions.anulada = false;
     }
@@ -179,7 +183,7 @@ async function buscarQuestoesPostgreSQL(
       whereConditions.desatualizada = false;
     }
 
-    // Filtros de conteúdo
+    // Filtros de conteÃºdo
     if (filtros.disciplinas?.length) {
       whereConditions.disciplinaReal = { in: filtros.disciplinas };
     }
@@ -192,7 +196,7 @@ async function buscarQuestoesPostgreSQL(
       whereConditions.bancasSigla = { in: filtros.bancas };
     }
 
-    // Filtro de anos (support tanto lista específica quanto range)
+    // Filtro de anos (support tanto lista especÃ­fica quanto range)
     if (filtros.anos?.length) {
       whereConditions.anos = { in: filtros.anos };
     } else if (filtros.anoInicio || filtros.anoFim) {
@@ -206,27 +210,27 @@ async function buscarQuestoesPostgreSQL(
     if (filtros.dificuldades?.length) {
       const dificuldadeNums = filtros.dificuldades.map(d => {
         switch (d) {
-          case 'Fácil': return 1;
-          case 'Média': return 2;
-          case 'Difícil': return 3;
+          case 'FÃ¡cil': return 1;
+          case 'MÃ©dia': return 2;
+          case 'DifÃ­cil': return 3;
           default: return 2;
         }
       });
       whereConditions.dificuldade = { in: dificuldadeNums };
     }
 
-    // Filtro por tipo de questão (baseado no número de alternativas)
+    // Filtro por tipo de questÃ£o (baseado no nÃºmero de alternativas)
     if (filtros.tipoQuestao && filtros.tipoQuestao !== 'todas') {
-      // Este filtro será aplicado após buscar os dados, pois depende do processamento dos itens
-      // Manteremos a lógica no pós-processamento
+      // Este filtro serÃ¡ aplicado apÃ³s buscar os dados, pois depende do processamento dos itens
+      // Manteremos a lÃ³gica no pÃ³s-processamento
     }
 
-    // Filtro por códigos personalizados
+    // Filtro por cÃ³digos personalizados
     if (filtros.codigosPersonalizados?.length) {
       whereConditions.codigoReal = { in: filtros.codigosPersonalizados };
     }
 
-    // Filtro por nível da prova
+    // Filtro por nÃ­vel da prova
     if (filtros.provasNivel?.length) {
       whereConditions.provasNivel = { in: filtros.provasNivel };
     }
@@ -240,7 +244,7 @@ async function buscarQuestoesPostgreSQL(
         if (caderno?.questionCodes?.length) {
           whereConditions.codigoReal = { in: caderno.questionCodes };
         } else {
-          // Se caderno não existe ou está vazio, retornar vazio
+          // Se caderno nÃ£o existe ou estÃ¡ vazio, retornar vazio
           return { data: [], total: 0 };
         }
       } catch (error) {
@@ -249,7 +253,7 @@ async function buscarQuestoesPostgreSQL(
       }
     }
 
-    // Filtro por questões respondidas
+    // Filtro por questÃµes respondidas
     if (filtros.naoRepetirRespondidas || filtros.statusResposta !== 'todas') {
       try {
         const respostas = await prisma.answer.findMany({
@@ -260,11 +264,11 @@ async function buscarQuestoesPostgreSQL(
         let codigosParaFiltrar: string[] = [];
         
         if (filtros.naoRepetirRespondidas) {
-          // Excluir questões já respondidas
+          // Excluir questÃµes jÃ¡ respondidas
           codigosParaFiltrar = respostas.map(r => r.questaoCodigoReal);
           whereConditions.codigoReal = { notIn: codigosParaFiltrar };
         } else if (filtros.statusResposta && filtros.statusResposta !== 'todas') {
-          // Incluir apenas questões com status específico
+          // Incluir apenas questÃµes com status especÃ­fico
           const acertou = filtros.statusResposta === 'acertadas';
           codigosParaFiltrar = respostas
             .filter(r => r.acertou === acertou)
@@ -272,14 +276,14 @@ async function buscarQuestoesPostgreSQL(
           whereConditions.codigoReal = { in: codigosParaFiltrar };
         }
       } catch (error) {
-        console.warn('Erro ao buscar respostas do usuário:', error);
+        console.warn('Erro ao buscar respostas do usuÃ¡rio:', error);
       }
     }
 
-    // Buscar total de questões (para paginação)
+    // Buscar total de questÃµes (para paginaÃ§Ã£o)
     const total = await prisma.question.count({ where: whereConditions });
 
-    // Buscar questões com paginação
+    // Buscar questÃµes com paginaÃ§Ã£o
     const questoesDB = await prisma.question.findMany({
       where: whereConditions,
       select: {
@@ -311,16 +315,16 @@ async function buscarQuestoesPostgreSQL(
     // Converter dados do PostgreSQL para o formato esperado
     const questoesFormatadas: Questao[] = questoesDB.map(q => {
       // Log detalhado para debug
-      console.log(`🔍 Processando questão ${q.codigoReal}:`);
+      console.log(`ðŸ” Processando questÃ£o ${q.codigoReal}:`);
       console.log('- Tipo de itens:', typeof q.itens);
-      console.log('- É array?', Array.isArray(q.itens));
+      console.log('- Ã‰ array?', Array.isArray(q.itens));
       
-      // Validar e processar itens das questões
+      // Validar e processar itens das questÃµes
       let itensProcessados: ItemQuestao[] = [];
       
       try {
         if (Array.isArray(q.itens)) {
-          console.log('✅ Itens é array, processando...');
+          console.log('âœ… Itens Ã© array, processando...');
           itensProcessados = q.itens.filter(item => 
             item && 
             typeof item === 'object' && 
@@ -330,11 +334,11 @@ async function buscarQuestoesPostgreSQL(
             
             // Log da estrutura do primeiro item para debug
             if (index === 0) {
-              console.log('📋 Estrutura do item:', Object.keys(itemObj));
-              console.log('📋 Conteúdo do item:', itemObj);
+              console.log('ðŸ“‹ Estrutura do item:', Object.keys(itemObj));
+              console.log('ðŸ“‹ ConteÃºdo do item:', itemObj);
             }
             
-            // Mapear diferentes estruturas possíveis dos chunks
+            // Mapear diferentes estruturas possÃ­veis dos chunks
             return {
               id_alternativa: itemObj.id || itemObj.id_alternativa || index + 1,
               letra: (itemObj.rotulo || itemObj.letra || String.fromCharCode(65 + index)).replace(/\s+/g, ''),
@@ -342,7 +346,7 @@ async function buscarQuestoesPostgreSQL(
             };
           });
         } else if (typeof q.itens === 'string') {
-          console.log('⚙️ Itens é string, fazendo parse...');
+          console.log('âš™ï¸ Itens Ã© string, fazendo parse...');
           const parsed = JSON.parse(q.itens);
           if (Array.isArray(parsed)) {
             itensProcessados = parsed.filter(item => 
@@ -356,7 +360,7 @@ async function buscarQuestoesPostgreSQL(
             }));
           }
         } else if (q.itens && typeof q.itens === 'object') {
-          console.log('🔧 Itens é objeto, tentando conversão...');
+          console.log('ðŸ”§ Itens Ã© objeto, tentando conversÃ£o...');
           // Pode ser um objeto Prisma/PostgreSQL
           const itensObj = q.itens as any;
           if (itensObj.alternativas || itensObj.opcoes || itensObj.items) {
@@ -371,13 +375,13 @@ async function buscarQuestoesPostgreSQL(
           }
         }
       } catch (error) {
-        console.warn(`❌ Erro ao processar itens da questão ${q.codigoReal}:`, error);
+        console.warn(`âŒ Erro ao processar itens da questÃ£o ${q.codigoReal}:`, error);
         itensProcessados = [];
       }
 
-      console.log(`📊 Questão ${q.codigoReal}: ${itensProcessados.length} alternativas processadas`);
+      console.log(`ðŸ“Š QuestÃ£o ${q.codigoReal}: ${itensProcessados.length} alternativas processadas`);
       if (itensProcessados.length > 0) {
-        console.log('✅ Primeira alternativa:', itensProcessados[0]);
+        console.log('âœ… Primeira alternativa:', itensProcessados[0]);
       }
 
       return {
@@ -400,7 +404,7 @@ async function buscarQuestoesPostgreSQL(
       };
     });
 
-    // Aplicar filtro por tipo de questão (pós-processamento)
+    // Aplicar filtro por tipo de questÃ£o (pÃ³s-processamento)
     let questoesFiltradas = questoesFormatadas;
     if (filtros.tipoQuestao && filtros.tipoQuestao !== 'todas') {
       questoesFiltradas = questoesFormatadas.filter(questao => {
@@ -408,13 +412,13 @@ async function buscarQuestoesPostgreSQL(
         if (filtros.tipoQuestao === 'certo_errado') {
           return numAlternativas <= 2; // Certo/Errado geralmente tem 2 alternativas (C/E)
         } else if (filtros.tipoQuestao === 'multipla_escolha') {
-          return numAlternativas > 2; // Múltipla escolha tem 3+ alternativas (A, B, C, D, E)
+          return numAlternativas > 2; // MÃºltipla escolha tem 3+ alternativas (A, B, C, D, E)
         }
         return true;
       });
     }
 
-    // Recalcular o total após filtro de tipo de questão
+    // Recalcular o total apÃ³s filtro de tipo de questÃ£o
     const totalFiltrado = questoesFiltradas.length;
 
     return {
@@ -428,7 +432,7 @@ async function buscarQuestoesPostgreSQL(
   }
 }
 
-// Função especializada para busca com ordenação inteligente
+// FunÃ§Ã£o especializada para busca com ordenaÃ§Ã£o inteligente
 async function buscarQuestoesEstudoInteligente(
   filtros: FiltroQuestoes, 
   limit: number, 
@@ -441,27 +445,27 @@ async function buscarQuestoesEstudoInteligente(
   proximoAssunto?: string 
 }> {
   try {
-    console.log('🧠 Iniciando busca de estudo inteligente...');
+    console.log('ðŸ§  Iniciando busca de estudo inteligente...');
 
-    // CORREÇÃO: Buscar TODAS as questões que atendem aos filtros do usuário primeiro
-    // Não aplicar filtros adicionais, apenas os que o usuário escolheu
-    const questoesBase = await buscarQuestoesPostgreSQL(filtros, limit * 5, userId, 1); // Buscar mais questões para ter variedade
+    // CORREÃ‡ÃƒO: Buscar TODAS as questÃµes que atendem aos filtros do usuÃ¡rio primeiro
+    // NÃ£o aplicar filtros adicionais, apenas os que o usuÃ¡rio escolheu
+    const questoesBase = await buscarQuestoesPostgreSQL(filtros, limit * 5, userId, 1); // Buscar mais questÃµes para ter variedade
     
     if (questoesBase.data.length === 0) {
-      console.log('⚠️ Nenhuma questão encontrada para os filtros aplicados');
+      console.log('âš ï¸ Nenhuma questÃ£o encontrada para os filtros aplicados');
       return {
         data: [],
         total: 0,
-        explicacao: 'Nenhuma questão encontrada com os filtros selecionados.'
+        explicacao: 'Nenhuma questÃ£o encontrada com os filtros selecionados.'
       };
     }
 
-    console.log(`📚 Encontradas ${questoesBase.data.length} questões base para análise inteligente`);
+    console.log(`ðŸ“š Encontradas ${questoesBase.data.length} questÃµes base para anÃ¡lise inteligente`);
 
-    // 1. Analisar progresso do usuário por assunto (das questões encontradas)
+    // 1. Analisar progresso do usuÃ¡rio por assunto (das questÃµes encontradas)
     const assuntosMap = new Map<string, Questao[]>();
     
-    // Agrupar questões por assunto
+    // Agrupar questÃµes por assunto
     for (const questao of questoesBase.data) {
       const assunto = questao.assunto_real;
       if (!assuntosMap.has(assunto)) {
@@ -470,9 +474,9 @@ async function buscarQuestoesEstudoInteligente(
       assuntosMap.get(assunto)!.push(questao);
     }
 
-    // 2. Calcular prioridade de cada assunto (simulado - baseado na quantidade de questões)
+    // 2. Calcular prioridade de cada assunto (simulado - baseado na quantidade de questÃµes)
     const assuntosComPrioridade = Array.from(assuntosMap.entries()).map(([assunto, questoes]) => {
-      // Simular progresso: assuntos com menos questões têm maior prioridade
+      // Simular progresso: assuntos com menos questÃµes tÃªm maior prioridade
       const hash = assunto.length;
       const percentualConcluido = Math.min(95, (hash % 100));
       const prioridade = 100 - percentualConcluido;
@@ -489,38 +493,38 @@ async function buscarQuestoesEstudoInteligente(
     // 3. Ordenar assuntos por prioridade (menos estudados primeiro)
     const assuntosOrdenados = assuntosComPrioridade.sort((a, b) => b.prioridade - a.prioridade);
     
-    // 4. Criar lista de questões priorizadas
+    // 4. Criar lista de questÃµes priorizadas
     const questoesPriorizadas: Questao[] = [];
     
-    // Distribuir questões de forma inteligente: 
+    // Distribuir questÃµes de forma inteligente: 
     // - Priorizar assuntos menos estudados
-    // - Dentro de cada assunto, ordenar por dificuldade (difícil → fácil)
+    // - Dentro de cada assunto, ordenar por dificuldade (difÃ­cil â†’ fÃ¡cil)
     for (const assuntoInfo of assuntosOrdenados) {
-      // Ordenar questões do assunto por dificuldade (mais difícil primeiro)
+      // Ordenar questÃµes do assunto por dificuldade (mais difÃ­cil primeiro)
       const questoesOrdenadas = assuntoInfo.questoes.sort((a, b) => {
         const dificuldadeA = getDificuldadeNumero(a.dificuldade);
         const dificuldadeB = getDificuldadeNumero(b.dificuldade);
-        return dificuldadeB - dificuldadeA; // Desc: mais difícil primeiro
+        return dificuldadeB - dificuldadeA; // Desc: mais difÃ­cil primeiro
       });
       
       questoesPriorizadas.push(...questoesOrdenadas);
     }
 
-    // 5. Aplicar paginação nas questões priorizadas
+    // 5. Aplicar paginaÃ§Ã£o nas questÃµes priorizadas
     const startIndex = (page - 1) * limit;
     const questoesPaginadas = questoesPriorizadas.slice(startIndex, startIndex + limit);
 
     const assuntoMenosEstudado = assuntosOrdenados[0]?.assunto || 'N/A';
     const explicacao = questoesPaginadas.length > 0 
-      ? `Modo Estudo Inteligente: Priorizando assuntos menos estudados. Assunto com maior prioridade: "${assuntoMenosEstudado}". Questões ordenadas por dificuldade.`
-      : 'Nenhuma questão disponível para estudo inteligente.';
+      ? `Modo Estudo Inteligente: Priorizando assuntos menos estudados. Assunto com maior prioridade: "${assuntoMenosEstudado}". QuestÃµes ordenadas por dificuldade.`
+      : 'Nenhuma questÃ£o disponÃ­vel para estudo inteligente.';
 
-    console.log(`✅ Retornando ${questoesPaginadas.length} questões de ${assuntosOrdenados.length} assuntos para estudo inteligente`);
-    console.log(`🎯 Assunto prioritário: ${assuntoMenosEstudado}`);
+    console.log(`âœ… Retornando ${questoesPaginadas.length} questÃµes de ${assuntosOrdenados.length} assuntos para estudo inteligente`);
+    console.log(`ðŸŽ¯ Assunto prioritÃ¡rio: ${assuntoMenosEstudado}`);
 
     return {
       data: questoesPaginadas,
-      total: questoesPriorizadas.length, // Total baseado em todas as questões priorizadas
+      total: questoesPriorizadas.length, // Total baseado em todas as questÃµes priorizadas
       explicacao,
       proximoAssunto: assuntoMenosEstudado
     };
@@ -535,13 +539,13 @@ async function buscarQuestoesEstudoInteligente(
   }
 }
 
-// Função para analisar progresso de assuntos
+// FunÃ§Ã£o para analisar progresso de assuntos
 async function analisarProgressoAssuntos(
   filtros: FiltroQuestoes, 
   userId: string
 ): Promise<Array<{ assunto: string, disciplina: string, percentualConcluido: number, prioridade: number }>> {
   try {
-    // Buscar questões nos chunks para análise rápida
+    // Buscar questÃµes nos chunks para anÃ¡lise rÃ¡pida
     const questoesSample = await carregarQuestoesDosChunks();
     
     // Filtrar por disciplinas/assuntos selecionados
@@ -595,7 +599,7 @@ async function analisarProgressoAssuntos(
   }
 }
 
-// Função auxiliar para carregar amostra das questões dos chunks
+// FunÃ§Ã£o auxiliar para carregar amostra das questÃµes dos chunks
 async function carregarQuestoesDosChunks(): Promise<Array<{
   codigo_real: string,
   disciplina_real: string,
@@ -605,7 +609,7 @@ async function carregarQuestoesDosChunks(): Promise<Array<{
   const questoes: any[] = [];
   
   try {
-    // Carregar apenas alguns chunks para análise rápida
+    // Carregar apenas alguns chunks para anÃ¡lise rÃ¡pida
     const chunksPrincipais = [1, 10, 20, 30, 40]; // Amostra representativa
     
     for (const chunkNum of chunksPrincipais) {
@@ -621,7 +625,7 @@ async function carregarQuestoesDosChunks(): Promise<Array<{
                 codigo_real: questao.codigo_real,
                 disciplina_real: questao.disciplina_real,
                 assunto_real: questao.assunto_real,
-                dificuldade: questao.dificuldade || 'Média'
+                dificuldade: questao.dificuldade || 'MÃ©dia'
               });
             }
           }
@@ -636,3 +640,4 @@ async function carregarQuestoesDosChunks(): Promise<Array<{
 
   return questoes;
 }
+

@@ -1,22 +1,26 @@
-import { NextRequest, NextResponse } from 'next/server';
+﻿import { NextRequest, NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth/next';
 import { authOptions } from '@/lib/auth';
 import { prisma, ensurePrismaConnection } from '@/lib/prisma';
 import type { FiltroQuestoes } from '@/types';
+
+// ConfiguraÃ§Ãµes para static export
+export const dynamic = 'force-static';
+export const revalidate = false;
 
 export async function GET(request: NextRequest) {
   try {
     const session = await getServerSession(authOptions);
     if (!session?.user?.id) {
       return NextResponse.json(
-        { success: false, error: 'Não autorizado' },
+        { success: false, error: 'NÃ£o autorizado' },
         { status: 401 }
       );
     }
 
     const { searchParams } = new URL(request.url);
     
-    // Parâmetros de filtro - mesma lógica da API principal
+    // ParÃ¢metros de filtro - mesma lÃ³gica da API principal
     const filtros: FiltroQuestoes = {
       disciplinas: searchParams.get('disciplinas')?.split(',').filter(Boolean),
       assuntos: searchParams.get('assuntos')?.split(',').filter(Boolean),
@@ -32,7 +36,7 @@ export async function GET(request: NextRequest) {
       statusResposta: searchParams.get('statusResposta') as any,
       codigosPersonalizados: searchParams.get('codigosPersonalizados')?.split(',')
         .filter(Boolean)
-        .map(codigo => codigo.trim().replace(/^["']|["']$/g, '')), // Remove aspas do início e fim
+        .map(codigo => codigo.trim().replace(/^["']|["']$/g, '')), // Remove aspas do inÃ­cio e fim
       provasNivel: searchParams.get('provasNivel')?.split(',').filter(Boolean),
       cadernoId: searchParams.get('cadernoId') || undefined,
     };
@@ -60,7 +64,7 @@ async function contarQuestoesComFiltros(filtros: FiltroQuestoes, userId: string)
       return 0;
     }
 
-    // Construir filtros WHERE - mesma lógica da API principal
+    // Construir filtros WHERE - mesma lÃ³gica da API principal
     const whereConditions: any = {};
 
     if (!filtros.incluirAnuladas) {
@@ -95,9 +99,9 @@ async function contarQuestoesComFiltros(filtros: FiltroQuestoes, userId: string)
     if (filtros.dificuldades?.length) {
       const dificuldadeNums = filtros.dificuldades.map(d => {
         switch (d) {
-          case 'Fácil': return 1;
-          case 'Média': return 2;
-          case 'Difícil': return 3;
+          case 'FÃ¡cil': return 1;
+          case 'MÃ©dia': return 2;
+          case 'DifÃ­cil': return 3;
           default: return 2;
         }
       });
@@ -143,11 +147,11 @@ async function contarQuestoesComFiltros(filtros: FiltroQuestoes, userId: string)
           whereConditions.codigoReal = { in: codigosParaFiltrar };
         }
       } catch (error) {
-        console.warn('Erro ao buscar respostas do usuário:', error);
+        console.warn('Erro ao buscar respostas do usuÃ¡rio:', error);
       }
     }
 
-    // Para tipo de questão, precisamos buscar as questões e analisar os itens
+    // Para tipo de questÃ£o, precisamos buscar as questÃµes e analisar os itens
     if (filtros.tipoQuestao && filtros.tipoQuestao !== 'todas') {
       const questoesComItens = await prisma.question.findMany({
         where: whereConditions,
@@ -181,7 +185,7 @@ async function contarQuestoesComFiltros(filtros: FiltroQuestoes, userId: string)
       return questoesFiltradas.length;
     }
 
-    // Se não há filtro de tipo de questão, usar count simples
+    // Se nÃ£o hÃ¡ filtro de tipo de questÃ£o, usar count simples
     return await prisma.question.count({ where: whereConditions });
 
   } catch (error) {
@@ -189,3 +193,4 @@ async function contarQuestoesComFiltros(filtros: FiltroQuestoes, userId: string)
     return 0;
   }
 }
+

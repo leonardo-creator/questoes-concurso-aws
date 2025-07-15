@@ -1,7 +1,11 @@
-import { NextRequest, NextResponse } from 'next/server';
+﻿import { NextRequest, NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth';
 import { authOptions } from '@/lib/auth';
 import { prisma } from '@/lib/prisma';
+
+// ConfiguraÃ§Ãµes para static export
+export const dynamic = 'force-static';
+export const revalidate = false;
 
 export async function GET(request: NextRequest) {
   try {
@@ -9,7 +13,7 @@ export async function GET(request: NextRequest) {
     
     if (!session?.user?.id) {
       return NextResponse.json(
-        { success: false, error: 'Não autorizado' },
+        { success: false, error: 'NÃ£o autorizado' },
         { status: 401 }
       );
     }
@@ -17,7 +21,7 @@ export async function GET(request: NextRequest) {
     const { searchParams } = new URL(request.url);
     const periodo = searchParams.get('periodo') || '30d';
 
-    // Calcular data de início baseada no período
+    // Calcular data de inÃ­cio baseada no perÃ­odo
     const agora = new Date();
     let dataInicio: Date;
     
@@ -32,10 +36,10 @@ export async function GET(request: NextRequest) {
         dataInicio = new Date(agora.getTime() - 90 * 24 * 60 * 60 * 1000);
         break;
       default:
-        dataInicio = new Date('2020-01-01'); // Todo período desde o início
+        dataInicio = new Date('2020-01-01'); // Todo perÃ­odo desde o inÃ­cio
     }
 
-    // Buscar todas as respostas do usuário no período
+    // Buscar todas as respostas do usuÃ¡rio no perÃ­odo
     const respostas = await prisma.answer.findMany({
       where: {
         userId: session.user.id,
@@ -51,7 +55,7 @@ export async function GET(request: NextRequest) {
       }
     });
 
-    // Buscar dados das questões para obter informações sobre matérias
+    // Buscar dados das questÃµes para obter informaÃ§Ãµes sobre matÃ©rias
     const codigosQuestoes = respostas.map(r => r.questaoCodigoReal);
     const questoes = await prisma.question.findMany({
       where: {
@@ -66,15 +70,15 @@ export async function GET(request: NextRequest) {
       }
     });
 
-    // Calcular estatísticas gerais
+    // Calcular estatÃ­sticas gerais
     const totalRespondidas = respostas.length;
     const totalCorretas = respostas.filter((r: any) => r.acertou).length;
     const percentualGeralAcerto = totalRespondidas > 0 ? (totalCorretas / totalRespondidas) * 100 : 0;
 
-    // Calcular tempo total de estudo (estimativa: 2 minutos por questão)
+    // Calcular tempo total de estudo (estimativa: 2 minutos por questÃ£o)
     const tempoTotalEstudo = totalRespondidas * 120; // em segundos
 
-    // Calcular sequências
+    // Calcular sequÃªncias
     let sequenciaAtual = 0;
     let melhorSequencia = 0;
     let sequenciaTemp = 0;
@@ -90,10 +94,10 @@ export async function GET(request: NextRequest) {
       }
     }
 
-    // A sequência atual é a do final
+    // A sequÃªncia atual Ã© a do final
     sequenciaAtual = sequenciaTemp;
 
-    // Agrupar por matéria para identificar pontos fracos e fortes
+    // Agrupar por matÃ©ria para identificar pontos fracos e fortes
     const estatisticasPorMateria = new Map<string, {
       total: number;
       corretas: number;
@@ -103,7 +107,7 @@ export async function GET(request: NextRequest) {
 
     respostas.forEach((resposta: any) => {
       const questao = questoes.find(q => q.codigoReal === resposta.questaoCodigoReal);
-      const materia = questao?.disciplinaReal || 'Sem matéria';
+      const materia = questao?.disciplinaReal || 'Sem matÃ©ria';
       const stats = estatisticasPorMateria.get(materia) || {
         total: 0,
         corretas: 0,
@@ -126,12 +130,12 @@ export async function GET(request: NextRequest) {
         total: stats.total,
         corretas: stats.corretas,
         incorretas: stats.total - stats.corretas,
-        naoRespondidas: 0, // Por enquanto não temos essa informação
+        naoRespondidas: 0, // Por enquanto nÃ£o temos essa informaÃ§Ã£o
         percentualAcerto: stats.total > 0 ? (stats.corretas / stats.total) * 100 : 0,
         tempoMedio: stats.total > 0 ? stats.tempoTotal / stats.total : 0,
         ultimaResposta: stats.ultimaResposta.toISOString()
       }))
-      .filter(m => m.total >= 3); // Só considerar matérias com pelo menos 3 questões
+      .filter(m => m.total >= 3); // SÃ³ considerar matÃ©rias com pelo menos 3 questÃµes
 
     // Separar pontos fracos (< 70%) e fortes (>= 80%)
     const materiasFracas = materiasComEstatisticas
@@ -144,7 +148,7 @@ export async function GET(request: NextRequest) {
       .sort((a, b) => b.percentualAcerto - a.percentualAcerto)
       .slice(0, 10);
 
-    // Calcular progresso diário dos últimos 14 dias
+    // Calcular progresso diÃ¡rio dos Ãºltimos 14 dias
     const progressoDiario = [];
     for (let i = 13; i >= 0; i--) {
       const data = new Date(agora.getTime() - i * 24 * 60 * 60 * 1000);
@@ -166,7 +170,7 @@ export async function GET(request: NextRequest) {
       });
     }
 
-    // Buscar total de questões disponíveis (para contexto)
+    // Buscar total de questÃµes disponÃ­veis (para contexto)
     const totalQuestoes = await prisma.question.count();
 
     const estatisticas = {
@@ -188,10 +192,11 @@ export async function GET(request: NextRequest) {
     });
 
   } catch (error) {
-    console.error('Erro na API de estatísticas:', error);
+    console.error('Erro na API de estatÃ­sticas:', error);
     return NextResponse.json(
       { success: false, error: 'Erro interno do servidor' },
       { status: 500 }
     );
   }
 }
+

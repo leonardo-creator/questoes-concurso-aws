@@ -1,15 +1,19 @@
-import { NextRequest, NextResponse } from 'next/server';
+﻿import { NextRequest, NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth/next';
 import { authOptions } from '@/lib/auth';
 import { prisma } from '@/lib/prisma';
 import type { FiltroQuestoes } from '@/types';
+
+// ConfiguraÃ§Ãµes para static export
+export const dynamic = 'force-static';
+export const revalidate = false;
 
 export async function POST(request: NextRequest) {
   try {
     const session = await getServerSession(authOptions);
     if (!session?.user?.id) {
       return NextResponse.json(
-        { success: false, error: 'Não autorizado' },
+        { success: false, error: 'NÃ£o autorizado' },
         { status: 401 }
       );
     }
@@ -17,7 +21,7 @@ export async function POST(request: NextRequest) {
     const body = await request.json();
     const { filtros, limite = 500 } = body as { filtros: FiltroQuestoes, limite?: number };
 
-    // Construir condições de busca baseadas nos filtros
+    // Construir condiÃ§Ãµes de busca baseadas nos filtros
     const whereConditions: any = {};
 
     // Aplicar filtros de disciplinas
@@ -53,23 +57,23 @@ export async function POST(request: NextRequest) {
     if (filtros.dificuldades?.length) {
       const dificuldadeNums = filtros.dificuldades.map(d => {
         switch (d) {
-          case 'Fácil': return 1;
-          case 'Média': return 2;
-          case 'Difícil': return 3;
+          case 'FÃ¡cil': return 1;
+          case 'MÃ©dia': return 2;
+          case 'DifÃ­cil': return 3;
           default: return 2;
         }
       });
       whereConditions.dificuldade = { in: dificuldadeNums };
     }
 
-    // Buscar questões do PostgreSQL
+    // Buscar questÃµes do PostgreSQL
     const questoes = await prisma.question.findMany({
       where: whereConditions,
-      take: Math.min(limite, 1000), // Limitar a 1000 questões máximo
+      take: Math.min(limite, 1000), // Limitar a 1000 questÃµes mÃ¡ximo
       orderBy: { id: 'asc' }
     });
 
-    // Processar questões para formato offline
+    // Processar questÃµes para formato offline
     const questoesOffline = questoes.map(q => ({
       codigo_real: q.codigoReal,
       enunciado: q.enunciado,
@@ -98,7 +102,7 @@ export async function POST(request: NextRequest) {
           downloadedAt: new Date().toISOString()
         },
         timestamp: BigInt(Date.now()),
-        sincronizado: true // Já está sincronizado pois é servidor
+        sincronizado: true // JÃ¡ estÃ¡ sincronizado pois Ã© servidor
       }
     });
 
@@ -123,8 +127,9 @@ export async function POST(request: NextRequest) {
 
 function getDificuldadeTexto(dificuldade: number): string {
   switch (dificuldade) {
-    case 1: return 'Fácil';
-    case 3: return 'Difícil';
-    default: return 'Média';
+    case 1: return 'FÃ¡cil';
+    case 3: return 'DifÃ­cil';
+    default: return 'MÃ©dia';
   }
 }
+

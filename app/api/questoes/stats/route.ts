@@ -1,27 +1,31 @@
-import { NextRequest, NextResponse } from 'next/server';
+﻿import { NextRequest, NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth';
 import { authOptions } from '@/lib/auth';
 import { PrismaClient } from '@prisma/client';
+
+// ConfiguraÃ§Ãµes para static export
+export const dynamic = 'force-static';
+export const revalidate = false;
 
 const prisma = new PrismaClient();
 
 export async function GET(request: NextRequest) {
   try {
-    // Verificar autenticação
+    // Verificar autenticaÃ§Ã£o
     const session = await getServerSession(authOptions);
     if (!session) {
       return NextResponse.json(
-        { error: 'Acesso não autorizado' },
+        { error: 'Acesso nÃ£o autorizado' },
         { status: 401 }
       );
     }
 
-    // Buscar estatísticas do cache primeiro
+    // Buscar estatÃ­sticas do cache primeiro
     const cachedStats = await prisma.questionStats.findUnique({
       where: { id: 'main' }
     });
 
-    // Se o cache existe e é recente (menos de 1 hora), retornar
+    // Se o cache existe e Ã© recente (menos de 1 hora), retornar
     const oneHourAgo = new Date(Date.now() - 60 * 60 * 1000);
     if (cachedStats && cachedStats.atualizadoEm > oneHourAgo) {
       return NextResponse.json({
@@ -31,7 +35,7 @@ export async function GET(request: NextRequest) {
       });
     }
 
-    // Calcular estatísticas em paralelo
+    // Calcular estatÃ­sticas em paralelo
     const [
       totalQuestoes,
       totalAnuladas,
@@ -158,7 +162,7 @@ export async function GET(request: NextRequest) {
     });
 
   } catch (error) {
-    console.error('Erro ao buscar estatísticas:', error);
+    console.error('Erro ao buscar estatÃ­sticas:', error);
     return NextResponse.json(
       { error: 'Erro interno do servidor' },
       { status: 500 }
@@ -167,3 +171,4 @@ export async function GET(request: NextRequest) {
     await prisma.$disconnect();
   }
 }
+

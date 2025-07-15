@@ -47,6 +47,26 @@ export default function EstatisticasPage() {
   const carregarEstatisticas = async () => {
     try {
       setLoading(true);
+      
+      // Verificar se estamos no ambiente de build
+      if (typeof window === 'undefined') {
+        // Durante o build, definir dados mock
+        setEstatisticas({
+          totalQuestoes: 0,
+          totalRespondidas: 0,
+          totalCorretas: 0,
+          percentualGeralAcerto: 0,
+          tempoTotalEstudo: 0,
+          sequenciaAtual: 0,
+          melhorSequencia: 0,
+          materiasFracas: [],
+          materiasFortes: [],
+          progressoDiario: []
+        });
+        setLoading(false);
+        return;
+      }
+      
       const response = await fetch(`/api/estatisticas?periodo=${filtroTempo}`);
       const data = await response.json();
       

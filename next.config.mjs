@@ -1,10 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  trailingSlash: true,
-  images: {
-    unoptimized: true,
-  },
   typescript: {
     ignoreBuildErrors: true
   },
@@ -12,15 +7,9 @@ const nextConfig = {
     ignoreDuringBuilds: true
   },
   experimental: {
-    optimizePackageImports: ['lucide-react'],
-    forceSwcTransforms: true
+    optimizePackageImports: ['lucide-react']
   },
-  serverExternalPackages: ['prisma', '@prisma/client'],
-  poweredByHeader: false,
-  compress: true,
-  generateBuildId: async () => {
-    return 'build-' + Date.now()
-  },
+  serverExternalPackages: ['prisma', '@prisma/client']
 }
 
 export default nextConfig

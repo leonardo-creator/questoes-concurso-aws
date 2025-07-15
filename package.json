@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:vercel": "next build",
     "build:local": "node scripts/build-simple.mjs",
     "build:full": "node scripts/build-deploy.mjs",
     "build:optimized": "node --max-old-space-size=512 scripts/build-optimized.mjs && next build",

@@ -1,8 +1,8 @@
+'use client';
+
 // Força rendering dinâmico para evitar problemas de build
 export const dynamic = 'force-dynamic';
 export const runtime = 'nodejs';
-
-'use client';
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';

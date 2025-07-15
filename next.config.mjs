@@ -26,11 +26,6 @@ const nextConfig = {
   },
   
   // Configurar para evitar problemas de prerendering em páginas específicas
-  async generateStaticParams() {
-    return []
-  },
-  
-  // Ignorar erros de prerendering para páginas problemáticas
   onDemandEntries: {
     maxInactiveAge: 25 * 1000,
     pagesBufferLength: 2,

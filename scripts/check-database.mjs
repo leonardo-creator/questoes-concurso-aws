@@ -28,15 +28,15 @@ async function checkDatabase() {
       
       // Mostrar algumas estatísticas
       const disciplinas = await prisma.question.groupBy({
-        by: ['disciplina'],
-        _count: { disciplina: true },
-        orderBy: { _count: { disciplina: 'desc' } },
+        by: ['disciplinaReal'],
+        _count: { disciplinaReal: true },
+        orderBy: { _count: { disciplinaReal: 'desc' } },
         take: 5
       });
       
       console.log('\n📊 Top 5 disciplinas:');
       disciplinas.forEach(d => {
-        console.log(`   • ${d.disciplina}: ${d._count.disciplina.toLocaleString()} questões`);
+        console.log(`   • ${d.disciplinaReal}: ${d._count.disciplinaReal.toLocaleString()} questões`);
       });
       
       return true;

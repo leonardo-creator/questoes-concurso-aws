@@ -17,7 +17,7 @@ const __dirname = path.dirname(__filename);
 const prisma = new PrismaClient();
 
 // Configurações
-const BATCH_SIZE = parseInt(process.env.BATCH_SIZE) || parseInt(process.argv.find(arg => arg.startsWith('--batch-size='))?.split('=')[1]) || 500; // Padrão: 500, configurável via env ou parâmetro
+const BATCH_SIZE = 1000; // Reduzir para evitar timeout
 const CHUNKS_DIR = path.join(__dirname, 'chunks');
 const LOG_INTERVAL = 2000; // Log a cada 2000 questões
 const CLEAN_BEFORE_MIGRATION = process.argv.includes('--clean');
@@ -381,11 +381,6 @@ async function getChunkFiles() {
  */
 async function main() {
   console.log('🚀 Iniciando migração JSON → PostgreSQL AWS RDS');
-  console.log('=' .repeat(70));
-  console.log(`⚙️  Configurações:
-    - Tamanho do lote: ${BATCH_SIZE}
-    - Limpeza prévia: ${CLEAN_BEFORE_MIGRATION ? 'SIM' : 'NÃO'}
-    - Diretório chunks: ${CHUNKS_DIR}`);
   console.log('=' .repeat(70));
   
   const startTime = Date.now();

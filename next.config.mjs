@@ -1,11 +1,18 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // Configurações de build
   typescript: {
     ignoreBuildErrors: true
   },
   eslint: {
     ignoreDuringBuilds: true
   },
+  
+  // Configuração para Vercel deployment com APIs
+  output: 'standalone',
+  trailingSlash: true,
+  skipTrailingSlashRedirect: true,
+  
   // Configure for Vercel deployment
   poweredByHeader: false,
   compress: true,
@@ -14,6 +21,8 @@ const nextConfig = {
   experimental: {
     serverComponentsExternalPackages: ['@prisma/client', 'prisma'],
     missingSuspenseWithCSRBailout: false,
+    // Desabilita otimizações que causam problemas com Context
+    esmExternals: 'loose',
   },
   
   // Configurar para evitar problemas com APIs durante build
@@ -25,10 +34,6 @@ const nextConfig = {
   env: {
     NEXT_TELEMETRY_DISABLED: '1'
   },
-  
-  // Configuração de trailing slash para evitar redirecionamentos desnecessários
-  trailingSlash: false,
-  skipTrailingSlashRedirect: false,
   
   // Configurar para evitar problemas de prerendering em páginas específicas
   onDemandEntries: {

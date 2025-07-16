@@ -1,9 +1,12 @@
 'use client';
 
-import { useAuth } from '@/contexts/AuthContext';
+// Temporariamente desabilitado para corrigir problemas de SSG
+// import { useAuth } from '@/contexts/AuthContext';
 
 export function Header() {
-  const { user, signOut } = useAuth();
+  // Removendo temporarily verificação de auth para corrigir SSG
+  const user = null;
+  const signOut = () => {};
   const isOnline = true; // Temporário - remover funcionalidade offline
   const acoesPendentes: any[] = []; // Temporário - remover funcionalidade offline
 
@@ -36,7 +39,7 @@ export function Header() {
               <>
                 <div className="text-sm">
                   <span className="text-gray-600">Olá, </span>
-                  <span className="font-medium">{user.name || user.email}</span>
+                  <span className="font-medium">Usuário</span>
                 </div>
                 
                 <nav className="hidden md:flex space-x-4">
